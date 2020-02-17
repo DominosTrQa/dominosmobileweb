@@ -1,0 +1,24 @@
+[
+  {
+    "key": "Url",
+    "androidValue": "com.koton.app:id/iv_profile",
+    "androidType": "id",
+    "iosValue": "URL",
+    "iosType": "id"
+  },
+  {
+    "key": "Url2",
+    "androidValue": "com.koton.app:id/iv_profile",
+    "androidType": "id",
+    "iosValue": "URL",
+    "iosType": "id"
+  }
+
+
+]
+
+
+
+
+
+
