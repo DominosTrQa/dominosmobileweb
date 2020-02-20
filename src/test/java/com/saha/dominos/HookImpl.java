@@ -41,15 +41,15 @@ public class HookImpl {
                 DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
                 desiredCapabilities
                        .setCapability(MobileCapabilityType.PLATFORM, MobilePlatform.ANDROID);
-                desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Galaxy S6 edge");
-                desiredCapabilities.setCapability(MobileCapabilityType.UDID, "05157df53167bb14");
+                desiredCapabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "android");
+                desiredCapabilities.setCapability(MobileCapabilityType.UDID, "R58M40CLP8A");
 
                 desiredCapabilities
                         .setCapability(AndroidMobileCapabilityType.APP_PACKAGE,
-                                "com.app");
+                                "com.android.chrome");
                 desiredCapabilities
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
-                                "com.inomera.koton.ui.SplashActivity");
+                                "org.chromium.chrome.browser.ChromeTabbedActivity");
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 desiredCapabilities
                         .setCapability(MobileCapabilityType.NO_RESET, true);
@@ -66,11 +66,11 @@ public class HookImpl {
                         .setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.IOS);
                 desiredCapabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
                 desiredCapabilities
-                        .setCapability(MobileCapabilityType.UDID, "7513a1c1a9f5a4ab95773bdc26cd62120daf89c7");
+                        .setCapability(MobileCapabilityType.UDID, "f4fb7209f0f4c3b314a99fc2f6e2ab2690b46fbd");
                 desiredCapabilities
                         .setCapability(IOSMobileCapabilityType.BUNDLE_ID, "com.apple.mobilesafari");
                 desiredCapabilities
-                        .setCapability(MobileCapabilityType.DEVICE_NAME, "testinium's iPhone");
+                        .setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone");
 
                 desiredCapabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "12.1.4");
                 desiredCapabilities.setCapability(MobileCapabilityType.NO_RESET, true);
@@ -96,10 +96,10 @@ public class HookImpl {
                 capabilities.setCapability("key", System.getenv("key"));
                 capabilities
                         .setCapability(AndroidMobileCapabilityType.APP_PACKAGE,
-                                "com.koton.app");
+                                "com.android.chrome");
                 capabilities
                         .setCapability(AndroidMobileCapabilityType.APP_ACTIVITY,
-                                "com.inomera.koton.ui.SplashActivity");
+                                "org.chromium.chrome.browser.ChromeTabbedActivity");
                  capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME,"uiautomator2");
                 capabilities.setCapability(MobileCapabilityType.NO_RESET, true);
                 capabilities.setCapability(MobileCapabilityType.FULL_RESET, false);
@@ -108,12 +108,12 @@ public class HookImpl {
                 appiumDriver = new AndroidDriver(new URL(hubURL), capabilities);
                 localAndroid = true;
             } else {
-               // capabilities.setCapability(CapabilityType.PLATFORM, Platform.MAC);
+                // capabilities.setCapability(CapabilityType.PLATFORM, Platform.MAC);
                 capabilities.setCapability("usePrebuiltWDA", true);
                 //capabilities.setCapability("appium:maxTypeFrequency", 5);
                 capabilities.setCapability("key", System.getenv("key"));
                 capabilities.setCapability("waitForAppScript", "$.delay(1000);");
-                capabilities.setCapability("bundleId", "com.koton");
+                capabilities.setCapability("bundleId", "com.apple.mobilesafari");
                 capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT,60000);
 
                 capabilities.setCapability("usePrebuiltWDA",true); //TimeOut
