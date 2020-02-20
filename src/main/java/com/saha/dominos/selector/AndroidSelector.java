@@ -3,6 +3,7 @@ package com.saha.dominos.selector;
 
 
 import com.saha.dominos.model.ElementInfo;
+import io.appium.java_client.MobileBy;
 import org.openqa.selenium.By;
 
 public class AndroidSelector implements Selector {
@@ -21,6 +22,9 @@ public class AndroidSelector implements Selector {
     }
     else if (elementInfo.getAndroidType().equals("text")){
       by = By.linkText(elementInfo.getAndroidValue());
+    }
+       else if (elementInfo.getAndroidType().equals("accId")) {
+      by = new MobileBy.ByAccessibilityId(elementInfo.getAndroidValue());
     }
     return by;
   }

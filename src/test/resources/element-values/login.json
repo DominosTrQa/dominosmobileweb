@@ -1,0 +1,165 @@
+[
+  {
+    "key": "url",
+    "androidValue": "com.android.chrome:id/url_bar",
+    "androidType": "id",
+    "iosValue": "URL",
+    "iosType": "name"
+  },
+  {
+    "key": "listelenenUrl",
+    "androidValue": "(.//*[@text='https://dpe-staging.dominos.com.tr'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "menuButon",
+    "androidValue": "com.android.chrome:id/menu_button",
+    "androidType": "id",
+    "iosValue": "Sekmeler",
+    "iosType": "name"
+  },
+  {
+    "key": "yeniGizliSekmeButon",
+    "androidValue": "Yeni gizli sekme",
+    "androidType": "accId",
+    "iosValue": "togglePrivateBrowsingButton",
+    "iosType": "name"
+  },
+  {
+    "key": "klavyeGitIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "Go",
+    "iosType": "name"
+  },
+  {
+    "key": "yeniGizliSekmeEkleIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "AddTabButton",
+    "iosType": "name"
+  },
+  {
+    "key": "yerImleriniGosterGizliSekmeIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "Yer İmlerini Göster",
+    "iosType": "name"
+  },
+  {
+    "key": "yerImleriniGosterIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "Yer İmleri",
+    "iosType": "name"
+  },
+  {
+    "key": "yerImleriniGosterSilIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "Sil",
+    "iosType": "name"
+  },
+  {
+    "key": "yerImleriniGosterSilTumZamanlarIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "Tüm zamanlar",
+    "iosType": "name"
+  },
+  {
+    "key": "yerImleriniGosterBittiIosButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "Bitti",
+    "iosType": "name"
+  },
+  {
+    "key": "adreseTeslimButon",
+    "androidValue": ".//*[@resource-id='DPE_TR_SERVICETYPEMODAL_BUTTON_DELIVERY']",
+    "androidType": "xpath",
+    "iosValue": "Adrese Teslim",
+    "iosType": "name"
+  },
+  {
+    "key": "gelAlButon",
+    "androidValue": ".//*[@resource-id='DPE_TR_SERVICETYPEMODAL_BUTTON_CARRYOUT']",
+    "androidType": "xpath",
+    "iosValue": "Gel Al",
+    "iosType": "name"
+  },
+  {
+    "key": "girisYapButon",
+    "androidValue": ".//*[@resource-id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNIN']",
+    "androidType": "xpath",
+    "iosValue": "Giriş Yap",
+    "iosType": "name"
+  },
+  {
+    "key": "facebookileGirisYapButon",
+    "androidValue": ".//*[@text='V']",
+    "androidType": "xpath",
+    "iosValue": "(//XCUIElementTypeStaticText[@name=\"V\"])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "facebookileGirisYapFacebookLogo",
+    "androidValue": "(.//*[@text='facebook'])[1]",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "googleileGirisYapButon",
+    "androidValue": ".//*[@text='X']",
+    "androidType": "xpath",
+    "iosValue": "(//XCUIElementTypeStaticText[@name=\"X\"])[2]\n",
+    "iosType": "xpath"
+  },
+  {
+    "key": "googleileGirisYapGoogleOturumAcText",
+    "androidValue": ".//*[@text='Oturum aç']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "uyeOlButon",
+    "androidValue": ".//*[@resource-id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
+    "androidType": "xpath",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "epostaTextbox",
+    "androidValue": ".//*[@resource-id='DPE_TR_SIGNIN_INPUT_EMAIL']",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[7]/XCUIElementTypeTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "sifreTextbox",
+    "androidValue": ".//*[@resource-id='DPE_TR_SIGNIN_INPUT_PASSWORD']",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[9]/XCUIElementTypeSecureTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeGirisiSayfasiGirisYapButon",
+    "androidValue": ".//*[@resource-id='DPE_TR_SIGNIN_BUTTON_SIGNIN']",
+    "androidType": "xpath",
+    "iosValue": "Giriş Yap",
+    "iosType": "name"
+  }
+
+
+
+]
+
+
+
+
+
+

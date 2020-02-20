@@ -1,0 +1,56 @@
+
+# Gizli sekme açılır ios
+* "menuButon" li elementi bul ve varsa tıkla
+* "yeniGizliSekmeButon" li elementi bul ve tıkla
+* "yeniGizliSekmeEkleIosButon" li elementi bul ve tıkla
+
+# Geçmiş silinir ios
+* "yerImleriniGosterIosButon" li elementi bul ve varsa tıkla
+* "yerImleriniGosterGizliSekmeIosButon" li elementi bul ve varsa tıkla
+* "yerImleriniGosterSilIosButon" li elementi bul ve varsa tıkla
+* "yerImleriniGosterSilTumZamanlarIosButon" li elementi bul ve varsa tıkla
+* "yerImleriniGosterBittiIosButon" li elementi bul ve tıkla
+
+# Dominos staging url'si yazılır ios
+* "3" saniye bekle
+* "url" li elementi bul ve tıkla
+* "url" li elementi bul ve "https://dpe-staging.dominos.com.tr/" değerini yaz
+* "klavyeGitIosButon" li elementi bul ve tıkla
+
+# Adrese Teslim servis tipi seçilir ios
+* "adreseTeslimButon" li elementi bul ve tıkla
+
+# Gel Al servis tipi seçilir ios
+* "gelAlButon" li elementi bul ve tıkla
+
+# Giriş Yap butonuna tıklanır ios
+* "10" saniye bekle
+* "girisYapButon" li elementi bul ve tıkla
+
+# Facebook ile Giriş Yap butonuna tıklanır ios
+* "facebookileGirisYapButon" li elementi bul ve tıkla
+* "5" saniye bekle
+
+# Facebook sayfasına yönlendirildiği kontrol edilir ios
+* "facebookileGirisYapFacebookLogo" li element sayfada bulunuyor mu kontrol et
+
+# Google ile Giriş Yap butonuna tıklanır ios
+* "googleileGirisYapButon" li elementi bul ve tıkla
+* "5" saniye bekle
+
+# Google sayfasına yönlendirildiği kontrol edilir ios
+* "googleileGirisYapGoogleOturumAcText" li element sayfada bulunuyor mu kontrol et
+
+# Üye Ol butonuna tıklanır ios
+* "uyeOlButon" li elementi bul ve tıkla
+
+# Kullanıcı e-posta ve şifresi ile giriş yapılır ios
+* "epostaTextbox" li elementi bul ve "dominostest0@hotmail.com" değerini yaz
+* "sifreTextbox" li elementi bul ve tıkla
+* "sifreTextbox" li elementi bul ve "Test123" değerini yaz
+* "uyeGirisiSayfasiGirisYapButon" li elementi bul ve tıkla
+
+# Adrese Teslim ve Gel Al butonları var mı kontrol edilir ios
+* "5" saniye bekle
+* "adreseTeslimButon" li element sayfada bulunuyor mu kontrol et
+* "gelAlButon" li element sayfada bulunuyor mu kontrol et
