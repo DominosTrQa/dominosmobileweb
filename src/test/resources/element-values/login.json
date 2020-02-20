@@ -7,7 +7,7 @@
     "iosType": "name"
   },
   {
-    "key": "url2",
+    "key": "listelenenUrl",
     "androidValue": "(.//*[@text='https://dpe-staging.dominos.com.tr'])[1]",
     "androidType": "xpath",
     "iosValue": "",
@@ -147,7 +147,7 @@
     "iosType": "xpath"
   },
   {
-    "key": "girisYapButon2",
+    "key": "uyeGirisiSayfasiGirisYapButon",
     "androidValue": ".//*[@resource-id='DPE_TR_SIGNIN_BUTTON_SIGNIN']",
     "androidType": "xpath",
     "iosValue": "Giriş Yap",

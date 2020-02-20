@@ -7,7 +7,7 @@
 * "3" saniye bekle
 * "url" li elementi bul ve tıkla
 * "url" li elementi bul, temizle ve "https://dpe-staging.dominos.com.tr/" değerini yaz
-* "url2" li elementi bul ve tıkla
+* "listelenenUrl" li elementi bul ve tıkla
 
 # Adrese Teslim servis tipi seçilir
 * "adreseTeslimButon" li elementi bul ve tıkla
@@ -40,7 +40,7 @@
 * "epostaTextbox" li element sayfada bulunuyor mu kontrol et
 * "epostaTextbox" li elementi bul ve "dominostest0@hotmail.com" değerini yaz
 * "sifreTextbox" li elementi bul ve "Test123" değerini yaz
-* "girisYapButon2" li elementi bul ve tıkla
+* "uyeGirisiSayfasiGirisYapButon" li elementi bul ve tıkla
 
 # Adrese Teslim ve Gel Al butonları var mı kontrol edilir
 * "adreseTeslimButon" li element sayfada bulunuyor mu kontrol et

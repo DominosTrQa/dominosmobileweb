@@ -48,7 +48,7 @@
 * "epostaTextbox" li elementi bul ve "dominostest0@hotmail.com" değerini yaz
 * "sifreTextbox" li elementi bul ve tıkla
 * "sifreTextbox" li elementi bul ve "Test123" değerini yaz
-* "girisYapButon2" li elementi bul ve tıkla
+* "uyeGirisiSayfasiGirisYapButon" li elementi bul ve tıkla
 
 # Adrese Teslim ve Gel Al butonları var mı kontrol edilir ios
 * "5" saniye bekle
