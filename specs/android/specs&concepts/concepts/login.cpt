@@ -3,7 +3,7 @@
 * "menuButon" li elementi bul ve tıkla
 * "yeniGizliSekmeButon" li elementi bul ve tıkla
 
-# Dominos staging url'si yazılır
+# Dominos staging url'i yazılır
 * "3" saniye bekle
 * "url" li elementi bul ve tıkla
 * "url" li elementi bul, temizle ve "https://dpe-staging.dominos.com.tr/" değerini yaz
@@ -41,6 +41,21 @@
 * "epostaTextbox" li elementi bul ve "dominostest0@hotmail.com" değerini yaz
 * "sifreTextbox" li elementi bul ve "Test123" değerini yaz
 * "uyeGirisiSayfasiGirisYapButon" li elementi bul ve tıkla
+
+# Yanlış e-posta ile giriş yapmaya çalışılır
+* "epostaTextbox" li element sayfada bulunuyor mu kontrol et
+* "epostaTextbox" li elementi bul ve "test@hotmail.com" değerini yaz
+* "sifreTextbox" li elementi bul ve "Test123" değerini yaz
+* "uyeGirisiSayfasiGirisYapButon" li elementi bul ve tıkla
+
+# Yanlış şifre ile giriş yapmaya çalışılır
+* "epostaTextbox" li element sayfada bulunuyor mu kontrol et
+* "epostaTextbox" li elementi bul ve "dominostest0@hotmail.com" değerini yaz
+* "sifreTextbox" li elementi bul ve "test" değerini yaz
+* "uyeGirisiSayfasiGirisYapButon" li elementi bul ve tıkla
+
+# E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
+* "uyeGirisiEpostaYadaSifreYanlisText" li element sayfada bulunuyor mu kontrol et
 
 # Adrese Teslim ve Gel Al butonları var mı kontrol edilir
 * "adreseTeslimButon" li element sayfada bulunuyor mu kontrol et
