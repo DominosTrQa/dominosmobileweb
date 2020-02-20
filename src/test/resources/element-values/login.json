@@ -152,6 +152,13 @@
     "androidType": "xpath",
     "iosValue": "Giriş Yap",
     "iosType": "name"
+  },
+  {
+    "key": "uyeGirisiEpostaYadaSifreYanlisText",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "E-Posta adresi veya şifre yanlış!",
+    "iosType": "name"
   }
 
 
