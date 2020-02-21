@@ -4,7 +4,7 @@ Login
      
 Sign In Succesful Ios
 ----------------
-Tags:signInSuccesfulMobWebIos
+Tags:signInSuccesfulWebMobIos
 * Geçmiş silinir ios
 * Gizli sekme açılır ios
 * Dominos staging url'i yazılır ios
@@ -13,9 +13,9 @@ Tags:signInSuccesfulMobWebIos
 * Adrese Teslim ve Gel Al butonları var mı kontrol edilir ios
 
 
-Sign In Failed Scenario - E-posta Yanlış
+Sign In Failed Scenario - E-posta Yanlış Ios
 ----------------
-Tags:signInFailedScenarioEpostaYanlisMobWebAndroid
+Tags:signInFailedScenarioEpostaYanlisWebMobIos
 * Geçmiş silinir ios
 * Gizli sekme açılır ios
 * Dominos staging url'i yazılır ios
@@ -24,9 +24,9 @@ Tags:signInFailedScenarioEpostaYanlisMobWebAndroid
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir ios
 
 
-Sign In Failed Scenario - Şifre Yanlış
+Sign In Failed Scenario - Şifre Yanlış Ios
 ----------------
-Tags:signInFailedScenarioSifreYanlisMobWebAndroid
+Tags:signInFailedScenarioSifreYanlisWebMobIos
 * Geçmiş silinir ios
 * Gizli sekme açılır ios
 * Dominos staging url'i yazılır ios
@@ -38,7 +38,7 @@ Tags:signInFailedScenarioSifreYanlisMobWebAndroid
 Hata var, sayfaya yönlendirmiyor
 Sign In With Facebook Ios
 ----------------
-Tags:signInWithFacebookMobWebIos
+Tags:signInWithFacebookWebMobIos
 * Geçmiş silinir ios
 * Gizli sekme açılır ios
 * Dominos staging url'i yazılır ios
@@ -50,7 +50,7 @@ Tags:signInWithFacebookMobWebIos
 Hata var, sayfaya yönlendirmiyor
 Sign In With Google Ios
 ----------------
-Tags:signInWithGoogleMobWebIos
+Tags:signInWithGoogleWebMobIos
 * Geçmiş silinir ios
 * Gizli sekme açılır ios
 * Dominos staging url'i yazılır ios

@@ -69,3 +69,47 @@
 * "5" saniye bekle
 * "adreseTeslimButon" li element sayfada bulunuyor mu kontrol et
 * "gelAlButon" li element sayfada bulunuyor mu kontrol et
+
+# Üye Olmadan Devam Et butonuna tıklanır
+* "uyeOlmadanDevamEtButon" li elementi bul ve tıkla
+
+# İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir ios
+* "secinizDropdown" li elementi bul ve tıkla
+* "ilIstanbul" li elementi bul ve tıkla
+* "secinizDropdown" li elementi bul ve tıkla
+* "ilceSarıyer" li elementi bulana kadar swipe et ve tıkla
+* "secinizDropdown" li elementi bul ve tıkla
+* "mahalleAyazaga" li elementi bul ve tıkla
+* "seciliAdresIleDevamEtbuton" li elementi bul ve tıkla
+
+# İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir ios
+* "secinizDropdown" li elementi bul ve tıkla
+* "ilIstanbul" li elementi bul ve tıkla
+* "secinizDropdown" li elementi bul ve tıkla
+* "ilceAdalar" li elementi bul ve tıkla
+* "secinizDropdown" li elementi bul ve tıkla
+* "mahalleBurgazada" li elementi bul ve tıkla
+* "seciliAdresIleDevamEtbuton" li elementi bul ve tıkla
+
+# Çerez Politikası kapatılır ios
+* "cerezPolitikasıKapatButon" li elementi bul ve tıkla
+
+# Üye Ol butonuna basılır ios
+* "uyeOlButon" li elementi bul ve tıkla
+
+# Random mail ve telefon ile üye olunur ios
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Rastgele telefon no üret
+* "uyeOlTelefonTextbox" li elementi bul ve tıkla
+* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
+* "Test1234" textini "uyeOlSifreTextbox" elemente yaz
+* "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
+* "klavyeIosBittiButon" li elementi bul ve tıkla
+
+# Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır ios
+* "uyeOlUyelikSatisSozlesmesiCheckbox" li elementi bulana kadar swipe et
+* "uyeOlUyelikSatisSozlesmesiCheckbox" li elementi bul ve tıkla
+* "uyeOlSayfasiUyeOlButon" li elementi bulana kadar swipe et
+* "uyeOlSayfasiUyeOlButon" li elementi bul ve tıkla
