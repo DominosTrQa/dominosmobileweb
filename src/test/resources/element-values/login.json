@@ -129,8 +129,71 @@
     "key": "uyeOlButon",
     "androidValue": ".//*[@resource-id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
     "androidType": "xpath",
-    "iosValue": "",
-    "iosType": ""
+    "iosValue": "Üye Ol",
+    "iosType": "name"
+  },
+  {
+    "key": "uyeOlAdTextbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[7]/XCUIElementTypeTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlSoyadTextbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[9]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlTelefonTextbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[11]/XCUIElementTypeTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlEpostaTextbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[13]/XCUIElementTypeTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlSifreTextbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[15]/XCUIElementTypeSecureTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlSifreTekrarTextbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[17]/XCUIElementTypeSecureTextField",
+    "iosType": "xpath"
+  },
+  {
+    "key": "uyeOlUyelikSatisSozlesmesiCheckbox",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "Domino’s İnternet Sitesi",
+    "iosType": "name"
+  },
+  {
+    "key": "uyeOlSayfasiUyeOlButon",
+    "androidValue": "",
+    "androidType": "xpath",
+    "iosValue": "(.//*[@name='Üye Ol'])[2]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "klavyeIosBittiButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "(.//*[@name='Bitti'])",
+    "iosType": "xpath"
   },
   {
     "key": "epostaTextbox",
@@ -159,6 +222,69 @@
     "androidType": "xpath",
     "iosValue": "E-Posta adresi veya şifre yanlış!",
     "iosType": "name"
+  },
+  {
+    "key": "uyeOlmadanDevamEtButon",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "Üye Olmadan Devam Et",
+    "iosType": "name"
+  },
+  {
+    "key": "secinizDropdown",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "(.//*[@name='Seçiniz...'])[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilIstanbul",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "(.//*[@name='İstanbul'])[1]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilceSarıyer",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "Sarıyer",
+    "iosType": "name"
+  },
+  {
+    "key": "ilceAdalar",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "Adalar",
+    "iosType": "name"
+  },
+  {
+    "key": "mahalleAyazaga",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "Ayazağa Mh.",
+    "iosType": "name"
+  },
+  {
+    "key": "mahalleBurgazada",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "Burgazada Mh.",
+    "iosType": "name"
+  },
+  {
+    "key": "seciliAdresIleDevamEtbuton",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": "SEÇİLİ ADRES İLE DEVAM ET",
+    "iosType": "name"
+  },
+  {
+    "key": "cerezPolitikasıKapatButon",
+    "androidValue": ".//*[@text='E-Posta adresi veya şifre yanlış!']",
+    "androidType": "xpath",
+    "iosValue": ".//*[@name='v']",
+    "iosType": "xpath"
   }
 
 

@@ -32,10 +32,7 @@ import org.slf4j.LoggerFactory;
 import javax.annotation.Nullable;
 import java.sql.Timestamp;
 import java.time.Duration;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
-import java.util.Random;
+import java.util.*;
 
 import static java.time.Duration.ofMillis;
 
@@ -261,7 +258,6 @@ public class StepImpl extends HookImpl {
             getPageSourceFindWord("Giriş Yap");
         }
     }
-
 
     @Step({"<key> li elementi bul ve tıkla", "Click element by <key>"})
     public void clickByKey(String key) {
@@ -1332,7 +1328,7 @@ public class StepImpl extends HookImpl {
 
         MobileElement webElement = findElementByKey(key);
         webElement.clear();
-        webElement.setValue("testotomasyon" + timestamp + "@sahabt.com");
+        webElement.setValue("testotomasyon" + timestamp + "@testinium.com");
     }
     @Step("Cinsiyet alanı kontrolü yap ve rasgele bir cinsiyet  seç")
     public void cinsiyetSec(){
@@ -1457,6 +1453,40 @@ public class StepImpl extends HookImpl {
         for (int i = 0; i < times; i++){
             mobileElement.sendKeys(Keys.BACK_SPACE);
         }
+    }
+
+    @Step("Rastgele telefon no üret")
+    public String rastgelTelNoGelsin( ) {
+        Vector<Integer> array = new Vector<Integer>();
+        Random randomGenerator = new Random();
+        array.add(new Integer(1 + randomGenerator.nextInt(9)));
+        for (int i=1;i<9;i++) array.add(randomGenerator.nextInt(10));
+        int t1 = 0;
+        for (int i=0;i<9;i+=2) t1 += array.elementAt(i);
+        int t2 = 0;
+        for (int i=1;i<8;i+=2) t2 += array.elementAt(i);
+        int x = ((t1 * 7 )- t2) % 10;
+        array.add(new Integer(x));
+        x=0;
+        for(int i=0;i<10;i++) x+= array.elementAt(i);
+        x= x % 10;
+        array.add(new Integer(x));
+        String res = "";
+        for(int i=0;i<10;i++) res = res + Integer.toString(array.elementAt(i));
+        return res;
+    }
+    @Step({"Write value <text> to element <key>",
+            "<text> textini <key> elemente yaz"})
+    public void sendKeys(String text, String key){
+        if (!key.equals("")) {
+            findElementByKey(key).sendKeys(text);
+            logger.info(key + " elementine " + text + " texti yazıldı.");
+        }
+    }
+    @Step("Telefon noyu <key> elementine yaz")
+    public void setRandomTelno(String key){
+        String rastgeleTcno= rastgelTelNoGelsin();
+        sendKeys(rastgeleTcno,key);
     }
 
 
