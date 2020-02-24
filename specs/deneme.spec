@@ -8,5 +8,6 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 Scenario Heading
 ----------------
 
+ Tags:deneme
 * gel al tıkla
 * gel al tıkla hamburger
