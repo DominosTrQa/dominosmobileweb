@@ -4,7 +4,7 @@ Anasayfa
 
 Anasayfa Kontrolü - Üye Değilken - Butonların Kontrolü
 ------------------------------------------------------------
- Tags:anasayfaKontroluUyeDegilkenButonlarinKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyeDegilkenButonlarinKontrolu_WebMob
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -16,7 +16,7 @@ Anasayfa Kontrolü - Üye Değilken - Butonların Kontrolü
 
 Anasayfa Kontrolü - Üye Değilken - Yazıların Kontrolü
 ------------------------------------------------------------
- Tags:anasayfaKontroluUyeDegilkenYazilarinKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyeDegilkenYazilarinKontrolu_WebMob
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -28,7 +28,7 @@ Anasayfa Kontrolü - Üye Değilken - Yazıların Kontrolü
 
 Anasayfa Kontrolü - Üye Değilken - Promosyon Kodu Açılır Popup Kontrolü
 ------------------------------------------------------------------------------
- Tags:anasayfaUyeDegilkenPromosyonKoduAcilirPopupKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyeDegilkenPromosyonKoduAcilirPopupKontrolu_WebMob
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -41,7 +41,7 @@ Anasayfa Kontrolü - Üye Değilken - Promosyon Kodu Açılır Popup Kontrolü
 
 Anasayfa Kontrolü - Üye Değilken - Pizza Takip Açılır Popup Kontrolü
 --------------------------------------------------------------------------
- Tags:anasayfaUyeDegilkenPizzaTakipAcilirPopupKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyeDegilkenPizzaTakipAcilirPopupKontrolu_WebMob
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -54,7 +54,7 @@ Anasayfa Kontrolü - Üye Değilken - Pizza Takip Açılır Popup Kontrolü
 
 Anasayfa Kontrolü - Üye - Butonların Kontrolü
 ------------------------------------------------------------
- Tags:anasayfaKontroluUyeButonlarinKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyeButonlarinKontrolu_WebMob
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -67,7 +67,7 @@ Anasayfa Kontrolü - Üye - Butonların Kontrolü
 
 Anasayfa Kontrolü - Üye - Yazıların Kontrolü
 ------------------------------------------------------------
- Tags:anasayfaKontroluUyeYazilarinKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyeYazilarinKontrolu_WebMob
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -80,7 +80,7 @@ Anasayfa Kontrolü - Üye - Yazıların Kontrolü
 
 Anasayfa Kontrolü - Üye - Popup Barın Kontrolü
 ----------------------------------------------------
- Tags:anasayfaUyePopupBarinKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyePopupBarinKontrolu_WebMob
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -94,7 +94,7 @@ Anasayfa Kontrolü - Üye - Popup Barın Kontrolü
 
 Anasayfa Kontrolü - Üye - Promosyon Kodu Açılır Popup Kontrolü
 ------------------------------------------------------------------------------
- Tags:anasayfaUyePromosyonKoduAcilirPopupKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyePromosyonKoduAcilirPopupKontrolu_WebMob
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -108,7 +108,7 @@ Anasayfa Kontrolü - Üye - Promosyon Kodu Açılır Popup Kontrolü
 
 Anasayfa Kontrolü - Üye - Pizza Takip Açılır Popup Kontrolü
 --------------------------------------------------------------------------
- Tags:anasayfaUyePizzaTakipAcilirPopupKontrolu_WebMob
+ Tags:anasayfaKontrolu_UyePizzaTakipAcilirPopupKontrolu_WebMob
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
