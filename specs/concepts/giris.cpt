@@ -1,0 +1,103 @@
+
+
+
+
+# Adrese Teslim servis tipi seçilir
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
+
+# Gel Al servis tipi seçilir
+* Elementi bekle ve sonra tıkla "gelAlButon"
+
+# Giriş Yap butonuna tıklanır
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "girisYapButon"
+
+# Facebook ile Giriş Yap butonuna tıklanır
+* Elementi bekle ve sonra tıkla "facebookileGirisYapButon"
+* "5" saniye bekle
+
+# Facebook sayfasına yönlendirildiği kontrol edilir
+* "5" saniye bekle
+* Element yok mu kontrol et "girisYapButon"
+ Elementi bekle ve sonra tıkla "facebookileGirisYapFacebookLogo"
+
+# Google ile Giriş Yap butonuna tıklanır
+* Elementi bekle ve sonra tıkla "googleileGirisYapButon"
+
+# Google sayfasına yönlendirildiği kontrol edilir
+* "5" saniye bekle
+* Element yok mu kontrol et "adreseTeslimButon"
+ Element var mı kontrol et "googleileGirisYapGoogleOturumAcText"
+
+# Üye Ol butonuna tıklanır
+* Elementi bekle ve sonra tıkla "uyeOlButon"
+
+# Kullanıcı e-posta ve şifresi ile giriş yapılır
+* "dominostest0@hotmail.com" textini "epostaTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifreTextbox"
+*  "Test123" textini "sifreTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
+
+# Adrese Teslim ve Gel Al butonları var mı kontrol edilir
+* Element var mı kontrol et "adreseTeslimButon"
+* Element var mı kontrol et "gelAlButon"
+
+# Yanlış e-posta ile giriş yapmaya çalışılır
+* Element var mı kontrol et "epostaTextbox"
+* "test@hotmail.com" textini "epostaTextbox" elemente yaz
+* "Test123" textini "sifreTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
+
+# Yanlış şifre ile giriş yapmaya çalışılır
+* Element var mı kontrol et "epostaTextbox"
+* "dominostest0@hotmail.com" textini "epostaTextbox" elemente yaz
+*  "test" textini "sifreTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
+
+# E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
+* Element var mı kontrol et "uyeGirisiEpostaYadaSifreYanlisText"
+
+# Üye Olmadan Devam Et butonuna tıklanır
+* Elementi bekle ve sonra tıkla "uyeOlmadanDevamEtButon"
+
+# İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceSarıyer"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleAyazaga"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalar"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazada"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Çerez Politikası kapatılır
+* Elementi bekle ve sonra tıkla "cerezPolitikasıKapatButon"
+
+# Üye Ol butonuna basılır
+* Elementi bekle ve sonra tıkla "uyeOlButon"
+
+# Random mail ve telefon ile üye olunur
+* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Rastgele telefon no üret
+* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* Telefon noyu "uyeOlTelefonTextbox" elementine yaz
+* "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
+* "Test1234" textini "uyeOlSifreTextbox" elemente yaz
+* "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "klavyeIosBittiButon"
+
+# Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* "uyeOlUyelikSatisSozlesmesiCheckbox" alanına kaydır
+* Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
+* "uyeOlSayfasiUyeOlButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+
