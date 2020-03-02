@@ -1,0 +1,49 @@
+
+# Anasayfadaki butonların geldiği kontrol edilir
+* Element var mı kontrol et "tumKampanyalarButon"
+* Element var mı kontrol et "tumPizzalarButon"
+* Element var mı kontrol et "ekstraLezzetlerButon"
+* Element var mı kontrol et "anasayfaHamburgerMenu"
+* Element var mı kontrol et "firsatlarSagOk"
+* Element var mı kontrol et "firsatlarSolOk"
+* Element var mı kontrol et "anasayfaAdreseTeslimButon"
+* Element var mı kontrol et "anasayfaKalemButon"
+* Element var mı kontrol et "anasayfaPromosyonKoduButon"
+* Element var mı kontrol et "anasayfaPizzaTakipButon"
+* Element var mı kontrol et "anasayfaTabSubeyeOzelButon"
+* Element var mı kontrol et "anasayfaTabSepetimButon"
+* Element var mı kontrol et "anasayfaTabSiparişlerimButon"
+* Element var mı kontrol et "anasayfaTabTeslimatTipiButon"
+* Element var mı kontrol et "anasayfaSubeyeOzelButon"
+
+# Anasayfadaki yazıların geldiği kontrol edilir
+* Element var mı kontrol et "dominosLogo"
+* "anasayfaAltBarSiparisHattiText" alanına js ile kaydır
+* Element var mı kontrol et "anasayfaAltBarSiparisHattiText"
+* Element var mı kontrol et "anasayfaAltBarSikayetOneriHattiText"
+* "anasayfaAltBarBilgilendirmeText" alanına js ile kaydır
+* Element var mı kontrol et "anasayfaAltBarBilgilendirmeText"
+
+# Promosyon Kodu butonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaPromosyonKoduButon"
+
+# Promosyon Kodu pop up kontrol edilir
+* Element var mı kontrol et "promosyonKoduPromosyonAdiDropdown"
+* "promosyonKoduKampanyaKoduTextbox" alanına js ile kaydır
+* Element var mı kontrol et "promosyonKoduKampanyaKoduTextbox"
+* Element var mı kontrol et "promosyonKoduPromosyonKoduButon"
+
+# Pizza Takip butonuna tıklanır
+* "anasayfaPizzaTakipButon" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "anasayfaPizzaTakipButon"
+
+# Pizza Takip pop up kontrol edilir
+* Element var mı kontrol et "pizzaTakipSiparisNumarasiTextbox"
+* Element var mı kontrol et "pizzaTakipGoruntuleButon"
+
+# Hamburger menüye tıklanır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "anasayfaHamburgerMenu"
+
+# Hamburger menünün açıldığı kontrol edilir
+* Element var mı kontrol et "hamburgerMenuProfilimbuton"

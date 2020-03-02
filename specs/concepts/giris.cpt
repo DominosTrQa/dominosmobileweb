@@ -1,7 +1,4 @@
 
-
-
-
 # Adrese Teslim servis tipi seçilir
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
@@ -9,7 +6,7 @@
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Giriş Yap butonuna tıklanır
-* "5" saniye bekle
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "girisYapButon"
 
 # Facebook ile Giriş Yap butonuna tıklanır
@@ -26,7 +23,7 @@
 
 # Google sayfasına yönlendirildiği kontrol edilir
 * "5" saniye bekle
-* Element yok mu kontrol et "adreseTeslimButon"
+* Element yok mu kontrol et "girisYapButon"
  Element var mı kontrol et "googleileGirisYapGoogleOturumAcText"
 
 # Üye Ol butonuna tıklanır
@@ -93,11 +90,9 @@
 * "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * "Test1234" textini "uyeOlSifreTextbox" elemente yaz
 * "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "klavyeIosBittiButon"
 
 # Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
-* "uyeOlUyelikSatisSozlesmesiCheckbox" alanına kaydır
+* "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
-* "uyeOlSayfasiUyeOlButon" alanına kaydır
+* "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
-

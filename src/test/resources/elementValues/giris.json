@@ -62,87 +62,87 @@
   },
   {
     "key": "uyeOlAdTextbox",
-    "value": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[7]/XCUIElementTypeTextField",
+    "value": ".//*[@id='DPE_TR_SIGNUP_INPUT_NAME']",
     "type": "xpath"
   },
   {
     "key": "uyeOlSoyadTextbox",
-    "value": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[9]",
+    "value": ".//*[@id='DPE_TR_SIGNUP_INPUT_SURNAME']",
     "type": "xpath"
   },
   {
     "key": "uyeOlTelefonTextbox",
-    "value": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[11]/XCUIElementTypeTextField",
+    "value": "(.//*[@id='DPE_TR_SIGNUP_INPUT_MOBILEPHONE'])[1]",
     "type": "xpath"
   },
   {
     "key": "uyeOlEpostaTextbox",
-    "value": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[13]/XCUIElementTypeTextField",
+    "value": ".//*[@id='DPE_TR_SIGNUP_INPUT_EMAIL']",
     "type": "xpath"
   },
   {
     "key": "uyeOlSifreTextbox",
-    "value": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[15]/XCUIElementTypeSecureTextField",
+    "value": ".//*[@id='DPE_TR_SIGNUP_INPUT_PASSWORD']",
     "type": "xpath"
   },
   {
     "key": "uyeOlSifreTekrarTextbox",
-    "value": "//XCUIElementTypeOther[@name=\"web sorgu kutusu\"]/XCUIElementTypeOther[17]/XCUIElementTypeSecureTextField",
+    "value": ".//*[@id='DPE_TR_SIGNUP_INPUT_PASSWORDAGAIN']",
     "type": "xpath"
   },
   {
     "key": "uyeOlUyelikSatisSozlesmesiCheckbox",
-    "value": "Domino’s İnternet Sitesi",
-    "type": "name"
+    "value": ".//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
+    "type": "xpath"
   },
   {
     "key": "uyeOlSayfasiUyeOlButon",
-    "value": "(.//*[@name='Üye Ol'])[2]",
+    "value": ".//*[@id='DPE_TR_SIGNUP_BUTTON_SIGNUP']",
     "type": "xpath"
   },
   {
     "key": "uyeOlmadanDevamEtButon",
-    "value": "Üye Olmadan Devam Et",
-    "type": "name"
+    "value": ".//*[@id='DPE_TR_SIGNIN_BUTTON_GUESTBUTTON']",
+    "type": "xpath"
   },
   {
     "key": "secinizDropdown",
-    "value": "(.//*[@name='Seçiniz...'])[1]",
+    "value": "(//*[contains(text(),'Seçiniz...')])[1]",
     "type": "xpath"
   },
   {
     "key": "ilIstanbul",
-    "value": "(.//*[@name='İstanbul'])[1]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
     "type": "xpath"
   },
   {
     "key": "ilceSarıyer",
-    "value": "Sarıyer",
-    "type": "name"
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[27]",
+    "type": "xpath"
   },
   {
     "key": "ilceAdalar",
-    "value": "Adalar",
-    "type": "name"
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[68]",
+    "type": "xpath"
   },
   {
     "key": "mahalleAyazaga",
-    "value": "Ayazağa Mh.",
-    "type": "name"
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
+    "type": "xpath"
   },
   {
     "key": "mahalleBurgazada",
-    "value": "Burgazada Mh.",
-    "type": "name"
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[106]",
+    "type": "xpath"
   },
   {
     "key": "seciliAdresIleDevamEtbuton",
-    "value": "SEÇİLİ ADRES İLE DEVAM ET",
-    "type": "name"
+    "value": "(//*[@id='DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT'])[1]",
+    "type": "xpath"
   },
   {
     "key": "cerezPolitikasıKapatButon",
-    "value": ".//*[@name='v']",
+    "value": "(//*[@class='styled__CloseCookie-vl63gb-4 gylbVo'])[1]",
     "type": "xpath"
   }
 
