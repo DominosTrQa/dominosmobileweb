@@ -45,4 +45,3 @@ Tags:signInFailedScenarioSifreYanlis_MobWeb
 * Giriş Yap butonuna tıklanır
 * Yanlış şifre ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
-
