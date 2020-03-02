@@ -1,0 +1,132 @@
+[
+
+  {
+    "key": "dominosLogo",
+    "value": "//XCUIElementTypeOther[@name=\"Domino's Pizza | Türkiye’nin En Sevilen Pizza Markası\"]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tumKampanyalarButon",
+    "value": "Tüm Kampanyalar",
+    "type": "name"
+  },
+  {
+    "key": "tumPizzalarButon",
+    "value": "Tüm Pizzalar",
+    "type": "name"
+  },
+  {
+    "key": "ekstraLezzetlerButon",
+    "value": "Ekstra Lezzetler",
+    "type": "name"
+  },
+  {
+    "key": "anasayfaHamburgerMenu",
+    "value": "//XCUIElementTypeOther[@name=\"Domino's Pizza | Türkiye’nin En Sevilen Pizza Markası\"]/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeOther/XCUIElementTypeOther",
+    "type": "xpath"
+  },
+  {
+    "key": "firsatlarSagOk",
+    "value": "//XCUIElementTypeOther[@name=\"Domino's Pizza | Türkiye’nin En Sevilen Pizza Markası\"]/XCUIElementTypeOther[7]",
+    "type": "xpath"
+  },
+  {
+    "key": "firsatlarSolOk",
+    "value": "//XCUIElementTypeOther[@name=\"Domino's Pizza | Türkiye’nin En Sevilen Pizza Markası\"]/XCUIElementTypeOther[8]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaAdreseTeslimButon",
+    "value": ".//*[@name='Adrese Teslim']",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaKalemButon",
+    "value": "//XCUIElementTypeStaticText[@name=\"d\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaPromosyonKoduButon",
+    "value": ".//*[@name='Promosyon Kodu']",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaPizzaTakipButon",
+    "value": ".//*[@name='Pizza Takip']",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaSubeyeOzelButon",
+    "value": "(.//*[@name='Şubeye Özel'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaTabSubeyeOzelButon",
+    "value": "(.//*[@name='Şubeye Özel'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaTabCanlıYardimButon",
+    "value": "[",
+    "type": "name"
+  },
+  {
+    "key": "anasayfaTabSepetimButon",
+    "value": "f",
+    "type": "name"
+  },
+  {
+    "key": "anasayfaTabSiparişlerimButon",
+    "value": "-",
+    "type": "name"
+  },
+  {
+    "key": "anasayfaTabTeslimatTipiButon",
+    "value": "/",
+    "type": "name"
+  },
+  {
+    "key": "anasayfaAltBarSiparisHattiText",
+    "value": ".//*[@name='Sipariş Hattı']",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaAltBarSikayetOneriHattiText",
+    "value": ".//*[@name='Şikayet / Öneri Hattı']",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaAltBarBilgilendirmeText",
+    "value": "Fiyatlarımız, Domino’s Pizza’nın tavsiye ettiği ürün satış fiyatlarıdır.",
+    "type": "name"
+  },
+  {
+    "key": "promosyonKoduPromosyonAdiDropdown",
+    "value": "(.//*[@name='Seçiniz'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "promosyonKoduKampanyaKoduTextbox",
+    "value": "Kodunuzu Giriniz",
+    "type": "name"
+  },
+  {
+    "key": "promosyonKoduPromosyonKoduButon",
+    "value": "Promosyon Kullan",
+    "type": "name"
+  },
+  {
+    "key": "pizzaTakipSiparisNumarasiTextbox",
+    "value": ".//*[@value='Sipariş numarasını giriniz']",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaTakipGoruntuleButon",
+    "value": ".//*[@value='Görüntüle']",
+    "type": "xpath"
+  }
+
+
+
+
+]
