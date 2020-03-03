@@ -1,0 +1,130 @@
+[
+  {
+    "key": "sayfaBasligi",
+    "value": "(.//*[@class='pageHeader__Title-uo3je7-1 gMRowo'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tabCazipPizzalar",
+    "value": "(.//*[@id='DPE_TR_PIZZAS_TAB0'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tabOzelPizzalar",
+    "value": "(.//*[@id='DPE_TR_PIZZAS_TAB1'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tabBolMalzemePizzalar",
+    "value": "(.//*[@id='DPE_TR_PIZZAS_TAB2'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tabGurmePizzalar",
+    "value": "(.//*[@id='DPE_TR_PIZZAS_TAB3'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "superosPizza",
+    "value": "(//*[contains(text(),'Süperos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sucukseverPizza",
+    "value": "(//*[contains(text(),'Sucuksever')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "klasikPizza",
+    "value": "(//*[contains(text(),'Klasik')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sosyalPizza",
+    "value": "(//*[contains(text(),'Sosyal')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "fitFreshPizza",
+    "value": "(//*[contains(text(),'Fit & Fresh')])[1]",
+    "type": "xpath"
+  },
+  {
+  "key": "tavukluPizza",
+  "value": "(//*[contains(text(),'Tavuklu')])[1]",
+  "type": "xpath"
+  },
+  {
+    "key": "vegiPizza",
+    "value": "(//*[contains(text(),'Vegi')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "bolMalzemosPizza",
+    "value": "(//*[contains(text(),'Bol Malzemos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "dopdoluExtraPizza",
+    "value": "(//*[contains(text(),'Dopdolu Extra')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "extravaganzzaPizza",
+    "value": "(//*[contains(text(),'Extravaganzza')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "karisikPizza",
+    "value": "(//*[contains(text(),'Karışık')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "italianoPizza",
+    "value": "(//*[contains(text(),'Italiano')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "devMalzemosPizza",
+    "value": "(//*[contains(text(),'Dev Malzemos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "mangalSucukluPizza",
+    "value": "(//*[contains(text(),'Mangal Sucuklu')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "konyalimPizza",
+    "value": "(//*[contains(text(),'Konyalım')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "pastirmaSucukPizza",
+    "value": "(//*[contains(text(),'Pastırma & Sucuk')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "newYorkPizza",
+    "value": "(//*[contains(text(),'New York')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "dörtPeynirliPizza",
+    "value": "(//*[contains(text(),'Dört Peynirli')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "callypsoPizza",
+    "value": "(//*[contains(text(),'Callypso')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "birinciSiparisVerButon",
+    "value": "(//*[contains(text(),'Sipariş Ver')])[1]",
+    "type": "xpath"
+  }
+
+
+
+]

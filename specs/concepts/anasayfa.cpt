@@ -1,4 +1,7 @@
 
+# Bildirimlere izin verilir
+* Elementi bekle ve sonra tıkla "bildirimlereIzınVerButon"
+
 # Anasayfadaki butonların geldiği kontrol edilir
 * Element var mı kontrol et "tumKampanyalarButon"
 * Element var mı kontrol et "tumPizzalarButon"
@@ -15,6 +18,12 @@
 * Element var mı kontrol et "anasayfaTabSiparişlerimButon"
 * Element var mı kontrol et "anasayfaTabTeslimatTipiButon"
 * Element var mı kontrol et "anasayfaSubeyeOzelButon"
+
+# Anasayfadaki tabın geldiği kontrol edilir
+* Element var mı kontrol et "anasayfaTabSubeyeOzelButon"
+* Element var mı kontrol et "anasayfaTabSepetimButon"
+* Element var mı kontrol et "anasayfaTabSiparişlerimButon"
+* Element var mı kontrol et "anasayfaTabTeslimatTipiButon"
 
 # Anasayfadaki yazıların geldiği kontrol edilir
 * Element var mı kontrol et "dominosLogo"
@@ -47,3 +56,33 @@
 
 # Hamburger menünün açıldığı kontrol edilir
 * Element var mı kontrol et "hamburgerMenuProfilimbuton"
+
+# Tüm Pizzalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "tumPizzalarButon"
+
+# Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
+* Elementi bekle ve sonra tıkla "dominosLogo"
+* Element var mı kontrol et "tumKampanyalarButon"
+
+# Sepetim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaTabSepetimButon"
+
+# Alt bardaki elementlerin geldiği kontrol edilir
+* "anasayfaAltBarBilgilendirmeText" alanına js ile kaydır
+* Element var mı kontrol et "altBarAppStoreIcon"
+* Element var mı kontrol et "altBarSosyalMedyaIconlari"
+* Element var mı kontrol et "altBarKurumsalButon"
+* Elementi bekle ve sonra tıkla "altBarKurumsalButon"
+* Element var mı kontrol et "altBarKurumsalSirketProfiliText"
+* Elementi bekle ve sonra tıkla "altBarKurumsalButon"
+* Element var mı kontrol et "altBarYardimButon"
+* Elementi bekle ve sonra tıkla "altBarYardimButon"
+* Element var mı kontrol et "altBarYardimBizeUlasinText"
+* Elementi bekle ve sonra tıkla "altBarYardimButon"
+* Element var mı kontrol et "altBarInovasyonDunyasiButon"
+* Elementi bekle ve sonra tıkla "altBarInovasyonDunyasiButon"
+* Element var mı kontrol et "altBarInovasyonDunyasiDominosYeKazanText"
+* Elementi bekle ve sonra tıkla "altBarInovasyonDunyasiButon"
+* Element var mı kontrol et "anasayfaAltBarSiparisHattiText"
+* Element var mı kontrol et "anasayfaAltBarSikayetOneriHattiText"
+* Element var mı kontrol et "anasayfaAltBarBilgilendirmeText"

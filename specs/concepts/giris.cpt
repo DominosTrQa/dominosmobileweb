@@ -23,7 +23,7 @@
 
 # Google sayfasına yönlendirildiği kontrol edilir
 * "5" saniye bekle
-* Element yok mu kontrol et "girisYapButon"
+* Element yok mu kontrol et "gelAlButon"
  Element var mı kontrol et "googleileGirisYapGoogleOturumAcText"
 
 # Üye Ol butonuna tıklanır
