@@ -4,7 +4,7 @@ Giriş
 
 Sign In Succesful
 ----------------
-Tags:signIn_Succesful_MobWeb
+Tags:signIn_Succesful
 
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -13,7 +13,7 @@ Tags:signIn_Succesful_MobWeb
 
 Sign In With Facebook
 ----------------
-Tags:signIn_WithFacebook_MobWeb
+Tags:signIn_WithFacebook
 
 * Giriş Yap butonuna tıklanır
 * Facebook ile Giriş Yap butonuna tıklanır
@@ -22,7 +22,7 @@ Tags:signIn_WithFacebook_MobWeb
 
 Sign In With Google
 ----------------
-Tags:signIn_WithGoogle_MobWeb
+Tags:signIn_WithGoogle
 
 * Giriş Yap butonuna tıklanır
 * Google ile Giriş Yap butonuna tıklanır
@@ -31,7 +31,7 @@ Tags:signIn_WithGoogle_MobWeb
 
 Sign In Failed Scenario - E-posta Yanlış
 ----------------
-Tags:signIn_FailedScenarioEpostaYanlis_MobWeb
+Tags:signIn_FailedScenarioEpostaYanlis
 
 * Giriş Yap butonuna tıklanır
 * Yanlış e-posta ile giriş yapmaya çalışılır
@@ -40,7 +40,7 @@ Tags:signIn_FailedScenarioEpostaYanlis_MobWeb
 
 Sign In Failed Scenario - Şifre Yanlış
 ----------------
-Tags:signIn_FailedScenarioSifreYanlis_MobWeb
+Tags:signIn_FailedScenarioSifreYanlis
 
 * Giriş Yap butonuna tıklanır
 * Yanlış şifre ile giriş yapmaya çalışılır

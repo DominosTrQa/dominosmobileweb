@@ -124,6 +124,51 @@
     "key": "pizzaTakipGoruntuleButon",
     "value": ".//*[@id='DPE_TR_HOME_BUTTON_PIZZATRACKER']",
     "type": "xpath"
+  },
+  {
+    "key": "bildirimlereIzınVerButon",
+    "value": "(//*[contains(text(),'İzin ver')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarAppStoreIcon",
+    "value": ".//*[@class='styled__AppStoreImages-sc-2i2f7q-7 iVQnqD']",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarSosyalMedyaIconlari",
+    "value": ".//*[@class='styled__SocialMediaImages-sc-2i2f7q-8 ehWLSz']",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarKurumsalButon",
+    "value": "(.//*[@class='styled__FooterTitle-sc-2i2f7q-4 bvRzkA'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarKurumsalSirketProfiliText",
+    "value": "(//*[contains(text(),'Şirket Profili')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarYardimButon",
+    "value": "(.//*[@class='styled__FooterTitle-sc-2i2f7q-4 bvRzkA'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarYardimBizeUlasinText",
+    "value": "(//*[contains(text(),'Bize Ulaşın')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarInovasyonDunyasiButon",
+    "value": "(.//*[@class='styled__FooterTitle-sc-2i2f7q-4 bvRzkA'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "altBarInovasyonDunyasiDominosYeKazanText",
+    "value": "(//*[contains(text(),\"Domino's Ye Kazan\")])[1]",
+    "type": "xpath"
   }
 
 

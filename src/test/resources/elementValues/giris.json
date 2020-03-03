@@ -122,7 +122,7 @@
   },
   {
     "key": "ilceAdalar",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[68]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[73]",
     "type": "xpath"
   },
   {
@@ -132,7 +132,7 @@
   },
   {
     "key": "mahalleBurgazada",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[106]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"
   },
   {
