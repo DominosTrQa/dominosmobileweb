@@ -97,7 +97,7 @@ public class BaseTest {
                 capabilities.setCapability("resetKeyboard", true);
                 capabilities.setCapability("noReset", true);
                 webDriver = new AndroidDriver<>(new URL("http://hub.testinium.io/wd/hub"), capabilities);
-                webDriver.get("http://dpe-staging.dominos.com.tr/");
+                webDriver.get("http://dpe-preprod.dominos.com.tr/");
                 String versionOfDevice = System.getenv("version");
                 System.out.println("Version of running device is " + versionOfDevice);
                 // driver.manage().deleteAllCookies();
@@ -115,7 +115,7 @@ public class BaseTest {
                 capabilities.setCapability("ensureCleanSession", true);
                 capabilities.setCapability("technologyPreview", true);
                 webDriver = new IOSDriver<WebElement>(new URL("http://hub.testinium.io/wd/hub"), capabilities);
-                webDriver.get("http://dpe-staging.dominos.com.tr/");
+                webDriver.get("http://dpe-preprod.dominos.com.tr/");
                 try {
                     Thread.sleep(20000);
                 } catch (InterruptedException e) {
