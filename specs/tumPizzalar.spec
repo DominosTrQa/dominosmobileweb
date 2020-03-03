@@ -4,7 +4,7 @@ Tüm Pizzalar
      
 Tüm Pizzalar - Sayfa Kontrolü
 ----------------
-Tags:tumPizzalar_SayfaKontrolu_WebMob
+Tags:tumPizzalar_SayfaKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -20,7 +20,7 @@ Tags:tumPizzalar_SayfaKontrolu_WebMob
 
 Tüm Pizzalar - Cazip Pizzalar Sayfa Kontrolü
 ----------------
-Tags:tumPizzalar_CazipPizzalarSayfaKontrolu_WebMob
+Tags:tumPizzalar_CazipPizzalarSayfaKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -36,7 +36,7 @@ Tags:tumPizzalar_CazipPizzalarSayfaKontrolu_WebMob
 
 Tüm Pizzalar - Özel Pizzalar Sayfa Kontrolü
 ----------------
-Tags:tumPizzalar_OzelPizzalarSayfaKontrolu_WebMob
+Tags:tumPizzalar_OzelPizzalarSayfaKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -53,7 +53,7 @@ Tags:tumPizzalar_OzelPizzalarSayfaKontrolu_WebMob
 
 Tüm Pizzalar - Bol Malzeme Pizzalar Sayfa Kontrolü
 ----------------
-Tags:tumPizzalar_BolMalzemePizzalarSayfaKontrolu_WebMob
+Tags:tumPizzalar_BolMalzemePizzalarSayfaKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -70,7 +70,7 @@ Tags:tumPizzalar_BolMalzemePizzalarSayfaKontrolu_WebMob
 
 Tüm Pizzalar - GurmePizzalar Sayfa Kontrolü
 ----------------
-Tags:tumPizzalar_GurmePizzalarSayfaKontrolu_WebMob
+Tags:tumPizzalar_GurmePizzalarSayfaKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -87,7 +87,7 @@ Tags:tumPizzalar_GurmePizzalarSayfaKontrolu_WebMob
 
 Tüm Pizzalar - Üst Bar Profilim Popup Başarılı Açılıyor Mu Kontrolü
 ----------------
-Tags:tumPizzalar_UstBarProfilimPopupBasariliAciliyormuKontrolu_WebMob
+Tags:tumPizzalar_UstBarProfilimPopupBasariliAciliyormuKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -102,7 +102,7 @@ Tags:tumPizzalar_UstBarProfilimPopupBasariliAciliyormuKontrolu_WebMob
 
 Tüm Pizzalar -  Alt Bar Yazıları Doğru Geliyor Mu Kontrolü
 ----------------
-Tags:tumPizzalar_AltBarYazilariDogruGeliyormuKontrolu_WebMob
+Tags:tumPizzalar_AltBarYazilariDogruGeliyormuKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
@@ -116,7 +116,7 @@ Tags:tumPizzalar_AltBarYazilariDogruGeliyormuKontrolu_WebMob
 
 Tüm Pizzalar - Her Tabda Sipariş Ver Buton Kontrolü
 ----------------------------------
-Tags:tumPizzalar_HerTabdaSiparisVerButonKontrolu_WebMob
+Tags:tumPizzalar_HerTabdaSiparisVerButonKontrolu
 
 * Üye Ol butonuna basılır
 * Random mail ve telefon ile üye olunur
