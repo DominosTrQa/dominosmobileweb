@@ -86,3 +86,6 @@
 * Element var mı kontrol et "anasayfaAltBarSiparisHattiText"
 * Element var mı kontrol et "anasayfaAltBarSikayetOneriHattiText"
 * Element var mı kontrol et "anasayfaAltBarBilgilendirmeText"
+
+# Ekstra Lezzetler butonuna tıklanır
+* Elementi bekle ve sonra tıkla "ekstraLezzetlerButon"
