@@ -40,6 +40,11 @@
     "type": "xpath"
   },
   {
+    "key": "barbekuSosluSucukluPizza",
+    "value": "(//*[contains(text(),'Barbekü Soslu Sucuklu Pizza')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "sosyalPizza",
     "value": "(//*[contains(text(),'Sosyal')])[1]",
     "type": "xpath"
@@ -51,7 +56,7 @@
   },
   {
   "key": "tavukluPizza",
-  "value": "(//*[contains(text(),'Tavuklu')])[1]",
+  "value": "(//*[contains(text(),'Ballı Hardal Soslu Tavuklu')])[1]",
   "type": "xpath"
   },
   {
@@ -87,6 +92,11 @@
   {
     "key": "devMalzemosPizza",
     "value": "(//*[contains(text(),'Dev Malzemos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "dominosSosluBolMalzemosPizza",
+    "value": "(//*[contains(text(),'Dominos Soslu Bol Malzemos')])[1]",
     "type": "xpath"
   },
   {

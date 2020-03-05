@@ -29,7 +29,7 @@ Tags:ekstralar_DurumlerSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Dürümler butonuna tıklanır
+* Dürümler sayfasına gidilir
 * Dürümler sayfasının elementlerinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
@@ -46,7 +46,7 @@ Tags:ekstralar_EkmekArasiSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Ekmek Arası butonuna tıklanır
+* Ekmek Arası sayfasına gidilir
 * Ekmek Arası sayfasının elementlerinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
@@ -63,7 +63,7 @@ Tags:ekstralar_TatlilarSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Tatlılar butonuna tıklanır
+* Tatlılar sayfasına gidilir
 * Tatlılar sayfasının elementlerinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
@@ -80,7 +80,7 @@ Tags:ekstralar_EkmeklerSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Ekmekler butonuna tıklanır
+* Ekmekler sayfasına gidilir
 * Ekmekler sayfasının elementlerinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
@@ -114,7 +114,7 @@ Tags:ekstralar_SoslarSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Soslar butonuna tıklanır
+* Soslar sayfasına gidilir
 * Soslar sayfasının elementlerinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir

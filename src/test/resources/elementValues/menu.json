@@ -4,6 +4,316 @@
     "key": "hamburgerMenuProfilimbuton",
     "value": "(.//*[@class='mobile__UserButton-sc-1egphac-13 fAuxPs'])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanButon",
+    "value": "(//*[contains(text(),'Ye-Kazan')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanUyelikKosullariCheckbox",
+    "value": ".//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanYeKazanaKatılButon",
+    "value": ".//*[@class='styled__LoyaltyButton-sc-1n69iee-5 HjgKz']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanSikcaSorulanSorularText",
+    "value": "(//*[contains(text(),'Sıkça Sorulan Sorular')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanUyelikKosullariLinkText",
+    "value": "(//*[contains(text(),'Üyelik Koşulları')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanUyelikKosullariYedikceKazaninText",
+    "value": "(//*[contains(text(),'Yedikçe kazanın')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimEposta",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimTelefon",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimAd",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimSoyad",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimDogumTarigiGun",
+    "value": "(.//*[@id='Gün'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimDogumTarihiAy",
+    "value": "(.//*[@id='Ay'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimDogumTarihiYil",
+    "value": "(.//*[@id='Yıl'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimTakimSeciniz",
+    "value": "(//*[contains(text(),'Seçiniz...')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimMeslekSeciniz",
+    "value": "(//*[contains(text(),'Seçiniz...')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimAcikRizaMetniCheckbox",
+    "value": "(.//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimYekazanCheckbox",
+    "value": "(.//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimUyeliktenAyrılmakIcınTiklayinButon",
+    "value": "(//*[contains(text(),'Üyelikten Ayrılmak İçin Tıklayın')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzText",
+    "value": "(//*[contains(text(),'Üyelikten ayrılmak istiyor musunuz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzIstiyorumButon",
+    "value": ".//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gAinbq']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzVazgeçButon",
+    "value": ".//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO leUiDi']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimKVKKAydinlatmaMetniLinkText",
+    "value": "(//*[contains(text(),'KVKK Aydınlatma Metni')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimKVKKAydinlatmaMetniKisiselVerilerText",
+    "value": "(//*[contains(text(),'Kişisel Verilerin Korunması Mevzuatı')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimAcikRizaMetniLinkText",
+    "value": "(//*[contains(text(),'Açık Rıza Metni')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuUyelikBilgilerimAcikRizaMetniKisiselVerilerText",
+    "value": "(//*[contains(text(),'Kişisel Verilerin Korunması')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuSiparislerimButon",
+    "value": "(//*[contains(text(),'Siparişlerim')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "aktifSiparislerimAlani",
+    "value": "(//*[contains(text(),'Aktif Siparişlerim')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tekTiklaSiparislerimAlani",
+    "value": "(//*[contains(text(),'Tek Tıkla Siparişlerim')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "eskiSiparislerimAlani",
+    "value": "(//*[contains(text(),'Eski Siparişlerim')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuPizzaTakipButon",
+    "value": "(//*[contains(text(),'Pizza Takip')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuPizzaTakipGoruntuleButon",
+    "value": "(.//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eajXjz'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuPizzaTakipGoruntuleKodGecersizdirText",
+    "value": "(//*[contains(text(),'Girdiğin takip kodu geçersizdir')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuPizzaTakipDijitalPizzaTakipSistemiText",
+    "value": ".//*[@class='pizzaTrackerInfo__FlContainerItemRight-sc-178atlk-2 ksyuQR']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimButon",
+    "value": "(//*[contains(text(),'Notlarım')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimEkleButon",
+    "value": "(//a[@class='notes__NewButton-x7fyts-8 iYWqsu sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO kfUJay'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimNotBasligiTextbox",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimNotIcerigiTextbox",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimEkleEkleButon",
+    "value": "(.//*[@class='noteForm__Button-sc-1cp9ef3-3 fXCoXk'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimEklenenNot",
+    "value": "(//*[contains(text(),'Test')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimIlkNotBasligi",
+    "value": "(.//*[@class='notes__NoteTitle-x7fyts-3 cpNPRp'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimIlkNotDuzenleButon",
+    "value": "(.//*[@class='notes__EditButton-x7fyts-7 fCrMse'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimDuzenlenmisNot",
+    "value": "(//*[contains(text(),'Testx')])",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotuDuzenlemektenVazgecButon",
+    "value": "(.//*[@id='DPE_TR_MODALDIALOG_BUTTON_CLOSE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotuDuzenleSilButon",
+    "value": "(.//*[@class='noteForm__Column-sc-1cp9ef3-1 HGHOf column__NewColumn-sc-1s5q7bb-0 dPNRLI'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuCikisButon",
+    "value": "(//*[contains(text(),'Çıkış')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimButon",
+    "value": "(//*[contains(text(),'Adreslerim')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimSeçiliAdresIleDevamEtButon",
+    "value": ".//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_SELECTADDRESS']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimYeniAdresEkleButon",
+    "value": ".//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_NEWADDRESS']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleCaddeDropdown",
+    "value": "(//*[contains(text(),'Seçiniz...')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleCaddeAyisigiSokak",
+    "value": "(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleApartmanNoTextbox",
+    "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_DROPDOWN_APARTMENTNUMBER'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleDaireTextbox",
+    "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_INPUT_DOORNUMBER'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleAdresAdiTextbox",
+    "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_INPUT_ADDRESSTITLE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleTelefonTextbox",
+    "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_INPUT_PHONE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleKaydetButon",
+    "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_BUTTON_SAVE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleEklenenAdres",
+    "value": "(//*[contains(text(),'Test')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresEkleDegistirilmisAdres",
+    "value": "(//*[contains(text(),'Burgazada Mh., Ayışığı Sk., No: 1A, D: 1 İSTANBUL / ADALAR')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdresIlIlceMahelleDuzenleButon",
+    "value": ".//*[@id='DPE_TR_ADDRESSEDIT_BUTTON_EDIT']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilIlceMahelleDuzenleKontrolu",
+    "value": "(//*[contains(text(),'İstanbul Sarıyer')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimAdresiDuzenleButon",
+    "value": ".//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSEDIT0']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimIlkAdresBasligi",
+    "value": "(.//*[@class='styled__AddressName-yleopv-9 eNBbSa'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimDuzenleSilButon",
+    "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_BUTTON_DELETE'])[1]",
+    "type": "xpath"
   }
 
 

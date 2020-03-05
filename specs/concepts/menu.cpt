@@ -1,0 +1,163 @@
+
+# Hamburger menünün açıldığı kontrol edilir
+* Element var mı kontrol et "hamburgerMenuProfilimbuton"
+
+# Ye-Kazan butonuna basılır
+* Elementi bekle ve sonra tıkla "menuYeKazanButon"
+
+# Ye-Kazan sayfasındaki elementlerin geldiği kontrol edilir
+* Element var mı kontrol et "menuYeKazanUyelikKosullariCheckbox"
+* Element var mı kontrol et "menuYeKazanYeKazanaKatılButon"
+* Element var mı kontrol et "menuYeKazanSikcaSorulanSorularText"
+
+# Ye-Kazan Üyelik Koşulları kontrol edilir
+* Elementi bekle ve sonra tıkla "menuYeKazanUyelikKosullariLinkText"
+* Element var mı kontrol et "menuYeKazanUyelikKosullariYedikceKazaninText"
+
+# Profilim butonuna basılır
+* Elementi bekle ve sonra tıkla "hamburgerMenuProfilimbuton"
+
+# Üyelik Bilgilerimde dolu gelmesi gereken alanlar kontrol edilir
+* Element var mı kontrol et "menuUyelikBilgilerimEposta"
+* Element var mı kontrol et "menuUyelikBilgilerimTelefon"
+
+# Üyelik Bilgilerimde değiştirilebilir alanların geldiği kontrol edilir
+* Element var mı kontrol et "menuUyelikBilgilerimAd"
+* Element var mı kontrol et "menuUyelikBilgilerimSoyad"
+* Element var mı kontrol et "menuUyelikBilgilerimDogumTarigiGun"
+* Element var mı kontrol et "menuUyelikBilgilerimDogumTarihiAy"
+* Element var mı kontrol et "menuUyelikBilgilerimDogumTarihiYil"
+* Element var mı kontrol et "menuUyelikBilgilerimTakimSeciniz"
+* Element var mı kontrol et "menuUyelikBilgilerimMeslekSeciniz"
+* Element var mı kontrol et "menuUyelikBilgilerimAcikRizaMetniCheckbox"
+* Element var mı kontrol et "menuUyelikBilgilerimYekazanCheckbox"
+
+# Üyelikten Ayrılmak İçin Tıklayın butonuna tıklanır ve gelen popup kontrol edilir
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimUyeliktenAyrılmakIcınTiklayinButon"
+* Element var mı kontrol et "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzText"
+
+# Üyelikten Ayrılmak İçin Tıklayın butonuna tıklanır ve başarılı bir şekilde işlem tamamlanır
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimUyeliktenAyrılmakIcınTiklayinButon"
+* Element var mı kontrol et "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzText"
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzIstiyorumButon"
+* Element var mı kontrol et "uyeOlAdTextbox"
+
+# Üyelikten Ayrılmak İçin Tıklayın butonuna tıklanır ve Vazgeç butonunun çalıştığı kontrol edilir
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimUyeliktenAyrılmakIcınTiklayinButon"
+* Element var mı kontrol et "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzText"
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimUyeliktenAyrılmakIstıyormusunuzVazgeçButon"
+* Element var mı kontrol et "menuUyelikBilgilerimAd"
+
+# Üyelik Bilgilerimde ki KVKK Aydınlatma Metni kontrol edilir
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimKVKKAydinlatmaMetniLinkText"
+* Element var mı kontrol et "menuUyelikBilgilerimKVKKAydinlatmaMetniKisiselVerilerText"
+
+# Üyelik Bilgilerimde ki Açık Rıza Metni kontrol edilir
+* Elementi bekle ve sonra tıkla "menuUyelikBilgilerimAcikRizaMetniLinkText"
+* Element var mı kontrol et "menuUyelikBilgilerimAcikRizaMetniKisiselVerilerText"
+
+# Siparişlerim butonuna basılır
+* Elementi bekle ve sonra tıkla "menuSiparislerimButon"
+
+# Siparişlerim sayfasındaki alanların geldiği kontrol edilir
+* Element var mı kontrol et "aktifSiparislerimAlani"
+* Element var mı kontrol et "tekTiklaSiparislerimAlani"
+* Element var mı kontrol et "eskiSiparislerimAlani"
+
+# Pizza Takip butonuna basılır
+* Elementi bekle ve sonra tıkla "menuPizzaTakipButon"
+
+# Pizza Takip sayfasında Görüntüle butonuna basılır ve uyarı alındığı görülür
+* Elementi bekle ve sonra tıkla "menuPizzaTakipGoruntuleButon"
+* Element var mı kontrol et "menuPizzaTakipGoruntuleKodGecersizdirText"
+
+# Pizza Takip sayfasında ki Dijital Pizza Takip Sistemi yazısının geldiği kontrol edilir
+* Element var mı kontrol et "menuPizzaTakipDijitalPizzaTakipSistemiText"
+
+# Notlarım butonuna basılır
+* Elementi bekle ve sonra tıkla "menuNotlarimButon"
+
+# Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
+* Elementi bekle ve sonra tıkla "menuNotlarimEkleButon"
+* Element var mı kontrol et "menuNotlarimNotBasligiTextbox"
+
+# Yeni not eklenir ve eklendiği kontrol edilir
+* Elementi bekle ve sonra tıkla "menuNotlarimNotBasligiTextbox"
+* "Test" textini "menuNotlarimNotBasligiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuNotlarimNotIcerigiTextbox"
+* "Test" textini "menuNotlarimNotIcerigiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuNotlarimEkleEkleButon"
+* Element var mı kontrol et "menuNotlarimEklenenNot"
+
+# Eklenen not düzenlenir ve değişikliklerin yansıdığı kontrol edilir
+* Elementi bekle ve sonra tıkla "menuNotlarimIlkNotDuzenleButon"
+* "menuNotlarimNotBasligiTextbox" li elementi bul, temizle ve "x" değerini yaz
+* Elementi bekle ve sonra tıkla "menuNotlarimEkleEkleButon"
+* Element var mı kontrol et "menuNotlarimDuzenlenmisNot"
+
+# Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
+* Elementi bekle ve sonra tıkla "menuNotlarimIlkNotDuzenleButon"
+* Element var mı kontrol et "menuNotlarimNotBasligiTextbox"
+* Element var mı kontrol et "menuNotlarimNotIcerigiTextbox"
+
+# Not değiştirmekten Vazgeç butonuna basılır ve değişiklik olmadığı kontrol edilir
+* Elementi bekle ve sonra tıkla "menuNotuDuzenlemektenVazgecButon"
+* Element var mı kontrol et "menuNotlarimEklenenNot"
+
+# Not silinir ve silindiği kontrol edilir
+* Elementi bekle ve sonra tıkla "menuNotuDuzenleSilButon"
+* Element yok mu kontrol et "menuNotlarimEklenenNot"
+
+# Çıkış yapılır ve çıkış yapıldığı kontrol edilir
+* Elementi bekle ve sonra tıkla "menuCikisButon"
+* Element var mı kontrol et "gelAlButon"
+
+# Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Elementi bekle ve sonra tıkla "menuAdreslerimButon"
+* Element var mı kontrol et "menuAdreslerimSeçiliAdresIleDevamEtButon"
+
+# Yeni Adres Ekle butonuna tıklanır
+* "menuAdreslerimYeniAdresEkleButon" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "menuAdreslerimYeniAdresEkleButon"
+
+# Adalar - Burgazada için adres bilgileri tamamlanır
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
+# Yeni adresin eklendiği kontrol edilir
+* Element var mı kontrol et "menuAdresEkleEklenenAdres"
+
+# Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
+* Elementi bekle ve sonra tıkla "menuAdresEkleEklenenAdres"
+* Elementi bekle ve sonra tıkla "menuAdreslerimSeçiliAdresIleDevamEtButon"
+* Element var mı kontrol et "dominosLogo"
+
+# İl, ilçe, mahalle Düzenle butonuna basılır
+* Elementi bekle ve sonra tıkla "menuAdresIlIlceMahelleDuzenleButon"
+
+# İl, ilçe, mahalle güncellemesi kontrol edilir
+* Element var mı kontrol et "ilIlceMahelleDuzenleKontrolu"
+
+# Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
+* "menuAdreslerimIlkAdresBasligi" li elementi bul ve değerini "ilkAdresBasligi" olarak sakla
+* Elementi bekle ve sonra tıkla "menuAdreslerimIlkAdresBasligi"
+* Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
+* Elementi bekle ve sonra tıkla "menuAdresEkleApartmanNoTextbox"
+* "menuAdresEkleApartmanNoTextbox" li elementi bul, temizle ve "5" değerini yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+* "3" saniye bekle
+* Element var mı kontrol et "menuAdresEkleDegistirilmisAdres"
+
+# Eklenen adres silinir ve silindiği kontrol edilir
+* Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
+* Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
+* "3" saniye bekle
+*Element yok mu kontrol et "menuAdreslerimIlkAdresBasligi"
