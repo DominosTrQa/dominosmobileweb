@@ -117,7 +117,7 @@
   },
   {
     "key": "ilceSarıyer",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[27]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[102]",
     "type": "xpath"
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "key": "mahalleAyazaga",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"
   },
   {

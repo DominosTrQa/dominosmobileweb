@@ -54,9 +54,6 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaHamburgerMenu"
 
-# Hamburger menünün açıldığı kontrol edilir
-* Element var mı kontrol et "hamburgerMenuProfilimbuton"
-
 # Tüm Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tumPizzalarButon"
 

@@ -29,8 +29,8 @@ Tags:ekstralar_DurumlerSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Dürümler butonuna tıklanır
-* Dürümler sayfasının elementlerinin geldiği kontrol edilir
+* Dürümler sayfasına gidilir
+* Dürümler sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -46,8 +46,26 @@ Tags:ekstralar_EkmekArasiSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Ekmek Arası butonuna tıklanır
-* Ekmek Arası sayfasının elementlerinin geldiği kontrol edilir
+* Ekmek Arası sayfasına gidilir
+* Ekmek Arası sayfasının ilk elementinin geldiği kontrol edilir
+* Anasayfadaki tabın geldiği kontrol edilir
+* Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
+
+
+
+Ekstralar - Tavuklar Sayfa Kontrolü
+----------------
+Tags:ekstralar_TavuklarSayfaKontrolu
+
+* Üye Ol butonuna basılır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstra Lezzetler butonuna tıklanır
+* Tavuklar sayfasına gidilir
+* Tavuklar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -63,8 +81,8 @@ Tags:ekstralar_TatlilarSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Tatlılar butonuna tıklanır
-* Tatlılar sayfasının elementlerinin geldiği kontrol edilir
+* Tatlılar sayfasına gidilir
+* Tatlılar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -80,8 +98,8 @@ Tags:ekstralar_EkmeklerSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Ekmekler butonuna tıklanır
-* Ekmekler sayfasının elementlerinin geldiği kontrol edilir
+* Ekmekler sayfasına gidilir
+* Ekmekler sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -97,8 +115,8 @@ Tags:ekstralar_SalatalarSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Salatalar butonuna tıklanır
-* Salatalar sayfasının elementlerinin geldiği kontrol edilir
+* Salatalar sayfasına gidilir
+* Salatalar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -114,8 +132,8 @@ Tags:ekstralar_SoslarSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Ekstra Lezzetler butonuna tıklanır
-* Soslar butonuna tıklanır
-* Soslar sayfasının elementlerinin geldiği kontrol edilir
+* Soslar sayfasına gidilir
+* Soslar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 

@@ -9,95 +9,29 @@
 * Element var mı kontrol et "tabSalatalar"
 * Element var mı kontrol et "tabSoslar"
 
-# Dürümler butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabDurumler"
+# Dürümler sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "durumlerButon1"
 
-# Dürümler sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "ucPeynirliDurumos"
-* Element var mı kontrol et "bolMalzemeliDurumos"
-* Element var mı kontrol et "tavukluDurumos"
+# Ekmek Arası sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "ekmekArasiButon1"
 
-# Ekmek Arası butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabEkmekArasi"
+# Tavuklar sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "tavuklarButon1"
 
-# Ekmek Arası sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "kavurmaliEkmekArasi"
-* Element var mı kontrol et "patsoEkmekArasi"
-* Element var mı kontrol et "sosisliEkmekArasi"
-* Element var mı kontrol et "ucPeynirliEkmekArasi"
-* Element var mı kontrol et "mangalSucukluEkmekArasi"
-* Element var mı kontrol et "tonBalikliEkmekArasi"
-* Element var mı kontrol et "bolMalzemeliEkmekArasi"
+# Tatlılar sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "tatlılarButon1"
 
-# Tavuklar butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabTavuklar"
+# Ekmekler sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "ekmeklerButon1"
 
-# Tavuklar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "citirTavukToplari"
-* Element var mı kontrol et "patates"
-* Element var mı kontrol et "tavukParcalari"
-* Element var mı kontrol et "tavukParcalariMenuOrtaBoy"
-* Element var mı kontrol et "tavukKanatMenuOrtaBoy"
-* Element var mı kontrol et "patatesOrtaBoy"
-* Element var mı kontrol et "tavukParcalariMenuBuyukBoy"
-* Element var mı kontrol et "tavukKanatMenuBuyukBoy"
-* Element var mı kontrol et "citirTavukMenuBuyukBoy"
-* Element var mı kontrol et "tavukMegaMenu"
+# Salatalar sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "salataButon1"
 
-# Tatlılar butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabTatlilar"
+# İçecekler sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "iceceklerButon1"
 
-# Tatlılar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "kitkatCikolataliPizza"
-* Element var mı kontrol et "cikolataliSufle"
-* Element var mı kontrol et "mozaik"
-
-# Ekmekler butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabEkmekler"
-
-# Ekmekler sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "sarimsakliEkmek"
-* Element var mı kontrol et "bolPeynirliEkmek"
-
-# Salatalar butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabSalatalar"
-
-# Salatalar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "salata"
-
-# İçecekler butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabIcecekler"
-
-# İçecekler sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "cocaCola330ml"
-* Element var mı kontrol et "cappyKarisik330ml"
-* Element var mı kontrol et "fuseTeaLimon330ml"
-* Element var mı kontrol et "fuseTeaSeftali330ml"
-* Element var mı kontrol et "cocaColaLight330ml"
-* Element var mı kontrol et "sprite330ml"
-* Element var mı kontrol et "fanta330ml"
-* Element var mı kontrol et "cocaColaSekersiz330ml"
-* Element var mı kontrol et "cappySeftali330ml"
-* Element var mı kontrol et "cappyVisne330ml"
-* Element var mı kontrol et "cappyPortakal330ml"
-* Element var mı kontrol et "damlaSu"
-* Element var mı kontrol et "cocaCola1lt"
-* Element var mı kontrol et "fuseTeaLimon1lt"
-* Element var mı kontrol et "fuseTeaSeftali1lt"
-* Element var mı kontrol et "cocaColaLight1lt"
-* Element var mı kontrol et "sprite1lt"
-* Element var mı kontrol et "fanta1lt"
-* Element var mı kontrol et "cocaColaSekersiz1lt"
-* Element var mı kontrol et "sutasAyran1lt"
-* Element var mı kontrol et "sutasAyran"
-
-# Soslar butonuna tıklanır
-* Elementi bekle ve sonra tıkla "tabSoslar"
-
-# Soslar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "yogurtluSos"
-* Element var mı kontrol et "meksikaSos"
-* Element var mı kontrol et "aciSos"
+# Soslar sayfasının ilk elementinin geldiği kontrol edilir
+* Element var mı kontrol et "soslarButon1"
 
 # Dürümler sayfasına gidilir
 * Elementi bekle ve sonra tıkla "tabDurumler"

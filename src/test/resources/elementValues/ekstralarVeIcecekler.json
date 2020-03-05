@@ -41,253 +41,43 @@
     "type": "xpath"
   },
   {
-    "key": "ucPeynirliDurumos",
-    "value": "(//*[contains(text(),'Üç Peynirli Dürümos')])[1]",
+    "key": "durumlerButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB0_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "bolMalzemeliDurumos",
-    "value": "(//*[contains(text(),'Bol Malzemeli Dürümos')])[1]",
+    "key": "ekmekArasiButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB2_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "tavukluDurumos",
-    "value": "(//*[contains(text(),'Tavuklu Dürümos')])[1]",
+    "key": "tavuklarButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB3_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "kavurmaliEkmekArasi",
-    "value": "(//*[contains(text(),'Kavurmalı Ekmek Arası')])[1]",
+    "key": "tatlılarButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB5_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "patsoEkmekArasi",
-    "value": "(//*[contains(text(),'Patso Ekmek Arası')])[1]",
+    "key": "ekmeklerButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB4_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "sosisliEkmekArasi",
-    "value": "(//*[contains(text(),'Sosisli Ekmek Arası')])[1]",
+    "key": "salataButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB6_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "ucPeynirliEkmekArasi",
-    "value": "(//*[contains(text(),'Üç Peynirli Ekmek Arası')])[1]",
+    "key": "iceceklerButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB1_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "mangalSucukluEkmekArasi",
-    "value": "(//*[contains(text(),'Mangal Sucuklu Ekmek Arası')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tonBalikliEkmekArasi",
-    "value": "(//*[contains(text(),'Ton Balıklı Ekmek Arası')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "bolMalzemeliEkmekArasi",
-    "value": "(//*[contains(text(),'Bol Malzemeli Ekmek Arası')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "citirTavukToplari",
-    "value": "(//*[contains(text(),'Çıtır Tavuk Topları')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "patates",
-    "value": "(//*[contains(text(),'Patates')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tavukParcalari",
-    "value": "(//*[contains(text(),'Tavuk Parçaları')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tavukParcalariMenuOrtaBoy",
-    "value": "(//*[contains(text(),'Tavuk Parçaları Menü - Orta Boy')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tavukKanatMenuOrtaBoy",
-    "value": "(//*[contains(text(),'Tavuk Kanat Menü - Orta Boy')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "patatesOrtaBoy",
-    "value": "(//*[contains(text(),'Patates - Orta Boy')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tavukParcalariMenuBuyukBoy",
-    "value": "(//*[contains(text(),'Tavuk Parçaları Menü - Büyük Boy')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tavukKanatMenuBuyukBoy",
-    "value": "(//*[contains(text(),'Tavuk Kanat Menü - Büyük Boy')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "citirTavukMenuBuyukBoy",
-    "value": "(//*[contains(text(),'Çıtır Tavuk Menü - Büyük Boy')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "tavukMegaMenu",
-    "value": "(//*[contains(text(),'Tavuk Mega Menü')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "kitkatCikolataliPizza",
-    "value": "(//*[contains(text(),'Kitkat Çikolatalı Pizza')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cikolataliSufle",
-    "value": "(//*[contains(text(),'Çikolatalı Sufle')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "mozaik",
-    "value": "(//*[contains(text(),'Mozaik')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "sarimsakliEkmek",
-    "value": "(//*[contains(text(),'Sarımsaklı Ekmek')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "bolPeynirliEkmek",
-    "value": "(//*[contains(text(),'Bol Peynirli Ekmek')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "salata",
-    "value": "(//*[contains(text(),'Salata')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cocaCola330ml",
-    "value": "(//*[contains(text(),'Coca-Cola Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cappyKarisik330ml",
-    "value": "(//*[contains(text(),'Cappy Karışık Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fuseTeaLimon330ml",
-    "value": "(//*[contains(text(),'FuseTea Limon Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fuseTeaSeftali330ml",
-    "value": "(//*[contains(text(),'FuseTea Şeftali Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cocaColaLight330ml",
-    "value": "(//*[contains(text(),'Coca-Cola Light Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "sprite330ml",
-    "value": "(//*[contains(text(),'Sprite Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fanta330ml",
-    "value": "(//*[contains(text(),'Fanta Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cocaColaSekersiz330ml",
-    "value": "(//*[contains(text(),'Coca-Cola Şekersiz Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cappySeftali330ml",
-    "value": "(//*[contains(text(),'Cappy Şeftali Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cappyVisne330ml",
-    "value": "(//*[contains(text(),'Cappy Vişne Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cappyPortakal330ml",
-    "value": "(//*[contains(text(),'Cappy Portakal Kutu 330 ml')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "damlaSu",
-    "value": "(//*[contains(text(),'0,5 Lt Damla Su')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cocaCola1lt",
-    "value": "(//*[contains(text(),'Coca-Cola Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fuseTeaLimon1lt",
-    "value": "(//*[contains(text(),'FuseTea Limon Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fuseTeaSeftali1lt",
-    "value": "(//*[contains(text(),'FuseTea Şeftali Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cocaColaLight1lt",
-    "value": "(//*[contains(text(),'Coca-Cola Light Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "sprite1lt",
-    "value": "(//*[contains(text(),'Sprite Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fanta1lt",
-    "value": "(//*[contains(text(),'Fanta Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "cocaColaSekersiz1lt",
-    "value": "(//*[contains(text(),'Coca-Cola Şekersiz Pet 1 lt')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "sutasAyran1lt",
-    "value": "(//*[contains(text(),'1 Lt Sütaş Ayran')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "sutasAyran",
-    "value": "(//*[contains(text(),'Sütaş Ayran')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "yogurtluSos",
-    "value": "(//*[contains(text(),'Yoğurtlu Sos')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "meksikaSos",
-    "value": "(//*[contains(text(),'Meksika Sos')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "aciSos",
-    "value": "(//*[contains(text(),'Acı Sos')])[1]",
+    "key": "soslarButon1",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB7_CARD0']",
     "type": "xpath"
   }
 
