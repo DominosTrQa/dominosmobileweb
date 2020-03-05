@@ -5,50 +5,26 @@
 * Element var mı kontrol et "tabBolMalzemePizzalar"
 * Element var mı kontrol et "tabGurmePizzalar"
 
-# Cazip Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "barbekuSosluSucukluPizza"
-* Element var mı kontrol et "superosPizza"
-* Elementi bekle ve sonra tıkla "tabCazipPizzalar"
-* Element var mı kontrol et "sucukseverPizza"
-* Element var mı kontrol et "klasikPizza"
+# Cazip Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
+* Element var mı kontrol et "cazipPizzalarButon1"
 
 # Özel Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tabOzelPizzalar"
 
-# Özel Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "sosyalPizza"
-* Elementi bekle ve sonra tıkla "tabOzelPizzalar"
-* Element var mı kontrol et "fitFreshPizza"
-* Elementi bekle ve sonra tıkla "tabOzelPizzalar"
-* Element var mı kontrol et "tavukluPizza"
-* Elementi bekle ve sonra tıkla "tabOzelPizzalar"
-* Element var mı kontrol et "vegiPizza"
+# Özel Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
+* Element var mı kontrol et "ozelPizzalarButon1"
 
 # Bol Malzeme Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tabBolMalzemePizzalar"
 
-# Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "dominosSosluBolMalzemosPizza"
-* Elementi bekle ve sonra tıkla "tabBolMalzemePizzalar"
-* Element var mı kontrol et "bolMalzemosPizza"
-* Elementi bekle ve sonra tıkla "tabBolMalzemePizzalar"
-* Element var mı kontrol et "dopdoluExtraPizza"
-* Element var mı kontrol et "extravaganzzaPizza"
-* Elementi bekle ve sonra tıkla "tabBolMalzemePizzalar"
-* Element var mı kontrol et "karisikPizza"
-* Element var mı kontrol et "italianoPizza"
-* Element var mı kontrol et "devMalzemosPizza"
+# Bol Malzeme Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
+* Element var mı kontrol et "bolmalzemePizzalarButon1"
 
 # Gurme Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tabGurmePizzalar"
 
-# Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
-* Element var mı kontrol et "mangalSucukluPizza"
-* Element var mı kontrol et "konyalimPizza"
-* Element var mı kontrol et "pastirmaSucukPizza"
-* Element var mı kontrol et "newYorkPizza"
-* Element var mı kontrol et "dörtPeynirliPizza"
-* Element var mı kontrol et "callypsoPizza"
+# Gurme Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
+* Element var mı kontrol et "gurmePizzalarButon1"
 
 # Sipariş Ver butonunun geldiği kontrol edilir
 * Element var mı kontrol et "birinciSiparisVerButon"

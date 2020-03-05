@@ -29,7 +29,7 @@ Tags:tumPizzalar_CazipPizzalarSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* Cazip Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -46,7 +46,7 @@ Tags:tumPizzalar_OzelPizzalarSayfaKontrolu
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Özel Pizzalar butonuna tıklanır
-* Özel Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* Özel Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -63,7 +63,7 @@ Tags:tumPizzalar_BolMalzemePizzalarSayfaKontrolu
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Bol Malzeme Pizzalar butonuna tıklanır
-* Bol Malzeme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* Bol Malzeme Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -80,7 +80,7 @@ Tags:tumPizzalar_GurmePizzalarSayfaKontrolu
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar butonuna tıklanır
-* Gurme Pizzalar sayfasının elementlerinin geldiği kontrol edilir
+* Gurme Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 

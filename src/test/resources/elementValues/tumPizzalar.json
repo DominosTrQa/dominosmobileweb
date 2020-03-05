@@ -25,108 +25,23 @@
     "type": "xpath"
   },
   {
-    "key": "superosPizza",
-    "value": "(//*[contains(text(),'Süperos')])[1]",
+    "key": "cazipPizzalarButon1",
+    "value": ".//*[@id='DPE_TR_PIZZAS_TAB0_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "sucukseverPizza",
-    "value": "(//*[contains(text(),'Sucuksever')])[1]",
+    "key": "ozelPizzalarButon1",
+    "value": ".//*[@id='DPE_TR_PIZZAS_TAB1_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "klasikPizza",
-    "value": "(//*[contains(text(),'Klasik')])[1]",
+    "key": "bolmalzemePizzalarButon1",
+    "value": ".//*[@id='DPE_TR_PIZZAS_TAB2_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "barbekuSosluSucukluPizza",
-    "value": "(//*[contains(text(),'Barbekü Soslu Sucuklu Pizza')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "sosyalPizza",
-    "value": "(//*[contains(text(),'Sosyal')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "fitFreshPizza",
-    "value": "(//*[contains(text(),'Fit & Fresh')])[1]",
-    "type": "xpath"
-  },
-  {
-  "key": "tavukluPizza",
-  "value": "(//*[contains(text(),'Ballı Hardal Soslu Tavuklu')])[1]",
-  "type": "xpath"
-  },
-  {
-    "key": "vegiPizza",
-    "value": "(//*[contains(text(),'Vegi')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "bolMalzemosPizza",
-    "value": "(//*[contains(text(),'Bol Malzemos')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "dopdoluExtraPizza",
-    "value": "(//*[contains(text(),'Dopdolu Extra')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "extravaganzzaPizza",
-    "value": "(//*[contains(text(),'Extravaganzza')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "karisikPizza",
-    "value": "(//*[contains(text(),'Karışık')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "italianoPizza",
-    "value": "(//*[contains(text(),'Italiano')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "devMalzemosPizza",
-    "value": "(//*[contains(text(),'Dev Malzemos')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "dominosSosluBolMalzemosPizza",
-    "value": "(//*[contains(text(),'Dominos Soslu Bol Malzemos')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "mangalSucukluPizza",
-    "value": "(//*[contains(text(),'Mangal Sucuklu')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "konyalimPizza",
-    "value": "(//*[contains(text(),'Konyalım')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "pastirmaSucukPizza",
-    "value": "(//*[contains(text(),'Pastırma & Sucuk')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "newYorkPizza",
-    "value": "(//*[contains(text(),'New York')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "dörtPeynirliPizza",
-    "value": "(//*[contains(text(),'Dört Peynirli')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "callypsoPizza",
-    "value": "(//*[contains(text(),'Callypso')])[1]",
+    "key": "gurmePizzalarButon1",
+    "value": ".//*[@id='DPE_TR_PIZZAS_TAB3_CARD0']",
     "type": "xpath"
   },
   {
