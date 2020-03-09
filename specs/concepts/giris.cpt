@@ -84,8 +84,10 @@
 # Random mail ve telefon ile üye olunur
 * Elementi bekle ve sonra tıkla "uyeOlAdTextbox"
 * "Test" textini "uyeOlAdTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeOlAdTextbox"
 * Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
 * Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
 * Telefon noyu "uyeOlTelefonTextbox" elementine yaz
@@ -93,7 +95,7 @@
 * "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz
 * Elementi bekle ve sonra tıkla "uyeOlSifreTextbox"
 * "Test1234" textini "uyeOlSifreTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "uyeOlSifreTextbox"
+* Elementi bekle ve sonra tıkla "uyeOlSifreTekrarTextbox"
 * "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
 
 # Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
