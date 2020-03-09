@@ -33,8 +33,8 @@
 * Elementi bekle ve sonra tıkla "epostaTextbox"
 * "epostaTextbox" li elementi bulana kadar bekle ve "dominostest0@hotmail.com" değerini yazdır
  "dominostest0@hotmail.com" textini "epostaTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "sifreTextbox"
-*  "Test123" textini "sifreTextbox" elemente yaz
+* "sifreTextbox" li elementi bulana kadar bekle ve "Test123" değerini yazdır
+  "Test123" textini "sifreTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
 
 # Adrese Teslim ve Gel Al butonları var mı kontrol edilir
