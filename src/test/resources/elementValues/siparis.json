@@ -1,0 +1,7 @@
+[
+  {
+    "key": "siparisSayfasiUyeOlmadanDevamEtButon",
+    "value":"(//*[contains(text(),'Üye Olmadan Devam Et')])[1]",
+    "type": "xpath"
+  }
+]

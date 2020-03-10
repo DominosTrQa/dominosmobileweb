@@ -48,6 +48,11 @@
     "key": "birinciSiparisVerButon",
     "value": "(//*[contains(text(),'Sipariş Ver')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "sepeteEkleButon",
+    "value": ".//*[@id='DPE_TR_PIZZADETAIL_BUTTON_ADDTOBASKET_STICKY']",
+    "type": "xpath"
   }
 
 

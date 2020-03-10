@@ -56,9 +56,9 @@ Anasayfa Kontrolü - Üye - Butonların Kontrolü
 ------------------------------------------------------------
  Tags:anasayfaKontrolu_UyeButonlarinKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -69,9 +69,9 @@ Anasayfa Kontrolü - Üye - Yazıların Kontrolü
 ------------------------------------------------------------
  Tags:anasayfaKontrolu_UyeYazilarinKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -82,9 +82,9 @@ Anasayfa Kontrolü - Üye - Popup Barın Kontrolü
 ----------------------------------------------------
  Tags:anasayfaKontrolu_UyePopupBarinKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -96,9 +96,9 @@ Anasayfa Kontrolü - Üye - Promosyon Kodu Açılır Popup Kontrolü
 ------------------------------------------------------------------------------
  Tags:anasayfaKontrolu_UyePromosyonKoduAcilirPopupKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -110,9 +110,9 @@ Anasayfa Kontrolü - Üye - Pizza Takip Açılır Popup Kontrolü
 --------------------------------------------------------------------------
  Tags:anasayfaKontrolu_UyePizzaTakipAcilirPopupKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır

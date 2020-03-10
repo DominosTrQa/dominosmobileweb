@@ -18,6 +18,8 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
@@ -33,9 +35,12 @@ public class BaseTest {
 
         if (StringUtils.isEmpty(System.getenv("key")))
         {
+
             System.out.println("LOCAL");
             if ("android".equalsIgnoreCase(selectPlatform)) {
                 System.out.println("android");
+                Map<String, Object> prefs = new HashMap<String, Object>();
+                prefs.put("profile.default_content_setting_values.notifications", 2);
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.CHROME);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM, Platform.ANDROID);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");

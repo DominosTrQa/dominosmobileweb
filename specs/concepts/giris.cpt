@@ -75,15 +75,18 @@
 * Elementi bekle ve sonra tıkla "mahalleBurgazada"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
+# Konum Paylaş butonu ile adres eklenir
+* Elementi bekle ve sonra tıkla "konumPaylasButon"
+* "3" saniye bekle
+ Elementi bekle ve sonra tıkla "seciliKonumIleDevamEtButon"
+* Elementi bekle ve sonra tıkla "mevcutKonumunuzButon"
+
 # Çerez Politikası kapatılır
 * Elementi bekle ve sonra tıkla "cerezPolitikasıKapatButon"
 
-# Üye Ol butonuna basılır
-* Elementi bekle ve sonra tıkla "uyeOlButon"
-
 # Random mail ve telefon ile üye olunur
 * Elementi bekle ve sonra tıkla "uyeOlAdTextbox"
-* "Test" textini "uyeOlAdTextbox" elemente yaz
+* "uyeOlAdTextbox" li elementi bul ve "Test" değerini tek tek yaz
 * Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
 * Rastgele telefon no üret
@@ -96,7 +99,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlSifreTextbox"
 * "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
 
-# Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+# Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
 * "uyeOlSayfasiUyeOlButon" alanına js ile kaydır

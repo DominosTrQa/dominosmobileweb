@@ -28,3 +28,9 @@
 
 # Sipariş Ver butonunun geldiği kontrol edilir
 * Element var mı kontrol et "birinciSiparisVerButon"
+
+# Cazip Pizzalar kategorisinin ilk pizzası seçilir
+* Elementi bekle ve sonra tıkla "cazipPizzalarButon1"
+
+# Sepete Ekle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "sepeteEkleButon"

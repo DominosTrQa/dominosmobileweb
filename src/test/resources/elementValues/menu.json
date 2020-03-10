@@ -247,7 +247,7 @@
   },
   {
     "key": "menuAdresEkleCaddeDropdown",
-    "value": "(//*[contains(text(),'Seçiniz...')])[1]",
+    "value": "(.//div[@class='placeholderText dropdown__ButtonText-wa0gtc-3 cuiAQE dropdown__ButtonInnerItems-wa0gtc-2 hOPRSO'])[4]",
     "type": "xpath"
   },
   {
@@ -271,6 +271,11 @@
     "type": "xpath"
   },
   {
+    "key": "menuAdresEkleAdresTarifiTextbox",
+    "value": ".//*[@id='DPE_TR_ADDRESSADDMODAL_INPUT_INSTRUCTIONS']",
+    "type": "xpath"
+  },
+  {
     "key": "menuAdresEkleTelefonTextbox",
     "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_INPUT_PHONE'])[1]",
     "type": "xpath"
@@ -287,7 +292,7 @@
   },
   {
     "key": "menuAdresEkleDegistirilmisAdres",
-    "value": "(//*[contains(text(),'Burgazada Mh., Ayışığı Sk., No: 1A, D: 1 İSTANBUL / ADALAR')])[1]",
+    "value": "(//*[contains(text(),'Burgazada Mh., Azizler Sk., No: 1A, D: 1 İSTANBUL / ADALAR')])[1]",
     "type": "xpath"
   },
   {
@@ -313,6 +318,26 @@
   {
     "key": "menuAdreslerimDuzenleSilButon",
     "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_BUTTON_DELETE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimBuAlaniBosBirakamazsinizApartmanText",
+    "value": "(//*[contains(text(),'Bu alanı boş bırakamazsınız')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimBuAlaniBosBirakamazsinizDaireText",
+    "value": "(//*[contains(text(),'Bu alanı boş bırakamazsınız')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimBuAlaniBosBirakamazsinizAdresAdiText",
+    "value": "(//*[contains(text(),'Bu alanı boş bırakamazsınız')])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimTelefonNumarasi10HaneOlmaliText",
+    "value": "(//*[contains(text(),'Telefon numarası 10 hane olmalıdır')])[1]",
     "type": "xpath"
   }
 
