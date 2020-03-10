@@ -3,6 +3,7 @@ package base;
 import WebAutomationBase.helper.ElementHelper;
 import WebAutomationBase.helper.StoreHelper;
 import WebAutomationBase.model.ElementInfo;
+import com.google.common.collect.ImmutableMap;
 import com.thoughtworks.gauge.Step;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.TouchAction;
@@ -754,6 +755,27 @@ public class BaseSteps extends BaseTest{
         return null;
     }
 
+    int waitVar = 0;
+    @Step("<key> li elementi bulana kadar bekle ve <text> değerini yazdır")
+    public void waitUntilFindElementAndSendKeysWithkey(String key, String text) throws InterruptedException {
+        WebElement element = null;
+        waitVar = 0;
+        element = findElementWithKey(key);
+        while (true) {
+            if (element.isDisplayed()) {
+                logger.info("WebElement is found at: " + waitVar + " second.");
+                element.sendKeys(text);
+                break;
+            } else {
+                waitVar = waitVar + 1;
+                Thread.sleep(1000);
+                if (waitVar == 20) {
+                    throw new NullPointerException(String.format("by = %s Web element list not found"));
+                } else {
+                }
+            }
+        }
+    }
 
 
     @Step("<key> li elementi bul ve <text> değerini tek tek yaz")
