@@ -6,9 +6,9 @@ Tüm Pizzalar - Sayfa Kontrolü
 ----------------
 Tags:tumPizzalar_SayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -22,9 +22,9 @@ Tüm Pizzalar - Cazip Pizzalar Sayfa Kontrolü
 ----------------
 Tags:tumPizzalar_CazipPizzalarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -38,9 +38,9 @@ Tüm Pizzalar - Özel Pizzalar Sayfa Kontrolü
 ----------------
 Tags:tumPizzalar_OzelPizzalarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -55,9 +55,9 @@ Tüm Pizzalar - Bol Malzeme Pizzalar Sayfa Kontrolü
 ----------------
 Tags:tumPizzalar_BolMalzemePizzalarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -72,9 +72,9 @@ Tüm Pizzalar - GurmePizzalar Sayfa Kontrolü
 ----------------
 Tags:tumPizzalar_GurmePizzalarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -89,9 +89,9 @@ Tüm Pizzalar - Üst Bar Profilim Popup Başarılı Açılıyor Mu Kontrolü
 ----------------
 Tags:tumPizzalar_UstBarProfilimPopupBasariliAciliyormuKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -104,9 +104,9 @@ Tüm Pizzalar -  Alt Bar Yazıları Doğru Geliyor Mu Kontrolü
 ----------------
 Tags:tumPizzalar_AltBarYazilariDogruGeliyormuKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -118,9 +118,9 @@ Tüm Pizzalar - Her Tabda Sipariş Ver Buton Kontrolü
 ----------------------------------
 Tags:tumPizzalar_HerTabdaSiparisVerButonKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır

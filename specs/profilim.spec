@@ -6,9 +6,9 @@ Profilim - Ye-Kazan - Sayfa Kontrolü
 -----------------------------------------------------
 Tags:profilim_YeKazanSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -23,9 +23,9 @@ Profilim - Ye Kazan Üyelik Koşulları - Sayfa Kontrolü
 -----------------------------------------------------
 Tags:profilim_YeKazanUyelikKosullariSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -52,9 +52,9 @@ Profilim - Üyelik Bilgilerim - Değiştirilebilir Alanların Kontrolü
 -----------------------------------------------------
 Tags:profilim_UyelikBilgilerimDegistirilebilirAlanlarinKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -67,9 +67,9 @@ Profilim - Üyelik Bilgilerim - Üyelikten Ayrılmak İçin Tıklayon Kontrolü
 -----------------------------------------------------
 Tags:profilim_UyelikBilgilerimUyeliktenAyrilmakIcinTiklayinKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -82,9 +82,9 @@ Profilim - Üyelik Bilgilerim - Üyelikten Ayrılmanın Başarılı Bir Şekilde
 -------------------------------------------------
 Tags:profilim_UyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -97,9 +97,9 @@ Profilim - Üyelik Bilgilerim - Üyelikten Ayrılmaktan Vazgeçme Kontrolü
 -------------------------------------------------
 Tags:profilim_UyelikBilgilerimUyeliktenAyrilmaktanVazgecmeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -112,9 +112,9 @@ Profilim - Üyelik Bilgilerim - KVKK Aydınlatma Metni Kontrolü
 -------------------------------------------------
 Tags:profilim_UyelikBilgilerimKVKKAydinlatmaMetniKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -127,9 +127,9 @@ Profilim - Üyelik Bilgilerim - Açık Rıza Metni Kontrolü
 -------------------------------------------------
 Tags:profilim_UyelikBilgilerimaAcikRizaMetniKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -142,9 +142,9 @@ Profilim - Üyelik Bilgilerim - Ye-Kazan Sadakat Programı Üyelik Koşulları M
 -------------------------------------------------
 Tags:profilim_UyelikBilgilerimayeKazanSadakatProgramiUyelikKosullariMetniKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -157,9 +157,9 @@ Profilim - Siparişlerim - Sipariş Alanları Kontrolü
 -------------------------------------------------
 Tags:profilim_UyelikBilgilerimSiparislerimSiparisAlanlariKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -172,9 +172,9 @@ Profilim - Pizza Takip - Zorunlu Alan Kontrolü
 -------------------------------------------------
 Tags:profilim_PizzaTakipZorunluAlanKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -187,9 +187,9 @@ Profilim - Pizza Takip - Dijital Pizza Takip Sistemi Yazısının Kontrolü
 -------------------------------------------------
 Tags:profilim_PizzaTakipDijitalPizzaTakipSistemiYazisininKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -202,9 +202,9 @@ Profilim - Notlarım - Yeni Not Ekle Popup Kontrolu
 -------------------------------------------------
 Tags:profilim_NotlarimYeniNotEklePopupKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -217,9 +217,9 @@ Profilim - Notlarım - Yeni Not Ekleme Kontrolu
 -------------------------------------------------
 Tags:profilim_NotlarimYeniNotEklemeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -233,9 +233,9 @@ Profilim - Notlarım - Eklenen Notu Düzenleme Popup Kontrolü
 -------------------------------------------------
 Tags:profilim_NotlarimEklenenNotuDuzenlemePopupKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -250,9 +250,9 @@ Profilim - Notlarım - Var Olan Notu Değiştirme Kontrolü
 -------------------------------------------------
 Tags:profilim_NotlarimVarOlanNotuDegistirmeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -267,9 +267,9 @@ Profilim - Notlarım - Var Olan Notu Değiştirmekten Vazgeçme Kontrolü
 -------------------------------------------------
 Tags:profilim_NotlarimVarOlanNotuDegistirmektenVazgecmeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -285,9 +285,9 @@ Profilim - Notlarım - Var Olan Notu Silme Kontrolü
 -------------------------------------------------
 Tags:profilim_NotlarimVarOlanNotuSilmeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -316,9 +316,9 @@ Profilim  - Çıkış Yap - Yeni Kullanıcı ile Çıkış Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_CikisYapYeniKullaniciileCikisKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -330,9 +330,9 @@ Profilim  - Adreslerim - Sayfanın Açılması Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_AdreslerimSayfaninAcilmasiKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -344,9 +344,9 @@ Profilim  - Adreslerim - Manuel Yeni Adres Ekleme Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_AdreslerimManuelYeniAdresEklemeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -361,15 +361,15 @@ Profilim  - Adreslerim - İl İlçe Mahalle Değiştirme Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_AdreslerimIlIlceMahalleDegistirmeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
-* İl, ilçe, mahalle Düzenle butonuna basılır
+* İl, ilçe, mahalle Düzenle butonuna tıklanır
 * İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
 * İl, ilçe, mahalle güncellemesi kontrol edilir
 
@@ -378,9 +378,9 @@ Profilim  - Adreslerim - Kayıtlı Adreslerden Seçme Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_AdreslerimKayitliAdreslerdenSecmeKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -396,9 +396,9 @@ Profilim  - Adreslerim - Kayıtlı Adres Düzenle Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_AdreslerimKayitliAdresDuzenleKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -414,9 +414,9 @@ Profilim  - Adreslerim - Kayıtlı Adres Sil Kontrolü
 ----------------------------------------------------------------------
 Tags:profilim_AdreslerimKayitliAdresSilKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır

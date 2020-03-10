@@ -120,6 +120,12 @@
 * "menuAdreslerimYeniAdresEkleButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "menuAdreslerimYeniAdresEkleButon"
 
+# Zorunlu alanlar kontrol edilir
+* Element var mı kontrol et "menuAdreslerimBuAlaniBosBirakamazsinizApartmanText"
+* Element var mı kontrol et "menuAdreslerimBuAlaniBosBirakamazsinizDaireText"
+* Element var mı kontrol et "menuAdreslerimBuAlaniBosBirakamazsinizAdresAdiText"
+* Element var mı kontrol et "menuAdreslerimTelefonNumarasi10HaneOlmaliText"
+
 # Adalar - Burgazada için adres bilgileri tamamlanır
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
@@ -129,7 +135,19 @@
 * "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
 * "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
+# Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+* Element var mı kontrol et "menuAdreslerimAdresiDuzenleButon"
 
 # Yeni adresin eklendiği kontrol edilir
 * Element var mı kontrol et "menuAdresEkleEklenenAdres"
@@ -139,7 +157,7 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimSeçiliAdresIleDevamEtButon"
 * Element var mı kontrol et "dominosLogo"
 
-# İl, ilçe, mahalle Düzenle butonuna basılır
+# İl, ilçe, mahalle Düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "menuAdresIlIlceMahelleDuzenleButon"
 
 # İl, ilçe, mahalle güncellemesi kontrol edilir
@@ -149,9 +167,12 @@
 * "menuAdreslerimIlkAdresBasligi" li elementi bul ve değerini "ilkAdresBasligi" olarak sakla
 * Elementi bekle ve sonra tıkla "menuAdreslerimIlkAdresBasligi"
 * Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
 * Elementi bekle ve sonra tıkla "menuAdresEkleApartmanNoTextbox"
-* "menuAdresEkleApartmanNoTextbox" li elementi bul, temizle ve "5" değerini yaz
-* "3" saniye bekle
+* "1A" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 * "3" saniye bekle
 * Element var mı kontrol et "menuAdresEkleDegistirilmisAdres"
@@ -160,4 +181,4 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
 * Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 * "3" saniye bekle
-*Element yok mu kontrol et "menuAdreslerimIlkAdresBasligi"
+* Element yok mu kontrol et "menuAdreslerimIlkAdresBasligi"

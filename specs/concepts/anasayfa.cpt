@@ -86,3 +86,6 @@
 
 # Ekstra Lezzetler butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ekstraLezzetlerButon"
+
+# Kalem ikonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaKalemButon"

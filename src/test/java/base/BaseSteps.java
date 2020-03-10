@@ -5,8 +5,8 @@ import WebAutomationBase.helper.StoreHelper;
 import WebAutomationBase.model.ElementInfo;
 import com.google.common.collect.ImmutableMap;
 import com.thoughtworks.gauge.Step;
-import io.appium.java_client.MobileCommand;
 import io.appium.java_client.MobileElement;
+import io.appium.java_client.TouchAction;
 import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
@@ -777,6 +777,18 @@ public class BaseSteps extends BaseTest{
         }
     }
 
+
+    @Step("<key> li elementi bul ve <text> değerini tek tek yaz")
+    public void sendKeysValueOfClear(String key, String text){
+        WebElement me = findElementWithKey(key);
+        me.clear();
+        for(int i = 0 ; i<text.length();i++){
+            char c  = text.charAt(i);
+            me.sendKeys(String.valueOf(c));
+        }
+        System.out.println("'" + text + "' written to '" + key + "' element.");
+
+    }
 
 
 

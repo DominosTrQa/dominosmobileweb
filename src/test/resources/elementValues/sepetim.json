@@ -1,0 +1,7 @@
+[
+  {
+    "key": "sepetimSayfasiSiparisVerButon",
+    "value": ".//*[@id='DPE_TR_BASKET_BUTTON_ORDER_M']",
+    "type": "xpath"
+  }
+]

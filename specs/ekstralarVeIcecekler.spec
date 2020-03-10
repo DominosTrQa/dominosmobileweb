@@ -6,9 +6,9 @@ Ekstralar - Sayfa Kontrolü
 ----------------
 Tags:ekstralar_SayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -22,9 +22,9 @@ Ekstralar - Dürümler Sayfa Kontrolü
 ----------------
 Tags:ekstralar_DurumlerSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -39,9 +39,9 @@ Ekstralar - Ekmek Arası Sayfa Kontrolü
 ----------------
 Tags:ekstralar_EkmekArasiSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -57,9 +57,9 @@ Ekstralar - Tavuklar Sayfa Kontrolü
 ----------------
 Tags:ekstralar_TavuklarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -74,9 +74,9 @@ Ekstralar - Tatlılar Sayfa Kontrolü
 ----------------
 Tags:ekstralar_TatlilarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -91,9 +91,9 @@ Ekstralar - Ekmekler Sayfa Kontrolü
 ----------------
 Tags:ekstralar_EkmeklerSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -108,9 +108,9 @@ Ekstralar - Salatalar Sayfa Kontrolü
 ----------------
 Tags:ekstralar_SalatalarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -125,9 +125,9 @@ Ekstralar - Soslar Sayfa Kontrolü
 ----------------
 Tags:ekstralar_SoslarSayfaKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -142,9 +142,9 @@ Ekstralar - Üst Bar Profilim Popup Kontrolü
 ----------------
 Tags:ekstralar_UstBarProfilimPopopKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -157,9 +157,9 @@ Ekstralar - Alt Bar Yazıların Kontrolü
 ----------------
 Tags:ekstralar_AltBarYazilarinKontrolu
 
-* Üye Ol butonuna basılır
+* Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna basılır
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
