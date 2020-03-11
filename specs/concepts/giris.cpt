@@ -31,7 +31,7 @@
 
 # Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
-* "dominostest0@hotmail.com" textini "epostaTextbox" elemente yaz
+* "epostaTextbox" li elementi bul ve "dominostest0@hotmail.com" değerini tek tek yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
 *  "Test123" textini "sifreTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
