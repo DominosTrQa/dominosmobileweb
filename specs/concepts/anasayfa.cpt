@@ -57,6 +57,9 @@
 # Tüm Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tumPizzalarButon"
 
+# Tüm Kampanyalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "tumKampanyalarButon"
+
 # Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Elementi bekle ve sonra tıkla "dominosLogo"
 * Element var mı kontrol et "tumKampanyalarButon"

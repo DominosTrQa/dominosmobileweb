@@ -1,0 +1,53 @@
+[
+  {
+    "key": "subeyeOzelFirsatlarTab",
+    "value": "(//*[contains(text(),'Şubeye Özel Fırsatlar')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "haftaninKampanyalariTab",
+    "value": "(//*[contains(text(),'Haftanın Kampanyaları')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "tekKişilikKampanyalarTab",
+    "value": "(//*[contains(text(),'Tek Kişilik Kampanyalar')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "23KisilikKampanyalarTab",
+    "value": "(//*[contains(text(),'2-3 Kişilik Kampanyalar')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "4KisiveUzeriKampanyalarTab",
+    "value": "(//*[contains(text(),'4 Kişi ve Üzeri Kampanyalar')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelFirsatlarButon1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB0_CARD0']",
+    "type": "xpath"
+  },
+  {
+    "key": "haftaninKampanyalariButon1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB1_CARD0']",
+    "type": "xpath"
+  },
+  {
+    "key": "tekKisilikKampanyalarButon1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB2_CARD0']",
+    "type": "xpath"
+  },
+  {
+    "key": "23KisilikKampanyalarButon1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB3_CARD0']",
+    "type": "xpath"
+  },
+  {
+    "key": "4KisiveUzeriKampanyalarButon1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB4_CARD0']",
+    "type": "xpath"
+  }
+
+]

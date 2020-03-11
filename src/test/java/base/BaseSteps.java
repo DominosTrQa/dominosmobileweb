@@ -786,7 +786,7 @@ public class BaseSteps extends BaseTest{
             char c  = text.charAt(i);
             me.sendKeys(String.valueOf(c));
         }
-        System.out.println("'" + text + "' written to '" + key + "' element.");
+        System.out.println("'" + text + "' texti '" + key + "' elementine yazıldı");
 
     }
 
