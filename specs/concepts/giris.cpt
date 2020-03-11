@@ -106,3 +106,38 @@
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
 * "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+
+# Mesafeli satış sözleşmesi onaylanır
+* "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
+
+# Açık Rıza Metni ve Ye Kazan onaylanır, E-Posta seçilir
+* Elementi bekle ve sonra tıkla "kayitOlKVKKCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkEpostaCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIkıncıEpostaCheckbox"
+
+# Açık Rıza Metni ve Ye Kazan onaylanır, Sms seçilir
+* Elementi bekle ve sonra tıkla "kayitOlKVKKCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkSmsCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIkinciSmsCheckbox"
+
+# Açık Rıza Metni ve Ye Kazan onaylanır, Telefon seçilir
+* Elementi bekle ve sonra tıkla "kayitOlKVKKCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkTelefonCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIkinciTelefonCheckbox"
+
+# Açık Rıza Metni onaylanır ve E-Posta seçilir
+* Elementi bekle ve sonra tıkla "kayitOlKVKKCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkEpostaCheckbox"
+
+# Ye-Kazan onaylanır ve E-Posta seçilir
+* Elementi bekle ve sonra tıkla "kayitOlYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkEpostaCheckbox"
+
+# Üye Ol sayfasındaki Üye Ol butonuna tıklanır
+* "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* "3" saniye bekle
