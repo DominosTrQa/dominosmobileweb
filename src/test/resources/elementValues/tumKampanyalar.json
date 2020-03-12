@@ -48,6 +48,16 @@
     "key": "4KisiveUzeriKampanyalarButon1",
     "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB4_CARD0']",
     "type": "xpath"
+  },
+  {
+    "key": "kampanyalarTab1Kampanya1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB0_CARD0']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSepeteEkleButon",
+    "value": "(//*[@id='dpeFooterStickyContainer'])",
+    "type": "xpath"
   }
 
 ]

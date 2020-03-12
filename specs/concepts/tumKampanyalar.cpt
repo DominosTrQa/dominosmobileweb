@@ -7,6 +7,15 @@
 * Element var mı kontrol et "4KisiveUzeriKampanyalarTab"
 * Element var mı kontrol et "4KisiveUzeriKampanyalarTab"
 
+# Tüm Kampanyalar sayfasına gidildiği kontrol edilir
+* Element var mı kontrol et "haftaninKampanyalariTab"
+
+# Tüm Kampanyalar sayfasının ilk kampanyası seçilir
+* Elementi bekle ve sonra tıkla "kampanyalarTab1Kampanya1"
+
+# Kampanya içerik sayfasına gidildiği kontrol edilir
+* Element var mı kontrol et "kampanyalarSepeteEkleButon"
+
 # Şubeye Özel Fırsatlar sayfasının ilk elementinin geldiği kontrol edilir
 * Element var mı kontrol et "subeyeOzelFirsatlarButon1"
 

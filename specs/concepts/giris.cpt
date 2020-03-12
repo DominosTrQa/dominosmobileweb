@@ -76,6 +76,19 @@
 * Elementi bekle ve sonra tıkla "mahalleBurgazada"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
+# Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalar"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleGelAlBurgazada"
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
+* Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
+
 # Konum Paylaş butonu ile adres eklenir
 * Elementi bekle ve sonra tıkla "konumPaylasButon"
 * "3" saniye bekle

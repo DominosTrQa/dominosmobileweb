@@ -169,8 +169,11 @@
     "key": "altBarInovasyonDunyasiDominosYeKazanText",
     "value": "(//*[contains(text(),\"Domino's Ye Kazan\")])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "anasayfaIlkFirsat",
+    "value":".//*[@id='DPE_TR_HOME_SLIDER0']",
+    "type": "xpath"
   }
-
-
 
 ]
