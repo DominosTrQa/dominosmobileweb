@@ -159,7 +159,48 @@
     "key": "mevcutKonumunuzButon",
     "value": ".//*[@id='DPE_TR_NEARSTORELISTDELIVERY_BUTTON_CURRENTLOCATION']",
     "type": "xpath"
+  },
+  {
+    "key": "kayitOlKVKKCheckbox",
+    "value": ".//*[@id='DPE_TR_SIGNUP_CHECKBOX_TERMS2']",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlIlkEpostaCheckbox",
+    "value": "(//p[contains(text(),'E-posta')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlYeKazanCheckbox",
+    "value": ".//*[@id='DPE_TR_SIGNUP_CHECKBOX_TERMS3']",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlIkıncıEpostaCheckbox",
+    "value": "(//p[contains(text(),'E-posta')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlIlkSmsCheckbox",
+    "value": "(//p[contains(text(),'SMS')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlIkinciSmsCheckbox",
+    "value": "(//p[contains(text(),'SMS')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlIlkTelefonCheckbox",
+    "value": "(//p[contains(text(),'Telefon')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kayitOlIkinciTelefonCheckbox",
+    "value": "(//p[contains(text(),'Telefon')])[2]",
+    "type": "xpath"
   }
+
 
 
 

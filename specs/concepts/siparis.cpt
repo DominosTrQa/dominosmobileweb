@@ -1,3 +1,6 @@
 
 # Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Elementi bekle ve sonra tıkla "siparisSayfasiUyeOlmadanDevamEtButon"
+
+# Sipariş adımındaki Üye Ol butonuna tıklanır
+* Elementi bekle ve sonra tıkla "siparisSayfasiUyeOlButon"

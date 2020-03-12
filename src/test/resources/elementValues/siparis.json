@@ -3,5 +3,10 @@
     "key": "siparisSayfasiUyeOlmadanDevamEtButon",
     "value":"(//*[contains(text(),'Üye Olmadan Devam Et')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiUyeOlButon",
+    "value":"(//a[contains(text(),'Üye Ol')])[1]",
+    "type": "xpath"
   }
 ]
