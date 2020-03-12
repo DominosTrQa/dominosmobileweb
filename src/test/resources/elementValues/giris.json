@@ -136,6 +136,11 @@
     "type": "xpath"
   },
   {
+    "key": "mahalleGelAlBurgazada",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
+    "type": "xpath"
+  },
+  {
     "key": "seciliAdresIleDevamEtbuton",
     "value": "(//*[@id='DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT'])[1]",
     "type": "xpath"
@@ -199,9 +204,20 @@
     "key": "kayitOlIkinciTelefonCheckbox",
     "value": "(//p[contains(text(),'Telefon')])[2]",
     "type": "xpath"
+  },
+  {
+    "key": "gelAlSubeleriGosterButon",
+    "value": ".//*[@id='DPE_TR_STOREFILTERFORM_BUTTON_STOREVISIBLE']",
+    "type": "xpath"
+  },
+  {
+    "key": "gelAlListelemeIlkSube",
+    "value":".//div[@class='styled__StoreDetail-uqfvsm-2 jKUkPy']",
+    "type": "xpath"
+  },
+  {
+    "key": "seciliSubeIleDevamEtButon",
+    "value":"//a[contains(text(),'le Devam Et')]",
+    "type": "xpath"
   }
-
-
-
-
 ]

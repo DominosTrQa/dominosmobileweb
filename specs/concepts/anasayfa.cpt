@@ -92,3 +92,13 @@
 
 # Kalem ikonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaKalemButon"
+
+# Anasayfadaki ilk fırsata tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaIlkFırsat"
+
+# Anasayfadan farklı bir sayfaya yönlendirildiği kontrol edilir
+* Element yok mu kontrol et "tumPizzalarButon"
+* Element yok mu kontrol et "tumKampanyalarButon"
+* Element yok mu kontrol et "ekstraLezzetlerButon"
+* Element yok mu kontrol et "firsatlarSagOk"
+* Element yok mu kontrol et "firsatlarSolOk"
