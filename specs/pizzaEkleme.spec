@@ -19,6 +19,7 @@ tags:pizzaEkleme_gelAl
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
+
 Pizza Ekleme - Adrese Teslim
 ----------------------------
 tags:pizzaEkleme_adreseTeslim
