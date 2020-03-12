@@ -1,6 +1,7 @@
 Promosyon Kodu
 =====================
 
+
 Promosyon Kodu ile Sepete Ekleme - Olumsuz Senaryo
 -------------------------------------------------
 Tags:promosyonkodu_SepeteEklemeOlumsuzSenaryo
