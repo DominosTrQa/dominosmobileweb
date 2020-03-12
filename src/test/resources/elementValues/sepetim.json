@@ -3,5 +3,10 @@
     "key": "sepetimSayfasiSiparisVerButon",
     "value": ".//*[@id='DPE_TR_BASKET_BUTTON_ORDER_M']",
     "type": "xpath"
+  },
+  {
+    "key": "sepetim1UrunKontrol",
+    "value": "(//*[@class='counter__Display-uj55e1-3 iqbEZ'])",
+    "type": "xpath"
   }
 ]

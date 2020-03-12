@@ -25,6 +25,11 @@
     "type": "xpath"
   },
   {
+    "key": "pizzalarIlkTabIlkPizza",
+    "value": ".//*[@id='DPE_TR_PIZZAS_TAB0_CARD0']",
+    "type": "xpath"
+  },
+  {
     "key": "cazipPizzalarButon1",
     "value": ".//*[@id='DPE_TR_PIZZAS_TAB0_CARD0']",
     "type": "xpath"

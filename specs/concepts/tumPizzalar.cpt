@@ -34,3 +34,6 @@
 
 # Sepete Ekle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "sepeteEkleButon"
+
+# İlk kategorinin ilk pizzası seçilir
+* Elementi bekle ve sonra tıkla "pizzalarIlkTabIlkPizza"

@@ -50,7 +50,7 @@ Tags:firsatEkleme_GelAlTumKampanyalar
 
 Fırsat Ekleme - Gel Al - Anasayfadaki Fırsatı Seçme
 ---------------------------------------------------
-Tags:firsatEkleme_AdreseTeslimAnasayfadakiFirsatiSecme
+Tags:firsatEkleme_GelAlAnasayfadakiFirsatiSecme
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur

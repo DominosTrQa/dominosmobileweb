@@ -1,4 +1,6 @@
 
-
 # Sipariş Ver butonuna tıklanır
 * Elementi bekle ve sonra tıkla "sepetimSayfasiSiparisVerButon"
+
+# Sepette bir ürün olduğu kontrol edilir
+* Elementi bekle ve sonra tıkla "sepetim1UrunKontrol"
