@@ -4,7 +4,7 @@ Pizza Ekleme
      
 Pizza Ekleme - Gel Al
 ---------------------
-tags:pizzaEkleme_gelAl
+Tags:pizzaEkleme_gelAl
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -22,7 +22,7 @@ tags:pizzaEkleme_gelAl
 
 Pizza Ekleme - Adrese Teslim
 ----------------------------
-tags:pizzaEkleme_adreseTeslim
+Tags:pizzaEkleme_adreseTeslim
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur

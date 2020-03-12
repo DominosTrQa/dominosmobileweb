@@ -8,5 +8,35 @@
     "key": "sepetim1UrunKontrol",
     "value": "(//*[@class='counter__Display-uj55e1-3 iqbEZ'])",
     "type": "xpath"
+  },
+  {
+    "key": "sepetimPromosyonKodu",
+    "value": ".//*[@id='DPE_TR_BASKET_DROPDOWN']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimPromosyonAdiDropdown",
+    "value": ".//*[@id='DPE_TR_BASKET_DROPDOWN_PROMOTIONNAME']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimPromosyonKoduDominos",
+    "value": "(//div[contains(text(),'Dominos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimPromosyonKampanyaKoduTextbox",
+    "value": ".//*[@id='DPE_TR_BASKET_DROPDOWN_PROMOTIONCODE']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimPromosyonKoduPromosyonKullanButon",
+    "value": ".//*[@id='DPE_TR_BASKET_DROPDOWN_PROMOTIONUSE']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetimPromosyonKoduYanlışKodPopup",
+    "value": "(//div[contains(text(),'Girdiğiniz kampanya kodu geçersiz')])[1]",
+    "type": "xpath"
   }
 ]

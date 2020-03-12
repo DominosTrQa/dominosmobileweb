@@ -4,3 +4,11 @@
 
 # Sepette bir ürün olduğu kontrol edilir
 * Elementi bekle ve sonra tıkla "sepetim1UrunKontrol"
+
+# Yanlış Promosyon Kodu kullanılmak istenir ve uyarı alındığı gözlemlenir
+* Elementi bekle ve sonra tıkla "sepetimPromosyonKodu"
+* Elementi bekle ve sonra tıkla "sepetimPromosyonAdiDropdown"
+* Elementi bekle ve sonra tıkla "sepetimPromosyonKoduDominos"
+* "Test123" textini "sepetimPromosyonKampanyaKoduTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sepetimPromosyonKoduPromosyonKullanButon"
+* Element var mı kontrol et "sepetimPromosyonKoduYanlışKodPopup"
