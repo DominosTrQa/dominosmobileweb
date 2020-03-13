@@ -138,6 +138,19 @@
 * "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 
+# Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "burgazadaDropdownBinaNo"
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
 # Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
