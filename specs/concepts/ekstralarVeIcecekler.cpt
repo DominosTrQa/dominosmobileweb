@@ -56,3 +56,7 @@
 
 # Soslar sayfasına gidilir
 * Elementi bekle ve sonra tıkla "tabSoslar"
+
+# İçecekler kategorisinin ilk elementi seçilir
+* Elementi bekle ve sonra tıkla "iceceklerButon1"
+

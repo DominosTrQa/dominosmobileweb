@@ -8,5 +8,30 @@
     "key": "siparisSayfasiUyeOlButon",
     "value":"(//a[contains(text(),'Üye Ol')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "odemeSekliButon1",
+    "value":"//*[@id='DPE_TR_PAYMENTTYPE_BUTTON_TYPE1']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliDevamButon",
+    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-M']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisMesafeliSatisSozlesmesi",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiSiparisVerButon",
+    "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER-M']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSonucuText",
+    "value":"//*[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
   }
 ]

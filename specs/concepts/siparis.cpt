@@ -4,3 +4,15 @@
 
 # Sipariş adımındaki Üye Ol butonuna tıklanır
 * Elementi bekle ve sonra tıkla "siparisSayfasiUyeOlButon"
+
+# Ödeme şekli olarak ilk ödeme tipi seçilir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliButon1"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Elementi bekle ve sonra tıkla "siparisMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
+
+# Siparişin alındığından emin olunur
+* Element var mı kontrol et "siparisSonucuText"

@@ -141,6 +141,11 @@
     "type": "xpath"
   },
   {
+    "key": "burgazadaDropdownBinaNo",
+    "value": "(//*[@class='autoComplete__AutoComplete-xi8jyw-1 dscPXh'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "seciliAdresIleDevamEtbuton",
     "value": "(//*[@id='DPE_TR_STOREFILTERFORMDELIVERY_BUTTON_ADDRESSSELECT'])[1]",
     "type": "xpath"
@@ -218,6 +223,11 @@
   {
     "key": "seciliSubeIleDevamEtButon",
     "value":"//a[contains(text(),'le Devam Et')]",
+    "type": "xpath"
+  },
+  {
+    "key": "kayıtlıAdreslerSeciliAdresIleDevamEtButon",
+    "value":"//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_SELECTADDRESS']",
     "type": "xpath"
   }
 ]

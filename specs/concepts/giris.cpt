@@ -154,3 +154,6 @@
 * "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
 * "3" saniye bekle
+
+# Seçili Adres ile Devam Et butonuna tıklanır
+* Elementi bekle ve sonra tıkla "kayıtlıAdreslerSeciliAdresIleDevamEtButon"
