@@ -102,3 +102,10 @@
 * Element yok mu kontrol et "ekstraLezzetlerButon"
 * Element yok mu kontrol et "firsatlarSagOk"
 * Element yok mu kontrol et "firsatlarSolOk"
+
+# Anasayfadaki Şubeye Özel butonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaSubeyeOzelButon"
+* "3" saniye bekle
+
+# Tabdaki Şubeye Özel butonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaTabSubeyeOzelButon"

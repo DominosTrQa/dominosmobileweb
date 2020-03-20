@@ -1,0 +1,107 @@
+[
+  {
+    "key": "subeyeOzelSubeyiDegistirButon",
+    "value":".//*[@id='DPE_TR_STOREDETAIL_BUTTON_STORECHANGE']",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelEveServisGelAlMesafeAlani",
+    "value":".//*[@class='styled__StoreDescriptionSubContainer-sc-18oyjv3-14 unVhx']",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelCalismaSaatleriText",
+    "value":"(.//*[@class='styled__StaticText-sc-18oyjv3-15 kRkexL'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeGonderimBolgeleriText",
+    "value":"(.//*[@class='styled__StaticText-sc-18oyjv3-15 kRkexL'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelOdemeTipiText",
+    "value":"(.//*[@class='styled__StaticText-sc-18oyjv3-15 kRkexL'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeyiDegistirButonSubePuaniText",
+    "value":"(.//*[@class='styled__StaticText-sc-18oyjv3-15 kRkexL'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelTumKampanyalariInceleButon",
+    "value":"(.//*[@id='DPE_TR_STOREDETAIL_BUTTON_ALLCAMPAIGN'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSubeIstatistikleriText",
+    "value":"(//*[contains(text(),'ŞUBE İSTATİSTİKLERİ')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelIstatistiklerSatilanPizzaAdedi",
+    "value":"(//*[contains(text(),'Satılan Pizza')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelIstatistiklerSatilanYanUrunAdedi",
+    "value":"(//*[contains(text(),'Satılan Yan Ürün')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelIstatistiklerTeslimatSüresi",
+    "value":"(//*[contains(text(),'Teslimat Süresi')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelIstatistiklerSatilanPizza",
+    "value":"(//*[contains(text(),'Satılan Pizza')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelIstatistiklerSatilanYanUrun",
+    "value":"(//*[contains(text(),'Satılan Yan Ürün')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelIstatistiklerSatilanKampanya",
+    "value":"(//*[contains(text(),'Satılan Kampanya')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyiDegistirSubeAdiTextbox",
+    "value":"(.//*[@label='Şube'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyiDegistirSubeAraButon",
+    "value":"(.//*[@class='styled__Button-mwgboy-24 bgwuEG'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyiDegistirSubeBilgileriVeKampanyalari",
+    "value":"(.//*[@class='storeCard__StoreDetailLink-sc-1c3i6iy-17 jIUkpx'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelSayfaBasligi",
+    "value":"(.//*[@class='styled__StoreName-sc-18oyjv3-1 jzrwUO'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelEnYakinDominosIstanbul",
+    "value":"(.//*[@class='styled__AreaListItem-mwgboy-18 hzerpx'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "subeyeOzelEnYakinDominosSariyer",
+    "value":"(//*[contains(text(),'Sarıyer')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "enYakinDominosSayfaBasligi",
+    "value":"(.//*[@class='pageHeader__Title-uo3je7-1 gMRowo'])[1]",
+    "type": "xpath"
+  }
+]

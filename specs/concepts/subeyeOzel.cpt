@@ -1,0 +1,43 @@
+
+# Şubeye Özel sayfasının elementlerinin geldiği kontrol edilir
+* Element var mı kontrol et "subeyeOzelSubeyiDegistirButon"
+* Element var mı kontrol et "subeyeOzelEveServisGelAlMesafeAlani"
+* Element var mı kontrol et "subeyeOzelCalismaSaatleriText"
+* Element var mı kontrol et "subeyeOzelSubeGonderimBolgeleriText"
+* Element var mı kontrol et "subeyeOzelOdemeTipiText"
+* Element var mı kontrol et "subeyeOzelSubeyiDegistirButonSubePuaniText"
+* Element var mı kontrol et "subeyeOzelTumKampanyalariInceleButon"
+* Element var mı kontrol et "subeyeOzelSubeIstatistikleriText"
+* Element var mı kontrol et "subeyeOzelIstatistiklerSatilanPizzaAdedi"
+* Element var mı kontrol et "subeyeOzelIstatistiklerSatilanYanUrunAdedi"
+* Element var mı kontrol et "subeyeOzelIstatistiklerTeslimatSüresi"
+* Element var mı kontrol et "subeyeOzelIstatistiklerSatilanPizza"
+* Element var mı kontrol et "subeyeOzelIstatistiklerSatilanYanUrun"
+* Element var mı kontrol et "subeyeOzelIstatistiklerSatilanKampanya"
+
+# Şubeye Özel sayfasındaki Tüm Kampanyaları İncele butonuna tıklanır
+* Elementi bekle ve sonra tıkla "subeyeOzelTumKampanyalariInceleButon"
+
+# Şubeye Özel sayfasındaki Şubeyi Değiştir butonuna tıklanır
+* Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirButon"
+
+# Şube Ara kısmından şube Maslak olarak değiştirilir
+* "Maslak" textini "subeyiDegistirSubeAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "subeyiDegistirSubeAraButon"
+* Elementi bekle ve sonra tıkla "subeyiDegistirSubeBilgileriVeKampanyalari"
+
+# Şubenin değiştirildiği kontrol edilir
+* "3" saniye bekle
+* "subeyeOzelSayfaBasligi" elementi "Maslak" değerini içeriyor mu kontrol et
+
+# En Yakın Dominosu Bul kısmından Sarıyer seçilir ve seçildiği kontrol edilir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "subeyeOzelEnYakinDominosIstanbul"
+* "2" saniye bekle
+* "subeyeOzelEnYakinDominosSariyer" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "subeyeOzelEnYakinDominosSariyer"
+* "3" saniye bekle
+* "enYakinDominosSayfaBasligi" elementi "Sarıyer" değerini içeriyor mu kontrol et
+
+# En Yakın Dominosu Bul kısmı için şubelerin listelendiği kontrol edilir
+* Element var mı kontrol et "subeyiDegistirSubeBilgileriVeKampanyalari"
