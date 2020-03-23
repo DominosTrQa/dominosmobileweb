@@ -1,0 +1,112 @@
+[
+  {
+    "key": "kampanyalarGelAlHaftaninKampanyalari",
+    "value":"(//*[contains(text(),'Gel Al Haftanın Kampanyaları')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarBuyukBoyPizzalarGelAlButon",
+    "value":"//*[contains(text(),'Büyük Boy Pizzalar - Gel Al')]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSecinizDropdown",
+    "value":"(//*[contains(text(),'Seçiniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSuperos",
+    "value":"(//*[contains(text(),'Süperos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSucuksever",
+    "value":"(//*[contains(text(),'Sucuksever')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarBolMalzemos",
+    "value":"(//*[contains(text(),'Bol Malzemos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetBuyukBoyPizzalarGelAlKontrolText",
+    "value":"(//*[contains(text(),'Büyük Boy Pizzalar - Gel Al')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyaSepeteEkleButon",
+    "value":"(.//*[@id='dpeFooterStickyContainer'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "3Al1OdeButon",
+    "value":"(//*[contains(text(),'3 Al 1 Öde')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepet3Al1OdeKontrolText",
+    "value":"(//*[contains(text(),'3 Al 1 Öde')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "pizzaBoyutuBuyuk",
+    "value":"(//*[contains(text(),'Büyük')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kenarTipiBolSosisKlasikKenar",
+    "value":"(//*[contains(text(),'Bol Sosis Klasik Kenar')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "aciliIstiyorumCheckbox",
+    "value":"(//*[contains(text(),'Acılı İstiyorum')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "ekstraMalzemelerKupSucuk",
+    "value":"(//*[contains(text(),'Küp Sucuk')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kapatButon",
+    "value":"(//*[contains(text(),'Kapat')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "dortPeynirliPizza",
+    "value": "(//*[contains(text(),'Dört Peynirli')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "domatesCikarButon",
+    "value": "(//*[contains(text(),'Domates')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "uzeriCiziliDomates",
+    "value": "(.//*[@class='selectbutton__Container-sc-7t8tj6-0 cOTeCb'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetUzeriCiziliUrun",
+    "value": "(.//*[@class='product__Ingredient-sc-1kv942n-4 UQMfU'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyaPizzaDuzenleBirinciButon",
+    "value": "(//*[contains(text(),'Düzenle')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyaGuncelleButon",
+    "value": "(//*[contains(text(),'Güncelle')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "klasikHamur",
+    "value": "(//*[contains(text(),'Klasik Hamur')])[1]",
+    "type": "xpath"
+  }
+]

@@ -1,0 +1,65 @@
+
+# Gel Al Haftanın Kampanyaları butonuna tıklanır
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarGelAlHaftaninKampanyalari"
+
+# Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Elementi bekle ve sonra tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
+
+# Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarSuperos"
+
+# Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Element var mı kontrol et "sepetBuyukBoyPizzalarGelAlKontrolText"
+
+# Kampanya sepete eklenir
+* Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButon"
+
+# 3 Al 1 Öde kampanyası seçilir
+* Elementi bekle ve sonra tıkla "3Al1OdeButon"
+
+# 3 Al 1 Öde kampanyası için sipariş seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarSuperos"
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarSucuksever"
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarBolMalzemos"
+
+# Birinci pizza için Düzenle butona tıklanır
+* Elementi bekle ve sonra tıkla "kampanyaPizzaDuzenleBirinciButon"
+
+# Güncelle butona tıklanır
+* Elementi bekle ve sonra tıkla "kampanyaGuncelleButon"
+
+# 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+* Element var mı kontrol et "sepet3Al1OdeKontrolText"
+
+# Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* Elementi bekle ve sonra tıkla "dortPeynirliPizza"
+
+# Pizza boyutu Büyük seçilir
+* Elementi bekle ve sonra tıkla "pizzaBoyutuBuyuk"
+
+# Kenar tipi Bol Sosis Klasik Kenar seçilir
+* Elementi bekle ve sonra tıkla "kenarTipiBolSosisKlasikKenar"
+
+# Acılı İstiyorum seçeneği seçilir
+* Elementi bekle ve sonra tıkla "aciliIstiyorumCheckbox"
+
+# Ekstra malzemelerden Küp Sucuk eklenir
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* Elementi bekle ve sonra tıkla "ekstraMalzemelerKupSucuk"
+* Elementi bekle ve sonra tıkla "kapatButon"
+
+# Pizzadan Domates çıkarılır
+* Elementi bekle ve sonra tıkla "domatesCikarButon"
+
+# Domatesin üzerinin çizili olarak geldiği kontrol edilir
+* Element var mı kontrol et "uzeriCiziliDomates"
+
+# Klasik Hamur seçilir
+* Elementi bekle ve sonra tıkla "klasikHamur"

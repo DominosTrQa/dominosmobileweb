@@ -5,6 +5,10 @@
 # Sepette bir ürün olduğu kontrol edilir
 * Elementi bekle ve sonra tıkla "sepetim1UrunKontrol"
 
+# Sepette üzeri çizili malzemesi olan bir ürün olduğu kontrol edilir
+* Elementi bekle ve sonra tıkla "sepetim1UrunKontrol"
+* Elementi bekle ve sonra tıkla "sepetUzeriCiziliUrun"
+
 # Yanlış Promosyon Kodu kullanılmak istenir ve uyarı alındığı gözlemlenir
 * Elementi bekle ve sonra tıkla "sepetimPromosyonKodu"
 * Elementi bekle ve sonra tıkla "sepetimPromosyonAdiDropdown"
