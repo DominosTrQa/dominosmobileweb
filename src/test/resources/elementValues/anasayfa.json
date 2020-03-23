@@ -72,7 +72,7 @@
   },
   {
     "key": "anasayfaTabSepetimButon",
-    "value": "(.//*[@class='navigation__BasketCount-sc-1ifya8m-6 iKvpbZ'])[1]",
+    "value": "(.//*[@id='DPE_TR_NAVBARMOBILE_BUTTON_BASKET'])[1]",
     "type": "xpath"
   },
   {

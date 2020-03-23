@@ -8,6 +8,9 @@
 # Cazip Pizzalar sayfasında ilk pizzanın geldiği kontrol edilir
 * Element var mı kontrol et "cazipPizzalarButon1"
 
+# Cazip Pizzalar butonuna tıklanır
+* Elementi bekle ve sonra tıkla "tabCazipPizzalar"
+
 # Özel Pizzalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tabOzelPizzalar"
 

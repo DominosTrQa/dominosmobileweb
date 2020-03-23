@@ -5,6 +5,11 @@
     "type": "xpath"
   },
   {
+    "key": "domisosluKampanyalarTab",
+    "value": "(//*[contains(text(),\"Domisos'lu Kampanyalar\")])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "haftaninKampanyalariTab",
     "value": "(//*[contains(text(),'Haftanın Kampanyaları')])[1]",
     "type": "xpath"
@@ -31,22 +36,22 @@
   },
   {
     "key": "haftaninKampanyalariButon1",
-    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB1_CARD0']",
-    "type": "xpath"
-  },
-  {
-    "key": "tekKisilikKampanyalarButon1",
     "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB2_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "23KisilikKampanyalarButon1",
+    "key": "tekKisilikKampanyalarButon1",
     "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB3_CARD0']",
     "type": "xpath"
   },
   {
-    "key": "4KisiveUzeriKampanyalarButon1",
+    "key": "23KisilikKampanyalarButon1",
     "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB4_CARD0']",
+    "type": "xpath"
+  },
+  {
+    "key": "4KisiveUzeriKampanyalarButon1",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB5_CARD0']",
     "type": "xpath"
   },
   {
