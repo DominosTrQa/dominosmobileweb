@@ -131,6 +131,11 @@
     "type": "xpath"
   },
   {
+    "key": "mahalleGelAlAyazaga",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
+    "type": "xpath"
+  },
+  {
     "key": "mahalleBurgazada",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"

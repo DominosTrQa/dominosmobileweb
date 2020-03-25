@@ -20,6 +20,11 @@
     "type": "xpath"
   },
   {
+    "key": "kampanyalarBarbekuSoslu",
+    "value":"(//*[contains(text(),'Barbekü')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "kampanyalarSucuksever",
     "value":"(//*[contains(text(),'Sucuksever')])[1]",
     "type": "xpath"

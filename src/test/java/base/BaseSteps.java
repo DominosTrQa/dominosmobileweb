@@ -506,9 +506,10 @@ public class BaseSteps extends BaseTest{
     }
 
     @Step({"Refresh page",
-            "Sayfayı yenile"})
+            "Sayfa yenilenir"})
     public void refreshPage(){
         webDriver.navigate().refresh();
+        waitByMilliSeconds(5);
     }
 
     @Step({"Change page zoom to <value>%",
@@ -790,8 +791,16 @@ public class BaseSteps extends BaseTest{
 
     }
 
+    @Step({"<key> li elementi bul, temizle ve rasgele  email değerini yaz, emaili <savekey> olarak sakla",
+    })
+    public void RandomeMailAndSave(String key, String saveKey){
+        Long timestamp = getTimestamp();
+        WebElement webElement = findElementWithKey(key);
+        webElement.clear();
+        webElement.sendKeys("testotomasyon" + timestamp + "@testinium.com");
+        String randomMail= "testotomasyon" + timestamp + "@testinium.com";
+        StoreHelper.INSTANCE.saveValue(saveKey,randomMail);
 
-
-
+    }
 
 }

@@ -301,6 +301,11 @@
     "type": "xpath"
   },
   {
+    "key": "menuAdresIlIlceMahelleDuzenleGelAlButon",
+    "value": ".//*[@class='styled__EditButton-trnti1-4 ePaPPb']",
+    "type": "xpath"
+  },
+  {
     "key": "ilIlceMahelleDuzenleKontrolu",
     "value": "(//*[contains(text(),'İstanbul Sarıyer')])[1]",
     "type": "xpath"
@@ -339,8 +344,20 @@
     "key": "menuAdreslerimTelefonNumarasi10HaneOlmaliText",
     "value": "(//*[contains(text(),'Telefon numarası 10 hane olmalıdır')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimKapatButon",
+    "value": "(//*[@id='DPE_TR_SERVICETYPEHEADERDELIVERY_BUTTON_ADDRESSCLOSE'])",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimListeIlkAdres",
+    "value": ".//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_ADDRESSITEM0']",
+    "type": "xpath"
+  },
+  {
+    "key": "menuAdreslerimListeAdalarAdresi",
+    "value": "(//*[contains(text(),'ADALAR')])[1]",
+    "type": "xpath"
   }
-
-
-
 ]
