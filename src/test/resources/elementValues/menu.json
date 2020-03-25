@@ -359,5 +359,10 @@
     "key": "menuAdreslerimListeAdalarAdresi",
     "value": "(//*[contains(text(),'ADALAR')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "menuAyazagaSubesiButon",
+    "value": "(//a[contains(text(),'Ayazağa Şubesi')])[1]",
+    "type": "xpath"
   }
 ]
