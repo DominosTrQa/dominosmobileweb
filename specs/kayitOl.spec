@@ -4,7 +4,7 @@ Kayıt Ol
      
 Kayıt Ol - Başarılı
 ----------------
-tags:kayitOl_Basarili
+Tags:kayitOl_Basarili
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -14,7 +14,7 @@ tags:kayitOl_Basarili
 
 Kayıt Ol - Başarılı - Email Checkbox
 ----------------
-tags:kayitOl_BasariliEmailCheckbox
+Tags:kayitOl_BasariliEmailCheckbox
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -26,7 +26,7 @@ tags:kayitOl_BasariliEmailCheckbox
 
 Kayıt Ol - Başarılı - Sms Checkbox
 ----------------
-tags:kayitOl_BasariliSmsCheckbox
+Tags:kayitOl_BasariliSmsCheckbox
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -38,7 +38,7 @@ tags:kayitOl_BasariliSmsCheckbox
 
 Kayıt Ol - Başarılı - Telefon Checkbox
 ----------------
-tags:kayitOl_BasariliTelefonCheckbox
+Tags:kayitOl_BasariliTelefonCheckbox
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -50,7 +50,7 @@ tags:kayitOl_BasariliTelefonCheckbox
 
 Kayıt Ol - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------
-tags:kayitOl_KVKKKabulEdilirveYeKazanKabulEdilmez
+Tags:kayitOl_KVKKKabulEdilirveYeKazanKabulEdilmez
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -62,7 +62,7 @@ tags:kayitOl_KVKKKabulEdilirveYeKazanKabulEdilmez
 
 Kayıt Ol - KVKK Kabul Edilmez ve Ye Kazan Kabul Edilir
 -----------------------------
-tags:kayitOl_ KVKKKabulEdilmezveYeKazanKabulEdilir
+Tags:kayitOl_ KVKKKabulEdilmezveYeKazanKabulEdilir
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -74,7 +74,7 @@ tags:kayitOl_ KVKKKabulEdilmezveYeKazanKabulEdilir
 
 Kayıt Ol - Sepetim Ekranında - KVKK ve Ye Kazan Kabul Edilir
 -----------------------------------------
-tags:kayitOl_ SepetimEkranindaKVKKveYeKazanKabulEdilir
+Tags:kayitOl_ SepetimEkranindaKVKKveYeKazanKabulEdilir
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -97,7 +97,7 @@ tags:kayitOl_ SepetimEkranindaKVKKveYeKazanKabulEdilir
 
 Kayıt Ol - Sepetim Ekranında - KVKK Kabul Edilmez ve Ye Kazan Kabul Edilir
 -----------------------------------------
-tags:kayitOl_ SepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
+Tags:kayitOl_ SepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -120,7 +120,7 @@ tags:kayitOl_ SepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 
 Kayıt Ol - Sepetim Ekranında - Başarılı
 -----------------------------------------
-tags:kayitOl_ SepetimEkranindaBasarili
+Tags:kayitOl_ SepetimEkranindaBasarili
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -142,7 +142,7 @@ tags:kayitOl_ SepetimEkranindaBasarili
 
 Kayıt Ol - Sepetim Ekranında - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------------------
-tags:kayitOl_ SepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
+Tags:kayitOl_ SepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır

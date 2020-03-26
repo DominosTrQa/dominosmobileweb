@@ -4,7 +4,7 @@
 
 Özel Kampanyalar - Büyük Boy Pizzalar Gel Al
 ----------------------------------------
-tags:ozelKampanyalar_BuyukBoyPizzalarGelAl_Ios
+Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl_Ios
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -23,7 +23,7 @@ tags:ozelKampanyalar_BuyukBoyPizzalarGelAl_Ios
 
 Özel Kampanyalar - 3 Al 1 Öde
 ----------------------------------------
-tags:ozelKampanyalar_3Al1Ode_Ios
+Tags:ozelKampanyalar_3Al1Ode_Ios
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -41,7 +41,7 @@ tags:ozelKampanyalar_3Al1Ode_Ios
 
 Özel Kampanyalar - 3 Al 1 Öde - Pizza Düzenle
 ----------------------------------------
-tags:ozelKampanyalar_3Al1OdePizzaDuzenle_Ios
+Tags:ozelKampanyalar_3Al1OdePizzaDuzenle_Ios
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -64,7 +64,7 @@ tags:ozelKampanyalar_3Al1OdePizzaDuzenle_Ios
 
 Özel Pizzalar - Pizza Opsiyonel Seçimler
 ----------------------------------------
-tags:ozelPizzalar_PizzaOpsiyonelSecimler_Ios
+Tags:ozelPizzalar_PizzaOpsiyonelSecimler_Ios
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -85,7 +85,7 @@ tags:ozelPizzalar_PizzaOpsiyonelSecimler_Ios
 
 Özel Pizzalar - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
-tags:ozelPizzalar_PizzaOpsiyonelMalzemeCikarma_Ios
+Tags:ozelPizzalar_PizzaOpsiyonelMalzemeCikarma_Ios
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır

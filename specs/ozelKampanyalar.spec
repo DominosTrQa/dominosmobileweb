@@ -4,7 +4,7 @@
 
 Özel Kampanyalar - Büyük Boy Pizzalar Gel Al
 ----------------------------------------
-tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
+Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -24,7 +24,7 @@ tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
 
 Özel Kampanyalar - 3 Al 1 Öde
 ----------------------------------------
-tags:ozelKampanyalar_3Al1Ode
+Tags:ozelKampanyalar_3Al1Ode
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -43,7 +43,7 @@ tags:ozelKampanyalar_3Al1Ode
 
 Özel Kampanyalar - 3 Al 1 Öde - Pizza Düzenle
 ----------------------------------------
-tags:ozelKampanyalar_3Al1OdePizzaDuzenle
+Tags:ozelKampanyalar_3Al1OdePizzaDuzenle
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -67,7 +67,7 @@ tags:ozelKampanyalar_3Al1OdePizzaDuzenle
 
 Özel Pizzalar - Pizza Opsiyonel Seçimler
 ----------------------------------------
-tags:ozelPizzalar_PizzaOpsiyonelSecimler
+Tags:ozelPizzalar_PizzaOpsiyonelSecimler
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -89,7 +89,7 @@ tags:ozelPizzalar_PizzaOpsiyonelSecimler
 
 Özel Pizzalar - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
-tags:ozelPizzalar_PizzaOpsiyonelMalzemeCikarma
+Tags:ozelPizzalar_PizzaOpsiyonelMalzemeCikarma
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
