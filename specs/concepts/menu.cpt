@@ -2,6 +2,9 @@
 # Hamburger menünün açıldığı kontrol edilir
 * Element var mı kontrol et "hamburgerMenuProfilimbuton"
 
+# Üye olmayan kullanıcı için hamburger menünün açıldığı kontrol edilir
+* Element var mı kontrol et "menuYeKazanButon"
+
 # Ye-Kazan butonuna basılır
 * Elementi bekle ve sonra tıkla "menuYeKazanButon"
 

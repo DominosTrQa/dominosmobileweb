@@ -49,8 +49,6 @@ Tags:happyPath_KullaniciIlkKezGeliyorAdreseTeslim
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Yeni Kullanıcı İkinci Kez Geliyor - Adrese Teslim - Adresi var (Üst Menü)
@@ -121,8 +119,6 @@ Tags:happyPath_KullaniciIkinciKezGeliyorAdreseTeslimUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Yeni Kullanıcı İkinci Kez Geliyor - Adrese Teslim - Adresi var (Yan Menü)
@@ -195,8 +191,6 @@ Tags:happyPath_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Yeni Kullanıcı İlk Kez Geliyor - Gel Al
@@ -244,8 +238,6 @@ Tags:happyPath_KullaniciIlkKezGeliyorGelAl
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Yeni Kullanıcı İkinci Kez Geliyor - Gel Al (Üst Menü)
@@ -319,8 +311,6 @@ Tags:happyPath_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Yeni Kullanıcı İkinci Kez Geliyor - Gel Al (Yan Menü)
@@ -396,8 +386,6 @@ Tags:happyPath_KullaniciIkinciKezGeliyoraGelAlYanMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Kullanıcı - Adrese Teslim > Gel Al (Üst Menü)
@@ -422,8 +410,6 @@ tags:happyPath_ServisTipiDegistirenKullaniciAdreseTeslimGelAlUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Yeni Kullanıcı - Adrese Teslim > Gel Al (Üst Menü)
@@ -476,8 +462,6 @@ tags:happyPath_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Yeni Kullanıcı - Adrese Teslim > Gel Al (Tab)
@@ -533,8 +517,6 @@ tags:happyPath_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Yeni Kullanıcı -  Gel Al > Adrese Teslim (Üst Menü)
@@ -592,8 +574,6 @@ tags:happyPath_ServisTipiDegistirenKullaniciGelAlAdreseTeslimTab
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
-* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Yeni Kullanıcı -  Gel Al > Adrese Teslim (Tab)
