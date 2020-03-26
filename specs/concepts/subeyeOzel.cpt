@@ -19,10 +19,16 @@
 * Elementi bekle ve sonra tıkla "subeyeOzelTumKampanyalariInceleButon"
 
 # Şubeye Özel sayfasındaki Şubeyi Değiştir butonuna tıklanır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "subeyeOzelSubeyiDegistirButon"
 
 # Şube Ara kısmından şube Maslak olarak değiştirilir
 * "Maslak" textini "subeyiDegistirSubeAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "subeyiDegistirSubeAraButon"
+* Elementi bekle ve sonra tıkla "subeyiDegistirSubeBilgileriVeKampanyalari"
+
+# Şube Ara kısmından şube Siparişe Kapalı olarak değiştirilir
+* "99362 - Siparişe Kapalı" textini "subeyiDegistirSubeAdiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "subeyiDegistirSubeAraButon"
 * Elementi bekle ve sonra tıkla "subeyiDegistirSubeBilgileriVeKampanyalari"
 

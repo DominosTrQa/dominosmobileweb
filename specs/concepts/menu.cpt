@@ -127,7 +127,7 @@
 * Element var mı kontrol et "menuAdreslerimTelefonNumarasi10HaneOlmaliText"
 
 # Adalar - Burgazada için adres bilgileri tamamlanır
-* "2" saniye bekle
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
@@ -164,6 +164,7 @@
 
 # Yeni adresin eklendiği kontrol edilir
 * Element var mı kontrol et "menuAdresEkleEklenenAdres"
+* Elementi bekle ve sonra tıkla "menuAdreslerimKapatButon"
 
 # Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 * Elementi bekle ve sonra tıkla "menuAdresEkleEklenenAdres"
@@ -172,6 +173,9 @@
 
 # İl, ilçe, mahalle Düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "menuAdresIlIlceMahelleDuzenleButon"
+
+# Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuAdresIlIlceMahelleDuzenleGelAlButon"
 
 # İl, ilçe, mahalle güncellemesi kontrol edilir
 * Element var mı kontrol et "ilIlceMahelleDuzenleKontrolu"
@@ -195,3 +199,6 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 * "3" saniye bekle
 * Element yok mu kontrol et "menuAdreslerimIlkAdresBasligi"
+
+# Kullanıcı çıkış yapar
+* Elementi bekle ve sonra tıkla "menuCikisButon"

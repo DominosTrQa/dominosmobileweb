@@ -22,6 +22,7 @@ Tags:siparisIslemleri_KapiNoManuel
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -46,5 +47,6 @@ Tags:siparisIslemleri_KapiNoDropdown
 * Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur

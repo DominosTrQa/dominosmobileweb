@@ -1,0 +1,36 @@
+
+# Listelenen adreslerden test adresi seçilir
+* Elementi bekle ve sonra tıkla "menuAdreslerimListeAdalarAdresi"
+* Seçili Adres ile Devam Et butonuna tıklanır
+
+# Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
+* Element yok mu kontrol et "adreseTeslimButon"
+* Element yok mu kontrol et "gelAlButon"
+* "3" saniye bekle
+
+# Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Element var mı kontrol et "siparisSubeSipariseKapalı"
+
+# Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
+* "5" saniye bekle
+* Element var mı kontrol et "anasayfaSubeSipariseKapali"
+
+# Adrese Teslim servis tipi seçili olduğundan emin olunur
+* Element var mı kontrol et "anasayfaServisTipiAdreseTeslim"
+
+# Gel Al servis tipi seçili olduğundan emin olunur
+* Element var mı kontrol et "anasayfaServisTipiGelAl"
+
+# Ayazağa şubesi butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuAyazagaSubesiButon"
+
+# Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiAdreseTeslim"
+* Elementi bekle ve sonra tıkla "gelAlButon"
+
+# Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiGelAl"
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
+
+# Teslimat tipi tabına tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon"

@@ -21,7 +21,7 @@
   },
   {
     "key": "siparisMesafeliSatisSozlesmesi",
-    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
     "type": "xpath"
   },
   {
@@ -32,6 +32,11 @@
   {
     "key": "siparisSonucuText",
     "value":"//*[@class='pageHeader__Title-uo3je7-1 gMRowo']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSubeSipariseKapalı",
+    "value":"(//*[contains(text(),'Siparişe Kapalı')])[3]",
     "type": "xpath"
   }
 ]
