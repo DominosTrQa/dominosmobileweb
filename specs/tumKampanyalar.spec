@@ -4,7 +4,7 @@ Tüm Kampanyalar
 
 Tüm Kampanyalar - Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_SayfaKontrolu
+Tags:tumKampanyalar_SayfaKontrolu
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -20,7 +20,7 @@ tags:tumKampanyalar_SayfaKontrolu
 
 Tüm Kampanyalar - Şubeye Özel Fırsatlar Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_SubeyeOzelFirsatlarSayfaKontrolu
+Tags:tumKampanyalar_SubeyeOzelFirsatlarSayfaKontrolu
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -36,7 +36,7 @@ tags:tumKampanyalar_SubeyeOzelFirsatlarSayfaKontrolu
 
 Tüm Kampanyalar - Haftanın Kampanyaları Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_HaftaninKampanyalariSayfaKontrolu
+Tags:tumKampanyalar_HaftaninKampanyalariSayfaKontrolu
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -53,7 +53,7 @@ tags:tumKampanyalar_HaftaninKampanyalariSayfaKontrolu
 
 Tüm Kampanyalar - Tek Kişilik Kampanyalar Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_TekKisilikKampanyalarSayfaKontrolu
+Tags:tumKampanyalar_TekKisilikKampanyalarSayfaKontrolu
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -70,7 +70,7 @@ tags:tumKampanyalar_TekKisilikKampanyalarSayfaKontrolu
 
 Tüm Kampanyalar - 2-3 Kişilik Kampanyalar Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_23KisilikKampanyalarSayfaKontrolu
+Tags:tumKampanyalar_23KisilikKampanyalarSayfaKontrolu
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -87,7 +87,7 @@ tags:tumKampanyalar_23KisilikKampanyalarSayfaKontrolu
 
 Tüm Kampanyalar - 4 Kişi ve Üzeri Kampanyalar Sayfa Kontrolü
 ------------------------
-tags:tumKampanyalar_4KisiveUzeriKampanyalarSayfaKontrolu
+Tags:tumKampanyalar_4KisiveUzeriKampanyalarSayfaKontrolu
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur

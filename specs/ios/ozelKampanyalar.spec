@@ -4,11 +4,10 @@
 
 Özel Kampanyalar - Büyük Boy Pizzalar Gel Al
 ----------------------------------------
-Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
+Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl_Ios
 
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -24,11 +23,10 @@ Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
 
 Özel Kampanyalar - 3 Al 1 Öde
 ----------------------------------------
-Tags:ozelKampanyalar_3Al1Ode
+Tags:ozelKampanyalar_3Al1Ode_Ios
 
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -43,11 +41,10 @@ Tags:ozelKampanyalar_3Al1Ode
 
 Özel Kampanyalar - 3 Al 1 Öde - Pizza Düzenle
 ----------------------------------------
-Tags:ozelKampanyalar_3Al1OdePizzaDuzenle
+Tags:ozelKampanyalar_3Al1OdePizzaDuzenle_Ios
 
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -67,11 +64,10 @@ Tags:ozelKampanyalar_3Al1OdePizzaDuzenle
 
 Özel Pizzalar - Pizza Opsiyonel Seçimler
 ----------------------------------------
-Tags:ozelPizzalar_PizzaOpsiyonelSecimler
+Tags:ozelPizzalar_PizzaOpsiyonelSecimler_Ios
 
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -89,11 +85,10 @@ Tags:ozelPizzalar_PizzaOpsiyonelSecimler
 
 Özel Pizzalar - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
-Tags:ozelPizzalar_PizzaOpsiyonelMalzemeCikarma
+Tags:ozelPizzalar_PizzaOpsiyonelMalzemeCikarma_Ios
 
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
