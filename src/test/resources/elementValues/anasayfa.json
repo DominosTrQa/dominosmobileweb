@@ -172,7 +172,7 @@
   },
   {
     "key": "anasayfaIlkFirsat",
-    "value":".//*[@id='DPE_TR_HOME_SLIDER0']",
+    "value":".//*[@id='DPE_TR_HOME_SLIDER1']",
     "type": "xpath"
   },
   {

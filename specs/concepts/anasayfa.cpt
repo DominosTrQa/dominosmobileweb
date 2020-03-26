@@ -94,7 +94,7 @@
 * Elementi bekle ve sonra tıkla "anasayfaKalemButon"
 
 # Anasayfadaki ilk fırsata tıklanır
-* Elementi bekle ve sonra tıkla "anasayfaIlkFırsat"
+* Elementi bekle ve sonra tıkla "anasayfaIlkFirsat"
 
 # Anasayfadan farklı bir sayfaya yönlendirildiği kontrol edilir
 * Element yok mu kontrol et "tumPizzalarButon"
