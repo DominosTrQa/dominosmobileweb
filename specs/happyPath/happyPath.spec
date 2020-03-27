@@ -1,7 +1,7 @@
 Happy Path
 =====================
-Tekrarlı loginlerde hata olduğu(flu gelmesi) için sayfayı yenileyerek düzeltip devam ediyorum, hata düzeltilince silinecek.
-     
+
+
 Yeni Kullanıcı İlk Kez Geliyor - Adrese Teslim
 -----------------------------------------------
 Tags:happyPath_YeniKullaniciIlkKezGeliyorAdreseTeslim
@@ -71,7 +71,6 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyorAdreseTeslimUstMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kaydedilen email ile giriş yapılır
-* Sayfa yenilenir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
@@ -104,11 +103,11 @@ Tags:happyPath_KullaniciIkinciKezGeliyorAdreseTeslimUstMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Sayfa yenilenir
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
-* Listelenen adreslerden test adresi seçilir
+* Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * 3 Al 1 Öde kampanyası seçilir
@@ -141,7 +140,6 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kaydedilen email ile giriş yapılır
-* Sayfa yenilenir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
@@ -175,12 +173,12 @@ Tags:happyPath_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Sayfa yenilenir
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
-* Listelenen adreslerden test adresi seçilir
+* Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * 3 Al 1 Öde kampanyası seçilir
@@ -256,7 +254,6 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyoraGelAlUstMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kaydedilen email ile giriş yapılır
-* Sayfa yenilenir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
@@ -293,7 +290,6 @@ Tags:happyPath_KullaniciIkinciKezGeliyoraGelAlUstMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Sayfa yenilenir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
@@ -329,7 +325,6 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyoraGelAlYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kaydedilen email ile giriş yapılır
-* Sayfa yenilenir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
@@ -367,7 +362,6 @@ Tags:happyPath_KullaniciIkinciKezGeliyoraGelAlYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Sayfa yenilenir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır

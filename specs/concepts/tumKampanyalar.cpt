@@ -22,6 +22,8 @@
 
 # Haftanın Kampanyaları sayfasına gidilir
 * Elementi bekle ve sonra tıkla "haftaninKampanyalariTab"
+* Elementi bekle ve sonra tıkla "haftaninKampanyalariTabSeciliHali"
+* Elementi bekle ve sonra tıkla "haftaninKampanyalariTabSeciliHali"
 
 # Haftanın Kampanyaları sayfasının ilk elementinin geldiği kontrol edilir
 * Element var mı kontrol et "haftaninKampanyalariButon1"

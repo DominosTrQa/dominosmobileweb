@@ -170,6 +170,8 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimKapatButon"
 
 # Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Elementi bekle ve sonra tıkla "menuAdresEkleEklenenAdres"
 * Elementi bekle ve sonra tıkla "menuAdreslerimSeçiliAdresIleDevamEtButon"
 * Element var mı kontrol et "dominosLogo"
@@ -184,6 +186,8 @@
 * Element var mı kontrol et "ilIlceMahelleDuzenleKontrolu"
 
 # Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * "menuAdreslerimIlkAdresBasligi" li elementi bul ve değerini "ilkAdresBasligi" olarak sakla
 * Elementi bekle ve sonra tıkla "menuAdreslerimIlkAdresBasligi"
 * Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
@@ -198,6 +202,8 @@
 * Element var mı kontrol et "menuAdresEkleDegistirilmisAdres"
 
 # Eklenen adres silinir ve silindiği kontrol edilir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
 * Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 * "3" saniye bekle
