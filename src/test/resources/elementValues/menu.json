@@ -361,6 +361,11 @@
     "type": "xpath"
   },
   {
+    "key": "menuAdreslerimListeAdalarAdresiIkınci",
+    "value": "(//*[contains(text(),'ADALAR')])[2]",
+    "type": "xpath"
+  },
+  {
     "key": "menuAyazagaSubesiButon",
     "value": "(//a[contains(text(),'Ayazağa Şubesi')])[1]",
     "type": "xpath"

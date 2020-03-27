@@ -3,6 +3,10 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimListeAdalarAdresi"
 * Seçili Adres ile Devam Et butonuna tıklanır
 
+# Listelenen adreslerden ikinci test adresi seçilir
+* Elementi bekle ve sonra tıkla "menuAdreslerimListeAdalarAdresiIkınci"
+* Seçili Adres ile Devam Et butonuna tıklanır
+
 # Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Element yok mu kontrol et "adreseTeslimButon"
 * Element yok mu kontrol et "gelAlButon"
