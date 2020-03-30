@@ -369,5 +369,56 @@
     "key": "menuAyazagaSubesiButon",
     "value": "(//a[contains(text(),'Ayazağa Şubesi')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanGirisYapButon",
+    "value": "(//*[contains(text(),'Giriş Yap')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanUyeOlButon",
+    "value": "(//*[contains(text(),'Üye Ol')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGeceAçıkŞubelerButon",
+    "value": "(//*[contains(text(),'Gece Açık Şubeler')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGeceAcikSubelerSayfasiText",
+    "value": "//*[@class=\"nightOpenStores__ContentTitle-fpowgg-3 gYiSWn\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGeceAcikSubelerSubeIsmiTextbox",
+    "value": "(//*[contains(text(),'Şube ismi giriniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGeceAcikSubelerSubeAraButon",
+    "value": "(//*[contains(text(),'Şube Ara')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGeceAcikSubelerSanaEnYakınDominosuBulText",
+    "value": "(//*[contains(text(),'Sana En Yakın Domino')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGeceAnasayfaButon",
+    "value": "(//*[contains(text(),'Ana Sayfa')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuGirisYapButon",
+    "value": "(//*[contains(text(),'Giriş Yap')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuKayitOlButon",
+    "value": "(//*[contains(text(),'Kayıt Ol')])[1]",
+    "type": "xpath"
   }
+
 ]

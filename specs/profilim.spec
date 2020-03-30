@@ -426,3 +426,35 @@ Tags:profilim_AdreslerimKayitliAdresSilKontrolu
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 * Eklenen adres silinir ve silindiği kontrol edilir
+
+
+Profilim - Gece Açık Şubeler - Sayfa Kontrolü
+-----------------------------------------------------
+Tags:profilim_GeceAcikSubelerSayfaKontrolu
+
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Gece Açık Şubeler butonuna tıklanır
+* Gece Açık Şubeler sayfasının elementlerinin geldiği kontrol edilir
+* Anasayfadaki tabın geldiği kontrol edilir
+* Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
+
+
+Profilim - Anasayfa Buton Kontrol
+-------------------------------------------------
+Tags:profilim_PizzaTakipDijitalPizzaTakipSistemiYazisininKontrolu
+
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Anasayfa butonuna tıklanır
+* Anasayfaya yönlendirdiği kontrol edilir

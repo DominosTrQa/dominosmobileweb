@@ -18,7 +18,8 @@
 * Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButon"
 
 # 3 Al 1 Öde kampanyası seçilir
-* Elementi bekle ve sonra tıkla "3Al1OdeButon"
+* Element var mı kontrol et "3Al1OdeButon"
+* Elementine tıkla "3Al1OdeButon"
 
 # 3 Al 1 Öde kampanyası için sipariş seçilir
 * "5" saniye bekle

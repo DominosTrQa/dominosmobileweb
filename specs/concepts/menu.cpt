@@ -13,6 +13,10 @@
 * Element var mı kontrol et "menuYeKazanYeKazanaKatılButon"
 * Element var mı kontrol et "menuYeKazanSikcaSorulanSorularText"
 
+# Üye olmayan kullanıcı için Ye-Kazan sayfasındaki elementlerin geldiği kontrol edilir
+* Element var mı kontrol et "menuYeKazanGirisYapButon"
+* Element var mı kontrol et "menuYeKazanUyeOlButon"
+
 # Ye-Kazan Üyelik Koşulları kontrol edilir
 * Elementi bekle ve sonra tıkla "menuYeKazanUyelikKosullariLinkText"
 * Element var mı kontrol et "menuYeKazanUyelikKosullariYedikceKazaninText"
@@ -211,3 +215,34 @@
 
 # Kullanıcı çıkış yapar
 * Elementi bekle ve sonra tıkla "menuCikisButon"
+
+# Gece Açık Şubeler butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuGeceAçıkŞubelerButon"
+
+# Gece Açık Şubeler sayfasının elementlerinin geldiği kontrol edilir
+* Element var mı kontrol et "menuGeceAcikSubelerSayfasiText"
+* Element var mı kontrol et "menuGeceAcikSubelerSubeIsmiTextbox"
+* Element var mı kontrol et "menuGeceAcikSubelerSubeAraButon"
+* Element var mı kontrol et "menuGeceAcikSubelerSanaEnYakınDominosuBulText"
+
+# Anasayfa butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuGeceAnasayfaButon"
+
+# Anasayfaya yönlendirdiği kontrol edilir
+* Element var mı kontrol et "tumKampanyalarButon"
+
+# Menüdeki Giriş Yap butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuGirisYapButon"
+
+# Menüdeki Kayıt Ol butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuKayitOlButon"
+
+# Giriş Yap sayfasına yönlendirildiği kontrol edilir
+* Element var mı kontrol et "epostaTextbox"
+
+# Kayıt Ol sayfasına yönlendirildiği kontrol edilir
+* Element var mı kontrol et "uyeOlAdTextbox"
+
+
+
+

@@ -6,7 +6,7 @@
 * Element var mı kontrol et "tabTavuklar"
 * Element var mı kontrol et "tabEkmekler"
 * Element var mı kontrol et "tabTatlilar"
-* Element var mı kontrol et "tabSalatalar"
+* Elementi bekle ve sonra tıkla "tabTatlilar"
 * Element var mı kontrol et "tabSoslar"
 
 # Dürümler sayfasının ilk elementinin geldiği kontrol edilir
