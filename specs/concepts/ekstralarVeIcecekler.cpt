@@ -6,8 +6,8 @@
 * Element var mı kontrol et "tabTavuklar"
 * Element var mı kontrol et "tabEkmekler"
 * Element var mı kontrol et "tabTatlilar"
+* Elementi bekle ve sonra tıkla "tabTatlilar"
 * Element var mı kontrol et "tabSalatalar"
-* Element var mı kontrol et "tabSoslar"
 
 # Dürümler sayfasının ilk elementinin geldiği kontrol edilir
 * Element var mı kontrol et "durumlerButon1"

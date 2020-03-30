@@ -92,6 +92,7 @@ Tags:kayitOl_ SepetimEkranindaKVKKveYeKazanKabulEdilir
 * Açık Rıza Metni ve Ye Kazan onaylanır, E-Posta seçilir
 * Üye Ol sayfasındaki Üye Ol butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -115,6 +116,7 @@ Tags:kayitOl_ SepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 * Ye-Kazan onaylanır ve E-Posta seçilir
 * Üye Ol sayfasındaki Üye Ol butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -136,6 +138,7 @@ Tags:kayitOl_ SepetimEkranindaBasarili
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
@@ -160,4 +163,5 @@ Tags:kayitOl_ SepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 * Açık Rıza Metni onaylanır ve E-Posta seçilir
 * Üye Ol sayfasındaki Üye Ol butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
