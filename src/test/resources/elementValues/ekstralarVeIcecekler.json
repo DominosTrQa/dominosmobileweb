@@ -31,13 +31,8 @@
     "type": "xpath"
   },
   {
-    "key": "tabSalatalar",
-    "value": "//*[@id='DPE_TR_SIDEPRODUCT_TAB6']",
-    "type": "xpath"
-  },
-  {
     "key": "tabSoslar",
-    "value": "//*[@id='DPE_TR_SIDEPRODUCT_TAB7']",
+    "value": "//*[@id='DPE_TR_SIDEPRODUCT_TAB6']",
     "type": "xpath"
   },
   {
