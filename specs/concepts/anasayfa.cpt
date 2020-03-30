@@ -55,7 +55,9 @@
 * Elementi bekle ve sonra tıkla "anasayfaHamburgerMenu"
 
 # Tüm Pizzalar butonuna tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "tumPizzalarButon"
+* "3" saniye bekle
 
 # Tüm Kampanyalar butonuna tıklanır
 * Elementi bekle ve sonra tıkla "tumKampanyalarButon"

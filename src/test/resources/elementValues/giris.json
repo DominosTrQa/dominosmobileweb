@@ -234,5 +234,15 @@
     "key": "kayıtlıAdreslerSeciliAdresIleDevamEtButon",
     "value":"//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_SELECTADDRESS']",
     "type": "xpath"
+  },
+  {
+    "key": "haritadanEkleButon",
+    "value":".//*[@id='DPE_TR_NEARSTORELISTDELIVERY_BUTTON_LOCATIONSHARE']",
+    "type": "xpath"
+  },
+  {
+    "key": "sadeceAcikSubeleriGosterCheckbox",
+    "value":".//*[@id='DPE_TR_STOREFILTERFORM_CHECKBOX_ISACTIVESTOREFILTER']",
+    "type": "xpath"
   }
 ]

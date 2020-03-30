@@ -86,6 +86,7 @@
 * Elementi bekle ve sonra tıkla "ilceAdalar"
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleGelAlBurgazada"
+* Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
 # Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
@@ -131,7 +132,9 @@
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
 * "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
-* Elementi bekle ve sonra tıkla "uyeOlSayfasiUyeOlButon"
+* Element var mı kontrol et "uyeOlSayfasiUyeOlButon"
+* Elementine tıkla "uyeOlSayfasiUyeOlButon"
+* "3" saniye bekle
 
 # Mesafeli satış sözleşmesi onaylanır
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
@@ -176,3 +179,12 @@
 * "Test1234" textini "sifreTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
 * "3" saniye bekle
+
+# Haritadan Ekle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "haritadanEkleButon"
+
+# Seçili Konum ile Devam Et butonuna tıklanır
+* Elementi bekle ve sonra tıkla "seciliKonumIleDevamEtButon"
+
+# Sadece Açık Şubeleri Göster butonuna tıklanır
+* Elementi bekle ve sonra tıkla "sadeceAcikSubeleriGosterCheckbox"

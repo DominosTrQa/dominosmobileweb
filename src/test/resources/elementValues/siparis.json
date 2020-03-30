@@ -15,8 +15,18 @@
     "type": "xpath"
   },
   {
+    "key": "odemeSekliNakitButon",
+    "value":"(//*[contains(text(),'Nakit')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "odemeSekliDevamButon",
     "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-M']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliMisafirDevamButon",
+    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUEGUEST-M']",
     "type": "xpath"
   },
   {
@@ -37,6 +47,16 @@
   {
     "key": "siparisSubeSipariseKapalı",
     "value":"(//*[contains(text(),'Siparişe Kapalı')])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiCikolataliSufleKontrol",
+    "value":"(//div[contains(text(),'Çikolatalı Sufle')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiGirisYapButon",
+    "value":"(//a[contains(text(),'Giriş Yap')])[2]",
     "type": "xpath"
   }
 ]
