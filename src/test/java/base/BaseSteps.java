@@ -169,7 +169,7 @@ public class BaseSteps extends BaseTest{
         if (!key.equals("")) {
             WebElement element = findElement(key);
           //  hoverElement(element);
-            waitByMilliSeconds(500);
+           // waitByMilliSeconds(500);
             clickElement(element);
             logger.info(key + " elementine tıklandı.");
         }

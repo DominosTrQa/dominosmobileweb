@@ -38,5 +38,21 @@
     "key": "sepetimPromosyonKoduYanlışKodPopup",
     "value": "(//div[contains(text(),'Girdiğiniz kampanya kodu geçersiz')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "sepetteUrunEklemeSufle",
+    "value": ".//*[@id='DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetteUrunEklemeSufle",
+    "value": ".//*[@id='DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetSufleVarMiKontrol",
+    "value": "(//h2[contains(text(),'Çikolatalı Sufle')])[1]",
+    "type": "xpath"
   }
+
 ]

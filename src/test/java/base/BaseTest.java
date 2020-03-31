@@ -36,6 +36,7 @@ public class BaseTest {
         if (StringUtils.isEmpty(System.getenv("key")))
         {
 
+
             System.out.println("LOCAL");
             if ("android".equalsIgnoreCase(selectPlatform)) {
                 System.out.println("android");

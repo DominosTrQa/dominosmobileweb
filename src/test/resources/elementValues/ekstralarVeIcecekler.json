@@ -72,7 +72,7 @@
   },
   {
     "key": "soslarButon1",
-    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB7_CARD0']",
+    "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB6_CARD0']",
     "type": "xpath"
   }
 

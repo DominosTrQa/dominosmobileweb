@@ -5,6 +5,9 @@
 # Sipariş adımındaki Üye Ol butonuna tıklanır
 * Elementi bekle ve sonra tıkla "siparisSayfasiUyeOlButon"
 
+# Sipariş adımındaki Giriş Yap butonuna tıklanır
+* Elementi bekle ve sonra tıkla "siparisSayfasiGirisYapButon"
+
 # Ödeme şekli olarak ilk ödeme tipi seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliButon1"
@@ -16,3 +19,16 @@
 
 # Siparişin alındığından emin olunur
 * Element var mı kontrol et "siparisSonucuText"
+
+# Ödeme şekli olarak Nakit ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Element var mı kontrol et "odemeSekliNakitButon"

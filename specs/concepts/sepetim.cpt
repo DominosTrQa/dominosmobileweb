@@ -1,6 +1,7 @@
 
 # Sipariş Ver butonuna tıklanır
-* Elementi bekle ve sonra tıkla "sepetimSayfasiSiparisVerButon"
+* Element var mı kontrol et "sepetimSayfasiSiparisVerButon"
+* Elementine tıkla "sepetimSayfasiSiparisVerButon"
 
 # Sepette bir ürün olduğu kontrol edilir
 * Elementi bekle ve sonra tıkla "sepetim1UrunKontrol"
@@ -16,3 +17,9 @@
 * "Test123" textini "sepetimPromosyonKampanyaKoduTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sepetimPromosyonKoduPromosyonKullanButon"
 * Element var mı kontrol et "sepetimPromosyonKoduYanlışKodPopup"
+
+# Sepette bulunan ürünlerden sufle eklenir
+* Elementi bekle ve sonra tıkla "sepetteUrunEklemeSufle"
+
+# Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Element var mı kontrol et "sepetSufleVarMiKontrol"
