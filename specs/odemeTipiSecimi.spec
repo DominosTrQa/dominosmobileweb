@@ -256,9 +256,9 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlKrediKarti
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Smart Sodexho Kart
+Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:odemeTipiSecimi_YeniUyeAdreseTeslimSmartSodexhoKart
+Tags:odemeTipiSecimi_YeniUyeAdreseTeslimSmartSodexoKart
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -274,13 +274,13 @@ Tags:odemeTipiSecimi_YeniUyeAdreseTeslimSmartSodexhoKart
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Smart Sodexho Kart
+Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:odemeTipiSecimi_YeniUyeGelAlSmartSodexhoKart
+Tags:odemeTipiSecimi_YeniUyeGelAlSmartSodexoKart
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -295,13 +295,13 @@ Tags:odemeTipiSecimi_YeniUyeGelAlSmartSodexhoKart
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Smart Sodexho Kart
+Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:odemeTipiSecimi_VarOlanUyeAdreseTeslimSmartSodexhoKart
+Tags:odemeTipiSecimi_VarOlanUyeAdreseTeslimSmartSodexoKart
 
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -316,13 +316,13 @@ Tags:odemeTipiSecimi_VarOlanUyeAdreseTeslimSmartSodexhoKart
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexho Kart
+Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:odemeTipiSecimi_VarOlanUyeGelAlSmartSodexhoKart
+Tags:odemeTipiSecimi_VarOlanUyeGelAlSmartSodexoKart
 
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -336,13 +336,13 @@ Tags:odemeTipiSecimi_VarOlanUyeGelAlSmartSodexhoKart
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Smart Sodexho Kart
+Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSmartSodexhoKart
+Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSmartSodexoKart
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -358,13 +358,13 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSmartSodexhoKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Smart Sodexho Kart
+Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:odemeTipiSecimi_ÜyeliksizGelAlSmartSodexhoKart
+Tags:odemeTipiSecimi_ÜyeliksizGelAlSmartSodexoKart
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -379,13 +379,13 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSmartSodexhoKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Sodexho Yemek Çeki
+Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:odemeTipiSecimi_YeniUyeAdreseTeslimSodexhoYemekCeki
+Tags:odemeTipiSecimi_YeniUyeAdreseTeslimSodexoYemekCeki
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -401,13 +401,13 @@ Tags:odemeTipiSecimi_YeniUyeAdreseTeslimSodexhoYemekCeki
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
-* Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Sodexho Yemek Çeki
+Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:odemeTipiSecimi_YeniUyeGelAlSodexhoYemekCeki
+Tags:odemeTipiSecimi_YeniUyeGelAlSodexoYemekCeki
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -422,13 +422,13 @@ Tags:odemeTipiSecimi_YeniUyeGelAlSodexhoYemekCeki
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
-* Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Sodexho Yemek Çeki
+Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:odemeTipiSecimi_VarOlanUyeAdreseTeslimSodexhoYemekCeki
+Tags:odemeTipiSecimi_VarOlanUyeAdreseTeslimSodexoYemekCeki
 
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -443,13 +443,13 @@ Tags:odemeTipiSecimi_VarOlanUyeAdreseTeslimSodexhoYemekCeki
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
-* Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Sodexho Yemek Çeki
+Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:odemeTipiSecimi_VarOlanUyeGelAlSodexhoYemekCeki
+Tags:odemeTipiSecimi_VarOlanUyeGelAlSodexoYemekCeki
 
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
@@ -463,13 +463,13 @@ Tags:odemeTipiSecimi_VarOlanUyeGelAlSodexhoYemekCeki
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
-* Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Sodexho Yemek Çeki
+Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSodexhoYemekCeki
+Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSodexoYemekCeki
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -485,13 +485,13 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSodexhoYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
-* Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Sodexho Yemek Çeki
+Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:odemeTipiSecimi_ÜyeliksizGelAlSodexhoYemekCeki
+Tags:odemeTipiSecimi_ÜyeliksizGelAlSodexoYemekCeki
 
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
@@ -506,8 +506,8 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSodexhoYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
-* Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SmartTicket Kart

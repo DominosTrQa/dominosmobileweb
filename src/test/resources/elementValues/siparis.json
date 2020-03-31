@@ -25,12 +25,12 @@
     "type": "xpath"
   },
   {
-    "key": "odemeSekliSmartSodexhoKartButon",
+    "key": "odemeSekliSmartSodexoKartButon",
     "value":"(//*[contains(text(),'Smart Sodexho Kart')])[1]",
     "type": "xpath"
   },
   {
-    "key": "odemeSekliSodexhoYemekCekiButon",
+    "key": "odemeSekliSodexoYemekCekiButon",
     "value":"(//*[contains(text(),'Sodexho Yemek Çeki')])[1]",
     "type": "xpath"
   },
@@ -115,12 +115,12 @@
     "type": "xpath"
   },
   {
-    "key": "siparisOnaySayfasiSmartSodexhoKartKontrol",
+    "key": "siparisOnaySayfasiSmartSodexoKartKontrol",
     "value":"(//h3[contains(text(),'Smart Sodexho Kart')])[1]",
     "type": "xpath"
   },
   {
-    "key": "siparisOnaySayfasiSodexhoYemekCekiKontrol",
+    "key": "siparisOnaySayfasiSodexoYemekCekiKontrol",
     "value":"(//h3[contains(text(),'Sodexho Yemek Çeki')])[1]",
     "type": "xpath"
   },
