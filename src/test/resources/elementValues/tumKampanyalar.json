@@ -20,6 +20,11 @@
     "type": "xpath"
   },
   {
+    "key": "gelAlHaftaninKampanyalariTabSeciliHali",
+    "value": "(//*[contains(text(),'Gel Al Haftanın Kampanyaları')])[2]",
+    "type": "xpath"
+  },
+  {
     "key": "tekKişilikKampanyalarTab",
     "value": "(//*[contains(text(),'Tek Kişilik Kampanyalar')])[1]",
     "type": "xpath"

@@ -184,7 +184,8 @@
 * Elementi bekle ve sonra tıkla "haritadanEkleButon"
 
 # Seçili Konum ile Devam Et butonuna tıklanır
-* Elementi bekle ve sonra tıkla "seciliKonumIleDevamEtButon"
+* Element var mı kontrol et "seciliKonumIleDevamEtButon"
+*Elementine tıkla "seciliKonumIleDevamEtButon"
 
 # Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "sadeceAcikSubeleriGosterCheckbox"

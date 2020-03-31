@@ -127,7 +127,7 @@
   },
   {
     "key": "bildirimlereIzınVerButon",
-    "value": "(//*[contains(text(),'İzin ver')])[1]",
+    "value": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[3]/android.widget.LinearLayout/android.view.ViewGroup/android.widget.Button[2]",
     "type": "xpath"
   },
   {

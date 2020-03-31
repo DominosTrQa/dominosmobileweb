@@ -56,7 +56,8 @@
 
 # Tüm Pizzalar butonuna tıklanır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "tumPizzalarButon"
+* Element var mı kontrol et "tumPizzalarButon"
+* Elementine tıkla "tumPizzalarButon"
 * "3" saniye bekle
 
 # Tüm Kampanyalar butonuna tıklanır
