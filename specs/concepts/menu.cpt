@@ -159,7 +159,7 @@
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 
 # Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
-* "2" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz

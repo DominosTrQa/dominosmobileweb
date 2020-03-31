@@ -25,10 +25,141 @@
 * Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
+# Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliKrediKartiButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartSodexhoKartButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSodexhoYemekCekiButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketKartButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak Multinet ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliMultinetButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak SetCard ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSetCardButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak Paye Kart ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliPayeKartButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Ödeme şekli olarak Online Ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliOnlineOdemeButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
 # Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
 * Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
 
+# Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliKrediKartiButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexho Kart ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartSodexhoKartButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak Sodexho Yemek Çeki ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSodexhoYemekCekiButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketKartButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSmartTicketYemekCekiButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliMultinetButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliSetCardButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliPayeKartButon"
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
+# Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirOnlineOdemeButon"
+
+# Üye olmayan kullanıcı için Devam butonunatıklanır
+* Elementi bekle ve sonra tıkla "odemeSekliMisafirDevamButon"
+
 # Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
-* Element var mı kontrol et "odemeSekliNakitButon"
+* Element var mı kontrol et "siparisOnaySayfasiCikolataliSufleKontrol"
+
+# Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiNakitKontrol"
+
+# Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiKrediKartiKontrol"
+
+# Sipariş Onay sayfasında Smart Sodexho Kart ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiSmartSodexhoKartKontrol"
+
+# Sipariş Onay sayfasında Sodexho Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiSodexhoYemekCekiKontrol"
+
+# Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiSmartTicketKartKontrol"
+
+# Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiSmartTicketYemekCekiKontrol"
+
+# Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiMultinetKontrol"
+
+# Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiSetCardKontrol"
+
+# Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiPayeKartKontrol"
+
+# Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
+* Element var mı kontrol et "siparisSayfasiOnlineOdemeTelefonTextbox"
+
+# Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
+* Elementi bekle ve sonra tıkla "siparisSayfasiOnlineOdemeTelefonTextbox"
+* Element var mı kontrol et "siparisSayfasiOnlineOdemeTelefonTextboxGecerliTelefonGirinizUyari"
+* Elementi bekle ve sonra tıkla "siparisSayfasiOnlineOdemeTelefonTextboxKapatButon"
+
+# Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Element var mı kontrol et "siparisSayfasiOnlineOdemeDevamAcilanPopupKontrol"
+* Elementi bekle ve sonra tıkla "siparisSayfasiOnlineOdemeDevamAcilanPopupTamamButon"
