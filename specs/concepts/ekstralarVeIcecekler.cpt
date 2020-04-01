@@ -1,5 +1,5 @@
 
-# Ekstra Lezzetler sayfasının elementlerinin geldiği kontrol edilir
+# Ekstralar ve İçecekler sayfasının elementlerinin geldiği kontrol edilir
 * Element var mı kontrol et "tabDurumler"
 * Element var mı kontrol et "tabIcecekler"
 * Element var mı kontrol et "tabEkmekArasi"
@@ -59,4 +59,4 @@
 
 # İçecekler kategorisinin ilk elementi seçilir
 * Elementi bekle ve sonra tıkla "iceceklerButon1"
-
+* "2" saniye bekle

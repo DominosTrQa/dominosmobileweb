@@ -16,8 +16,8 @@
     "type": "xpath"
   },
   {
-    "key": "ekstraLezzetlerButon",
-    "value": "(//span[contains(text(),'Ekstra Lezzetler')])[1]",
+    "key": "ekstralarVeIceceklerButon",
+    "value": "(//span[contains(text(),'Ekstralar ve İçecekler')])[1]",
     "type": "xpath"
   },
   {
