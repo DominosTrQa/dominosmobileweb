@@ -46,7 +46,7 @@
   },
   {
     "key": "3Al1OdeButon",
-    "value":"(//*[contains(text(),'3 Al 1 Öde')])[1]",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
     "type": "xpath"
   },
   {
