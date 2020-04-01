@@ -172,6 +172,7 @@
 * "3" saniye bekle
 
 # Seçili Adres ile Devam Et butonuna tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "kayıtlıAdreslerSeciliAdresIleDevamEtButon"
 
 # Kaydedilen email ile giriş yapılır

@@ -20,6 +20,56 @@
     "type": "xpath"
   },
   {
+    "key": "odemeSekliKrediKartiButon",
+    "value":"(//*[contains(text(),'Kredi Kartı')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliSmartSodexoKartButon",
+    "value":"(//*[contains(text(),'Smart Sodexho Kart')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliSodexoYemekCekiButon",
+    "value":"(//*[contains(text(),'Sodexho Yemek Çeki')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliSmartTicketKartButon",
+    "value":"(//*[contains(text(),'SmartTicket Kart')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliSmartTicketYemekCekiButon",
+    "value":"(//*[contains(text(),'SmartTicket Yemek Çeki')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliMultinetButon",
+    "value":"(//*[contains(text(),'Multinet')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliSetCardButon",
+    "value":"(//*[contains(text(),'SetCard')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliPayeKartButon",
+    "value":"(//*[contains(text(),'Paye Kart')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliOnlineOdemeButon",
+    "value":"(.//*[@class='styled__PaymentCardTitle-nisyg4-7 jEAhRh'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliMisafirOnlineOdemeButon",
+    "value":"(.//*[@class='styled__PaymentCardTitle-sc-19fuf41-7 gCtXaA'])[2]",
+    "type": "xpath"
+  },
+  {
     "key": "odemeSekliDevamButon",
     "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-M']",
     "type": "xpath"
@@ -55,8 +105,83 @@
     "type": "xpath"
   },
   {
+    "key": "siparisOnaySayfasiNakitKontrol",
+    "value":"(//h3[contains(text(),'Nakit')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiKrediKartiKontrol",
+    "value":"(//h3[contains(text(),'Kredi Kartı')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiSmartSodexoKartKontrol",
+    "value":"(//h3[contains(text(),'Smart Sodexho Kart')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiSodexoYemekCekiKontrol",
+    "value":"(//h3[contains(text(),'Sodexho Yemek Çeki')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiSmartTicketKartKontrol",
+    "value":"(//h3[contains(text(),'SmartTicket Kart')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiSmartTicketYemekCekiKontrol",
+    "value":"(//h3[contains(text(),'SmartTicket Yemek Çeki')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiMultinetKontrol",
+    "value":"(//h3[contains(text(),'Multinet')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiSetCardKontrol",
+    "value":"(//h3[contains(text(),'SetCard')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisOnaySayfasiPayeKartKontrol",
+    "value":"(//h3[contains(text(),'Paye Kart')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "siparisSayfasiGirisYapButon",
     "value":"(//a[contains(text(),'Giriş Yap')])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiOnlineOdemeTelefonTextbox",
+    "value":".//*[@class='input__Control-wbeopl-2 iQtoeP']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiOnlineOdemeTelefonOnaylaButon",
+    "value":".//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO eVfzdQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiOnlineOdemeDevamAcilanPopupKontrol",
+    "value":".//*[@class='alert__Description-v13nzi-1 ikOtzk']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiOnlineOdemeDevamAcilanPopupTamamButon",
+    "value":".//*[@id='DPE_TR_ALERT_BUTTON_LEFT']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiOnlineOdemeTelefonTextboxGecerliTelefonGirinizUyari",
+    "value":"(//*[contains(text(),'Geçerli bir telefon numarası giriniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiOnlineOdemeTelefonTextboxKapatButon",
+    "value":".//*[@id='DPE_TR_MODALDIALOG_BUTTON_CLOSE']",
     "type": "xpath"
   }
 ]
