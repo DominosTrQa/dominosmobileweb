@@ -12,7 +12,7 @@ Tags:siparisIslemleri_KapiNoManuel
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinin ilk elementi seçilir
 * İçecekler kategorisinin ilk elementi seçilir
@@ -37,7 +37,7 @@ Tags:siparisIslemleri_KapiNoDropdown
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinin ilk elementi seçilir
 * İçecekler kategorisinin ilk elementi seçilir

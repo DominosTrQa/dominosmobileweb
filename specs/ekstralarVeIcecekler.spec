@@ -12,8 +12,8 @@ Tags:ekstralar_SayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
-* Ekstra Lezzetler sayfasının elementlerinin geldiği kontrol edilir
+* Ekstralar ve İçecekler butonuna tıklanır
+* Ekstralar ve İçecekler sayfasının elementlerinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -28,7 +28,7 @@ Tags:ekstralar_DurumlerSayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Dürümler sayfasına gidilir
 * Dürümler sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
@@ -45,7 +45,7 @@ Tags:ekstralar_EkmekArasiSayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Ekmek Arası sayfasına gidilir
 * Ekmek Arası sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
@@ -63,7 +63,7 @@ Tags:ekstralar_TavuklarSayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Tavuklar sayfasına gidilir
 * Tavuklar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
@@ -80,7 +80,7 @@ Tags:ekstralar_TatlilarSayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Tatlılar sayfasına gidilir
 * Tatlılar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
@@ -97,26 +97,9 @@ Tags:ekstralar_EkmeklerSayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Ekmekler sayfasına gidilir
 * Ekmekler sayfasının ilk elementinin geldiği kontrol edilir
-* Anasayfadaki tabın geldiği kontrol edilir
-* Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
-
-
-Ekstralar - Salatalar Sayfa Kontrolü
-----------------
-Tags:ekstralar_SalatalarSayfaKontrolu
-
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
-* Salatalar sayfasına gidilir
-* Salatalar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 
@@ -131,7 +114,7 @@ Tags:ekstralar_SoslarSayfaKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Soslar sayfasına gidilir
 * Soslar sayfasının ilk elementinin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
@@ -148,7 +131,7 @@ Tags:ekstralar_UstBarProfilimPopopKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Hamburger menüye tıklanır
 * Hamburger menünün açıldığı kontrol edilir
 
@@ -163,5 +146,5 @@ Tags:ekstralar_AltBarYazilarinKontrolu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Ekstra Lezzetler butonuna tıklanır
+* Ekstralar ve İçecekler butonuna tıklanır
 * Alt bardaki elementlerin geldiği kontrol edilir

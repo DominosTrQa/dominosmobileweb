@@ -1,12 +1,12 @@
 [
   {
     "key": "kampanyalarGelAlHaftaninKampanyalari",
-    "value":"(//*[contains(text(),'Gel Al Haftanın Kampanyaları')])[1]",
+    "value":"(//span[contains(text(),'Gel Al Haftanın Kampanyaları')])[1]",
     "type": "xpath"
   },
   {
     "key": "kampanyalarBuyukBoyPizzalarGelAlButon",
-    "value":"//*[contains(text(),'Büyük Boy Pizzalar - Gel Al')]",
+    "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
     "type": "xpath"
   },
   {

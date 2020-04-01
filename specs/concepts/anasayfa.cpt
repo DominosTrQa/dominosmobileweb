@@ -5,7 +5,7 @@
 # Anasayfadaki butonların geldiği kontrol edilir
 * Element var mı kontrol et "tumKampanyalarButon"
 * Element var mı kontrol et "tumPizzalarButon"
-* Element var mı kontrol et "ekstraLezzetlerButon"
+* Element var mı kontrol et "ekstralarVeIceceklerButon"
 * Element var mı kontrol et "anasayfaHamburgerMenu"
 * Element var mı kontrol et "firsatlarSagOk"
 * Element var mı kontrol et "firsatlarSolOk"
@@ -61,6 +61,7 @@
 * "3" saniye bekle
 
 # Tüm Kampanyalar butonuna tıklanır
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "tumKampanyalarButon"
 
 # Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
@@ -90,19 +91,23 @@
 * Element var mı kontrol et "anasayfaAltBarSikayetOneriHattiText"
 * Element var mı kontrol et "anasayfaAltBarBilgilendirmeText"
 
-# Ekstra Lezzetler butonuna tıklanır
-* Elementi bekle ve sonra tıkla "ekstraLezzetlerButon"
+# Ekstralar ve İçecekler butonuna tıklanır
+* "5" saniye bekle
+* Element var mı kontrol et "ekstralarVeIceceklerButon"
+* Elementine tıkla "ekstralarVeIceceklerButon"
 
 # Kalem ikonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaKalemButon"
 
 # Anasayfadaki ilk fırsata tıklanır
+* "3" saniye bekle
+* Element var mı kontrol et "anasayfaIlkFirsat"
 * Elementi bekle ve sonra tıkla "anasayfaIlkFirsat"
 
 # Anasayfadan farklı bir sayfaya yönlendirildiği kontrol edilir
 * Element yok mu kontrol et "tumPizzalarButon"
 * Element yok mu kontrol et "tumKampanyalarButon"
-* Element yok mu kontrol et "ekstraLezzetlerButon"
+* Element yok mu kontrol et "ekstralarVeIceceklerButon"
 * Element yok mu kontrol et "firsatlarSagOk"
 * Element yok mu kontrol et "firsatlarSolOk"
 

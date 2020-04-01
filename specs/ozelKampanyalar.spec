@@ -23,7 +23,7 @@ Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
 
 
 Özel Kampanyalar - 3 Al 1 Öde
-----------------------------------------
+------------------------------
 Tags:ozelKampanyalar_3Al1Ode
 
 * Üye Ol butonuna tıklanır

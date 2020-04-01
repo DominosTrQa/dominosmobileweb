@@ -130,6 +130,7 @@
 
 # Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "uyeOlUyelikSatisSozlesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
 * "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
 * Element var mı kontrol et "uyeOlSayfasiUyeOlButon"
