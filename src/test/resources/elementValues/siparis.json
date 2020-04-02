@@ -85,6 +85,21 @@
     "type": "xpath"
   },
   {
+    "key": "siparisGelAlMesafeliSatisSozlesmesi",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisTemassizSeciliIkenMesafeliSatisSozlesmesi",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisZileBasmayinSeciliIkenMesafeliSatisSozlesmesi",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
+    "type": "xpath"
+  },
+  {
     "key": "siparisSayfasiSiparisVerButon",
     "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER-M']",
     "type": "xpath"
@@ -182,6 +197,91 @@
   {
     "key": "siparisSayfasiOnlineOdemeTelefonTextboxKapatButon",
     "value":".//*[@id='DPE_TR_MODALDIALOG_BUTTON_CLOSE']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiTemassizTeslimatCheckbox",
+    "value":".//*[@id='contactlessDelivery']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiZileBasmayinCheckbox",
+    "value":"(//*[@id='isdonotpressthebell'])",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiSiparisNotuTextbox",
+    "value":"(//*[@id='deliveryInstructions'])",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSayfasiUyeDegilkenSiparisNotuTextbox",
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_INPUT_NOTES_GUEST'])",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSonucuNotTemassızTeslimatKontrol",
+    "value":"(//p[contains(text(),'Temassız Teslimat')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSonucuNotZileBasmayinizKontrol",
+    "value":"(//p[contains(text(),'Lütfen zile basmayınız')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSonucuGirilenNotTestNotuKontrol",
+    "value":"(//p[contains(text(),'Test notu')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisSonucuSecilenNotTestNotuKontrol",
+    "value":"(//p[contains(text(),'Test Not İçeriği')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenBilgilerAdTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenBilgilerSoyadTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenBilgilerEpostaTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenBilgilerTelefonTextbox",
+    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisUyeDegilkenSiparisverButon",
+    "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER_GUEST-M']",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisNotEkleSecinizDropdown",
+    "value":"(//*[contains(text(),'Seçiniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisNotEkleDropdownTestNotuBasligi",
+    "value":"(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisNotEkleDropdownTestNotuIcerigi",
+    "value":"(.//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "siparisYeKazanPopupKapatButon",
+    "value":"(.//*[@id='DPE_TR_MODALDIALOG_BUTTON_CLOSE'])[1]",
     "type": "xpath"
   }
 ]

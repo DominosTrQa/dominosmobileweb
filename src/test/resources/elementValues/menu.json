@@ -197,7 +197,12 @@
   },
   {
     "key": "menuNotlarimEklenenNot",
-    "value": "(//*[contains(text(),'Test')])[1]",
+    "value": "(//*[contains(text(),'Test Not Başlığı')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuNotlarimEklenenTestNotBasligi",
+    "value": "(//*[contains(text(),'Test Not Başlığı')])[1]",
     "type": "xpath"
   },
   {
