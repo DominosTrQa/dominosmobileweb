@@ -90,9 +90,9 @@
 
 # Yeni not eklenir ve eklendiği kontrol edilir
 * Elementi bekle ve sonra tıkla "menuNotlarimNotBasligiTextbox"
-* "Test" textini "menuNotlarimNotBasligiTextbox" elemente yaz
+* "Test Not Başlığı" textini "menuNotlarimNotBasligiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuNotlarimNotIcerigiTextbox"
-* "Test" textini "menuNotlarimNotIcerigiTextbox" elemente yaz
+* "Test Not İçeriği" textini "menuNotlarimNotIcerigiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuNotlarimEkleEkleButon"
 * Element var mı kontrol et "menuNotlarimEklenenNot"
 
@@ -242,7 +242,3 @@
 
 # Kayıt Ol sayfasına yönlendirildiği kontrol edilir
 * Element var mı kontrol et "uyeOlAdTextbox"
-
-
-
-

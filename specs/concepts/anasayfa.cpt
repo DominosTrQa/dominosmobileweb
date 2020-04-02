@@ -55,7 +55,7 @@
 * Elementi bekle ve sonra tıkla "anasayfaHamburgerMenu"
 
 # Tüm Pizzalar butonuna tıklanır
-* "3" saniye bekle
+* "5" saniye bekle
 * Element var mı kontrol et "tumPizzalarButon"
 * Elementine tıkla "tumPizzalarButon"
 * "3" saniye bekle
@@ -67,6 +67,9 @@
 # Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Elementi bekle ve sonra tıkla "dominosLogo"
 * Element var mı kontrol et "tumKampanyalarButon"
+
+# Dominos logosuna tıklanır
+* Elementi bekle ve sonra tıkla "dominosLogo"
 
 # Sepetim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaTabSepetimButon"

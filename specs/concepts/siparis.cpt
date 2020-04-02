@@ -14,8 +14,44 @@
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
 # Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* "siparisMesafeliSatisSozlesmesi" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "siparisMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
+
+# Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* "siparisGelAlMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
+
+# Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
+* "siparisGelAlMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
+
+# Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
+* "siparisTemassizSeciliIkenMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisTemassizSeciliIkenMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
+
+# Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
+* "siparisZileBasmayinSeciliIkenMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisZileBasmayinSeciliIkenMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
+
+# Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
+* "siparisTemassizSeciliIkenMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisTemassizSeciliIkenMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
+
+# Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
+* "siparisZileBasmayinSeciliIkenMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisZileBasmayinSeciliIkenMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
+
+# Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
+* "siparisMesafeliSatisSozlesmesi" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisMesafeliSatisSozlesmesi"
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Siparişin alındığından emin olunur
 * Element var mı kontrol et "siparisSonucuText"
@@ -163,3 +199,55 @@
 # Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
 * Element var mı kontrol et "siparisSayfasiOnlineOdemeDevamAcilanPopupKontrol"
 * Elementi bekle ve sonra tıkla "siparisSayfasiOnlineOdemeDevamAcilanPopupTamamButon"
+
+# Temassız Teslimat checkbox seçilir
+* Elementi bekle ve sonra tıkla "siparisSayfasiTemassizTeslimatCheckbox"
+
+# Lütfen zile basmayınız checkbox seçilir
+* "2" saniye bekle
+* "siparisSayfasiZileBasmayinCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "siparisSayfasiZileBasmayinCheckbox"
+* Elementine tıkla "siparisSayfasiZileBasmayinCheckbox"
+
+# Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "siparisSonucuNotTemassızTeslimatKontrol"
+
+# Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "siparisSonucuNotZileBasmayinizKontrol"
+
+# Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "siparisSonucuGirilenNotTestNotuKontrol"
+
+# Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
+* "2" saniye bekle
+* Element var mı kontrol et "siparisSonucuSecilenNotTestNotuKontrol"
+
+# Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Element var mı kontrol et "siparisUyeDegilkenBilgilerAdTextbox"
+* "Test" textini "siparisUyeDegilkenBilgilerAdTextbox" elemente yaz
+* "Test" textini "siparisUyeDegilkenBilgilerSoyadTextbox" elemente yaz
+* "testotomasyon@hotmail.com" textini "siparisUyeDegilkenBilgilerEpostaTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenBilgilerTelefonTextbox"
+* "123456789" textini "siparisUyeDegilkenBilgilerTelefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
+
+# Sipariş notu yazılır
+* "Test notu" textini "siparisSayfasiSiparisNotuTextbox" elemente yaz
+
+# Üye olmayan kullanıcı için Sipariş Notu yazılır
+* "Test notu" textini "siparisSayfasiUyeDegilkenSiparisNotuTextbox" elemente yaz
+
+# Sipariş notu seçilir
+* "siparisNotEkleSecinizDropdown" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisNotEkleSecinizDropdown"
+* Element var mı kontrol et "siparisNotEkleDropdownTestNotuBasligi"
+* Elementi bekle ve sonra tıkla "siparisNotEkleDropdownTestNotuBasligi"
+* "5" saniye bekle
+* Element var mı kontrol et "siparisNotEkleDropdownTestNotuIcerigi"
+
+# Ye-Kazan pop up kapatılır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisYeKazanPopupKapatButon"
