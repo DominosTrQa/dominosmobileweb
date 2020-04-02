@@ -51,6 +51,10 @@ Tags:siparisNotuEkleme_VarOlanUyeAdreseTeslimTemassizTeslimat
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
+* Sayfa yenilenir
+* Ye-Kazan pop up kapatılır
+* Dominos logosuna tıklanır
+* Eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
@@ -129,6 +133,10 @@ Tags:siparisNotuEkleme_VarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
+* Sayfa yenilenir
+* Ye-Kazan pop up kapatılır
+* Dominos logosuna tıklanır
+* Eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
@@ -232,6 +240,10 @@ Tags:siparisNotuEkleme_VarOlanUyeAdreseTeslimNotEkleme
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
+* Sayfa yenilenir
+* Ye-Kazan pop up kapatılır
+* Dominos logosuna tıklanır
+* Eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
@@ -256,6 +268,10 @@ Tags:siparisNotuEkleme_VarOlanUyeGelAlNotEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
+* Sayfa yenilenir
+* Ye-Kazan pop up kapatılır
+* Dominos logosuna tıklanır
+* Eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -408,8 +424,7 @@ Tags:siparisNotuEkleme_VarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
 * Not silinir ve silindiği kontrol edilir
 * Dominos logosuna tıklanır
-* Hamburger menüye tıklanır
-* Eklenen adres silinir ve silindiği kontrol edilir
+* Eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
@@ -447,5 +462,4 @@ Tags:siparisNotuEkleme_VarOlanUyeGelAlVarOlanNotuEkleme
 * Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
 * Not silinir ve silindiği kontrol edilir
 * Dominos logosuna tıklanır
-* Hamburger menüye tıklanır
-* Eklenen adres silinir ve silindiği kontrol edilir
+* Eklenen adres silinir

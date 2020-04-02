@@ -120,7 +120,9 @@
 * Element var mı kontrol et "gelAlButon"
 
 # Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
-* Elementi bekle ve sonra tıkla "menuAdreslerimButon"
+* "2" saniye bekle
+* Element var mı kontrol et "menuAdreslerimButon"
+* Elementine tıkla "menuAdreslerimButon"
 * Element var mı kontrol et "menuAdreslerimSeçiliAdresIleDevamEtButon"
 
 # Yeni Adres Ekle butonuna tıklanır
@@ -212,6 +214,13 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 * "3" saniye bekle
 * Element yok mu kontrol et "menuAdreslerimIlkAdresBasligi"
+
+# Eklenen adres silinir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Elementi bekle ve sonra tıkla "menuAdreslerimIlkAdresBasligi"
+* Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
+* Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 
 # Kullanıcı çıkış yapar
 * Elementi bekle ve sonra tıkla "menuCikisButon"
