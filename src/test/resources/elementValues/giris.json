@@ -131,6 +131,16 @@
     "type": "xpath"
   },
   {
+    "key": "mahallePinar",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[133]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleGelAlPinar",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[134]",
+    "type": "xpath"
+  },
+  {
     "key": "mahalleGelAlAyazaga",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
     "type": "xpath"
@@ -243,6 +253,11 @@
   {
     "key": "sadeceAcikSubeleriGosterCheckbox",
     "value":".//*[@id='DPE_TR_STOREFILTERFORM_CHECKBOX_ISACTIVESTOREFILTER']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilIlceMahalleDuzenleButon",
+    "value":"(//div[contains(text(),'Düzenle' )])[1]",
     "type": "xpath"
   }
 ]

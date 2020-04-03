@@ -51,7 +51,7 @@
 * Element var mı kontrol et "pizzaTakipGoruntuleButon"
 
 # Hamburger menüye tıklanır
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaHamburgerMenu"
 
 # Tüm Pizzalar butonuna tıklanır
@@ -100,6 +100,7 @@
 * Elementine tıkla "ekstralarVeIceceklerButon"
 
 # Kalem ikonuna tıklanır
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaKalemButon"
 
 # Anasayfadaki ilk fırsata tıklanır
@@ -124,3 +125,21 @@
 # Servis tipi değişikliğinde çıkan pop up kontrol edilir ve Evet butonuna tıklanır
 * Element var mı kontrol et "anasayfaServisTipiDegistitdegindeCikanPopupKontrol"
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiDegistitdegindeCikanPopupEvetButon"
+
+# Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
+* "anasayfaKalemButon" elementi "Adalar Burgazada" değerini içeriyor mu kontrol et
+
+# Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
+* "anasayfaKalemButon" elementi "Sarıyer Pınar" değerini içeriyor mu kontrol et
+
+# Anasayfadaki adresin Kadıköy olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Kadıköy" değerini içeriyor mu kontrol et
+
+# Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "99362 - Siparişe Kapalı Şubesi" değerini içeriyor mu kontrol et
+
+# Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
+* "3" saniye bekle
+* Element yok mu kontrol et "anasayfaSipariseKapalıSubeKontrol"

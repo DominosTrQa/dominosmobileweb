@@ -204,6 +204,11 @@
     "key": "anasayfaServisTipiDegistitdegindeCikanPopupEvetButon",
     "value":".//*[@id='DPE_TR_ALERT_BUTTON_LEFT']",
     "type": "xpath"
+  },
+  {
+    "key": "anasayfaSipariseKapalıSubeKontrol",
+    "value":"(//span[contains(text(),'Siparişe Kapalı Şube')])[1]",
+    "type": "xpath"
   }
 
 ]
