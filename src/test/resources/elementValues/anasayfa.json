@@ -189,6 +189,21 @@
     "key": "anasayfaServisTipiGelAl",
     "value":"(//span[contains(text(),'Gel Al')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "anasayfaServisTipiTıklanabilirlikKontrol",
+    "value":".//*[@class='styled__ServiceTypeButton-yzvmyj-4 caPTuS']",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaServisTipiDegistitdegindeCikanPopupKontrol",
+    "value":"(//div[contains(text(),'Sepetinizde ürün varken')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "anasayfaServisTipiDegistitdegindeCikanPopupEvetButon",
+    "value":".//*[@id='DPE_TR_ALERT_BUTTON_LEFT']",
+    "type": "xpath"
   }
 
 ]
