@@ -371,6 +371,11 @@
     "type": "xpath"
   },
   {
+    "key": "menuAdreslerimListeKadıköyAdresi",
+    "value": "(//*[contains(text(),'KADIKÖY')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "menuAyazagaSubesiButon",
     "value": "(//a[contains(text(),'Ayazağa Şubesi')])[1]",
     "type": "xpath"
@@ -424,6 +429,20 @@
     "key": "menuKayitOlButon",
     "value": "(//*[contains(text(),'Kayıt Ol')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "ilceAdreslerimKadiköy",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[94]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleAdreslerimAcıbadem",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
+    "type": "xpath"
+  },
+  {
+    "key": "caddeAdreslerimAcıbadem",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[130]",
+    "type": "xpath"
   }
-
 ]

@@ -251,3 +251,23 @@
 
 # Kayıt Ol sayfasına yönlendirildiği kontrol edilir
 * Element var mı kontrol et "uyeOlAdTextbox"
+
+# Kadıköy adresi eklenir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdreslerimKadiköy"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleAdreslerimAcıbadem"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "caddeAdreslerimAcıbadem"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* "Kadıköy" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"

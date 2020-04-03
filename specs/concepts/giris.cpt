@@ -62,10 +62,23 @@
 # İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceSarıyer"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleAyazaga"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceSarıyer"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahallePinar"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
 # İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
@@ -78,6 +91,18 @@
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleBurgazada"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceSarıyer"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleGelAlPinar"
+* Sadece Açık Şubeleri Göster butonuna tıklanır
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
 # Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
@@ -191,3 +216,6 @@
 
 # Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "sadeceAcikSubeleriGosterCheckbox"
+
+# İl, İlçe, Mahalle Düzenle butonuna tıklanır
+* Elementi bekle ve sonra tıkla "ilIlceMahalleDuzenleButon"
