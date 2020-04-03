@@ -120,3 +120,7 @@
 
 # Tabdaki Şubeye Özel butonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaTabSubeyeOzelButon"
+
+# Servis tipi değişikliğinde çıkan pop up kontrol edilir ve Evet butonuna tıklanır
+* Element var mı kontrol et "anasayfaServisTipiDegistitdegindeCikanPopupKontrol"
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiDegistitdegindeCikanPopupEvetButon"

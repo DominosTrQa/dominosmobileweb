@@ -21,20 +21,30 @@
 
 # Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Element var mı kontrol et "anasayfaServisTipiAdreseTeslim"
+* Element var mı kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
 
 # Gel Al servis tipi seçili olduğundan emin olunur
 * Element var mı kontrol et "anasayfaServisTipiGelAl"
+* Element var mı kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
 
 # Ayazağa şubesi butonuna tıklanır
 * Elementi bekle ve sonra tıkla "menuAyazagaSubesiButon"
 
 # Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiAdreseTeslim"
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiGelAl"
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
 # Teslimat tipi tabına tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon"
+
+# Anasayfadaki Adrese Teslim butonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiAdreseTeslim"
+
+# Anasayfadaki Gel Al butonuna tıklanır
+* Elementi bekle ve sonra tıkla "anasayfaServisTipiGelAl"
