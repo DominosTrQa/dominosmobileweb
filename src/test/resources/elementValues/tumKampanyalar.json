@@ -46,22 +46,22 @@
   },
   {
     "key": "haftaninKampanyalariButon1",
-    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB2_CARD0']",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB1_CARD0']",
     "type": "xpath"
   },
   {
     "key": "tekKisilikKampanyalarButon1",
-    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB3_CARD0']",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB2_CARD0']",
     "type": "xpath"
   },
   {
     "key": "23KisilikKampanyalarButon1",
-    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB4_CARD0']",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB3_CARD0']",
     "type": "xpath"
   },
   {
     "key": "4KisiveUzeriKampanyalarButon1",
-    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB5_CARD0']",
+    "value": ".//*[@id='DPE_TR_CAMPAIGNS_TAB4_CARD0']",
     "type": "xpath"
   },
   {

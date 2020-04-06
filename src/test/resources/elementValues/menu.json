@@ -217,7 +217,7 @@
   },
   {
     "key": "menuNotlarimDuzenlenmisNot",
-    "value": "(//*[contains(text(),'Testx')])",
+    "value": "(//*[contains(text(),'Test Not Başlığıx')])",
     "type": "xpath"
   },
   {

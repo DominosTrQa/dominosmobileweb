@@ -4,23 +4,36 @@
 * "2" saniye bekle
 
 # Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Element var mı kontrol et "kampanyalarBuyukBoyPizzalarGelAlButon"
-* Elementine tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
+* Elementi bekle ve sonra tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
+
+# Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
+* Elementi bekle ve sonra tıkla "kampanyalarDilediginOrtaboyGelAlButon"
 
 # Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
 * Elementi bekle ve sonra tıkla "kampanyalarSuperos"
 
+# Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarBolMalzemos"
+
 # Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Element var mı kontrol et "sepetBuyukBoyPizzalarGelAlKontrolText"
+
+# Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
+* Element var mı kontrol et "sepetdilediginOrtaBoyPizzaGelAlKontrolText"
 
 # Kampanya sepete eklenir
 * Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButon"
 
 # 3 Al 1 Öde kampanyası seçilir
-* Element var mı kontrol et "3Al1OdeButon"
-* Elementine tıkla "3Al1OdeButon"
+* Elementi bekle ve sonra tıkla "3Al1OdeButon"
+
+# Dilediğin Büyük Boy Pizza kampanyası seçilir
+* Elementi bekle ve sonra tıkla "dilediginBuyukBoyPizzaKampanyasiButon"
 
 # 3 Al 1 Öde kampanyası için sipariş seçilir
 * "5" saniye bekle
@@ -31,6 +44,12 @@
 * Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
 * Elementi bekle ve sonra tıkla "kampanyalarBarbekuSoslu"
 
+# Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarBolMalzemos"
+
 # Birinci pizza için Düzenle butona tıklanır
 * Elementi bekle ve sonra tıkla "kampanyaPizzaDuzenleBirinciButon"
 
@@ -39,6 +58,9 @@
 
 # 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Element var mı kontrol et "sepet3Al1OdeKontrolText"
+
+# Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Element var mı kontrol et "sepetDilediginBuyukBoyPizzaKontrolText"
 
 # Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * Elementi bekle ve sonra tıkla "dortPeynirliPizza"
