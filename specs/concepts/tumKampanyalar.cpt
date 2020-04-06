@@ -1,7 +1,7 @@
 
 # Tüm Kampanyalar sayfasının elementlerinin geldiği kontrol edilir
 * Element var mı kontrol et "subeyeOzelFirsatlarTab"
-* Element var mı kontrol et "domisosluKampanyalarTab"
+  Element var mı kontrol et "domisosluKampanyalarTab"
 * Element var mı kontrol et "haftaninKampanyalariTab"
 * Element var mı kontrol et "tekKişilikKampanyalarTab"
 * Element var mı kontrol et "23KisilikKampanyalarTab"

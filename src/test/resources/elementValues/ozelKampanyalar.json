@@ -6,7 +6,12 @@
   },
   {
     "key": "kampanyalarBuyukBoyPizzalarGelAlButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
+    "value":"(//div[contains(text(),'Büyük Boy Pizzalar')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarDilediginOrtaboyGelAlButon",
+    "value":"(//div[contains(text(),'Dilediğin Orta Boy')])[1]",
     "type": "xpath"
   },
   {
@@ -31,12 +36,17 @@
   },
   {
     "key": "kampanyalarBolMalzemos",
-    "value":"(//*[contains(text(),'Bol Malzemos')])[1]",
+    "value":"(//*[contains(text(),'Bol Malzemos')])[2]",
     "type": "xpath"
   },
   {
     "key": "sepetBuyukBoyPizzalarGelAlKontrolText",
     "value":"(//*[contains(text(),'Büyük Boy Pizzalar - Gel Al')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetdilediginOrtaBoyPizzaGelAlKontrolText",
+    "value":"(//*[contains(text(),'Dilediğin Orta Boy Pizza - Gel Al')])[1]",
     "type": "xpath"
   },
   {
@@ -46,12 +56,22 @@
   },
   {
     "key": "3Al1OdeButon",
-    "value":"(//*[contains(text(),'Sipariş Ver')])[2]",
+    "value":"(//*[contains(text(),'3 Al 1 Öde')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "dilediginBuyukBoyPizzaKampanyasiButon",
+    "value":"(//*[contains(text(),'Dilediğin Büyük Boy Pizza')])[1]",
     "type": "xpath"
   },
   {
     "key": "sepet3Al1OdeKontrolText",
     "value":"(//*[contains(text(),'3 Al 1 Öde')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetDilediginBuyukBoyPizzaKontrolText",
+    "value":"(//*[contains(text(),'Dilediğin Büyük Boy Pizza')])[1]",
     "type": "xpath"
   },
   {

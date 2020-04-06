@@ -2,9 +2,9 @@
 =====================
 
 
-Özel Kampanyalar - Büyük Boy Pizzalar Gel Al
+Özel Kampanyalar - Dilediğin Orta boy Pizza Gel Al
 ----------------------------------------
-Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
+Tags:ozelKampanyalar_DilediginOrtaBoyPizzaGelAl
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -15,16 +15,16 @@ Tags:ozelKampanyalar_BuyukBoyPizzalarGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
+* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 
 
-Özel Kampanyalar - 3 Al 1 Öde
+Özel Kampanyalar - Dilediğin Büyük Boy Pizza
 ------------------------------
-Tags:ozelKampanyalar_3Al1Ode
+Tags:ozelKampanyalar_DilediginBuyukBoyPizza
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -34,16 +34,16 @@ Tags:ozelKampanyalar_3Al1Ode
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Dilediğin Büyük Boy Pizza kampanyası seçilir
+* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 
 
-Özel Kampanyalar - 3 Al 1 Öde - Pizza Düzenle
+Özel Kampanyalar - Dilediğin Büyük Boy Pizza - Pizza Düzenle
 ----------------------------------------
-Tags:ozelKampanyalar_3Al1OdePizzaDuzenle
+Tags:ozelKampanyalar_DilediginBuyukBoyDuzenle
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -53,8 +53,8 @@ Tags:ozelKampanyalar_3Al1OdePizzaDuzenle
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Dilediğin Büyük Boy Pizza kampanyası seçilir
+* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
 * Birinci pizza için Düzenle butona tıklanır
 * Klasik Hamur seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
@@ -62,7 +62,7 @@ Tags:ozelKampanyalar_3Al1OdePizzaDuzenle
 * Güncelle butona tıklanır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 
 
 Özel Pizzalar - Pizza Opsiyonel Seçimler
