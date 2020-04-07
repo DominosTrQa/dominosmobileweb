@@ -127,9 +127,11 @@
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiDegistitdegindeCikanPopupEvetButon"
 
 # Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
+* "3" saniye bekle
 * "anasayfaKalemButon" elementi "Adalar Burgazada" değerini içeriyor mu kontrol et
 
 # Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
+* "3" saniye bekle
 * "anasayfaKalemButon" elementi "Sarıyer Pınar" değerini içeriyor mu kontrol et
 
 # Anasayfadaki adresin Kadıköy olduğu kontrol edilir
@@ -143,3 +145,23 @@
 # Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 * "3" saniye bekle
 * Element yok mu kontrol et "anasayfaSipariseKapalıSubeKontrol"
+
+# Anasayfadaki adresin Adıyaman olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Adıyaman" değerini içeriyor mu kontrol et
+
+# Anasayfadaki Şubenin Adıyaman Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Adıyaman Şubesi" değerini içeriyor mu kontrol et
+
+# Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Düzce Akçakoca" değerini içeriyor mu kontrol et
+
+# Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Akçakoca Şubesi" değerini içeriyor mu kontrol et
+
+# Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "İstanbul Beşiktaş Etiler Mh." değerini içeriyor mu kontrol et

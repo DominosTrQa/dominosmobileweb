@@ -125,6 +125,7 @@
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
 # İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Element var mı kontrol et "gelAlListelemeIlkSube"
 * Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
 * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
 
@@ -219,3 +220,69 @@
 
 # İl, İlçe, Mahalle Düzenle butonuna tıklanır
 * Elementi bekle ve sonra tıkla "ilIlceMahalleDuzenleButon"
+
+# İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilAdiyaman"
+* "3" saniye bekle
+* Element yok mu kontrol et "ilceSecinizclass"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Gel Al için il Adıyaman seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilAdiyaman"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilDuzce"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAkcakoca"
+* "3" saniye bekle
+* Element yok mu kontrol et "mahalleSecinizclass"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilDuzce"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAkcakoca"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceBesiktas"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleEtiler"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "sokakAhular"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceBesiktas"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleEtiler"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "sokakBahtiyar"
+* Element var mı kontrol et "seciliAdresIleDeavmEtTıklanamazlikKontrolu"
+
+# Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "sokakBahtiyarApartmanNo"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
