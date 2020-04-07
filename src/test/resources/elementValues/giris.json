@@ -259,5 +259,60 @@
     "key": "ilIlceMahalleDuzenleButon",
     "value":"(//div[contains(text(),'Düzenle' )])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "ilAdiyaman",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[5]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceSecinizclass",
+    "value": "(//*[@class='styled__StoreListDropdown-sc-1pznj33-4 WXEtT dropdown__Contianer-wa0gtc-28 bdblGk'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleSecinizclass",
+    "value": "(//*[@class='styled__StoreListDropdown-sc-1pznj33-4 WXEtT dropdown__Contianer-wa0gtc-28 bdblGk'])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilDuzce",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[23]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceAkcakoca",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[73]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceBesiktas",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[82]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleEtiler",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[118]",
+    "type": "xpath"
+  },
+  {
+    "key": "sokakAhular",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[134]",
+    "type": "xpath"
+  },
+  {
+    "key": "sokakBahtiyar",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[141]",
+    "type": "xpath"
+  },
+  {
+    "key": "sokakBahtiyarApartmanNo",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[204]",
+    "type": "xpath"
+  },
+  {
+    "key": "seciliAdresIleDeavmEtTıklanamazlikKontrolu",
+    "value": "(//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO vAioW'])[1]",
+    "type": "xpath"
   }
 ]
