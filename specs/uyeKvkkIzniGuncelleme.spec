@@ -4,7 +4,7 @@
 Bug var
 Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
-Tags:uyeKVKKIzniGuncelleme_VarolanUyeAyrilmaktanVazgec_BUGVAR
+Tags:uyeKVKKIzniGuncelleme_VarolanUyeAyrilmaktanVazgec
 
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
