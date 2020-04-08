@@ -1,7 +1,7 @@
 Üye Ye-Kazan İzni Güncelleme
 =====================
 
-Bug OLOTR-1480 çözüldükten sonra Testinium suiteine eklenecek
+ (Bug düzeldiğinde Ayrılmaktan Vazgeç kısmındaki yorum satırı düzeltilecek )
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
 -----------------------------------------------
 Tags:uyeYeKazanIzniGuncelleme_VarolanUyeAyrilmaktanVazgecUyelikBilgilerim
