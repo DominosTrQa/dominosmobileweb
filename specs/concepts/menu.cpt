@@ -351,3 +351,38 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "menuYeKazanHaklarinSilinmistirKapatButon"
 * Element var mı kontrol et "menuYeKazanYeKazanCheckbox"
+
+# Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir
+* "5" saniye bekle
+* Element var mı kontrol et "profilimKVKKCheckbox"
+* "profilimKVKKCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "profilimKVKKCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimKVKKCheckbox"
+* Element var mı kontrol et "profilimYeKazanUyariTexti"
+* Elementi bekle ve sonra tıkla "profilimYeKazanSmsCheckbox"
+* Elementi bekle ve sonra tıkla "profilimYeKazanEpostaCheckbox"
+* Elementi bekle ve sonra tıkla "profilimYeKazanTelefonCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+
+# KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+* "5" saniye bekle
+* Element var mı kontrol et "profilimKVKKSeciliCheckbox"
+* "profilimKVKKSeciliCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "profilimKVKKSeciliCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimKVKKSeciliCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+* Elementi bekle ve sonra tıkla "menuKVKKAyrılmaktanVazgecButon"
+* Element var mı kontrol et "profilimKVKKSeciliCheckbox"
+
+# KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
+* "5" saniye bekle
+* Element var mı kontrol et "profilimKVKKSeciliCheckbox"
+* "profilimKVKKSeciliCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "profilimKVKKSeciliCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimKVKKSeciliCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+* Elementi bekle ve sonra tıkla "menuKVKKAyrilmayiOnayliyorumButon"
+* Element var mı kontrol et "profilimKVKKCheckbox"

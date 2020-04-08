@@ -446,6 +446,16 @@
     "type": "xpath"
   },
   {
+    "key": "profilimKVKKCheckbox",
+    "value": "(.//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimKVKKSeciliCheckbox",
+    "value": "(.//*[@class='checkbox__CheckContainer-sc-1lav4ov-6 hxhomY'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "profilimYeKazanCheckbox",
     "value": "(.//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
     "type": "xpath"
@@ -503,6 +513,16 @@
   {
     "key": "menuYeKazanAyrılmaktanVazgecButon",
     "value": "(//*[contains(text(),'Ayrılmaktan Vazgeç')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuKVKKAyrılmaktanVazgecButon",
+    "value": "(//*[contains(text(),'Vazgeç')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuKVKKAyrilmayiOnayliyorumButon",
+    "value": "(//*[contains(text(),'Onaylıyorum')])[1]",
     "type": "xpath"
   },
   {
