@@ -13,7 +13,7 @@ Tags:profilim_YeKazanSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Ye-Kazan butonuna basılır
+* Ye-Kazan butonuna tıklanır
 * Ye-Kazan sayfasındaki elementlerin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
@@ -30,7 +30,7 @@ Tags:profilim_YeKazanUyelikKosullariSayfaKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Ye-Kazan butonuna basılır
+* Ye-Kazan butonuna tıklanır
 * Ye-Kazan Üyelik Koşulları kontrol edilir
 
 
@@ -44,7 +44,7 @@ Tags:profilim_UyelikBilgilerimZorunluAlanlarinKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelik Bilgilerimde dolu gelmesi gereken alanlar kontrol edilir
 
 
@@ -59,7 +59,7 @@ Tags:profilim_UyelikBilgilerimDegistirilebilirAlanlarinKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelik Bilgilerimde değiştirilebilir alanların geldiği kontrol edilir
 
 
@@ -74,7 +74,7 @@ Tags:profilim_UyelikBilgilerimUyeliktenAyrilmakIcinTiklayinKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelikten Ayrılmak İçin Tıklayın butonuna tıklanır ve gelen popup kontrol edilir
 
 
@@ -89,7 +89,7 @@ Tags:profilim_UyelikBilgilerimUyeliktenAyrilmaninBasariliBirSekildeYapilmasiKont
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelikten Ayrılmak İçin Tıklayın butonuna tıklanır ve başarılı bir şekilde işlem tamamlanır
 
 
@@ -104,7 +104,7 @@ Tags:profilim_UyelikBilgilerimUyeliktenAyrilmaktanVazgecmeKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelikten Ayrılmak İçin Tıklayın butonuna tıklanır ve Vazgeç butonunun çalıştığı kontrol edilir
 
 
@@ -119,7 +119,7 @@ Tags:profilim_UyelikBilgilerimKVKKAydinlatmaMetniKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelik Bilgilerimde ki KVKK Aydınlatma Metni kontrol edilir
 
 
@@ -134,7 +134,7 @@ Tags:profilim_UyelikBilgilerimaAcikRizaMetniKontrolu
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Üyelik Bilgilerimde ki Açık Rıza Metni kontrol edilir
 
 
@@ -149,7 +149,7 @@ Tags:profilim_UyelikBilgilerimayeKazanSadakatProgramiUyelikKosullariMetniKontrol
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Profilim butonuna basılır
+* Profilim butonuna tıklanır
 * Ye-Kazan Üyelik Koşulları kontrol edilir
 
 

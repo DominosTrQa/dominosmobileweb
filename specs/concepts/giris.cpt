@@ -286,3 +286,9 @@
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "sokakBahtiyarApartmanNo"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
+* Elementi bekle ve sonra tıkla "kayitOlYeKazanCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkEpostaCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkSmsCheckbox"
+* Elementi bekle ve sonra tıkla "kayitOlIlkTelefonCheckbox"

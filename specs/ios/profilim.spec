@@ -12,7 +12,7 @@ Tags:profilim_YeKazanSayfaKontrolu_Ios
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
-* Ye-Kazan butonuna basılır
+* Ye-Kazan butonuna tıklanır
 * Üye olmayan kullanıcı için Ye-Kazan sayfasındaki elementlerin geldiği kontrol edilir
 * Anasayfadaki tabın geldiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
