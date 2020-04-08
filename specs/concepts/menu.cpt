@@ -5,8 +5,14 @@
 # Üye olmayan kullanıcı için hamburger menünün açıldığı kontrol edilir
 * Element var mı kontrol et "menuYeKazanButon"
 
-# Ye-Kazan butonuna basılır
+# Ye-Kazan butonuna tıklanır
 * Elementi bekle ve sonra tıkla "menuYeKazanButon"
+
+# Ye-Kazan hediye pizza kazanma texti kontrol edilir
+* Element var mı kontrol et "menuYeKazanUyeHediyePizzaText"
+
+# Ye-Kazan hediye pizza kazanma textinin gelmediği kontrol edilir
+* Element yok mu kontrol et "menuYeKazanUyeHediyePizzaText"
 
 # Ye-Kazan sayfasındaki elementlerin geldiği kontrol edilir
 * Element var mı kontrol et "menuYeKazanUyelikKosullariCheckbox"
@@ -21,7 +27,7 @@
 * Elementi bekle ve sonra tıkla "menuYeKazanUyelikKosullariLinkText"
 * Element var mı kontrol et "menuYeKazanUyelikKosullariYedikceKazaninText"
 
-# Profilim butonuna basılır
+# Profilim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "hamburgerMenuProfilimbuton"
 
 # Üyelik Bilgilerimde dolu gelmesi gereken alanlar kontrol edilir
@@ -270,3 +276,78 @@
 * "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
 * "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
+# Profilim kısmından Ye-Kazan checkbox seçilir, Sms Eposta Telefon işaretlenir
+* "5" saniye bekle
+* Element var mı kontrol et "profilimYeKazanCheckbox"
+* "profilimYeKazanCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "profilimYeKazanCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimYeKazanCheckbox"
+* Element var mı kontrol et "profilimYeKazanUyariTexti"
+* Elementi bekle ve sonra tıkla "profilimYeKazanSmsCheckbox"
+* Elementi bekle ve sonra tıkla "profilimYeKazanEpostaCheckbox"
+* Elementi bekle ve sonra tıkla "profilimYeKazanTelefonCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+
+# Ye-Kazan üyeliği iptal edilir
+* "5" saniye bekle
+* Element var mı kontrol et "profilimYeKazanSeciliCheckbox"
+* "profilimYeKazanSeciliCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "profilimYeKazanSeciliCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimYeKazanSeciliCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+* Elementi bekle ve sonra tıkla "menuYeKazanAyrılmayıOnaylıyorumButon"
+* Element var mı kontrol et "menuYeKazanHaklarinSilinmistirText"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuYeKazanHaklarinSilinmistirKapatButon"
+* Element var mı kontrol et "profilimYeKazanCheckbox"
+
+# Ye-Kazan üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+* "5" saniye bekle
+* Element var mı kontrol et "profilimYeKazanSeciliCheckbox"
+* "profilimYeKazanSeciliCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "profilimYeKazanSeciliCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimYeKazanSeciliCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+* Elementi bekle ve sonra tıkla "menuYeKazanAyrılmaktanVazgecButon"
+  Element var mı kontrol et "profilimYeKazanSeciliCheckbox"
+
+# Ye-Kazan kısmında Ye-Kazan üyeliği Ayrılmaktan Vazgeç butonuna tıklanır
+* Elementi bekle ve sonra tıkla "menuYeKazanAyrılmaktanVazgecButon"
+
+# Ye-Kazan kısmından Ye-Kazan checkbox seçilir, Sms Eposta Telefon işaretlenir
+* "5" saniye bekle
+* Element var mı kontrol et "menuYeKazanYeKazanCheckbox"
+* "menuYeKazanYeKazanCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "menuYeKazanYeKazanCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "menuYeKazanYeKazanCheckbox"
+* Element var mı kontrol et "menuYeKazanUyariTexti"
+* Elementi bekle ve sonra tıkla "profilimYeKazanSmsCheckbox"
+* Elementi bekle ve sonra tıkla "menuYeKazanEpostaCheckbox"
+* Elementi bekle ve sonra tıkla "profilimYeKazanTelefonCheckbox"
+* Elementi bekle ve sonra tıkla "menuYeKazanaKatilButon"
+
+# Ye-Kazan kısmından Ye-Kazan'dan Ayrıl butonuna tıklanır
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "menuYeKazandanAyrilButon"
+
+# Ye-Kazan kısmından Ye-Kazan üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+* "5" saniye bekle
+* Element var mı kontrol et "menuYeKazanYeKazanSeciliCheckbox"
+* "menuYeKazanYeKazanSeciliCheckbox" alanına js ile kaydır
+* Element var mı kontrol et "menuYeKazanYeKazanSeciliCheckbox"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "profilimYeKazanSeciliCheckbox"
+* Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
+* Elementi bekle ve sonra tıkla "menuYeKazanAyrılmaktanVazgecButon"
+
+# Ye-Kazan kısmından Ye-Kazan üyeliği iptal edilir
+* Elementi bekle ve sonra tıkla "menuYeKazanAyrılmayıOnaylıyorumButon"
+* Element var mı kontrol et "menuYeKazanHaklarinSilinmistirText"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuYeKazanHaklarinSilinmistirKapatButon"
+* Element var mı kontrol et "menuYeKazanYeKazanCheckbox"

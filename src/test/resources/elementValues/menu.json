@@ -444,5 +444,95 @@
     "key": "caddeAdreslerimAcıbadem",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[130]",
     "type": "xpath"
+  },
+  {
+    "key": "profilimYeKazanCheckbox",
+    "value": "(.//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimYeKazanSeciliCheckbox",
+    "value": "(.//*[@class='checkbox__CheckContainer-sc-1lav4ov-6 hxhomY'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimYeKazanUyariTexti",
+    "value": "(//*[contains(text(),'Aşağıdaki seçeneklerden en az bir')])",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanUyariTexti",
+    "value": "(//*[contains(text(),'Tercih ettiğiniz iletişim')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimYeKazanSmsCheckbox",
+    "value": "(//*[contains(text(),'SMS')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimYeKazanEpostaCheckbox",
+    "value": "(//*[contains(text(),'E-posta')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanEpostaCheckbox",
+    "value": "(//*[contains(text(),'E-Posta')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimYeKazanTelefonCheckbox",
+    "value": "(//p[contains(text(),'Telefon')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "profilimDegisiklikleriKaydetButon",
+    "value": "(//*[@id='DPE_TR_ACCOUNT_BUTTON_SAVE'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanUyeHediyePizzaText",
+    "value": "(//div[contains(text(),'Hediye Pizza kazanmana 5 dilimin kaldı')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanAyrılmayıOnaylıyorumButon",
+    "value": "(//*[contains(text(),'Ayrılmayı Onaylıyorum')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanAyrılmaktanVazgecButon",
+    "value": "(//*[contains(text(),'Ayrılmaktan Vazgeç')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanHaklarinSilinmistirText",
+    "value": "(//*[contains(text(),'Ye-Kazan hakların silinmiştir')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanHaklarinSilinmistirKapatButon",
+    "value": "(//*[contains(text(),'Kapat')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanYeKazanCheckbox",
+    "value": "(.//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanYeKazanSeciliCheckbox",
+    "value": "(.//*[@class='checkbox__CheckContainer-sc-1lav4ov-6 hxhomY'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazanaKatilButon",
+    "value": "(.//*[@id='DPE_TR_LOYALTY_BUTTON_JOIN'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "menuYeKazandanAyrilButon",
+    "value": "(//a[contains(text(),\"Ye-Kazan'dan\")])[1]",
+    "type": "xpath"
   }
 ]
