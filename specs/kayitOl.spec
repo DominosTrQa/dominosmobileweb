@@ -142,7 +142,6 @@ Tags:kayitOl_ SepetimEkranindaBasarili
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
-
 Kayıt Ol - Sepetim Ekranında - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------------------
 Tags:kayitOl_ SepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
