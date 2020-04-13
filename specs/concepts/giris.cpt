@@ -408,3 +408,6 @@
 * Elementi bekle ve sonra tıkla "kayitOlIlkEpostaCheckbox"
 * Elementi bekle ve sonra tıkla "kayitOlIlkSmsCheckbox"
 * Elementi bekle ve sonra tıkla "kayitOlIlkTelefonCheckbox"
+
+# Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/" adresine git
