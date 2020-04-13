@@ -175,3 +175,11 @@
 # Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 * "3" saniye bekle
 * "anasayfaKalemButon" elementi "İstanbul Beşiktaş Etiler Mh." değerini içeriyor mu kontrol et
+
+# Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Sakarya Adapazarı" değerini içeriyor mu kontrol et
+
+# Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Adapazarı Şubesi" değerini içeriyor mu kontrol et

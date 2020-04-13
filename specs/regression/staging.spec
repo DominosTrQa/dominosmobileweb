@@ -658,10 +658,11 @@ Tags:regressionStaging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * Sepette bulunan ürünlerden Yoğurt Sos eklenir
 * Sepete Yoğurt Sos eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
@@ -1227,6 +1228,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Nakit
@@ -1354,6 +1356,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Kredi Kartı
@@ -1481,6 +1484,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexo Kart
@@ -1608,6 +1612,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Sodexo Yemek Çeki
@@ -1735,6 +1740,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Yemek Çeki
@@ -1862,6 +1868,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
@@ -1989,6 +1996,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SetCard
@@ -2116,6 +2124,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
 * Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Online Ödeme
@@ -2232,10 +2241,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
@@ -2314,10 +2320,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
@@ -2421,10 +2424,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
@@ -2449,10 +2449,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -2597,15 +2594,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Hamburger menüye tıklanır
-* Notlarım butonuna basılır
-* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
-* Not silinir ve silindiği kontrol edilir
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres ve eklenen not silinir
 
 
 Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
@@ -2635,15 +2624,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Hamburger menüye tıklanır
-* Notlarım butonuna basılır
-* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
-* Not silinir ve silindiği kontrol edilir
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres ve eklenen not silinir
 
 
 Sipariş Verme - Kapı No Manuel
@@ -2768,7 +2749,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlYalnizcaIl
 * Çerez Politikası kapatılır
 * Anasayfadaki Şubenin Adıyaman Şubesi olduğu kontrol edilir
 
-STAGİNG DE İLÇE DROPDOWN GELMİYOR
+
 Şube Atama - Var Olan Üye - Adrese Teslim - İlçe
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlce
@@ -2776,11 +2757,11 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlce
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
 
-STAGİNG DE İLÇE DROPDOWN GELMİYOR
+
 Şube Atama - Var Olan Üye - Gel Al - İlçe
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlce
@@ -2788,12 +2769,12 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlce
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 
-STAGİNG DE İLÇE DROPDOWN GELMİYOR
+
 Şube Atama - Yeni Üye - Adrese Teslim - İlçe
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlce
@@ -2802,11 +2783,11 @@ Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlce
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
 
-STAGİNG DE İLÇE DROPDOWN GELMİYOR
+
 Şube Atama - Yeni Üye - Gel Al - İlçe
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlce
@@ -2815,31 +2796,31 @@ Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlce
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 
-STAGİNG DE İLÇE DROPDOWN GELMİYOR
+
 Şube Atama - Üyeliksiz - Adrese Teslim - İlçe
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlce
 
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
 
-STAGİNG DE İLÇE DROPDOWN GELMİYOR
+
 Şube Atama - Üyeliksiz - Gel Al - İlçe
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlce
 
 * Gel Al servis tipi seçilir
-* Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle

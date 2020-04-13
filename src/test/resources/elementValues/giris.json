@@ -374,5 +374,15 @@
     "key": "seciliAdresIleDeavmEtTıklanamazlikKontrolu",
     "value": "(//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO vAioW'])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "ilSakaryaStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[55]",
+    "type": "xpath"
+  },
+  {
+    "key": "ilceAdapazariStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[68]",
+    "type": "xpath"
   }
 ]

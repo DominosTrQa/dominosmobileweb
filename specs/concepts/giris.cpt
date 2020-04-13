@@ -301,12 +301,31 @@
 * Element yok mu kontrol et "mahalleSecinizclass"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
+# Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilSakaryaStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdapazariStg"
+* "3" saniye bekle
+* Element yok mu kontrol et "mahalleSecinizclass"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
 # Gel Al için il, ilçe Düzce - Akçakoca seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilDuzce"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilSakaryaStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdapazariStg"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 

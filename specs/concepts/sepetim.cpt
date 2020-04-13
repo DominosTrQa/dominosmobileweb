@@ -1,5 +1,6 @@
 
 # Sipariş Ver butonuna tıklanır
+* "2" saniye bekle
 * Element var mı kontrol et "sepetimSayfasiSiparisVerButon"
 * Elementine tıkla "sepetimSayfasiSiparisVerButon"
 

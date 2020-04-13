@@ -1226,6 +1226,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Nakit
@@ -1353,6 +1354,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Kredi Kartı
@@ -1480,6 +1482,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexo Kart
@@ -1607,6 +1610,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Sodexo Yemek Çeki
@@ -1734,6 +1738,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Kart
@@ -1861,6 +1866,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Yemek Çeki
@@ -1988,6 +1994,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
@@ -2115,6 +2122,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SetCard
@@ -2242,6 +2250,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Paye Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Paye Kart
@@ -2369,6 +2378,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
 * Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Online Ödeme
@@ -2485,10 +2495,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
@@ -2567,10 +2574,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
@@ -2850,15 +2854,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Hamburger menüye tıklanır
-* Notlarım butonuna basılır
-* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
-* Not silinir ve silindiği kontrol edilir
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres ve eklenen not silinir
 
 
 Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
@@ -2888,15 +2884,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Hamburger menüye tıklanır
-* Notlarım butonuna basılır
-* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
-* Not silinir ve silindiği kontrol edilir
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres ve eklenen not silinir
 
 
 Sipariş Verme - Kapı No Manuel

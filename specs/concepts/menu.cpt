@@ -153,7 +153,7 @@
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 
 # Stg - Adalar - Burgazada için adres bilgileri tamamlanır
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokakStg"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
@@ -459,3 +459,18 @@
 * Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
 * Elementi bekle ve sonra tıkla "menuKVKKAyrilmayiOnayliyorumButon"
 * Element var mı kontrol et "profilimKVKKCheckbox"
+
+# Test içerisinde eklenen adres ve eklenen not silinir
+* Sayfa yenilenir
+* Ye-Kazan pop up kapatılır
+* Dominos logosuna tıklanır
+* Hamburger menüye tıklanır
+* Notlarım butonuna basılır
+* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
+* Not silinir ve silindiği kontrol edilir
+* Dominos logosuna tıklanır
+* Eklenen adres silinir
+
+# Test içerisinde eklenen adres silinir
+* Dominos logosuna tıklanır
+* Eklenen adres silinir

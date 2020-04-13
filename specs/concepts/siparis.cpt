@@ -104,6 +104,7 @@
 # Ödeme şekli olarak Online Ödeme tipi seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliOnlineOdemeButon"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
 # Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
