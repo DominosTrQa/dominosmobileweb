@@ -6,6 +6,7 @@ Staging Regression
 ----------------
 Tags:regressionStaging_UyeGirisiBasarili
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim ve Gel Al butonları var mı kontrol edilir
@@ -15,6 +16,7 @@ Tags:regressionStaging_UyeGirisiBasarili
 ----------------
 Tags:regressionStaging_UyeGirisiFacebook
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Facebook ile Giriş Yap butonuna tıklanır
 * Facebook sayfasına yönlendirildiği kontrol edilir
@@ -24,6 +26,7 @@ Tags:regressionStaging_UyeGirisiFacebook
 ----------------
 Tags:regressionStaging_UyeGirisiGoogle
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Google ile Giriş Yap butonuna tıklanır
 * Google sayfasına yönlendirildiği kontrol edilir
@@ -33,6 +36,7 @@ Tags:regressionStaging_UyeGirisiGoogle
 ----------------
 Tags:regressionStaging_UyeGirisiBasarisizEpostaYanlis
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış e-posta ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
@@ -42,6 +46,7 @@ Tags:regressionStaging_UyeGirisiBasarisizEpostaYanlis
 ----------------
 Tags:regressionStaging_UyeGirisiBasarisizSifreYanlis
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış şifre ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
@@ -51,6 +56,7 @@ Tags:regressionStaging_UyeGirisiBasarisizSifreYanlis
 ----------------
 Tags:regressionStaging_UyeOlmaBasarili
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -61,6 +67,7 @@ Tags:regressionStaging_UyeOlmaBasarili
 ----------------
 Tags:regressionStaging_UyeOlmaBasariliEmailCheckbox
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -73,6 +80,7 @@ Tags:regressionStaging_UyeOlmaBasariliEmailCheckbox
 ----------------
 Tags:regressionStaging_UyeOlmaBasariliSmsCheckbox
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -85,6 +93,7 @@ Tags:regressionStaging_UyeOlmaBasariliSmsCheckbox
 ----------------
 Tags:regressionStaging_UyeOlmaBasariliTelefonCheckbox
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -97,6 +106,7 @@ Tags:regressionStaging_UyeOlmaBasariliTelefonCheckbox
 -----------------------------
 Tags:regressionStaging_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -109,6 +119,7 @@ Tags:regressionStaging_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 -----------------------------
 Tags:regressionStaging_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -121,6 +132,7 @@ Tags:regressionStaging_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 -----------------------------------------
 Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -145,6 +157,7 @@ Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 -----------------------------------------
 Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -169,6 +182,7 @@ Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdil
 -----------------------------------------
 Tags:regressionStaging_UyeOlmaSepetimEkranindaBasarili
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -191,6 +205,7 @@ Tags:regressionStaging_UyeOlmaSepetimEkranindaBasarili
 -----------------------------------------
 Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -215,6 +230,7 @@ Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilm
 -----------------------
 Tags:regressionStaging_UyeAdresEklemeUye
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -237,6 +253,7 @@ Tags:regressionStaging_UyeAdresEklemeUye
 -----------------------
 Tags:regressionStaging_UyeAdresEklemeUyeliksiz
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -255,6 +272,7 @@ Tags:regressionStaging_UyeAdresEklemeUyeliksiz
 -----------------------
 Tags:regressionStaging_UyeAdresEklemeUyeAdreslerimBolumunden
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -272,6 +290,7 @@ Tags:regressionStaging_UyeAdresEklemeUyeAdreslerimBolumunden
 -----------------------
 Tags:regressionStaging_UyeAdresEklemeUyeKayitliAdresiSil
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -290,6 +309,7 @@ Tags:regressionStaging_UyeAdresEklemeUyeKayitliAdresiSil
 -----------------------
 Tags:regressionStaging_UyeAdresEklemeZorunluAlanKontrol
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -306,6 +326,7 @@ Tags:regressionStaging_UyeAdresEklemeZorunluAlanKontrol
 -----------------------
 Tags:regressionStaging_AdresDuzenlemeKayitliAdresiGuncelle
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -324,6 +345,7 @@ Sepete Kampanya Ekleme - Gel Al - Dilediğin Orta boy Pizza Gel Al
 ----------------------------------------
 Tags:regressionStaging_SepeteKampanyaEklemeDilediginOrtaBoyPizzaGelAl
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -344,6 +366,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza
 ------------------------------
 Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyPizza
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -363,6 +386,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza - Pizza D�
 ----------------------------------------
 Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyDuzenle
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -387,6 +411,7 @@ Sepete Pizza Ekleme - Gel Al
 ---------------------
 Tags:regressionStaging_SepetePizzaEklemeGelAl
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -405,6 +430,7 @@ Sepete Pizza Ekleme - Adrese Teslim
 ----------------------------
 Tags:regressionStaging_SepetePizzaEklemeAdreseTeslim
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -422,6 +448,7 @@ Sepete Pizza Ekleme - Pizza Opsiyonel Seçimler
 ----------------------------------------
 Tags:regressionStaging_SepetePizzaEklemePizzaOpsiyonelSecimler
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -444,6 +471,7 @@ Sepete Pizza Ekleme - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
 Tags:regressionStaging_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -465,6 +493,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Var Olan Üye
 ----------------------------------------
 Tags:regressionStaging_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -481,6 +510,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 ----------------------------------------
 Tags:regressionStaging_SepeteYanUrunEklemeAdreseTeslimYeniUye
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -498,6 +528,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 ----------------------------------------
 Tags:regressionStaging_SepeteYanUrunEklemeAdreseTeslimUyeliksiz
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -512,6 +543,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
 ----------------------------------------
 Tags:regressionStaging_SepeteYanUrunEklemeGelAlVarOlanUye
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -529,6 +561,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
 ----------------------------------------
 Tags:regressionStaging_SepeteYanUrunEklemeGelAlYeniUye
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -547,6 +580,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 ----------------------------------------
 Tags:regressionStaging_SepeteYanUrunEklemeGelAlUyeliksiz
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -562,6 +596,7 @@ Sepete Upcell Ekleme - Adrese Teslim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_SepeteUpcellEklemeAdreseTeslimAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -578,6 +613,7 @@ Sepete Upcell Ekleme - Gel Al - Üye Olmadan
 -----------------------------------------------
 Tags:regressionStaging_SepeteUpcellEklemeGelAlUyeOlmadan
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -599,6 +635,7 @@ Sepete Upcell Ekleme - Gel Al - Yeni Üye
 -----------------------------------------------
 Tags:regressionStaging_SepeteUpcellEklemeGelAlYeniUye
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -623,6 +660,7 @@ Sepete Upcell Ekleme - Gel Al - Var Olan Üye
 -----------------------------------------------
 Tags:regressionStaging_SepeteUpcellEklemeGelAlVarOlanUye
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -645,6 +683,7 @@ Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Adrese Teslim
 -----------------------------------------------
 Tags:regressionStaging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -669,6 +708,7 @@ Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
 -----------------------------------------------
 Tags:regressionStaging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -691,6 +731,7 @@ Servis Tipi Seçimi - Adrese Teslim
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslim
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -701,6 +742,7 @@ Servis Tipi Seçimi - Gel Al
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAl
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -712,6 +754,7 @@ Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -724,6 +767,7 @@ Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAldanAdreseTeslimGecisi
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -737,6 +781,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Servis Tipinin Deği�
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -753,6 +798,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Servis Tipinin Değiştirile
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -770,6 +816,7 @@ Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Servis Tipinin De�
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegistirilememesi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -788,6 +835,7 @@ Servis Tipi Seçimi - Gel Al - Var Olan - Sepette Servis Tipinin Değiştirileme
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -807,6 +855,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Servis Tipinin Değiş
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -826,6 +875,7 @@ Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Servis Tipinin Değiştirilem
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -846,6 +896,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Ürün Varken Servis 
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -866,6 +917,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Ürün Varken Servis Tipinin
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -887,6 +939,7 @@ Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Ürün Varken Serv
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -909,6 +962,7 @@ Servis Tipi Seçimi - Gel Al - Var Olan Üye - Sepette Ürün Varken Servis Tipi
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -932,6 +986,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Ürün Varken Servis T
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -955,6 +1010,7 @@ Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Ürün Varken Servis Tipinin 
 -----------------------------------------------
 Tags:regressionStaging_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -979,6 +1035,7 @@ Adres Seçimi - Var Olan Üye - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -996,6 +1053,7 @@ Adres Seçimi - Var Olan Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1015,6 +1073,7 @@ Adres Seçimi - Yeni Üye - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1033,6 +1092,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiYeniUyeGelAlManuelAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1053,6 +1113,7 @@ Adres Seçimi - Üyeliksiz - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1068,6 +1129,7 @@ Adres Seçimi - Üyeliksiz - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiUyeliksizGelAlManuelAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1088,6 +1150,7 @@ Adres Seçimi - Var Olan Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1105,6 +1168,7 @@ Adres Seçimi - Var Olan Üye - Gel Al - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1117,7 +1181,6 @@ Tags:regressionStaging_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Listelenen adreslerden Kadıköy adresi seçilir
 * Anasayfadaki adresin Kadıköy olduğu kontrol edilir
-* "10" saniye bekle
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 
 
@@ -1125,6 +1188,7 @@ Adres Seçimi - Yeni Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1148,6 +1212,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionStaging_AdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1170,6 +1235,7 @@ Tags:regressionStaging_AdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1192,6 +1258,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlNakit
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1213,6 +1280,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlNakit
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1235,6 +1303,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1255,6 +1324,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlNakit
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1277,6 +1347,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlNakit
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1298,6 +1369,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlNakit
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1320,6 +1392,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1341,6 +1414,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1363,6 +1437,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1383,6 +1458,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1405,6 +1481,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1426,6 +1503,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1448,6 +1526,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1469,6 +1548,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1491,6 +1571,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1511,6 +1592,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1533,6 +1615,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1554,6 +1637,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1576,6 +1660,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1597,6 +1682,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1619,6 +1705,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1639,6 +1726,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1661,6 +1749,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1682,6 +1771,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1704,6 +1794,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1725,6 +1816,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1747,6 +1839,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1767,6 +1860,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1789,6 +1883,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1810,6 +1905,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1832,6 +1928,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlMultinet
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1853,6 +1950,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlMultinet
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1875,6 +1973,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1895,6 +1994,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1917,6 +2017,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlMultinet
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1938,6 +2039,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlMultinet
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1960,6 +2062,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSetCard
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1981,6 +2084,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSetCard
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2003,6 +2107,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2023,6 +2128,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2045,6 +2151,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSetCard
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2066,6 +2173,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSetCard
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2088,6 +2196,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2109,6 +2218,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2131,6 +2241,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2151,6 +2262,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2174,6 +2286,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 ----------------------------------------
 Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlOnlineOdeme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2196,6 +2309,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2222,6 +2336,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2248,6 +2363,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2275,6 +2391,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasmayin
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2301,6 +2418,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2327,6 +2445,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2354,6 +2473,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2380,6 +2500,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2405,6 +2526,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2431,6 +2553,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2456,6 +2579,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2483,6 +2607,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2509,6 +2634,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2540,6 +2666,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2570,6 +2697,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2601,6 +2729,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2631,6 +2760,7 @@ Sipariş Verme - Kapı No Manuel
 ----------------------------------------
 Tags:regressionStaging_SiparisVermeKapiNoManuel
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2656,6 +2786,7 @@ Sipariş Verme - Kapı No Dropdown
 ----------------------------------------
 Tags:regressionStaging_SiparisVermeKapiNoDropdown
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2681,6 +2812,7 @@ Tags:regressionStaging_SiparisVermeKapiNoDropdown
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2693,6 +2825,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2706,6 +2839,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2719,6 +2853,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeGelAlYalnizcaIl
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2733,6 +2868,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeGelAlYalnizcaIl
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -2743,6 +2879,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizGelAlYalnizcaIl
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2754,6 +2891,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlYalnizcaIl
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlce
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2766,6 +2904,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlce
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlce
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2779,6 +2918,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlce
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlce
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2792,6 +2932,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlce
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlce
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2806,6 +2947,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlce
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlce
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -2816,6 +2958,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlce
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlce
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2827,6 +2970,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlce
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2839,6 +2983,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2850,8 +2995,9 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
+Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2865,6 +3011,7 @@ Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlIlceMahalle
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2879,6 +3026,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlIlceMahalle
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2889,6 +3037,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlIlceMahalle
 
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2900,6 +3049,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlIlceMahalle
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2912,6 +3062,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2925,6 +3076,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
@@ -2935,6 +3087,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2948,6 +3101,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2962,6 +3116,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2976,6 +3131,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2993,6 +3149,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 -----------------------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3008,6 +3165,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 -----------------------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3024,6 +3182,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 -----------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3041,6 +3200,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 -----------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3057,6 +3217,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3086,6 +3247,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3116,6 +3278,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBil
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3139,6 +3302,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBi
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3163,6 +3327,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3184,6 +3349,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKaza
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3206,6 +3372,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3224,6 +3391,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3243,6 +3411,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3271,6 +3440,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyel
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3293,6 +3463,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3315,6 +3486,7 @@ Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKa
 -----------------------------------------------
 Tags:regressionStaging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
 
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
