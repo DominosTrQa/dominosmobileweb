@@ -104,6 +104,7 @@
 # Ödeme şekli olarak Online Ödeme tipi seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliOnlineOdemeButon"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
 # Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
@@ -160,6 +161,9 @@
 
 # Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 * Element var mı kontrol et "siparisOnaySayfasiCikolataliSufleKontrol"
+
+# Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiYogurtluSosKontrol"
 
 # Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 * Element var mı kontrol et "siparisOnaySayfasiNakitKontrol"

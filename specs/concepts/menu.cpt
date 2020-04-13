@@ -152,6 +152,18 @@
 * "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 
+# Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokakStg"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
 # Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
@@ -165,10 +177,34 @@
 * "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 
+# Stg - Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokakStg"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "burgazadaDropdownBinaNo"
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
 # Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * "4" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
+* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+* Element var mı kontrol et "menuAdreslerimAdresiDuzenleButon"
+
+# Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* "4" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokakStg"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
 * "1" textini "menuAdresEkleDaireTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
@@ -205,6 +241,22 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
+* Elementi bekle ve sonra tıkla "menuAdresEkleApartmanNoTextbox"
+* "1A" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+* "3" saniye bekle
+* Element var mı kontrol et "menuAdresEkleDegistirilmisAdres"
+
+# Stg - Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* "menuAdreslerimIlkAdresBasligi" li elementi bul ve değerini "ilkAdresBasligi" olarak sakla
+* Elementi bekle ve sonra tıkla "menuAdreslerimIlkAdresBasligi"
+* Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokakStg"
 * Elementi bekle ve sonra tıkla "menuAdresEkleApartmanNoTextbox"
 * "1A" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
 * "1" textini "menuAdresEkleDaireTextbox" elemente yaz
@@ -269,7 +321,27 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "caddeAdreslerimAcıbadem"
-* "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "101" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
+* "1" textini "menuAdresEkleDaireTextbox" elemente yaz
+* "Kadıköy" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
+* "123456789" textini "menuAdresEkleTelefonTextbox" elemente yaz
+* "Test" textini "menuAdresEkleAdresTarifiTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
+
+# Stg - Kadıköy adresi eklenir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdreslerimKadiköyStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleAdreslerimAcıbademStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
+* Elementi bekle ve sonra tıkla "caddeAdreslerimAcıbademStg"
+* "101" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
 * "1" textini "menuAdresEkleDaireTextbox" elemente yaz
 * "Kadıköy" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
@@ -349,7 +421,8 @@
 * Elementi bekle ve sonra tıkla "menuYeKazanAyrılmayıOnaylıyorumButon"
 * Element var mı kontrol et "menuYeKazanHaklarinSilinmistirText"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "menuYeKazanHaklarinSilinmistirKapatButon"
+* Element var mı kontrol et "menuYeKazanHaklarinSilinmistirKapatButon"
+* Elementine tıkla "menuYeKazanHaklarinSilinmistirKapatButon"
 * Element var mı kontrol et "menuYeKazanYeKazanCheckbox"
 
 # Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir
@@ -386,3 +459,18 @@
 * Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
 * Elementi bekle ve sonra tıkla "menuKVKKAyrilmayiOnayliyorumButon"
 * Element var mı kontrol et "profilimKVKKCheckbox"
+
+# Test içerisinde eklenen adres ve eklenen not silinir
+* Sayfa yenilenir
+* Ye-Kazan pop up kapatılır
+* Dominos logosuna tıklanır
+* Hamburger menüye tıklanır
+* Notlarım butonuna basılır
+* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
+* Not silinir ve silindiği kontrol edilir
+* Dominos logosuna tıklanır
+* Eklenen adres silinir
+
+# Test içerisinde eklenen adres silinir
+* Dominos logosuna tıklanır
+* Eklenen adres silinir

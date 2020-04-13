@@ -261,6 +261,11 @@
     "type": "xpath"
   },
   {
+    "key": "menuAdresEkleCaddeAyisigiSokakStg",
+    "value": "(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[107]",
+    "type": "xpath"
+  },
+  {
     "key": "menuAdresEkleApartmanNoTextbox",
     "value": "(.//*[@id='DPE_TR_ADDRESSADDMODAL_DROPDOWN_APARTMENTNUMBER'])[1]",
     "type": "xpath"
@@ -436,13 +441,28 @@
     "type": "xpath"
   },
   {
+    "key": "ilceAdreslerimKadiköyStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[89]",
+    "type": "xpath"
+  },
+  {
     "key": "mahalleAdreslerimAcıbadem",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"
   },
   {
+    "key": "mahalleAdreslerimAcıbademStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[106]",
+    "type": "xpath"
+  },
+  {
     "key": "caddeAdreslerimAcıbadem",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[130]",
+    "type": "xpath"
+  },
+  {
+    "key": "caddeAdreslerimAcıbademStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[125]",
     "type": "xpath"
   },
   {

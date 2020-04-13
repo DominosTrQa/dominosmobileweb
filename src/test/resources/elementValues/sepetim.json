@@ -45,13 +45,18 @@
     "type": "xpath"
   },
   {
-    "key": "sepetteUrunEklemeSufle",
-    "value": ".//*[@id='DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0']",
+    "key": "sepetteUrunEklemeYogurtSos",
+    "value": ".//*[@id='DPE_TR_BASKET_BUTTON_SIDE_PRODUCT1']",
     "type": "xpath"
   },
   {
     "key": "sepetSufleVarMiKontrol",
     "value": "(//h2[contains(text(),'Çikolatalı Sufle')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetYoğurtSosVarMiKontrol",
+    "value": "(//h2[contains(text(),'Yoğurtlu Sos')])[1]",
     "type": "xpath"
   }
 

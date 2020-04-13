@@ -20,6 +20,9 @@
 # Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Element var mı kontrol et "siparisSubeSipariseKapalı"
 
+# Şubenin Test Pulse olduğu kontrol edilir
+* Element var mı kontrol et "siparisSubeTestPulse"
+
 # Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * "5" saniye bekle
 * Element var mı kontrol et "anasayfaSubeSipariseKapali"

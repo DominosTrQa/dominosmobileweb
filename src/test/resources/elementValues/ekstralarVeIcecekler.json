@@ -7,7 +7,7 @@
   },
   {
     "key": "tabIcecekler",
-    "value": "//*[@id='DPE_TR_SIDEPRODUCT_TAB1']",
+    "value": "(//span[contains(text(),'İçecekler')])[1]",
     "type": "xpath"
   },
   {
@@ -74,8 +74,10 @@
     "key": "soslarButon1",
     "value": ".//*[@id='DPE_TR_SIDEPRODUCTS_TAB6_CARD0']",
     "type": "xpath"
+  },
+  {
+    "key": "iceceklerCocaCola",
+    "value": "(//*[contains(text(),'Coca-Cola')])[1]",
+    "type": "xpath"
   }
-
-
-
 ]

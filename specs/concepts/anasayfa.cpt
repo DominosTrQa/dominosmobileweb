@@ -136,15 +136,25 @@
 
 # Anasayfadaki adresin Kadıköy olduğu kontrol edilir
 * "3" saniye bekle
+*  Element var mı kontrol et "anasayfaKalemButon"
 * "anasayfaKalemButon" elementi "Kadıköy" değerini içeriyor mu kontrol et
 
 # Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * "3" saniye bekle
 * "anasayfaKalemButon" elementi "99362 - Siparişe Kapalı Şubesi" değerini içeriyor mu kontrol et
 
+# Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* "5" saniye bekle
+* Element var mı kontrol et "anasayfaKalemButon"
+* "anasayfaKalemButon" elementi "Test" değerini içeriyor mu kontrol et
+
 # Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 * "3" saniye bekle
 * Element yok mu kontrol et "anasayfaSipariseKapalıSubeKontrol"
+
+# Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
+* "3" saniye bekle
+* Element yok mu kontrol et "anasayfaTestPulseKontrol"
 
 # Anasayfadaki adresin Adıyaman olduğu kontrol edilir
 * "3" saniye bekle
@@ -165,3 +175,11 @@
 # Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 * "3" saniye bekle
 * "anasayfaKalemButon" elementi "İstanbul Beşiktaş Etiler Mh." değerini içeriyor mu kontrol et
+
+# Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Sakarya Adapazarı" değerini içeriyor mu kontrol et
+
+# Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
+* "3" saniye bekle
+* "anasayfaKalemButon" elementi "Adapazarı Şubesi" değerini içeriyor mu kontrol et
