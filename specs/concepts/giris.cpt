@@ -22,7 +22,7 @@
 * Elementi bekle ve sonra tıkla "googleileGirisYapButon"
 
 # Google sayfasına yönlendirildiği kontrol edilir
-* "5" saniye bekle
+* "10" saniye bekle
 * Element yok mu kontrol et "gelAlButon"
  Element var mı kontrol et "googleileGirisYapGoogleOturumAcText"
 
@@ -81,6 +81,17 @@
 * Elementi bekle ve sonra tıkla "mahallePinar"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
+# Stg - İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceSarıyerStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahallePinarStg"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
 # İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilIstanbul"
@@ -90,6 +101,17 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleBurgazada"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalarStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaStg"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
 # Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
@@ -104,6 +126,18 @@
 * Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
+# Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceSarıyerStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleGelAlPinarStg"
+* Sadece Açık Şubeleri Göster butonuna tıklanır
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
 # Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilIstanbul"
@@ -111,6 +145,16 @@
 * Elementi bekle ve sonra tıkla "ilceAdalar"
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleGelAlBurgazada"
+* Sadece Açık Şubeleri Göster butonuna tıklanır
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceAdalarStg"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleGelAlBurgazadaStg"
 * Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
@@ -228,9 +272,22 @@
 * Element yok mu kontrol et "ilceSecinizclass"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
+# Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilAdiyamanStg"
+* "3" saniye bekle
+* Element yok mu kontrol et "ilceSecinizclass"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
 # Gel Al için il Adıyaman seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilAdiyaman"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# Stg - Gel Al için il Adıyaman seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilAdiyamanStg"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
@@ -267,6 +324,20 @@
 * Elementi bekle ve sonra tıkla "sokakAhular"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
+# Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceBesiktasStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleEtilerStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "sokakAhularStg"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
 # İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilIstanbul"
@@ -281,10 +352,30 @@
 * Elementi bekle ve sonra tıkla "sokakBahtiyar"
 * Element var mı kontrol et "seciliAdresIleDeavmEtTıklanamazlikKontrolu"
 
+# Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceBesiktasStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleEtilerStg"
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "sokakBahtiyarStg"
+* Element var mı kontrol et "seciliAdresIleDeavmEtTıklanamazlikKontrolu"
+
 # Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "sokakBahtiyarApartmanNo"
+* Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
+
+# Stg - Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "sokakBahtiyarApartmanNoStg"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
 # Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir

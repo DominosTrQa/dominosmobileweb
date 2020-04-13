@@ -37,7 +37,9 @@
 * Elementi bekle ve sonra tıkla "tabDurumler"
 
 # İçecekler sayfasına gidilir
-* Elementi bekle ve sonra tıkla "tabIcecekler"
+* Element var mı kontrol et "tabIcecekler"
+* "2" saniye bekle
+* Elementine tıkla "tabIcecekler"
 
 # Ekmek Arası sayfasına gidilir
 * Elementi bekle ve sonra tıkla "tabEkmekArasi"
@@ -59,4 +61,8 @@
 
 # İçecekler kategorisinin ilk elementi seçilir
 * Elementi bekle ve sonra tıkla "iceceklerButon1"
+* "2" saniye bekle
+
+# İçecekler kategorisinden Coca-Cola seçilir
+* Elementi bekle ve sonra tıkla "iceceklerCocaCola"
 * "2" saniye bekle

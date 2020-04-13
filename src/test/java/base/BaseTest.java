@@ -52,7 +52,7 @@ public class BaseTest {
 
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
-                webDriver.get("http://dpe-preprod.dominos.com.tr/");
+                webDriver.get("http://dpe-staging.dominos.com.tr/");
                 Thread.sleep(5000);
 
         }else if ("ios".equalsIgnoreCase(selectPlatform)) {

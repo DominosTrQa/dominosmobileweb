@@ -24,6 +24,12 @@
 # Sepete Çikolatalı Sufle eklendiği kontrol edilir
 * Element var mı kontrol et "sepetSufleVarMiKontrol"
 
+# Sepette bulunan ürünlerden Yoğurt Sos eklenir
+* Elementi bekle ve sonra tıkla "sepetteUrunEklemeYogurtSos"
+
+# Sepete Yoğurt Sos eklendiği kontrol edilir
+* Element var mı kontrol et "sepetYoğurtSosVarMiKontrol"
+
 # Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 * Element yok mu kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
 * Element yok mu kontrol et "gelAlButon"

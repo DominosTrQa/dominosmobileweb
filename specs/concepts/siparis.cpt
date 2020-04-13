@@ -161,6 +161,9 @@
 # Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 * Element var mı kontrol et "siparisOnaySayfasiCikolataliSufleKontrol"
 
+# Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiYogurtluSosKontrol"
+
 # Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 * Element var mı kontrol et "siparisOnaySayfasiNakitKontrol"
 
