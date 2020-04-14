@@ -375,11 +375,11 @@ Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyPizza
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza - Pizza Düzenle
@@ -395,8 +395,8 @@ Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyDuzenle
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Birinci pizza için Düzenle butona tıklanır
 * Klasik Hamur seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
@@ -404,7 +404,7 @@ Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyDuzenle
 * Güncelle butona tıklanır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Pizza Ekleme - Gel Al

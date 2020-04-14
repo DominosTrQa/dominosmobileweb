@@ -410,4 +410,5 @@
 * Elementi bekle ve sonra tıkla "kayitOlIlkTelefonCheckbox"
 
 # Dominos - Staging ortamına gidilir
+* "5" saniye bekle
 * "https://dpe-staging.dominos.com.tr/" adresine git
