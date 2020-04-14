@@ -30,6 +30,7 @@
 * Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButon"
 
 # 3 Al 1 Öde kampanyası seçilir
+* "3Al1OdeButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "3Al1OdeButon"
 
 # Dilediğin Büyük Boy Pizza kampanyası seçilir
@@ -65,6 +66,8 @@
 * Element var mı kontrol et "sepetDilediginBuyukBoyPizzaKontrolText"
 
 # Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* "3" saniye bekle
+* "dortPeynirliPizza" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "dortPeynirliPizza"
 
 # Pizza boyutu Büyük seçilir

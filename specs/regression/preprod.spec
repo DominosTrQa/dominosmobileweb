@@ -433,7 +433,6 @@ Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelSecimler
 * Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * Pizza boyutu Büyük seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
-* Acılı İstiyorum seçeneği seçilir
 * Ekstra malzemelerden Küp Sucuk eklenir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
