@@ -474,3 +474,10 @@
 # Test içerisinde eklenen adres silinir
 * Dominos logosuna tıklanır
 * Eklenen adres silinir
+
+# Test içerisinde eklenen not silinir
+* Dominos logosuna tıklanır
+* Hamburger menüye tıklanır
+* Notlarım butonuna basılır
+* Not Düzenle butonuna basılır ve popup açıldığı kontrol edilir
+* Not silinir ve silindiği kontrol edilir

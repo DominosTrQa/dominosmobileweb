@@ -2494,6 +2494,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
 * Test içerisinde eklenen adres silinir
 
 
@@ -2573,6 +2574,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
 * Test içerisinde eklenen adres silinir
 
 
@@ -2677,10 +2679,8 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
-* Sayfa yenilenir
 * Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
+* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
@@ -2705,10 +2705,6 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
-* Sayfa yenilenir
-* Ye-Kazan pop up kapatılır
-* Dominos logosuna tıklanır
-* Eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -2883,7 +2879,8 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Test içerisinde eklenen adres ve eklenen not silinir
+* Ye-Kazan pop up kapatılır
+* Test içerisinde eklenen not silinir
 
 
 Sipariş Verme - Kapı No Manuel

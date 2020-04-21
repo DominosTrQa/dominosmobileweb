@@ -2356,6 +2356,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
 * Test içerisinde eklenen adres silinir
 
 
@@ -2438,6 +2439,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
 * Test içerisinde eklenen adres silinir
 
 
@@ -2546,6 +2548,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
 * Test içerisinde eklenen adres silinir
 
 
@@ -2572,7 +2575,6 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
@@ -2753,7 +2755,8 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Test içerisinde eklenen adres ve eklenen not silinir
+* Ye-Kazan pop up kapatılır
+* Test içerisinde eklenen not silinir
 
 
 Sipariş Verme - Kapı No Manuel
@@ -3016,7 +3019,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlIlceMahalle
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
@@ -3028,7 +3031,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 
@@ -3039,7 +3042,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlIlceMahalle
 
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
