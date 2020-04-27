@@ -605,8 +605,8 @@ Tags:regressionStaging_SepeteUpcellEklemeAdreseTeslimAdresSecimi
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Yoğurt Sos eklenir
-* Sepete Yoğurt Sos eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Üye Olmadan
@@ -623,12 +623,12 @@ Tags:regressionStaging_SepeteUpcellEklemeGelAlUyeOlmadan
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Yoğurt Sos eklenir
-* Sepete Yoğurt Sos eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Yeni Üye
@@ -645,15 +645,15 @@ Tags:regressionStaging_SepeteUpcellEklemeGelAlYeniUye
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Yoğurt Sos eklenir
-* Sepete Yoğurt Sos eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Var Olan Üye
@@ -670,13 +670,13 @@ Tags:regressionStaging_SepeteUpcellEklemeGelAlVarOlanUye
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Yoğurt Sos eklenir
-* Sepete Yoğurt Sos eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Adrese Teslim
@@ -694,13 +694,13 @@ Tags:regressionStaging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Yoğurt Sos eklenir
-* Sepete Yoğurt Sos eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 * Test içerisinde eklenen adres silinir
 
 
@@ -720,11 +720,11 @@ Tags:regressionStaging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Yoğurt Sos eklenir
-* Sepete Yoğurt Sos eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim

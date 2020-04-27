@@ -471,7 +471,7 @@ Tags:regressionPreprod_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
@@ -488,7 +488,7 @@ Tags:regressionPreprod_SepeteYanUrunEklemeAdreseTeslimYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
@@ -502,7 +502,7 @@ Tags:regressionPreprod_SepeteYanUrunEklemeAdreseTeslimUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
@@ -519,7 +519,7 @@ Tags:regressionPreprod_SepeteYanUrunEklemeGelAlVarOlanUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
@@ -537,7 +537,7 @@ Tags:regressionPreprod_SepeteYanUrunEklemeGelAlYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
@@ -552,7 +552,7 @@ Tags:regressionPreprod_SepeteYanUrunEklemeGelAlUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 
@@ -2895,9 +2895,9 @@ Tags:regressionPreprod_SiparisVermeKapiNoManuel
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
-* İçecekler kategorisinin ilk elementi seçilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
@@ -2920,9 +2920,9 @@ Tags:regressionPreprod_SiparisVermeKapiNoDropdown
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinin ilk elementi seçilir
-* İçecekler kategorisinin ilk elementi seçilir
-* İçecekler kategorisinin ilk elementi seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)

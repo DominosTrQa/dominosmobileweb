@@ -803,4 +803,19 @@ public class BaseSteps extends BaseTest{
 
     }
 
+    @Step({"<key> li elementi bul ve varsa dokun", "Click element by <key> if exist"})
+    public void existTapByKey(String key) {
+
+        WebElement element = null;
+        try {
+            element = findElementWithKey(key);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        if (element != null) {
+            element.click();
+        }
+    }
+
+
 }

@@ -30,7 +30,14 @@
 * Elementine tıkla "sepetteUrunEklemeYogurtSos"
 
 # Sepete Yoğurt Sos eklendiği kontrol edilir
-* Element var mı kontrol et "sepetYoğurtSosVarMiKontrol"
+* Element var mı kontrol et "sepetYogurtSosVarMiKontrol"
+
+# Sepette bulunan ürünlerden Dürüm eklenir
+* Element var mı kontrol et "sepetteUrunEklemeDurum"
+* Elementine tıkla "sepetteUrunEklemeDurum"
+
+# Sepete Dürüm eklendiği kontrol edilir
+* Element var mı kontrol et "sepetteDurumVarMiKontrol"
 
 # Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 * Element yok mu kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
