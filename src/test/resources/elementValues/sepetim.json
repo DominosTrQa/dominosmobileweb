@@ -50,13 +50,23 @@
     "type": "xpath"
   },
   {
+    "key": "sepetteUrunEklemeDurum",
+    "value": ".//*[@id='DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0']",
+    "type": "xpath"
+  },
+  {
     "key": "sepetSufleVarMiKontrol",
     "value": "(//h2[contains(text(),'Çikolatalı Sufle')])[1]",
     "type": "xpath"
   },
   {
-    "key": "sepetYoğurtSosVarMiKontrol",
+    "key": "sepetYogurtSosVarMiKontrol",
     "value": "(//h2[contains(text(),'Yoğurtlu Sos')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetteDurumVarMiKontrol",
+    "value": "(//h2[contains(text(),'Dürüm')])[1]",
     "type": "xpath"
   }
 

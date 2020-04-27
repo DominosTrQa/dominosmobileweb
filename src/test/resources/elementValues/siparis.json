@@ -130,6 +130,11 @@
     "type": "xpath"
   },
   {
+    "key": "siparisOnaySayfasiDurumKontrol",
+    "value":"(//div[contains(text(),'Dürüm')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "siparisOnaySayfasiNakitKontrol",
     "value":"(//h3[contains(text(),'Nakit')])[1]",
     "type": "xpath"

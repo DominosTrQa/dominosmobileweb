@@ -165,6 +165,9 @@
 # Sipariş Onay sayfasında Yoğurtlu Sos olduğu kontrol edilir
 * Element var mı kontrol et "siparisOnaySayfasiYogurtluSosKontrol"
 
+# Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
+* Element var mı kontrol et "siparisOnaySayfasiDurumKontrol"
+
 # Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 * Element var mı kontrol et "siparisOnaySayfasiNakitKontrol"
 
@@ -254,4 +257,4 @@
 
 # Ye-Kazan pop up kapatılır
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "siparisYeKazanPopupKapatButon"
+* "siparisYeKazanPopupKapatButon" li elementi bul ve varsa dokun

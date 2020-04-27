@@ -190,6 +190,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
 * Rastgele telefon no üret
 * Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+* "59" textini "uyeOlTelefonTextbox" elemente yaz
 * Telefon noyu "uyeOlTelefonTextbox" elementine yaz
 * Elementi bekle ve sonra tıkla "uyeOlEpostaTextbox"
 * "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz, emaili "randomMail" olarak sakla
