@@ -320,9 +320,9 @@ Tags:regressionPreprod_AdresDuzenlemeKayitliAdresiGuncelle
 * Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Dilediğin Orta boy Pizza Gel Al
+Sepete Kampanya Ekleme - Gel Al - Kampanya
 ----------------------------------------
-Tags:regressionPreprod_SepeteKampanyaEklemeDilediginOrtaBoyPizzaGelAl
+Tags:regressionPreprod_SepeteKampanyaEklemeGelAlKampanya
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -333,16 +333,16 @@ Tags:regressionPreprod_SepeteKampanyaEklemeDilediginOrtaBoyPizzaGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
 ------------------------------
-Tags:regressionPreprod_SepeteKampanyaEklemeDilediginBuyukBoyPizza
+Tags:regressionPreprod_SepeteKampanyaEklemeAdreseTeslimKampanya
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -359,9 +359,9 @@ Tags:regressionPreprod_SepeteKampanyaEklemeDilediginBuyukBoyPizza
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza - Pizza Düzenle
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
 ----------------------------------------
-Tags:regressionPreprod_SepeteKampanyaEklemeDilediginBuyukBoyDuzenle
+Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
 
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
@@ -3227,6 +3227,23 @@ Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
+
+Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç
+-----------------------------------------------
+Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
+
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Profilim butonuna tıklanır
+* Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir
+  KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+* KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
+
+
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
 Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
@@ -3240,7 +3257,7 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
 * Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir
-* KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+  KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
 * KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
 
 
@@ -3288,7 +3305,7 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
-* KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+  KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
 * KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
 
 

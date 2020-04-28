@@ -416,6 +416,7 @@
 * Elementi bekle ve sonra tıkla "profilimYeKazanSeciliCheckbox"
 * Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
 * Elementi bekle ve sonra tıkla "menuYeKazanAyrılmaktanVazgecButon"
+ Element var mı kontrol et "profilimYeKazanSeciliCheckbox"
 
 # Ye-Kazan kısmından Ye-Kazan üyeliği iptal edilir
 * Elementi bekle ve sonra tıkla "menuYeKazanAyrılmayıOnaylıyorumButon"
