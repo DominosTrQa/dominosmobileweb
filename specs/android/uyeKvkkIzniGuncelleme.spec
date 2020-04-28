@@ -1,7 +1,7 @@
 Üye KVKK İzni Güncelleme
 =====================
 
-Bug var
+
 Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
 Tags:uyeKVKKIzniGuncelleme_VarolanUyeAyrilmaktanVazgec

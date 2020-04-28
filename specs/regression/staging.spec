@@ -341,9 +341,9 @@ Tags:regressionStaging_AdresDuzenlemeKayitliAdresiGuncelle
 * Stg - Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
 
 
-Sepete Kampanya Ekleme - Gel Al - Dilediğin Orta boy Pizza Gel Al
+Sepete Kampanya Ekleme - Gel Al - Kampanya
 ----------------------------------------
-Tags:regressionStaging_SepeteKampanyaEklemeDilediginOrtaBoyPizzaGelAl
+Tags:regressionStaging_SepeteKampanyaEklemeGelAlKampanya
 
 * Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
@@ -355,16 +355,16 @@ Tags:regressionStaging_SepeteKampanyaEklemeDilediginOrtaBoyPizzaGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
 ------------------------------
-Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyPizza
+Tags:regressionStaging_SepeteKampanyaEklemeAdreseTeslimKampanya
 
 * Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
@@ -382,9 +382,9 @@ Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyPizza
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Dilediğin Büyük Boy Pizza - Pizza Düzenle
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
 ----------------------------------------
-Tags:regressionStaging_SepeteKampanyaEklemeDilediginBuyukBoyDuzenle
+Tags:regressionStaging_SepeteKampanyaEklemeAdreseTeslimKDuzenleampanya
 
 * Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
@@ -3130,6 +3130,22 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
+Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç
+-----------------------------------------------
+Tags:regressionStaging_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
+
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Profilim butonuna tıklanır
+* Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir
+  KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+* KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
+
+
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
@@ -3144,7 +3160,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
 * Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir
-* KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+  KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
 * KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
 
 
@@ -3195,7 +3211,7 @@ Tags:regressionStaging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
-* KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
+  KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir
 * KVKK üyeliğinden ayrılınır ve checkbox seçili olmadığı kontrol edilir
 
 

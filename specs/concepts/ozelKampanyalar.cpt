@@ -4,10 +4,12 @@
 * "2" saniye bekle
 
 # Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Elementi bekle ve sonra tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
+* Element var mı kontrol et "kampanyalarBuyukBoyPizzalarGelAlButon"
+* Elementine tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
 
 # Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Elementi bekle ve sonra tıkla "kampanyalarDilediginOrtaboyGelAlButon"
+* Element var mı kontrol et "kampanyalarDilediginOrtaboyGelAlButon"
+* Elementine tıkla "kampanyalarDilediginOrtaboyGelAlButon"
 
 # Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * "5" saniye bekle
