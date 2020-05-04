@@ -6,6 +6,7 @@ Preprod Regression
 ----------------
 Tags:regressionLive_UyeGirisiBasarili
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim ve Gel Al butonları var mı kontrol edilir
@@ -15,6 +16,7 @@ Tags:regressionLive_UyeGirisiBasarili
 ----------------
 Tags:regressionLive_UyeGirisiFacebook
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Facebook ile Giriş Yap butonuna tıklanır
 * Facebook sayfasına yönlendirildiği kontrol edilir
@@ -24,6 +26,7 @@ Tags:regressionLive_UyeGirisiFacebook
 ----------------
 Tags:regressionLive_UyeGirisiGoogle
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Google ile Giriş Yap butonuna tıklanır
 * Google sayfasına yönlendirildiği kontrol edilir
@@ -33,6 +36,7 @@ Tags:regressionLive_UyeGirisiGoogle
 ----------------
 Tags:regressionLive_UyeGirisiBasarisizEpostaYanlis
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış e-posta ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
@@ -42,6 +46,7 @@ Tags:regressionLive_UyeGirisiBasarisizEpostaYanlis
 ----------------
 Tags:regressionLive_UyeGirisiBasarisizSifreYanlis
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış şifre ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
@@ -51,6 +56,7 @@ Tags:regressionLive_UyeGirisiBasarisizSifreYanlis
 ----------------
 Tags:regressionLive_UyeOlmaBasarili
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -61,6 +67,7 @@ Tags:regressionLive_UyeOlmaBasarili
 ----------------
 Tags:regressionLive_UyeOlmaBasariliEmailCheckbox
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -73,6 +80,7 @@ Tags:regressionLive_UyeOlmaBasariliEmailCheckbox
 ----------------
 Tags:regressionLive_UyeOlmaBasariliSmsCheckbox
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -85,6 +93,7 @@ Tags:regressionLive_UyeOlmaBasariliSmsCheckbox
 ----------------
 Tags:regressionLive_UyeOlmaBasariliTelefonCheckbox
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -97,6 +106,7 @@ Tags:regressionLive_UyeOlmaBasariliTelefonCheckbox
 -----------------------------
 Tags:regressionLive_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -109,6 +119,7 @@ Tags:regressionLive_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 -----------------------------
 Tags:regressionLive_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -121,6 +132,7 @@ Tags:regressionLive_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 -----------------------------------------
 Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -145,6 +157,7 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 -----------------------------------------
 Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -169,6 +182,7 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 -----------------------------------------
 Tags:regressionLive_UyeOlmaSepetimEkranindaBasarili
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -191,6 +205,7 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaBasarili
 -----------------------------------------
 Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -215,6 +230,7 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 -----------------------
 Tags:regressionLive_UyeAdresEklemeUye
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -237,6 +253,7 @@ Tags:regressionLive_UyeAdresEklemeUye
 -----------------------
 Tags:regressionLive_UyeAdresEklemeUyeliksiz
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -255,6 +272,7 @@ Tags:regressionLive_UyeAdresEklemeUyeliksiz
 -----------------------
 Tags:regressionLive_UyeAdresEklemeUyeAdreslerimBolumunden
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -272,6 +290,7 @@ Tags:regressionLive_UyeAdresEklemeUyeAdreslerimBolumunden
 -----------------------
 Tags:regressionLive_UyeAdresEklemeUyeKayitliAdresiSil
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -290,6 +309,7 @@ Tags:regressionLive_UyeAdresEklemeUyeKayitliAdresiSil
 -----------------------
 Tags:regressionLive_UyeAdresEklemeZorunluAlanKontrol
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -306,6 +326,7 @@ Tags:regressionLive_UyeAdresEklemeZorunluAlanKontrol
 -----------------------
 Tags:regressionLive_AdresDuzenlemeKayitliAdresiGuncelle
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -324,6 +345,7 @@ Sepete Kampanya Ekleme - Gel Al - Kampanya
 ----------------------------------------
 Tags:regressionLive_SepeteKampanyaEklemeGelAlKampanya
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -344,6 +366,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
 ------------------------------
 Tags:regressionLive_SepeteKampanyaEklemeAdreseTeslimKampanya
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -363,6 +386,7 @@ Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
 ----------------------------------------
 Tags:regressionLive_SepeteKampanyaEklemeKampanyaDuzenle
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -387,6 +411,7 @@ Sepete Pizza Ekleme - Gel Al
 ---------------------
 Tags:regressionLive_SepetePizzaEklemeGelAl
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -405,6 +430,7 @@ Sepete Pizza Ekleme - Adrese Teslim
 ----------------------------
 Tags:regressionLive_SepetePizzaEklemeAdreseTeslim
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -422,6 +448,7 @@ Sepete Pizza Ekleme - Pizza Opsiyonel Seçimler
 ----------------------------------------
 Tags:regressionLive_SepetePizzaEklemePizzaOpsiyonelSecimler
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -443,6 +470,7 @@ Sepete Pizza Ekleme - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
 Tags:regressionLive_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -464,6 +492,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Var Olan Üye
 ----------------------------------------
 Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -480,6 +509,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
 ----------------------------------------
 Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimYeniUye
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -497,6 +527,7 @@ Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
 ----------------------------------------
 Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimUyeliksiz
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -511,6 +542,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
 ----------------------------------------
 Tags:regressionLive_SepeteYanUrunEklemeGelAlVarOlanUye
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -528,6 +560,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
 ----------------------------------------
 Tags:regressionLive_SepeteYanUrunEklemeGelAlYeniUye
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -546,6 +579,7 @@ Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
 ----------------------------------------
 Tags:regressionLive_SepeteYanUrunEklemeGelAlUyeliksiz
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -561,6 +595,7 @@ Sepete Upcell Ekleme - Adrese Teslim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeAdreseTeslimAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -577,6 +612,7 @@ Sepete Upcell Ekleme - Gel Al - Üye Olmadan
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeGelAlUyeOlmadan
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -598,6 +634,7 @@ Sepete Upcell Ekleme - Gel Al - Yeni Üye
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeGelAlYeniUye
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -622,6 +659,7 @@ Sepete Upcell Ekleme - Gel Al - Var Olan Üye
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeGelAlVarOlanUye
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -644,6 +682,7 @@ Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Adrese Teslim
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -667,6 +706,7 @@ Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -689,6 +729,7 @@ Servis Tipi Seçimi - Adrese Teslim
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslim
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -699,6 +740,7 @@ Servis Tipi Seçimi - Gel Al
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAl
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -710,6 +752,7 @@ Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -722,6 +765,7 @@ Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAldanAdreseTeslimGecisi
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -735,6 +779,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Servis Tipinin Deği�
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -751,6 +796,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Servis Tipinin Değiştirile
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -768,6 +814,7 @@ Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Servis Tipinin De�
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegistirilememesi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -786,6 +833,7 @@ Servis Tipi Seçimi - Gel Al - Var Olan - Sepette Servis Tipinin Değiştirileme
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -805,6 +853,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Servis Tipinin Değiş
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -824,6 +873,7 @@ Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Servis Tipinin Değiştirilem
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -844,6 +894,7 @@ Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Ürün Varken Servis 
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -864,6 +915,7 @@ Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Ürün Varken Servis Tipinin
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -885,6 +937,7 @@ Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Ürün Varken Serv
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -907,6 +960,7 @@ Servis Tipi Seçimi - Gel Al - Var Olan Üye - Sepette Ürün Varken Servis Tipi
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -930,6 +984,7 @@ Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Ürün Varken Servis T
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -953,6 +1008,7 @@ Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Ürün Varken Servis Tipinin 
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -977,6 +1033,7 @@ Adres Seçimi - Var Olan Üye - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -994,6 +1051,7 @@ Adres Seçimi - Var Olan Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1013,6 +1071,7 @@ Adres Seçimi - Yeni Üye - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1031,6 +1090,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiYeniUyeGelAlManuelAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1051,6 +1111,7 @@ Adres Seçimi - Üyeliksiz - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1066,6 +1127,7 @@ Adres Seçimi - Üyeliksiz - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiUyeliksizGelAlManuelAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1086,6 +1148,7 @@ Adres Seçimi - Var Olan Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1103,6 +1166,7 @@ Adres Seçimi - Var Olan Üye - Gel Al - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1122,6 +1186,7 @@ Adres Seçimi - Yeni Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1145,6 +1210,7 @@ Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
 -----------------------------------------------
 Tags:regressionLive_AdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1167,6 +1233,7 @@ Tags:regressionLive_AdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1189,6 +1256,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlNakit
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1210,6 +1278,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlNakit
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1232,6 +1301,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1252,6 +1322,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlNakit
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1274,6 +1345,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlNakit
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1295,6 +1367,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlNakit
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1317,6 +1390,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1338,6 +1412,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1360,6 +1435,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1380,6 +1456,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1402,6 +1479,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1423,6 +1501,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1445,6 +1524,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1466,6 +1546,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1488,6 +1569,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1508,6 +1590,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1530,6 +1613,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1551,6 +1635,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1573,6 +1658,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1594,6 +1680,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1616,6 +1703,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1636,6 +1724,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1658,6 +1747,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1679,6 +1769,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1701,6 +1792,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartTicketKart
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1722,6 +1814,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartTicketKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1744,6 +1837,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1764,6 +1858,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1786,6 +1881,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1807,6 +1903,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1829,6 +1926,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1850,6 +1948,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1872,6 +1971,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1892,6 +1992,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1914,6 +2015,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1935,6 +2037,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1957,6 +2060,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlMultinet
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1978,6 +2082,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlMultinet
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2000,6 +2105,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2020,6 +2126,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2042,6 +2149,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlMultinet
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2063,6 +2171,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlMultinet
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2085,6 +2194,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSetCard
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2106,6 +2216,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSetCard
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2128,6 +2239,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2148,6 +2260,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2170,6 +2283,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSetCard
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2191,6 +2305,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSetCard
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2213,6 +2328,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlPayeKart
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2234,6 +2350,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlPayeKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2256,6 +2373,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2276,6 +2394,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2298,6 +2417,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlPayeKart
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2319,6 +2439,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlPayeKart
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2341,6 +2462,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2362,6 +2484,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2384,6 +2507,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2404,6 +2528,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2427,6 +2552,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlOnlineOdeme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2449,6 +2575,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2475,6 +2602,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2502,6 +2630,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2529,6 +2658,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasmayin
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2555,6 +2685,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2582,6 +2713,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2609,6 +2741,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2635,6 +2768,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2660,6 +2794,7 @@ Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2687,6 +2822,7 @@ Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2711,6 +2847,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2738,6 +2875,7 @@ Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2764,6 +2902,7 @@ Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2795,6 +2934,7 @@ Sipariş Notu Ekleme - Yeni Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2825,6 +2965,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2856,6 +2997,7 @@ Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
 Tags:regressionLive_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2887,6 +3029,7 @@ Sipariş Verme - Kapı No Manuel
 ----------------------------------------
 Tags:regressionLive_SiparisVermeKapiNoManuel
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2912,6 +3055,7 @@ Sipariş Verme - Kapı No Dropdown
 ----------------------------------------
 Tags:regressionLive_SiparisVermeKapiNoDropdown
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2937,6 +3081,7 @@ Tags:regressionLive_SiparisVermeKapiNoDropdown
 -----------------------------------------------
 Tags:regressionLiveSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2949,6 +3094,7 @@ Tags:regressionLiveSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2962,6 +3108,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2975,6 +3122,7 @@ Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeGelAlYalnizcaIl
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2989,6 +3137,7 @@ Tags:regressionLive_SubeAtamaYeniUyeGelAlYalnizcaIl
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -2999,6 +3148,7 @@ Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizGelAlYalnizcaIl
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3010,6 +3160,7 @@ Tags:regressionLive_SubeAtamaUyeliksizGelAlYalnizcaIl
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlce
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3022,6 +3173,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlce
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeGelAlIlce
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -3035,6 +3187,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeGelAlIlce
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlce
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3048,6 +3201,7 @@ Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlce
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeGelAlIlce
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3062,6 +3216,7 @@ Tags:regressionLive_SubeAtamaYeniUyeGelAlIlce
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlce
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -3072,6 +3227,7 @@ Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlce
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizGelAlIlce
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al için il, ilçe Düzce - Akçakoca seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3083,6 +3239,7 @@ Tags:regressionLive_SubeAtamaUyeliksizGelAlIlce
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3095,6 +3252,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -3108,6 +3266,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3121,6 +3280,7 @@ Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeGelAlIlIlceMahalle
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3135,6 +3295,7 @@ Tags:regressionLive_SubeAtamaYeniUyeGelAlIlIlceMahalle
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -3145,6 +3306,7 @@ Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizGelAlIlIlceMahalle
 
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3156,6 +3318,7 @@ Tags:regressionLive_SubeAtamaUyeliksizGelAlIlIlceMahalle
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3168,6 +3331,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3181,6 +3345,7 @@ Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
@@ -3191,6 +3356,7 @@ Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3204,6 +3370,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3218,6 +3385,7 @@ Tags:regressionLive_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3232,6 +3400,7 @@ Tags:regressionLive_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3248,6 +3417,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 -----------------------------------------------
 Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3265,6 +3435,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 -----------------------------------------------------------
 Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3280,6 +3451,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 -----------------------------------------------------------
 Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3296,6 +3468,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 -----------------------------------------------
 Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3313,6 +3486,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 -----------------------------------------------
 Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3329,6 +3503,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3358,6 +3533,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBil
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3388,6 +3564,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgil
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3411,6 +3588,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgi
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3435,6 +3613,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgiler
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3456,6 +3635,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3478,6 +3658,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3496,6 +3677,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3515,6 +3697,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3543,6 +3726,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikB
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3565,6 +3749,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBil
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3587,6 +3772,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
 -----------------------------------------------
 Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
 
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
