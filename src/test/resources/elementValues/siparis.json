@@ -298,5 +298,11 @@
     "key": "siparisYeKazanPopupKapatButon",
     "value":"(.//*[@id='DPE_TR_MODALDIALOG_BUTTON_CLOSE'])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "siparisPuanlamaPopupKapatButon",
+    "value":"(.//*[@id='close-button-1502352480979'])[1]",
+    "type": "xpath"
   }
 ]
+

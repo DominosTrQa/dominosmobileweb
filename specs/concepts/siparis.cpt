@@ -257,4 +257,5 @@
 
 # Ye-Kazan pop up kapatılır
 * "3" saniye bekle
+* "siparisPuanlamaPopupKapatButon" li elementi bul ve varsa dokun
 * "siparisYeKazanPopupKapatButon" li elementi bul ve varsa dokun

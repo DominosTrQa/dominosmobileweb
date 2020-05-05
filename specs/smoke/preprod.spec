@@ -24,6 +24,8 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
 
 
 Yeni Kullanıcı İlk Kez Geliyor - Gel Al
@@ -47,6 +49,8 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorGelAl
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
 
 
 Kullanıcı İkinci Kez Geliyor - Adrese Teslim - Adresi var (Yan Menü)
@@ -79,6 +83,8 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
 
 
 Kullanıcı İkinci Kez Geliyor - Gel Al (Üst Menü)
@@ -113,6 +119,8 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Kullanıcı - Adrese Teslim > Gel Al (Tab)
@@ -138,6 +146,8 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Kullanıcı - Gel Al > Adrese Teslim (Üst Menü)
@@ -165,6 +175,8 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Üyeliksiz Kullanıcı - Adrese Teslim > Gel Al (Üst Menü)
@@ -185,8 +197,12 @@ tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Sepetim butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
+* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Siparişin alındığından emin olunur
 
 
 Servis Tipi Değiştiren Üyeliksiz Kullanıcı -  Gel Al > Adrese Teslim (Tab)
@@ -209,7 +225,11 @@ tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
+* Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
+* Siparişin alındığından emin olunur
