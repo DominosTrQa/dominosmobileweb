@@ -111,7 +111,7 @@
   },
   {
     "key": "siparisSubeSipariseKapalı",
-    "value":"(//*[contains(text(),'Siparişe Kapalı')])[3]",
+    "value":"//h3[contains(text(),'99362 - Siparişe Kapalı')]",
     "type": "xpath"
   },
   {
