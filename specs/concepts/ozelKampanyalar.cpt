@@ -53,7 +53,7 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
 * "2" saniye bekle
-* Elementi bekle ve sonra tıkla "kampanyalarSucuksever"
+* Elementi bekle ve sonra tıkla "kampanyalarBarbekuSoslu"
 
 # Birinci pizza için Düzenle butona tıklanır
 * Elementi bekle ve sonra tıkla "kampanyaPizzaDuzenleBirinciButon"
