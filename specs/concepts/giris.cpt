@@ -364,7 +364,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceBesiktas"
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleEtiler"
 * "3" saniye bekle
@@ -390,6 +390,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "sokakBahtiyarApartmanNo"
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
 # Stg - Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır

@@ -700,6 +700,8 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
+* Test içerisinde eklenen adres silinir
 
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
