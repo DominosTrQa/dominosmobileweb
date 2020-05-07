@@ -51,7 +51,7 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorGelAl
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 
@@ -123,7 +123,7 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 
@@ -151,7 +151,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 

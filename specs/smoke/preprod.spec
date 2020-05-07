@@ -48,7 +48,7 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorGelAl
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 
@@ -116,7 +116,7 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 
@@ -142,7 +142,7 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 
