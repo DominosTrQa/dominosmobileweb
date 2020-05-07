@@ -91,7 +91,7 @@ Kullanıcı İkinci Kez Geliyor - Gel Al (Üst Menü)
 Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -112,6 +112,7 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
 * Kampanya sepete eklenir
+* Sepetim butonuna tıklanır
 * Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
@@ -151,7 +152,7 @@ Servis Tipi Değiştiren Kullanıcı - Gel Al > Adrese Teslim (Üst Menü)
 tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
