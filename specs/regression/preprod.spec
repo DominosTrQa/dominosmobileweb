@@ -333,11 +333,10 @@ Tags:regressionPreprod_SepeteKampanyaEklemeGelAlKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
@@ -352,11 +351,11 @@ Tags:regressionPreprod_SepeteKampanyaEklemeAdreseTeslimKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
@@ -371,8 +370,8 @@ Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
 * Birinci pizza için Düzenle butona tıklanır
 * Klasik Hamur seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
@@ -380,7 +379,7 @@ Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
 * Güncelle butona tıklanır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Pizza Ekleme - Gel Al
