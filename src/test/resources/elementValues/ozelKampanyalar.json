@@ -15,6 +15,11 @@
     "type": "xpath"
   },
   {
+    "key": "kampanyalarOrtaboyDomisosSosluBolMalzemosGelAlButon",
+    "value":"(//div[contains(text(),'Orta Boy Dominos Soslu Bol Malzemos')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "kampanyalarSecinizDropdown",
     "value":"(//*[contains(text(),'Seçiniz')])[1]",
     "type": "xpath"
@@ -45,6 +50,11 @@
     "type": "xpath"
   },
   {
+    "key": "sepetOrtaBoyDomisosSosluBolMalzemosGelAlKontrolText",
+    "value":"(//*[contains(text(),'Orta Boy Dominos Soslu Bol Malzemos - Gel Al')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "sepetdilediginOrtaBoyPizzaGelAlKontrolText",
     "value":"(//*[contains(text(),'Dilediğin Orta Boy Pizza - Gel Al')])[1]",
     "type": "xpath"
@@ -65,13 +75,18 @@
     "type": "xpath"
   },
   {
+    "key": "buyukBoyPizzalarKampanyasiButon",
+    "value":"(//*[contains(text(),'Büyük Boy Pizzalar')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "sepet3Al1OdeKontrolText",
     "value":"(//*[contains(text(),'3 Al 1 Öde')])[1]",
     "type": "xpath"
   },
   {
-    "key": "sepetDilediginBuyukBoyPizzaKontrolText",
-    "value":"(//*[contains(text(),'Dilediğin Büyük Boy Pizza')])[1]",
+    "key": "sepetBuyukBoyPizzalarKontrolText",
+    "value":"(//*[contains(text(),'Büyük Boy Pizzalar')])[1]",
     "type": "xpath"
   },
   {

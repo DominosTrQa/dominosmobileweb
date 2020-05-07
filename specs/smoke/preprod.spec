@@ -14,11 +14,11 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
@@ -41,11 +41,10 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -75,11 +74,11 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -111,11 +110,9 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
 * Kampanya sepete eklenir
-* Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -138,11 +135,10 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -167,11 +163,11 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Listelenen adreslerden test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -191,11 +187,10 @@ tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
@@ -219,11 +214,11 @@ tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Dilediğin Büyük Boy Pizza kampanyası seçilir
-* Dilediğin Büyük Boy Pizza kampanyası için sipariş seçilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir

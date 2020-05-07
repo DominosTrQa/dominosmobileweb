@@ -7,6 +7,10 @@
 * Element var mı kontrol et "kampanyalarBuyukBoyPizzalarGelAlButon"
 * Elementine tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
 
+# Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Element var mı kontrol et "kampanyalarOrtaboyDomisosSosluBolMalzemosGelAlButon"
+* Elementine tıkla "kampanyalarOrtaboyDomisosSosluBolMalzemosGelAlButon"
+
 # Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
 * Element var mı kontrol et "kampanyalarDilediginOrtaboyGelAlButon"
 * Elementine tıkla "kampanyalarDilediginOrtaboyGelAlButon"
@@ -25,6 +29,9 @@
 # Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Element var mı kontrol et "sepetBuyukBoyPizzalarGelAlKontrolText"
 
+# Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Element var mı kontrol et "sepetOrtaBoyDomisosSosluBolMalzemosGelAlKontrolText"
+
 # Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Element var mı kontrol et "sepetdilediginOrtaBoyPizzaGelAlKontrolText"
 
@@ -39,6 +46,11 @@
 * "dilediginBuyukBoyPizzaKampanyasiButon" alanına js ile kaydır
 * Element var mı kontrol et "dilediginBuyukBoyPizzaKampanyasiButon"
 * Elementine tıkla "dilediginBuyukBoyPizzaKampanyasiButon"
+
+# Büyük Boy Pizzalar kampanyası seçilir
+* "buyukBoyPizzalarKampanyasiButon" alanına js ile kaydır
+* Element var mı kontrol et "buyukBoyPizzalarKampanyasiButon"
+* Elementine tıkla "buyukBoyPizzalarKampanyasiButon"
 
 # 3 Al 1 Öde kampanyası için sipariş seçilir
 * "5" saniye bekle
@@ -55,6 +67,12 @@
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "kampanyalarBarbekuSoslu"
 
+# Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarSecinizDropdown"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyalarBarbekuSoslu"
+
 # Birinci pizza için Düzenle butona tıklanır
 * Elementi bekle ve sonra tıkla "kampanyaPizzaDuzenleBirinciButon"
 
@@ -66,6 +84,9 @@
 
 # Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Element var mı kontrol et "sepetDilediginBuyukBoyPizzaKontrolText"
+
+# Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* Element var mı kontrol et "sepetBuyukBoyPizzalarKontrolText"
 
 # Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * "3" saniye bekle
