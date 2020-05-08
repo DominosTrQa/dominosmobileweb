@@ -152,7 +152,7 @@ Servis Tipi Değiştiren Kullanıcı - Gel Al > Adrese Teslim (Üst Menü)
 tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 
 * Giriş Yap butonuna tıklanır
-* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır

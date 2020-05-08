@@ -112,7 +112,7 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyası seçilir
@@ -140,7 +140,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Teslimat tipi tabına tıklanır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyası seçilir
@@ -195,7 +195,7 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Çerez Politikası kapatılır
 * Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyası seçilir
