@@ -6,6 +6,7 @@ Yeni Kullanıcı İlk Kez Geliyor - Adrese Teslim
 -----------------------------------------------
 Tags:smokePreprod_YeniKullaniciIlkKezGeliyorAdreseTeslim
 
+* Dominos - Preprod ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -32,6 +33,7 @@ Yeni Kullanıcı İlk Kez Geliyor - Gel Al
 -----------------------------------------------
 Tags:smokePreprod_YeniKullaniciIlkKezGeliyorGelAl
 
+* Dominos - Preprod ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -56,6 +58,7 @@ Kullanıcı İkinci Kez Geliyor - Adrese Teslim - Adresi var (Yan Menü)
 -----------------------------------------------
 Tags:smokePreprod_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 
+* Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -90,6 +93,7 @@ Kullanıcı İkinci Kez Geliyor - Gel Al (Üst Menü)
 --------------------------------------
 Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 
+* Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -125,6 +129,7 @@ Servis Tipi Değiştiren Kullanıcı - Adrese Teslim > Gel Al (Tab)
 ----------------------------------------------------------------------
 tags:smokePreprod_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 
+* Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -151,6 +156,7 @@ Servis Tipi Değiştiren Kullanıcı - Gel Al > Adrese Teslim (Üst Menü)
 ----------------------------------------------------------------------
 tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 
+* Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -180,6 +186,7 @@ Servis Tipi Değiştiren Üyeliksiz Kullanıcı - Adrese Teslim > Gel Al (Üst M
 ----------------------------------------------------------------------
 tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 
+* Dominos - Preprod ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -205,6 +212,7 @@ Servis Tipi Değiştiren Üyeliksiz Kullanıcı -  Gel Al > Adrese Teslim (Tab)
 ----------------------------------------------------------------------
 tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 
+* Dominos - Preprod ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır

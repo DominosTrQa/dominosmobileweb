@@ -569,7 +569,7 @@ public class BaseSteps extends BaseTest{
         ElementInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
         WebElement webElement =webDriver.findElement(ElementHelper.getElementInfoToBy(elementInfo));
         if (webElement != null) {
-            scrollTo(webElement.getLocation().getX(), webElement.getLocation().getY() - 100);
+            scrollTo(webElement.getLocation().getX(), webElement.getLocation().getY() - 70);
         }
         return webElement;
     }

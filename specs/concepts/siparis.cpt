@@ -218,7 +218,7 @@
 
 # Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
 * "2" saniye bekle
-* Element var mı kontrol et "siparisSonucuNotTemassızTeslimatKontrol"
+* Element var mı kontrol et "siparisSonucuNotTemassizTeslimatKontrol"
 
 # Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
 * "2" saniye bekle
@@ -258,4 +258,4 @@
 # Ye-Kazan pop up kapatılır
 * "3" saniye bekle
 * "siparisPuanlamaPopupKapatButon" li elementi bul ve varsa dokun
-* "siparisYeKazanPopupKapatButon" li elementi bul ve varsa dokun
+* Elementi bekle ve sonra tıkla "siparisYeKazanPopupKapatButon"
