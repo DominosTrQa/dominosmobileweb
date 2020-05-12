@@ -235,7 +235,7 @@
     "type": "xpath"
   },
   {
-    "key": "siparisSonucuNotTemassızTeslimatKontrol",
+    "key": "siparisSonucuNotTemassizTeslimatKontrol",
     "value":"(//p[contains(text(),'Temassız Teslimat')])[1]",
     "type": "xpath"
   },

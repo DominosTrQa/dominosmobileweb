@@ -143,7 +143,6 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleGelAlPinarStg"
-* Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
 # Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
@@ -426,3 +425,7 @@
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
 * "https://dominos.com.tr/" adresine git
+
+# Dominos - Preprod ortamına gidilir
+* "5" saniye bekle
+* "https://dpe-preprod.dominos.com.tr/" adresine git

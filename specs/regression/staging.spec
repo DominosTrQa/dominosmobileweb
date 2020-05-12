@@ -457,7 +457,7 @@ Tags:regressionStaging_SepetePizzaEklemePizzaOpsiyonelSecimler
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar butonuna tıklanır
-* Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* Stg - Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * Pizza boyutu Büyük seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
 * Acılı İstiyorum seçeneği seçilir
@@ -480,7 +480,7 @@ Tags:regressionStaging_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar butonuna tıklanır
-* Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* Stg - Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * Pizza boyutu Büyük seçilir
 * Pizzadan Domates çıkarılır
 * Domatesin üzerinin çizili olarak geldiği kontrol edilir
@@ -2355,8 +2355,8 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Şubenin Test Pulse olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
-* Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
 * Ye-Kazan pop up kapatılır
+* Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
 * Test içerisinde eklenen adres silinir
 
 

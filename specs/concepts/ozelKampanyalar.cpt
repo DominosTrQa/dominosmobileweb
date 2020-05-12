@@ -93,6 +93,10 @@
 * "dortPeynirliPizza" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "dortPeynirliPizza"
 
+# Stg - Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "dortPeynirliPizza"
+
 # Pizza boyutu Büyük seçilir
 * Elementi bekle ve sonra tıkla "pizzaBoyutuBuyuk"
 
@@ -113,6 +117,8 @@
 * Elementi bekle ve sonra tıkla "kapatButon"
 
 # Pizzadan Domates çıkarılır
+* "3" saniye bekle
+* "domatesCikarButon" alanına js ile kaydır
 * Element var mı kontrol et "domatesCikarButon"
 * Elementine tıkla "domatesCikarButon"
 
