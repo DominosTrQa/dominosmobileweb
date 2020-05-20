@@ -1,0 +1,56 @@
+
+# Cüzdan sayfasında ilk kredi seçilir
+* Elementi bekle ve sonra tıkla "cuzdanIlkKredi"
+
+# Kredi butonlarının geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanIlkKredi"
+* Element var mı kontrol et "cuzdanKredi2"
+* Element var mı kontrol et "cuzdanKredi3"
+* Element var mı kontrol et "cuzdanKredi4"
+* Element var mı kontrol et "cuzdanKredi5"
+* Element var mı kontrol et "cuzdanKredi6"
+
+# Öde butonuna tıklanır
+* Elementi bekle ve sonra tıkla "cuzdanOdeButon"
+
+# Öde butonunun geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanOdeButon"
+
+# Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
+* Elementi bekle ve sonra tıkla "cuzdanKredi6"
+* Element var mı kontrol et "cuzdanDigerTextbox"
+
+# Kart bilgileri alanındaki elementlerin geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanKartNumarasiTextbox"
+* Element var mı kontrol et "cuzdanAdSoyadTextbox"
+* Element var mı kontrol et "cuzdanAyDropdown"
+* Element var mı kontrol et "cuzdanYilDropdown"
+* Element var mı kontrol et "cuzdanCVCTextbox"
+* Element var mı kontrol et "cuzdanKartKaydetCheckbox"
+* Elementi bekle ve sonra tıkla "cuzdanKartKaydetCheckbox"
+* Element var mı kontrol et "cuzdanKartKaydetKartIsmiTextbox"
+
+# Yüklenecek ve Ödül Bakiye alanının geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanMevcutBakiyenizText"
+* Element var mı kontrol et "cuzdanYuklenecekBakiyeText"
+* Element var mı kontrol et "cuzdanOdulBakiyenizText"
+* Element var mı kontrol et "cuzdanYuklemeSonrasiBakiyeText"
+
+# Cüzdan sayfasında 25 TL kredi seçilir
+* Elementi bekle ve sonra tıkla "cuzdan25TkKredi"
+
+# Yüklenecek Bakiye alanında 25 TL yazdığı kontrol edilir
+* Element var mı kontrol et "cuzdanYuklenecekBakiyeIlkKrediText"
+
+# Diğer textboxa 25 TL değer girilir
+* "25" textini "cuzdanDigerTextbox" elemente yaz
+
+# Diğer textboxa 24 TL değer girilir ve uyarı alındığı kontrol edilir
+* "24" textini "cuzdanDigerTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanOdeButon"
+* Element var mı kontrol et "cuzdanDigerTextboxMaxMinUyari"
+
+# Diğer textboxa 301 TL değer girilir ve uyarı alındığı kontrol edilir
+* "301" textini "cuzdanDigerTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanOdeButon"
+* Element var mı kontrol et "cuzdanDigerTextboxMaxMinUyari"

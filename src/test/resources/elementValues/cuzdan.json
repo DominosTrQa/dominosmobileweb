@@ -1,0 +1,113 @@
+[
+  {
+    "key": "cuzdanIlkKredi",
+    "value": ".//*[@id='DPE_TR_PAYMENTCHOICE_BUTTON_ITEM_0']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKredi2",
+    "value": ".//*[@id='DPE_TR_PAYMENTCHOICE_BUTTON_ITEM_1']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKredi3",
+    "value": ".//*[@id='DPE_TR_PAYMENTCHOICE_BUTTON_ITEM_2']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKredi4",
+    "value": ".//*[@id='DPE_TR_PAYMENTCHOICE_BUTTON_ITEM_3']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKredi5",
+    "value": ".//*[@id='DPE_TR_PAYMENTCHOICE_BUTTON_ITEM_4']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKredi6",
+    "value": ".//*[@id='DPE_TR_PAYMENTCHOICE_BUTTON_ITEM_5']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanOdeButon",
+    "value": ".//*[@id='DPE_TR_BUYPAGE_BUTTON_BUY']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanDigerTextbox",
+    "value": ".//*[@id='DPE_TR_BUYPAGE_INPUT_OTHER']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKartNumarasiTextbox",
+    "value": ".//*[@id='DPE_TR_CREDITCARD_INPUT_CARDNO']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanAdSoyadTextbox",
+    "value": ".//*[@id='DPE_TR_CREDITCARD_INPUT_USERFULLNAME']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanAyDropdown",
+    "value": "(//div[contains(text(),'Ay')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanYilDropdown",
+    "value": "(//div[contains(text(),'Yıl')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanCVCTextbox",
+    "value": ".//*[@id='DPE_TR_CREDITCARD_INPUT_CVCCODE']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKartKaydetCheckbox",
+    "value": ".//*[@id='DPE_TR_CREDITCARD_CHECKBOX_SAVE']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKartKaydetKartIsmiTextbox",
+    "value": ".//*[@id='DPE_TR_CREDITCARD_INPUT_CARDNAME']",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanMevcutBakiyenizText",
+    "value": "(//div[contains(text(),'Mevcut Bakiyeniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanYuklenecekBakiyeText",
+    "value": "(//div[contains(text(),'Yüklenecek Bakiye')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanOdulBakiyenizText",
+    "value": "(//div[contains(text(),'Ödül Bakiyeniz')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanYuklemeSonrasiBakiyeText",
+    "value": "(//div[contains(text(),'Yükleme Sonrası Bakiye')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdan25TkKredi",
+    "value": "(//div[contains(text(),'25')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanYuklenecekBakiyeIlkKrediText",
+    "value": "(//div[contains(text(),'25.00')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanDigerTextboxMaxMinUyari",
+    "value": "(//div[contains(text(),'Maksimum 300 TL, minimum 25 TL')])[1]",
+    "type": "xpath"
+  }
+
+]

@@ -15,11 +15,11 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
@@ -77,11 +77,11 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -170,11 +170,11 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Listelenen adreslerden test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -223,11 +223,11 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
