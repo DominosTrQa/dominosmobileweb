@@ -1,5 +1,6 @@
 
 # Cüzdan sayfasında ilk kredi seçilir
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "cuzdanIlkKredi"
 
 # Kredi butonlarının geldiği kontrol edilir
@@ -54,3 +55,93 @@
 * "301" textini "cuzdanDigerTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "cuzdanOdeButon"
 * Element var mı kontrol et "cuzdanDigerTextboxMaxMinUyari"
+
+# Öde butonuna tıklanamadığı kontrol edilir
+* Element var mı kontrol et "cuzdanOdeButonTiklanamazlikKontrolu"
+
+# Kart numarası textbox boş bırakılır ve diğer kart bilgilerine değer girilir
+* "4" saniye bekle
+* "a" textini "cuzdanAdSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanAyDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanAy01"
+* Elementi bekle ve sonra tıkla "cuzdanYilDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanYil2020"
+* "123" textini "cuzdanCVCTextbox" elemente yaz
+
+# CVC textbox boş bırakılır ve diğer kart bilgilerine değer girilir
+* "4" saniye bekle
+* "1234567812345678" textini "cuzdanKartNumarasiTextbox" elemente yaz
+* "a" textini "cuzdanAdSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanAyDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanAy01"
+* Elementi bekle ve sonra tıkla "cuzdanYilDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanYil2020"
+
+# Son Kullanma Tarihi dropdown boş bırakılır ve diğer kart bilgilerine değer girilir
+* "4" saniye bekle
+* "1234567812345678" textini "cuzdanKartNumarasiTextbox" elemente yaz
+* "a" textini "cuzdanAdSoyadTextbox" elemente yaz
+* "123" textini "cuzdanCVCTextbox" elemente yaz
+
+# Ödeme Bilgilerinizi Gözden Geçirin uyarısının geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanKartBilgileriOdemeBilgileriniziGozdenGecirinUyari"
+
+# Kart bilgilerine Kart Numarası Yanlış olacak şekilde değerler girilir
+* "4" saniye bekle
+* "1234567812345678" textini "cuzdanKartNumarasiTextbox" elemente yaz
+* "a" textini "cuzdanAdSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanAyDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanAy01"
+* Elementi bekle ve sonra tıkla "cuzdanYilDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanYil2020"
+* "123" textini "cuzdanCVCTextbox" elemente yaz
+
+# Geçersiz Kart Numarası uyarısının geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanGecersizKartNumarasiUyari"
+
+# Kart bilgilerine değerler girilir
+* "4" saniye bekle
+* "4355084355084358" textini "cuzdanKartNumarasiTextbox" elemente yaz
+* "a" textini "cuzdanAdSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanAyDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanAy01"
+* Elementi bekle ve sonra tıkla "cuzdanYilDropdown"
+* Elementi bekle ve sonra tıkla "cuzdanYil2020"
+* "123" textini "cuzdanCVCTextbox" elemente yaz
+
+# Kartı Kaydet checkbox seçilir
+* Elementi bekle ve sonra tıkla "cuzdanKartKaydetCheckbox"
+
+# Kart ismi textboxa değer girilir
+* "test" textini "cuzdanKartKaydetKartIsmiTextbox" elemente yaz
+
+# Telefon Doğrulama Kodu yanlış girilir
+* "2" saniye bekle
+* "123456" textini "cuzdanSmsTelefonDogrulamaKodu" elemente yaz
+* Elementi bekle ve sonra tıkla "cuzdanSmsTelefonDogrulamaKoduOnaylaButon"
+
+# Telefon Doğrulama Kodu için yanlış şifre uyarısı alındığı kontrol edilir
+* Element var mı kontrol et "cuzdanSmsTelefonDogrulamaKoduSifreDogrulanamadiUyariText"
+
+# Telefon Doğrulama Kodu için yanlış şifre uyarısında Tamam butonuna tıklanır
+* Elementi bekle ve sonra tıkla "cuzdanSmsTelefonDogrulamaKoduSifreDogrulanamadiTamamButon"
+
+# Telefon Doğrulama Kodu için şifre hakkının dolduğu uyarısı alındığı kontrol edilir
+* Element var mı kontrol et "cuzdanSmsTelefonDogrulamaKoduSifreHakkiDolduUyariText"
+
+# Hareketler tabına tıklanır
+* Elementi bekle ve sonra tıkla "cuzdanTabHareketler"
+
+# Sıkça Sorulan Sorular tabına tıklanır
+* Elementi bekle ve sonra tıkla "cuzdanTabSikcaSorulanSorular"
+
+# Sıkça Sorulan Sorular sayfasının ve ilk sorusunun geldiği kontrol edilir
+* Element var mı kontrol et "cuzdanTabSikcaSorulanSorularText"
+* Element var mı kontrol et "cuzdanTabSikcaSorulanSorularDominosCuzdanNedirText"
+
+# Dominos Cüzdan Kullanmak için yükleme yapınız uyarısı içeriyor mu kontrol edilir
+* "3" saniye bekle
+* "odemeSayfasiDominosCuzdan" elementi "Kullanmak için yükleme yapınız" değerini içeriyor mu kontrol et
+
+# Ödeme tipi seçimi sayfasında Dominos Cüzdan listelenmediği kontrol edilir
+* Element yok mu kontrol et "odemeSayfasiDominosCuzdan"
