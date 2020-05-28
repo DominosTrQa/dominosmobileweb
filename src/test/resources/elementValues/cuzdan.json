@@ -55,8 +55,18 @@
     "type": "xpath"
   },
   {
+    "key": "cuzdanAy01",
+    "value": "(//div[contains(text(),'01')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "cuzdanYilDropdown",
     "value": "(//div[contains(text(),'Yıl')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanYil2020",
+    "value": "(//div[contains(text(),'2020')])[1]",
     "type": "xpath"
   },
   {
@@ -107,6 +117,71 @@
   {
     "key": "cuzdanDigerTextboxMaxMinUyari",
     "value": "(//div[contains(text(),'Maksimum 300 TL, minimum 25 TL')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanOdeButonTiklanamazlikKontrolu",
+    "value": "(.//*[@class='sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO cNdakR'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanKartBilgileriOdemeBilgileriniziGozdenGecirinUyari",
+    "value": "(//div[contains(text(),'Lütfen ödeme bilgilerinizi gözden geçirin')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanGecersizKartNumarasiUyari",
+    "value": "(//div[contains(text(),'Geçersiz Kart Numarası')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanSmsTelefonDogrulamaKodu",
+    "value": "(.//*[@class='input__Control-wbeopl-2 iQtoeP'] )[4]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanSmsTelefonDogrulamaKoduOnaylaButon",
+    "value": "(//*[contains(text(),'Onayla')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanSmsTelefonDogrulamaKoduSifreDogrulanamadiUyariText",
+    "value": "(//*[contains(text(),'Tek kullanımlık şifre doğrulanamadı')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanSmsTelefonDogrulamaKoduSifreDogrulanamadiTamamButon",
+    "value": "(.//*[@id='DPE_TR_ALERT_BUTTON_LEFT'])",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanSmsTelefonDogrulamaKoduSifreHakkiDolduUyariText",
+    "value": "(//*[contains(text(),'Tek kullanımlık şifreyi deneme hakkınız dolmuştur')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanTabHareketler",
+    "value": "(.//*[@id='DPE_TR_TAB_BUTTON_1'])",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanTabSikcaSorulanSorular",
+    "value": "(.//*[@id='DPE_TR_TAB_BUTTON_2'])",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanTabSikcaSorulanSorularText",
+    "value": "(//*[contains(text(),'Sıkça Sorulan Sorular')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "cuzdanTabSikcaSorulanSorularDominosCuzdanNedirText",
+    "value": "(//*[contains(text(),'Domino’s Cüzdan nedir?')])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSayfasiDominosCuzdan",
+    "value": "(.//*[@id='DPE_TR_PAYMENTCARDTYPE_BUTTON_TYPE2'])",
     "type": "xpath"
   }
 
