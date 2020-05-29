@@ -145,3 +145,6 @@
 
 # Ödeme tipi seçimi sayfasında Dominos Cüzdan listelenmediği kontrol edilir
 * Element yok mu kontrol et "odemeSayfasiDominosCuzdan"
+
+# Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
+* Elementi bekle ve sonra tıkla "cuzdanSozlesmesiOnayButon"

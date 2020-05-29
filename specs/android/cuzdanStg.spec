@@ -1,18 +1,18 @@
-Cüzdan
+Cüzdan Stg
 =====================
 
      
 Cüzdan - Bakiye Yükleme Sayfası - Sayfa Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiSayfaKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Kredi butonlarının geldiği kontrol edilir
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
@@ -25,25 +25,25 @@ Tags:cuzdan_BakiyeYuklemeSayfasiSayfaKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kredi Doğru Eklenmesi
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKrediDogruEklenmesi
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKrediDogruEklenmesi
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında 25 TL kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Yüklenecek Bakiye alanında 25 TL yazdığı kontrol edilir
 
 
 Cüzdan - Bakiye Yükleme Sayfası - Diğer Textbox Kontrolleri
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
+Tags:cuzdanStg_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
 * Diğer textboxa 24 TL değer girilir ve uyarı alındığı kontrol edilir
 * Diğer textboxa 301 TL değer girilir ve uyarı alındığı kontrol edilir
@@ -51,22 +51,22 @@ Tags:cuzdan_BakiyeYuklemeSayfasiDigerTextboxKontrolleri
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Yüklenecek Bakiye alanında 25 TL yazdığı kontrol edilir
 
 
 Cüzdan - Bakiye Yükleme Sayfası - Diğer Textbox - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Diğer butonuna tıklanır ve textbox açıldığı kontrol edilir
 * Öde butonuna tıklanır
@@ -75,15 +75,15 @@ Tags:cuzdan_BakiyeYuklemeSayfasiDigerTextboxZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kart Numarası - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -94,15 +94,15 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - CVC - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -113,15 +113,15 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriCVCZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Son Kullanma Tarihi - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -132,15 +132,15 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriSonKullanmaTarihiZorunluAlanKontrol
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kart Numarası Yanlış
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -152,15 +152,15 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartNumarasiYanlis
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - Zorunlu Alan Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
@@ -172,22 +172,21 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetZorunluAlanKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - Yanlış Sms Şifresi
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart bilgilerine değerler girilir
 * Kartı Kaydet checkbox seçilir
 * Kart ismi textboxa değer girilir
-* Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Öde butonuna tıklanır
 * Telefon Doğrulama Kodu yanlış girilir
 * Telefon Doğrulama Kodu için yanlış şifre uyarısı alındığı kontrol edilir
@@ -195,22 +194,21 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 
 Cüzdan - Bakiye Yükleme Sayfası - Kart Bilgileri - Kartı Kaydet - 3 Sms Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kart bilgilerine değerler girilir
 * Kartı Kaydet checkbox seçilir
 * Kart ismi textboxa değer girilir
-* Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Öde butonuna tıklanır
 * Telefon Doğrulama Kodu yanlış girilir
 * Telefon Doğrulama Kodu için yanlış şifre uyarısında Tamam butonuna tıklanır
@@ -224,15 +222,15 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 
 Cüzdan - Bakiye Yükleme Sayfası - Hareketler - Sayfa Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiHareketlerSayfaKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hareketler tabına tıklanır
 Sonra yazılacak
@@ -240,15 +238,15 @@ Sonra yazılacak
 
 Cüzdan - Bakiye Yükleme Sayfası - Sıkça Sorulan Sorular - Sayfa Kontrolü
 -----------------------------------------------
-Tags:cuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
+Tags:cuzdanStg_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 
-* Dominos - Preprod ortamına gidilir
-* "https://dpe-preprod.dominos.com.tr/dominos-cuzdan" adresine git
+* Dominos - Staging ortamına gidilir
+* "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Sıkça Sorulan Sorular tabına tıklanır
 * Sıkça Sorulan Sorular sayfasının ve ilk sorusunun geldiği kontrol edilir
@@ -256,14 +254,14 @@ Tags:cuzdan_BakiyeYuklemeSayfasiSikcaSorulanSorularSayfaKontrolu
 
 Cüzdan - Ödeme Sayfası - Yeni Üye - Cüzdan Seçimi
 -----------------------------------------------
-Tags:cuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
+Tags:cuzdanStg_OdemeSayfasiYeniUyeCuzdanSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -280,11 +278,11 @@ Tags:cuzdan_OdemeSayfasiYeniUyeCuzdanSecimi
 
 Cüzdan - Ödeme Sayfası - Üyeliksiz - Cüzdan Seçimi
 -----------------------------------------------
-Tags:cuzdan_OdemeSayfasiUyeliksizCuzdanSecimi
+Tags:cuzdanStg_OdemeSayfasiUyeliksizCuzdanSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -296,9 +294,3 @@ Tags:cuzdan_OdemeSayfasiUyeliksizCuzdanSecimi
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme tipi seçimi sayfasında Dominos Cüzdan listelenmediği kontrol edilir
-
-
-
-
-
-
