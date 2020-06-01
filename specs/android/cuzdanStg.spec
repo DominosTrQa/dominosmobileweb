@@ -178,7 +178,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 * "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
+* Stg - Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -187,6 +187,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 * Kart bilgilerine değerler girilir
 * Kartı Kaydet checkbox seçilir
 * Kart ismi textboxa değer girilir
+* Kart kaydet kısmı seçili iken Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Öde butonuna tıklanır
 * Telefon Doğrulama Kodu yanlış girilir
 * Telefon Doğrulama Kodu için yanlış şifre uyarısı alındığı kontrol edilir
@@ -200,7 +201,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 * "https://dpe-staging.dominos.com.tr/dominos-cuzdan" adresine git
 * Cüzdan sayfasında ilk kredi seçilir
 * Öde butonuna tıklanır
-* Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
+* Stg - Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -209,6 +210,7 @@ Tags:cuzdanStg_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 * Kart bilgilerine değerler girilir
 * Kartı Kaydet checkbox seçilir
 * Kart ismi textboxa değer girilir
+* Kart kaydet kısmı seçili iken Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Öde butonuna tıklanır
 * Telefon Doğrulama Kodu yanlış girilir
 * Telefon Doğrulama Kodu için yanlış şifre uyarısında Tamam butonuna tıklanır

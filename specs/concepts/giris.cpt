@@ -53,6 +53,14 @@
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
 * "3" saniye bekle
 
+# Stg - Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
+* Elementi bekle ve sonra tıkla "epostaTextbox"
+* "emre.sonmez@test.com" textini "epostaTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifreTextbox"
+* "Test123" textini "sifreTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
+* "3" saniye bekle
+
 # Adrese Teslim ve Gel Al butonları var mı kontrol edilir
 * Element var mı kontrol et "adreseTeslimButon"
 * Element var mı kontrol et "gelAlButon"

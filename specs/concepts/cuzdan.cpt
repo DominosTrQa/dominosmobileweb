@@ -45,15 +45,16 @@
 
 # Diğer textboxa 25 TL değer girilir
 * "25" textini "cuzdanDigerTextbox" elemente yaz
+* "3" saniye bekle
 
 # Diğer textboxa 24 TL değer girilir ve uyarı alındığı kontrol edilir
 * "24" textini "cuzdanDigerTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "cuzdanOdeButon"
+* Elementi bekle ve sonra tıkla "cuzdanKredi6"
 * Element var mı kontrol et "cuzdanDigerTextboxMaxMinUyari"
 
 # Diğer textboxa 301 TL değer girilir ve uyarı alındığı kontrol edilir
 * "301" textini "cuzdanDigerTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "cuzdanOdeButon"
+* Elementi bekle ve sonra tıkla "cuzdanKredi6"
 * Element var mı kontrol et "cuzdanDigerTextboxMaxMinUyari"
 
 # Öde butonuna tıklanamadığı kontrol edilir
@@ -148,3 +149,8 @@
 
 # Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Elementi bekle ve sonra tıkla "cuzdanSozlesmesiOnayButon"
+* "3" saniye bekle 
+
+# Kart kaydet kısmı seçili iken Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
+* Elementi bekle ve sonra tıkla "cuzdanSozlesmesiOnayKartKaydetSeciliIkenButon"
+* "3" saniye bekle 
