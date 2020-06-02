@@ -2898,9 +2898,9 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeAdreseTeslimIlce
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Erenler olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Gel Al - İlçe
@@ -2911,7 +2911,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlce
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
@@ -2926,9 +2926,9 @@ Tags:regressionStaging_SubeAtamaYeniUyeAdreseTeslimIlce
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Erenler olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Gel Al - İlçe
@@ -2940,7 +2940,7 @@ Tags:regressionStaging_SubeAtamaYeniUyeGelAlIlce
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
@@ -2952,9 +2952,9 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlce
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Sakarya - Adapazarı olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Erenler olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Gel Al - İlçe
@@ -2963,7 +2963,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlce
 
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
@@ -3134,10 +3134,11 @@ Tags:regressionStaging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 -----------------------------------------------
 Tags:regressionStaging_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
