@@ -187,7 +187,7 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydetYanlisSmsSifresi
 * Kart bilgilerine değerler girilir
 * Kartı Kaydet checkbox seçilir
 * Kart ismi textboxa değer girilir
-* Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
+* Kart kaydet kısmı seçili iken Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Öde butonuna tıklanır
 * Telefon Doğrulama Kodu yanlış girilir
 * Telefon Doğrulama Kodu için yanlış şifre uyarısı alındığı kontrol edilir
@@ -210,7 +210,7 @@ Tags:cuzdan_BakiyeYuklemeSayfasiKartBilgileriKartiKaydet3SmsKontrolu
 * Kart bilgilerine değerler girilir
 * Kartı Kaydet checkbox seçilir
 * Kart ismi textboxa değer girilir
-* Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
+* Kart kaydet kısmı seçili iken Cüzdan Kullanıcı Sözleşmesini Onaylıyorum checkbox seçilir
 * Öde butonuna tıklanır
 * Telefon Doğrulama Kodu yanlış girilir
 * Telefon Doğrulama Kodu için yanlış şifre uyarısında Tamam butonuna tıklanır
