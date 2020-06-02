@@ -163,8 +163,7 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Servis tipi Adrese Teslim olarak değiştirilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
 * Listelenen adreslerden test adresi seçilir
@@ -190,7 +189,7 @@ tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
+* Servis tipi Gel Al olarak değiştirilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
