@@ -36,7 +36,7 @@
     "type": "xpath"
   },
   {
-    "key": "anasayfaAdreseTeslimButon",
+    "key": "anasayfaServisTipiSecimiButon",
     "value": "(.//*[@id='DPE_TR_TOPBAR_BUTTON_SERVICETYPESELECT'])[1]",
     "type": "xpath"
   },
@@ -215,5 +215,4 @@
     "value":"(//span[contains(text(),'Test Pulse')])[1]",
     "type": "xpath"
   }
-
 ]

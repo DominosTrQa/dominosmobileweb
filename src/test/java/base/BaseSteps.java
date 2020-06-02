@@ -817,5 +817,207 @@ public class BaseSteps extends BaseTest{
         }
     }
 
+    @Step("<key> li adres tipi seçilir")
+    public void firstServiceTypeChange(String key){
+        if(findElements(key).size()>0){
+            getElementWithKeyIfExists(key);
+            clickElement(key);
+            waitBySeconds(2);
+            //Gel Al
+            if(findElements("sadeceAcikSubeleriGosterCheckbox").size()>0){
+                getElementWithKeyIfExists("secinizDropdown");
+                clickElement("secinizDropdown");
+                getElementWithKeyIfExists("ilIstanbul");
+                clickElement("ilIstanbul");
+                waitBySeconds(2);
+                getElementWithKeyIfExists("secinizDropdown");
+                clickElement("secinizDropdown");
+                getElementWithKeyIfExists("ilceAdalar");
+                clickElement("ilceAdalar");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("secinizDropdown");
+                clickElement("secinizDropdown");
+                getElementWithKeyIfExists("mahalleGelAlBurgazada");
+                clickElement("mahalleGelAlBurgazada");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("sadeceAcikSubeleriGosterCheckbox");
+                clickElement("sadeceAcikSubeleriGosterCheckbox");
+                getElementWithKeyIfExists("gelAlSubeleriGosterButon");
+                clickElement("gelAlSubeleriGosterButon");
+                getElementWithKeyIfExists("gelAlListelemeIlkSube");
+                clickElement("gelAlListelemeIlkSube");
+                waitBySeconds(2);
+                getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
+                clickElement("seciliSubeIleDevamEtButon");
+                waitBySeconds(3);
+            }
+            //Adrese Teslim
+            else if(findElements("sadeceAcikSubeleriGosterCheckbox").size()<=0){
+                getElementWithKeyIfExists("anasayfaServisTipiSecimiButon");
+                clickElement("anasayfaServisTipiSecimiButon");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("adreseTeslimButon");
+                clickElement("adreseTeslimButon");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("secinizDropdown");
+                clickElement("secinizDropdown");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("ilIstanbul");
+                clickElement("ilIstanbul");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("secinizDropdown");
+                clickElement("secinizDropdown");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("ilceAdalar");
+                clickElement("ilceAdalar");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("secinizDropdown");
+                clickElement("secinizDropdown");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("mahalleBurgazada");
+                clickElement("mahalleBurgazada");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("seciliAdresIleDevamEtbuton");
+                clickElement("seciliAdresIleDevamEtbuton");
+            }
+            else {
+            }
+        }
+        else {
+        }
+    }
+
+    @Step("Seçimi <text> olarak değiştir")
+    public void change(String text){
+
+        switch (text){
+
+            case "GelAl":
+
+                waitBySeconds(2);
+
+                if(webDriver.findElements(By.xpath("//span[contains(text(),'Adrese Teslim')]")).size()>0) {
+
+                    getElementWithKeyIfExists("anasayfaServisTipiSecimiButon");
+                    clickElement("anasayfaServisTipiSecimiButon");
+
+                    getElementWithKeyIfExists("gelAlButon");
+                    clickElement("gelAlButon");
+                } else {
+
+                }
+                break;
+
+            case "AdreseTeslim":
+
+                waitBySeconds(2);
+
+                if(webDriver.findElements(By.xpath("//span[contains(text(),'Gel Al')]")).size()>0)
+                {
+                    getElementWithKeyIfExists("anasayfaServisTipiSecimiButon");
+                    clickElement("anasayfaServisTipiSecimiButon");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("adreseTeslimButon");
+                    clickElement("adreseTeslimButon");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("ilIstanbul");
+                    clickElement("ilIstanbul");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("ilceAdalar");
+                    clickElement("ilceAdalar");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("mahalleBurgazada");
+                    clickElement("mahalleBurgazada");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("seciliAdresIleDevamEtbuton");
+                    clickElement("seciliAdresIleDevamEtbuton");
+                }
+                else {
+
+                }
+                break;
+
+            case "GelAlAdresSecimli":
+
+                waitBySeconds(2);
+
+                if(webDriver.findElements(By.xpath("//span[contains(text(),'Adrese Teslim')]")).size()>0) {
+
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+
+                    getElementWithKeyIfExists("ilİstanbul");
+                    clickElement("ilİstanbul");
+
+                    waitBySeconds(2);
+
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+
+                    getElementWithKeyIfExists("ilceAdalar");
+                    clickElement("ilceAdalar");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+
+                    getElementWithKeyIfExists("mahalleGelAlBurgazada");
+                    clickElement("mahalleGelAlBurgazada");
+
+                    waitBySeconds(4);
+
+                    getElementWithKeyIfExists("sadeceAcikSubeleriGosterCheckbox");
+                    clickElement("sadeceAcikSubeleriGosterCheckbox");
+
+                    getElementWithKeyIfExists("gelAlSubeleriGosterButon");
+                    clickElement("gelAlSubeleriGosterButon");
+
+                    getElementWithKeyIfExists("gelAlListelemeIlkSube");
+                    clickElement("gelAlListelemeIlkSube");
+
+                    waitBySeconds(2);
+
+                    getElementWithKeyIfExists("seciliSubeIleDevamEtButon");
+                    clickElement("seciliSubeIleDevamEtButon");
+
+                    waitBySeconds(3);
+
+                } else {
+
+                }
+                break;
+
+            default:
+                break;
+        }
+    }
+
+
 
 }

@@ -9,7 +9,7 @@
 * Element var mı kontrol et "anasayfaHamburgerMenu"
 * Element var mı kontrol et "firsatlarSagOk"
 * Element var mı kontrol et "firsatlarSolOk"
-* Element var mı kontrol et "anasayfaAdreseTeslimButon"
+* Element var mı kontrol et "anasayfaServisTipiSecimiButon"
 * Element var mı kontrol et "anasayfaKalemButon"
 * Element var mı kontrol et "anasayfaPromosyonKoduButon"
 * Element var mı kontrol et "anasayfaPizzaTakipButon"
@@ -183,3 +183,9 @@
 # Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 * "3" saniye bekle
 * "anasayfaKalemButon" elementi "Adapazarı Şubesi" değerini içeriyor mu kontrol et
+
+# Servis tipi Adrese Teslim olarak değiştirilir
+* Seçimi "AdreseTeslim" olarak değiştir
+
+# Servis tipi Gel Al olarak değiştirilir
+* Seçimi "GelAl" olarak değiştir
