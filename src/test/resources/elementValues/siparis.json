@@ -16,22 +16,22 @@
   },
   {
     "key": "odemeSekliNakitButon",
-    "value":"(//*[contains(text(),'Nakit')])[1]",
+    "value":"(//div[contains(text(),'Nakit')])[1]",
     "type": "xpath"
   },
   {
     "key": "odemeSekliKrediKartiButon",
-    "value":"(//*[contains(text(),'Kredi Kartı')])[1]",
+    "value":"(//div[contains(text(),'Kredi Kartı')])[1]",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSmartSodexoKartButon",
-    "value":"(//*[contains(text(),'Smart Sodexho Kart')])[1]",
+    "value":"(//div[contains(text(),'Smart Sodexho Kart')])[1]",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSodexoYemekCekiButon",
-    "value":"(//*[contains(text(),'Sodexho Yemek Çeki')])[1]",
+    "value":"(//div[contains(text(),'Sodexho Yemek Çeki')])[1]",
     "type": "xpath"
   },
   {
@@ -46,12 +46,12 @@
   },
   {
     "key": "odemeSekliMultinetButon",
-    "value":"(//*[contains(text(),'Multinet')])[1]",
+    "value":"(//div[contains(text(),'Multinet')])[1]",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSetCardButon",
-    "value":"(//*[contains(text(),'SetCard')])[1]",
+    "value":"(//div[contains(text(),'SetCard')])[1]",
     "type": "xpath"
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "key": "odemeSekliOnlineOdemeButon",
-    "value":"(.//*[@class='styled__PaymentCardTitle-nisyg4-7 jEAhRh'])[2]",
+    "value":"(//*[contains(text(),'Kredi Kartı ve Banka Kartı')])[1]",
     "type": "xpath"
   },
   {

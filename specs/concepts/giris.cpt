@@ -325,12 +325,12 @@
 * Element yok mu kontrol et "mahalleSecinizclass"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
-# Stg - İl, ilçe Sakarya - Adapazarı seçilir , mahalle seçiminin gelmediği doğrulanır
+# Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilSakaryaStg"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
-* Elementi bekle ve sonra tıkla "ilceAdapazariStg"
+* Elementi bekle ve sonra tıkla "ilceErenlerStg"
 * "3" saniye bekle
 * Element yok mu kontrol et "mahalleSecinizclass"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
@@ -344,12 +344,12 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
-# Stg - Gel Al için il, ilçe Sakarya - Adapazarı seçilir
+# Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilSakaryaStg"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
-* Elementi bekle ve sonra tıkla "ilceAdapazariStg"
+* Elementi bekle ve sonra tıkla "ilceErenlerStg"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 

@@ -381,8 +381,8 @@
     "type": "xpath"
   },
   {
-    "key": "ilceAdapazariStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[68]",
+    "key": "ilceErenlerStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[71]",
     "type": "xpath"
   }
 ]
