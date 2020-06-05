@@ -43,10 +43,11 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -114,10 +115,11 @@ Tags:smokePreprod_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -141,10 +143,11 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak ilk ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -194,10 +197,11 @@ tags:smokePreprod_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
