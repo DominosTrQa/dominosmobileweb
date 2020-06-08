@@ -1,12 +1,22 @@
-Preprod Regression
+Staging Regression
 =====================
+
+
+Üye Girişi - Başarılı
+----------------
+Tags:Staging_UyeGirisiBasarili
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim ve Gel Al butonları var mı kontrol edilir
 
 
 Üye Girişi - Facebook
 ----------------
-Tags:regressionPreprod_UyeGirisiFacebook
+Tags:Staging_UyeGirisiFacebook
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Facebook ile Giriş Yap butonuna tıklanır
 * Facebook sayfasına yönlendirildiği kontrol edilir
@@ -14,9 +24,9 @@ Tags:regressionPreprod_UyeGirisiFacebook
 
 Üye Girişi - Google
 ----------------
-Tags:regressionPreprod_UyeGirisiGoogle
+Tags:Staging_UyeGirisiGoogle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Google ile Giriş Yap butonuna tıklanır
 * Google sayfasına yönlendirildiği kontrol edilir
@@ -24,9 +34,9 @@ Tags:regressionPreprod_UyeGirisiGoogle
 
 Üye Girişi - Başarısız - E-posta Yanlış
 ----------------
-Tags:regressionPreprod_UyeGirisiBasarisizEpostaYanlis
+Tags:Staging_UyeGirisiBasarisizEpostaYanlis
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış e-posta ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
@@ -34,19 +44,30 @@ Tags:regressionPreprod_UyeGirisiBasarisizEpostaYanlis
 
 Üye Girişi - Başarısız - Şifre Yanlış
 ----------------
-Tags:regressionPreprod_UyeGirisiBasarisizSifreYanlis
+Tags:Staging_UyeGirisiBasarisizSifreYanlis
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış şifre ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
 
 
+Üye Olma - Başarılı
+----------------
+Tags:Staging_UyeOlmaBasarili
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim ve Gel Al butonları var mı kontrol edilir
+
+
 Üye Olma - Başarılı - Email Checkbox
 ----------------
-Tags:regressionPreprod_UyeOlmaBasariliEmailCheckbox
+Tags:Staging_UyeOlmaBasariliEmailCheckbox
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -57,9 +78,9 @@ Tags:regressionPreprod_UyeOlmaBasariliEmailCheckbox
 
 Üye Olma - Başarılı - Sms Checkbox
 ----------------
-Tags:regressionPreprod_UyeOlmaBasariliSmsCheckbox
+Tags:Staging_UyeOlmaBasariliSmsCheckbox
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -70,9 +91,9 @@ Tags:regressionPreprod_UyeOlmaBasariliSmsCheckbox
 
 Üye Olma - Başarılı - Telefon Checkbox
 ----------------
-Tags:regressionPreprod_UyeOlmaBasariliTelefonCheckbox
+Tags:Staging_UyeOlmaBasariliTelefonCheckbox
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -83,9 +104,9 @@ Tags:regressionPreprod_UyeOlmaBasariliTelefonCheckbox
 
 Üye Olma - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------
-Tags:regressionPreprod_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
+Tags:Staging_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -96,9 +117,9 @@ Tags:regressionPreprod_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 
 Üye Olma - KVKK Kabul Edilmez ve Ye Kazan Kabul Edilir
 -----------------------------
-Tags:regressionPreprod_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
+Tags:Staging_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -109,13 +130,13 @@ Tags:regressionPreprod_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 
 Üye Olma - Sepetim Ekranında - KVKK ve Ye Kazan Kabul Edilir
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
+Tags:Staging_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar kategorisinin ilk pizzası seçilir
@@ -127,20 +148,20 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 * Mesafeli satış sözleşmesi onaylanır
 * Açık Rıza Metni ve Ye Kazan onaylanır, E-Posta seçilir
 * Üye Ol sayfasındaki Üye Ol butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
 Üye Olma - Sepetim Ekranında - KVKK Kabul Edilmez ve Ye Kazan Kabul Edilir
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
+Tags:Staging_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar kategorisinin ilk pizzası seçilir
@@ -152,20 +173,20 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdil
 * Mesafeli satış sözleşmesi onaylanır
 * Ye-Kazan onaylanır ve E-Posta seçilir
 * Üye Ol sayfasındaki Üye Ol butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
 Üye Olma - Sepetim Ekranında - Başarılı
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaBasarili
+Tags:Staging_UyeOlmaSepetimEkranindaBasarili
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar kategorisinin ilk pizzası seçilir
@@ -175,20 +196,20 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaBasarili
 * Sipariş adımındaki Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
 Üye Olma - Sepetim Ekranında - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
+Tags:Staging_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar kategorisinin ilk pizzası seçilir
@@ -200,58 +221,100 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilm
 * Mesafeli satış sözleşmesi onaylanır
 * Açık Rıza Metni onaylanır ve E-Posta seçilir
 * Üye Ol sayfasındaki Üye Ol butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
-Üye Adres Ekleme - Üye - Adreslerim Bölümünden
+Üye Adres Ekleme - Üye
 -----------------------
-Tags:regressionPreprod_UyeAdresEklemeUyeAdreslerimBolumunden
+Tags:Staging_UyeAdresEklemeUye
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Kalem ikonuna tıklanır
+* İl, ilçe, mahalle Düzenle butonuna tıklanır
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Tüm Pizzalar butonuna tıklanır
+* Cazip Pizzalar kategorisinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
+
+
+Üye Adres Ekleme - Üyeliksiz
+-----------------------
+Tags:Staging_UyeAdresEklemeUyeliksiz
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* Cazip Pizzalar kategorisinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+
+
+Üye Adres Ekleme - Üye - Adreslerim Bölümünden
+-----------------------
+Tags:Staging_UyeAdresEklemeUyeAdreslerimBolumunden
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 
 
 Üye Adres Ekleme - Üye - Kayıtlı Adresi Sil
 -----------------------
-Tags:regressionPreprod_UyeAdresEklemeUyeKayitliAdresiSil
+Tags:Staging_UyeAdresEklemeUyeKayitliAdresiSil
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni adresin eklendiği kontrol edilir
 * Eklenen adres silinir ve silindiği kontrol edilir
 
 
 Üye Adres Ekleme - Zorunlu Alan Kontrol
 -----------------------
-Tags:regressionPreprod_UyeAdresEklemeZorunluAlanKontrol
+Tags:Staging_UyeAdresEklemeZorunluAlanKontrol
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
@@ -259,21 +322,81 @@ Tags:regressionPreprod_UyeAdresEklemeZorunluAlanKontrol
 * Zorunlu alanlar kontrol edilir
 
 
-Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
-----------------------------------------
-Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
+Üye Adres Düzenleme - Kayıtlı Adresi Güncelle
+-----------------------
+Tags:Staging_AdresDuzenlemeKayitliAdresiGuncelle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Yeni Adres Ekle butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
+* Stg - Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
+
+
+Sepete Kampanya Ekleme - Gel Al - Kampanya
+----------------------------------------
+Tags:Staging_SepeteKampanyaEklemeGelAlKampanya
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Kampanyalar butonuna tıklanır
+* Gel Al Haftanın Kampanyaları butonuna tıklanır
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sepete eklenir
+* Sepetim butonuna tıklanır
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+
+
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
+------------------------------
+Tags:Staging_SepeteKampanyaEklemeAdreseTeslimKampanya
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya sepete eklenir
+* Sepetim butonuna tıklanır
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+
+
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
+----------------------------------------
+Tags:Staging_SepeteKampanyaEklemeAdreseTeslimKDuzenleampanya
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Kampanyalar butonuna tıklanır
+* Haftanın Kampanyaları sayfasına gidilir
+* 3 Al 1 Öde kampanyası seçilir
+* 3 Al 1 Öde kampanyası için sipariş seçilir
 * Birinci pizza için Düzenle butona tıklanır
 * Klasik Hamur seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
@@ -281,25 +404,63 @@ Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
 * Güncelle butona tıklanır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 
 
-Sepete Pizza Ekleme - Pizza Opsiyonel Seçimler
-----------------------------------------
-Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelSecimler
+Sepete Pizza Ekleme - Gel Al
+---------------------
+Tags:Staging_SepetePizzaEklemeGelAl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Pizza Ekleme - Adrese Teslim
+----------------------------
+Tags:Staging_SepetePizzaEklemeAdreseTeslim
+
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Pizza Ekleme - Pizza Opsiyonel Seçimler
+----------------------------------------
+Tags:Staging_SepetePizzaEklemePizzaOpsiyonelSecimler
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar butonuna tıklanır
-* Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* Stg - Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * Pizza boyutu Büyük seçilir
 * Kenar tipi Bol Sosis Klasik Kenar seçilir
+* Acılı İstiyorum seçeneği seçilir
 * Ekstra malzemelerden Küp Sucuk eklenir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
@@ -308,18 +469,18 @@ Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelSecimler
 
 Sepete Pizza Ekleme - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
-Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
+Tags:Staging_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar butonuna tıklanır
-* Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* Stg - Tüm Pizzalar sayfasından Dört Peynirli seçilir
 * Pizza boyutu Büyük seçilir
 * Pizzadan Domates çıkarılır
 * Domatesin üzerinin çizili olarak geldiği kontrol edilir
@@ -328,30 +489,133 @@ Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 * Sepette üzeri çizili malzemesi olan bir ürün olduğu kontrol edilir
 
 
+Sepete Yan Ürün Ekleme - Adrese Teslim - Var Olan Üye
+----------------------------------------
+Tags:Staging_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
+----------------------------------------
+Tags:Staging_SepeteYanUrunEklemeAdreseTeslimYeniUye
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
+----------------------------------------
+Tags:Staging_SepeteYanUrunEklemeAdreseTeslimUyeliksiz
+
+* Dominos - Staging ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
+----------------------------------------
+Tags:Staging_SepeteYanUrunEklemeGelAlVarOlanUye
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
+----------------------------------------
+Tags:Staging_SepeteYanUrunEklemeGelAlYeniUye
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
+----------------------------------------
+Tags:Staging_SepeteYanUrunEklemeGelAlUyeliksiz
+
+* Dominos - Staging ortamına gidilir
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
 Sepete Upcell Ekleme - Adrese Teslim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeAdreseTeslimAdresSecimi
+Tags:Staging_SepeteUpcellEklemeAdreseTeslimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Üye Olmadan
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeGelAlUyeOlmadan
+Tags:Staging_SepeteUpcellEklemeGelAlUyeOlmadan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -359,21 +623,46 @@ Tags:regressionPreprod_SepeteUpcellEklemeGelAlUyeOlmadan
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
+
+
+Sepete Upcell Ekleme - Gel Al - Yeni Üye
+-----------------------------------------------
+Tags:Staging_SepeteUpcellEklemeGelAlYeniUye
+
+* Dominos - Staging ortamına gidilir
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Sipariş adımındaki Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Var Olan Üye
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeGelAlVarOlanUye
+Tags:Staging_SepeteUpcellEklemeGelAlVarOlanUye
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -381,48 +670,49 @@ Tags:regressionPreprod_SepeteUpcellEklemeGelAlVarOlanUye
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Adrese Teslim
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
+Tags:Staging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
 
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
+Tags:Staging_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -430,20 +720,43 @@ Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepette bulunan ürünlerden Dürüm eklenir
+* Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
+
+
+Servis Tipi Seçimi - Adrese Teslim
+-----------------------------------------------
+Tags:Staging_ServisTipiSecimiAdreseTeslim
+
+* Dominos - Staging ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçili olduğundan emin olunur
+
+
+Servis Tipi Seçimi - Gel Al
+-----------------------------------------------
+Tags:Staging_ServisTipiSecimiGelAl
+
+* Dominos - Staging ortamına gidilir
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Gel Al servis tipi seçili olduğundan emin olunur
 
 
 Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
+Tags:Staging_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
@@ -452,11 +765,11 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAldanAdreseTeslimGecisi
+Tags:Staging_ServisTipiSecimiGelAldanAdreseTeslimGecisi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -466,11 +779,11 @@ Tags:regressionPreprod_ServisTipiSecimiGelAldanAdreseTeslimGecisi
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
+Tags:Staging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
@@ -483,11 +796,11 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipinin
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
+Tags:Staging_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -501,13 +814,13 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegisti
 
 Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegistirilememesi
+Tags:Staging_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
@@ -520,13 +833,13 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDe
 
 Servis Tipi Seçimi - Gel Al - Var Olan - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
+Tags:Staging_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -540,14 +853,14 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistiri
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
+Tags:Staging_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
@@ -560,14 +873,14 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDe
 
 Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
+Tags:Staging_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -581,11 +894,11 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistiri
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:Staging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
@@ -602,11 +915,11 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenSer
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:Staging_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -624,13 +937,13 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipi
 
 Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:Staging_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
@@ -647,13 +960,13 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenSe
 
 Servis Tipi Seçimi - Gel Al - Var Olan Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:Staging_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -671,14 +984,14 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTi
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:Staging_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
@@ -695,14 +1008,14 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServi
 
 Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:Staging_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -718,112 +1031,130 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipini
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 
 
-Adres Seçimi - Var Olan Üye - Gel Al - Manuel Adres Seçimi
+Adres Seçimi - Var Olan Üye - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
+Tags:Staging_AdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
-* Kalem ikonuna tıklanır
-* İl, İlçe, Mahalle Düzenle butonuna tıklanır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
-
-
-Adres Seçimi - Yeni Üye - Adrese Teslim - Manuel Adres Seçimi
------------------------------------------------
-Tags:regressionPreprod_AdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
-
-* Dominos - Preprod ortamına gidilir
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
-* İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
+
+
+Adres Seçimi - Var Olan Üye - Gel Al - Manuel Adres Seçimi
+-----------------------------------------------
+Tags:Staging_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Gel Al servis tipi seçili olduğundan emin olunur
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Kalem ikonuna tıklanır
+* İl, İlçe, Mahalle Düzenle butonuna tıklanır
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
+
+
+Adres Seçimi - Yeni Üye - Adrese Teslim - Manuel Adres Seçimi
+-----------------------------------------------
+Tags:Staging_AdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçili olduğundan emin olunur
+* Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
+* Kalem ikonuna tıklanır
+* İl, İlçe, Mahalle Düzenle butonuna tıklanır
+* Stg - İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
 
 
 Adres Seçimi - Yeni Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiYeniUyeGelAlManuelAdresSecimi
+Tags:Staging_AdresSecimiYeniUyeGelAlManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
+* Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
 
 
 Adres Seçimi - Üyeliksiz - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
+Tags:Staging_AdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
-* İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
 
 
 Adres Seçimi - Üyeliksiz - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiUyeliksizGelAlManuelAdresSecimi
+Tags:Staging_AdresSecimiUyeliksizGelAlManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
+* Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
 
 
 Adres Seçimi - Var Olan Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
+Tags:Staging_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
@@ -835,17 +1166,17 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
 Adres Seçimi - Var Olan Üye - Gel Al - Adreslerim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
+Tags:Staging_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Listelenen adreslerden Kadıköy adresi seçilir
@@ -855,38 +1186,84 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 Adres Seçimi - Yeni Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
+Tags:Staging_AdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Yeni Adres Ekle butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Yeni Adres Ekle butonuna tıklanır
-* Kadıköy adresi eklenir
+* Stg - Kadıköy adresi eklenir
 * Listelenen adreslerden Kadıköy adresi seçilir
 * Anasayfadaki adresin Kadıköy olduğu kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Nakit
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlNakit
+Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
+-----------------------------------------------
+Tags:Staging_AdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Gel Al servis tipi seçili olduğundan emin olunur
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Yeni Adres Ekle butonuna tıklanır
+* Stg - Kadıköy adresi eklenir
+* Listelenen adreslerden Kadıköy adresi seçilir
+* Anasayfadaki adresin Kadıköy olduğu kontrol edilir
+* Adrese Teslim servis tipi seçili olduğundan emin olunur
+
+
+Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Nakit
+----------------------------------------
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
+
+
+Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Nakit
+----------------------------------------
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlNakit
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -901,13 +1278,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlNakit
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -915,7 +1292,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
@@ -924,13 +1301,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlNakit
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -945,13 +1322,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -960,7 +1337,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
@@ -968,13 +1345,13 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlNakit
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -990,14 +1367,14 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlNakit
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1005,21 +1382,43 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
+
+
+Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Kredi Karti
+----------------------------------------
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlKrediKarti
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1027,7 +1426,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
@@ -1036,13 +1435,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1057,13 +1456,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1072,7 +1471,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
@@ -1080,13 +1479,13 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlKrediKarti
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1102,14 +1501,14 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1117,7 +1516,7 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
@@ -1125,14 +1524,14 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1147,13 +1546,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1161,7 +1560,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
@@ -1170,13 +1569,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1191,13 +1590,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1206,7 +1605,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
@@ -1214,13 +1613,13 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1236,14 +1635,14 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1251,7 +1650,7 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
@@ -1259,14 +1658,14 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1281,13 +1680,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1295,7 +1694,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
@@ -1304,13 +1703,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1325,13 +1724,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1340,7 +1739,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
@@ -1348,13 +1747,13 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1368,127 +1767,16 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SmartTicket Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
-
-* Dominos - Preprod ortamına gidilir
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Yeni Üye - Gel Al - SmartTicket Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketKart
-
-* Dominos - Preprod ortamına gidilir
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - SmartTicket Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
-* Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - SmartTicket Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-
-
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1496,7 +1784,7 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
@@ -1504,14 +1792,14 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1526,13 +1814,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1540,7 +1828,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
@@ -1549,13 +1837,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1570,13 +1858,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1585,7 +1873,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
@@ -1593,13 +1881,13 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1615,14 +1903,14 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1630,7 +1918,7 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
@@ -1638,14 +1926,14 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlMultinet
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1660,13 +1948,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlMultinet
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1674,22 +1962,43 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 * Test içerisinde eklenen adres silinir
 
 
+Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
+----------------------------------------
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlMultinet
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
+* Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
+
+
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1698,7 +2007,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
@@ -1706,13 +2015,13 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlMultinet
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1728,14 +2037,14 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlMultinet
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1743,7 +2052,7 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
@@ -1751,14 +2060,14 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSetCard
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1773,13 +2082,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSetCard
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1787,7 +2096,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
@@ -1796,13 +2105,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSetCard
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1815,15 +2124,38 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
+Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - SetCard
+----------------------------------------
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
+
+
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSetCard
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -1837,150 +2169,16 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSetCard
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
-Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Paye Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
-
-* Dominos - Preprod ortamına gidilir
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Paye Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlPayeKart
-
-* Dominos - Preprod ortamına gidilir
-* Üye Ol butonuna tıklanır
-* Random mail ve telefon ile üye olunur
-* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Paye Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
-
-
-Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Paye Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Paye Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
-* Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-
-
-Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Paye Kart
-----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlPayeKart
-
-* Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
-* Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
-* Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-
-
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
+Tags:Staging_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -1988,7 +2186,7 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
 * Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
@@ -1996,14 +2194,14 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
+Tags:Staging_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -2018,13 +2216,13 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
+Tags:Staging_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2032,7 +2230,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
 * Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
@@ -2041,13 +2239,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
+Tags:Staging_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -2062,13 +2260,13 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
+Tags:Staging_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2077,8 +2275,31 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
+* Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
+* Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
+
+
+Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Online Ödeme
+----------------------------------------
+Tags:Staging_OdemeTipiSecimiUyeliksizGelAlOnlineOdeme
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
@@ -2086,14 +2307,14 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
+Tags:Staging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2101,11 +2322,11 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
@@ -2113,13 +2334,13 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 
 Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
+Tags:Staging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2127,27 +2348,27 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
-* Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
 * Ye-Kazan pop up kapatılır
+* Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
 * Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
+Tags:Staging_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2156,11 +2377,11 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -2169,14 +2390,14 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasmayin
+Tags:Staging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasmayin
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2184,11 +2405,11 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBa
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
@@ -2196,13 +2417,13 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBa
 
 Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
+Tags:Staging_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2210,11 +2431,11 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
@@ -2224,13 +2445,13 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
+Tags:Staging_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2239,11 +2460,11 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -2252,14 +2473,14 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
+Tags:Staging_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2267,10 +2488,10 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Sipariş notu yazılır
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2279,14 +2500,14 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlNotEkleme
+Tags:Staging_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -2296,7 +2517,7 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Sipariş notu yazılır
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2305,13 +2526,13 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
+Tags:Staging_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2319,10 +2540,10 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Sipariş notu yazılır
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2331,15 +2552,40 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Test içerisinde eklenen adres silinir
 
 
+Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
+-----------------------------------------------
+Tags:Staging_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş notu yazılır
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+* Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
+
+
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
+Tags:Staging_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -2348,11 +2594,11 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -2361,13 +2607,13 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
 Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizGelAlNotEkleme
+Tags:Staging_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
@@ -2379,7 +2625,7 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -2388,14 +2634,14 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Var Olan Notu Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
+Tags:Staging_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
@@ -2408,10 +2654,10 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Sipariş notu seçilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2420,14 +2666,14 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
+Tags:Staging_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
@@ -2442,22 +2688,54 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Sipariş notu seçilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
 
 
+Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Var Olan Notu Ekleme
+-----------------------------------------------
+Tags:Staging_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Notlarım butonuna basılır
+* Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
+* Yeni not eklenir ve eklendiği kontrol edilir
+* Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş notu seçilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+* Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
+* Test içerisinde eklenen adres ve eklenen not silinir
+
+
 Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
+Tags:Staging_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
@@ -2472,7 +2750,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Şubenin Test Pulse olduğu kontrol edilir
 * Sipariş notu seçilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2481,15 +2759,80 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Test içerisinde eklenen not silinir
 
 
+Sipariş Verme - Kapı No Manuel
+----------------------------------------
+Tags:Staging_SiparisVermeKapiNoManuel
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Şubenin Test Pulse olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+
+
+Sipariş Verme - Kapı No Dropdown
+----------------------------------------
+Tags:Staging_SiparisVermeKapiNoDropdown
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Şubenin Test Pulse olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+
+
+Şube Atama - Var Olan Üye - Adrese Teslim - Yalnızca İl
+-----------------------------------------------
+Tags:Staging_SubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
+* Çerez Politikası kapatılır
+* Anasayfadaki adresin Adıyaman olduğu kontrol edilir
+
+
 Şube Atama - Var Olan Üye - Gel Al - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlYalnizcaIl
+Tags:Staging_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al için il Adıyaman seçilir
+* Stg - Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki Şubenin Adıyaman Şubesi olduğu kontrol edilir
@@ -2497,28 +2840,28 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
 Şube Atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
+Tags:Staging_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
+* Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adıyaman olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Gel Al - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeGelAlYalnizcaIl
+Tags:Staging_SubeAtamaYeniUyeGelAlYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al için il Adıyaman seçilir
+* Stg - Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki Şubenin Adıyaman Şubesi olduğu kontrol edilir
@@ -2526,22 +2869,22 @@ Tags:regressionPreprod_SubeAtamaYeniUyeGelAlYalnizcaIl
 
 Şube Atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
+Tags:Staging_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
+* Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adıyaman olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Gel Al - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizGelAlYalnizcaIl
+Tags:Staging_SubeAtamaUyeliksizGelAlYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al için il Adıyaman seçilir
+* Stg - Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki Şubenin Adıyaman Şubesi olduğu kontrol edilir
@@ -2549,213 +2892,253 @@ Tags:regressionPreprod_SubeAtamaUyeliksizGelAlYalnizcaIl
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlce
+Tags:Staging_SubeAtamaVarOlanUyeAdreseTeslimIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Erenler olduğu kontrol edilir
+
+
+Şube Atama - Var Olan Üye - Gel Al - İlçe
+-----------------------------------------------
+Tags:Staging_SubeAtamaVarOlanUyeGelAlIlce
+
+* Dominos - Staging ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Adrese Teslim - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlce
+Tags:Staging_SubeAtamaYeniUyeAdreseTeslimIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Erenler olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Gel Al - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeGelAlIlce
+Tags:Staging_SubeAtamaYeniUyeGelAlIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlce
+Tags:Staging_SubeAtamaUyeliksizAdreseTeslimIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
+* Stg - İl, ilçe Sakarya - Erenler seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
-* Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
+* Anasayfadaki adresin Sakarya - Erenler olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Gel Al - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizGelAlIlce
+Tags:Staging_SubeAtamaUyeliksizGelAlIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+* Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
+Tags:Staging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Gel Al - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
+Tags:Staging_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
+Tags:Staging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 
 
+Şube Atama - Yeni Üye - Gel Al - İl İlçe Mahalle
+-----------------------------------------------
+Tags:Staging_SubeAtamaYeniUyeGelAlIlIlceMahalle
+
+* Dominos - Staging ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+
+
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
+Tags:Staging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizGelAlIlIlceMahalle
+Tags:Staging_SubeAtamaUyeliksizGelAlIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
+Tags:Staging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
+* Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
+Tags:Staging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
+* Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
+* Çerez Politikası kapatılır
+* Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
+
+
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
+-----------------------------------------------
+Tags:Staging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
+
+* Dominos - Staging ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+Tags:Staging_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
-* Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
+* Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
+* Stg - Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+Tags:Staging_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
-* Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
+* Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
+* Stg - Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
+Tags:Staging_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
-* Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
+* Stg - İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
+* Stg - Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
 Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
+Tags:Staging_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2766,14 +3149,14 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
+Tags:Staging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2784,13 +3167,13 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
 Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmayı Onayla
 -----------------------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
+Tags:Staging_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2800,14 +3183,14 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla
 -----------------------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
+Tags:Staging_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2817,15 +3200,15 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
+Tags:Staging_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2835,15 +3218,15 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmayi Onayla - Giriş
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
+Tags:Staging_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2852,13 +3235,13 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
+Tags:Staging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2882,14 +3265,14 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2913,13 +3296,13 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBil
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmayı Onayla - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
+Tags:Staging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2937,14 +3320,14 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBi
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
@@ -2962,13 +3345,13 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
+Tags:Staging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -2984,14 +3367,14 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKaza
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -3007,13 +3390,13 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmayı Onayla - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
+Tags:Staging_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -3026,14 +3409,14 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -3046,15 +3429,15 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -3075,15 +3458,15 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyel
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -3098,15 +3481,15 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır
@@ -3121,15 +3504,15 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKa
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
+Tags:Staging_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Ye-Kazan butonuna tıklanır

@@ -1,12 +1,22 @@
-Preprod Regression
+Live Regression
 =====================
+
+     
+Üye Girişi - Başarılı
+----------------
+Tags:LiveUyeGirisiBasarili
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim ve Gel Al butonları var mı kontrol edilir
 
 
 Üye Girişi - Facebook
 ----------------
-Tags:regressionPreprod_UyeGirisiFacebook
+Tags:LiveUyeGirisiFacebook
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Facebook ile Giriş Yap butonuna tıklanır
 * Facebook sayfasına yönlendirildiği kontrol edilir
@@ -14,9 +24,9 @@ Tags:regressionPreprod_UyeGirisiFacebook
 
 Üye Girişi - Google
 ----------------
-Tags:regressionPreprod_UyeGirisiGoogle
+Tags:LiveUyeGirisiGoogle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Google ile Giriş Yap butonuna tıklanır
 * Google sayfasına yönlendirildiği kontrol edilir
@@ -24,9 +34,9 @@ Tags:regressionPreprod_UyeGirisiGoogle
 
 Üye Girişi - Başarısız - E-posta Yanlış
 ----------------
-Tags:regressionPreprod_UyeGirisiBasarisizEpostaYanlis
+Tags:LiveUyeGirisiBasarisizEpostaYanlis
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış e-posta ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
@@ -34,19 +44,30 @@ Tags:regressionPreprod_UyeGirisiBasarisizEpostaYanlis
 
 Üye Girişi - Başarısız - Şifre Yanlış
 ----------------
-Tags:regressionPreprod_UyeGirisiBasarisizSifreYanlis
+Tags:LiveUyeGirisiBasarisizSifreYanlis
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Yanlış şifre ile giriş yapmaya çalışılır
 * E-Posta veya Şifre Yanlış uyarısının alındığı kontrol edilir
 
 
+Üye Olma - Başarılı
+----------------
+Tags:LiveUyeOlmaBasarili
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim ve Gel Al butonları var mı kontrol edilir
+
+
 Üye Olma - Başarılı - Email Checkbox
 ----------------
-Tags:regressionPreprod_UyeOlmaBasariliEmailCheckbox
+Tags:LiveUyeOlmaBasariliEmailCheckbox
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -57,9 +78,9 @@ Tags:regressionPreprod_UyeOlmaBasariliEmailCheckbox
 
 Üye Olma - Başarılı - Sms Checkbox
 ----------------
-Tags:regressionPreprod_UyeOlmaBasariliSmsCheckbox
+Tags:LiveUyeOlmaBasariliSmsCheckbox
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -70,9 +91,9 @@ Tags:regressionPreprod_UyeOlmaBasariliSmsCheckbox
 
 Üye Olma - Başarılı - Telefon Checkbox
 ----------------
-Tags:regressionPreprod_UyeOlmaBasariliTelefonCheckbox
+Tags:LiveUyeOlmaBasariliTelefonCheckbox
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -83,9 +104,9 @@ Tags:regressionPreprod_UyeOlmaBasariliTelefonCheckbox
 
 Üye Olma - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------
-Tags:regressionPreprod_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
+Tags:LiveUyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -96,9 +117,9 @@ Tags:regressionPreprod_UyeOlmaKVKKKabulEdilirveYeKazanKabulEdilmez
 
 Üye Olma - KVKK Kabul Edilmez ve Ye Kazan Kabul Edilir
 -----------------------------
-Tags:regressionPreprod_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
+Tags:LiveUyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır
@@ -109,9 +130,9 @@ Tags:regressionPreprod_UyeOlmaKVKKKabulEdilmezveYeKazanKabulEdilir
 
 Üye Olma - Sepetim Ekranında - KVKK ve Ye Kazan Kabul Edilir
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
+Tags:LiveUyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -134,9 +155,9 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 
 Üye Olma - Sepetim Ekranında - KVKK Kabul Edilmez ve Ye Kazan Kabul Edilir
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
+Tags:LiveUyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -159,9 +180,9 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdil
 
 Üye Olma - Sepetim Ekranında - Başarılı
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaBasarili
+Tags:LiveUyeOlmaSepetimEkranindaBasarili
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -182,9 +203,9 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaBasarili
 
 Üye Olma - Sepetim Ekranında - KVKK Kabul Edilir ve Ye Kazan Kabul Edilmez
 -----------------------------------------
-Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
+Tags:LiveUyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -205,11 +226,53 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilm
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
+Üye Adres Ekleme - Üye
+-----------------------
+Tags:LiveUyeAdresEklemeUye
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
+* Çerez Politikası kapatılır
+* Kalem ikonuna tıklanır
+* İl, ilçe, mahalle Düzenle butonuna tıklanır
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Tüm Pizzalar butonuna tıklanır
+* Cazip Pizzalar kategorisinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
+
+
+Üye Adres Ekleme - Üyeliksiz
+-----------------------
+Tags:LiveUyeAdresEklemeUyeliksiz
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* Cazip Pizzalar kategorisinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+
+
 Üye Adres Ekleme - Üye - Adreslerim Bölümünden
 -----------------------
-Tags:regressionPreprod_UyeAdresEklemeUyeAdreslerimBolumunden
+Tags:LiveUyeAdresEklemeUyeAdreslerimBolumunden
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -225,9 +288,9 @@ Tags:regressionPreprod_UyeAdresEklemeUyeAdreslerimBolumunden
 
 Üye Adres Ekleme - Üye - Kayıtlı Adresi Sil
 -----------------------
-Tags:regressionPreprod_UyeAdresEklemeUyeKayitliAdresiSil
+Tags:LiveUyeAdresEklemeUyeKayitliAdresiSil
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -244,9 +307,9 @@ Tags:regressionPreprod_UyeAdresEklemeUyeKayitliAdresiSil
 
 Üye Adres Ekleme - Zorunlu Alan Kontrol
 -----------------------
-Tags:regressionPreprod_UyeAdresEklemeZorunluAlanKontrol
+Tags:LiveUyeAdresEklemeZorunluAlanKontrol
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -259,11 +322,70 @@ Tags:regressionPreprod_UyeAdresEklemeZorunluAlanKontrol
 * Zorunlu alanlar kontrol edilir
 
 
+Üye Adres Düzenleme - Kayıtlı Adresi Güncelle
+-----------------------
+Tags:LiveAdresDuzenlemeKayitliAdresiGuncelle
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Yeni Adres Ekle butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
+* Yeni adresin eklendiği kontrol edilir
+* Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
+
+
+Sepete Kampanya Ekleme - Gel Al - Kampanya
+----------------------------------------
+Tags:LiveSepeteKampanyaEklemeGelAlKampanya
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Kampanyalar butonuna tıklanır
+* Gel Al Haftanın Kampanyaları butonuna tıklanır
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Kampanya sepete eklenir
+* Sepetim butonuna tıklanır
+* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+
+
+Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
+------------------------------
+Tags:LiveSepeteKampanyaEklemeAdreseTeslimKampanya
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Kampanyalar butonuna tıklanır
+* Haftanın Kampanyaları sayfasına gidilir
+* Büyük Boy Pizzalar kampanyası seçilir
+* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* Kampanya sepete eklenir
+* Sepetim butonuna tıklanır
+* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+
+
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
 ----------------------------------------
-Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
+Tags:LiveSepeteKampanyaEklemeKampanyaDuzenle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -284,11 +406,48 @@ Tags:regressionPreprod_SepeteKampanyaEklemeKampanyaDuzenle
 * Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
 
 
+Sepete Pizza Ekleme - Gel Al
+---------------------
+Tags:LiveSepetePizzaEklemeGelAl
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Pizza Ekleme - Adrese Teslim
+----------------------------
+Tags:LiveSepetePizzaEklemeAdreseTeslim
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
 Sepete Pizza Ekleme - Pizza Opsiyonel Seçimler
 ----------------------------------------
-Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelSecimler
+Tags:LiveSepetePizzaEklemePizzaOpsiyonelSecimler
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -308,9 +467,9 @@ Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelSecimler
 
 Sepete Pizza Ekleme - Pizza Opsiyonel - Malzeme Çıkarma
 ----------------------------------------
-Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
+Tags:LiveSepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -328,11 +487,114 @@ Tags:regressionPreprod_SepetePizzaEklemePizzaOpsiyonelMalzemeCikarma
 * Sepette üzeri çizili malzemesi olan bir ürün olduğu kontrol edilir
 
 
+Sepete Yan Ürün Ekleme - Adrese Teslim - Var Olan Üye
+----------------------------------------
+Tags:LiveSepeteYanUrunEklemeAdreseTeslimVarOlanUye
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
+----------------------------------------
+Tags:LiveSepeteYanUrunEklemeAdreseTeslimYeniUye
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
+----------------------------------------
+Tags:LiveSepeteYanUrunEklemeAdreseTeslimUyeliksiz
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
+----------------------------------------
+Tags:LiveSepeteYanUrunEklemeGelAlVarOlanUye
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
+----------------------------------------
+Tags:LiveSepeteYanUrunEklemeGelAlYeniUye
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
+Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
+----------------------------------------
+Tags:LiveSepeteYanUrunEklemeGelAlUyeliksiz
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+
+
 Sepete Upcell Ekleme - Adrese Teslim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeAdreseTeslimAdresSecimi
+Tags:LiveSepeteUpcellEklemeAdreseTeslimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -347,9 +609,9 @@ Tags:regressionPreprod_SepeteUpcellEklemeAdreseTeslimAdresSecimi
 
 Sepete Upcell Ekleme - Gel Al - Üye Olmadan
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeGelAlUyeOlmadan
+Tags:LiveSepeteUpcellEklemeGelAlUyeOlmadan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -367,11 +629,36 @@ Tags:regressionPreprod_SepeteUpcellEklemeGelAlUyeOlmadan
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
 
+Sepete Upcell Ekleme - Gel Al - Yeni Üye
+-----------------------------------------------
+Tags:LiveSepeteUpcellEklemeGelAlYeniUye
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sepette bulunan ürünlerden sufle eklenir
+* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Sipariş adımındaki Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+
+
 Sepete Upcell Ekleme - Gel Al - Var Olan Üye
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeGelAlVarOlanUye
+Tags:LiveSepeteUpcellEklemeGelAlVarOlanUye
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -392,9 +679,9 @@ Tags:regressionPreprod_SepeteUpcellEklemeGelAlVarOlanUye
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Adrese Teslim
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
+Tags:LiveSepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -412,13 +699,15 @@ Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Ye-Kazan pop up kapatılır
+* Test içerisinde eklenen adres silinir
 
 
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
 -----------------------------------------------
-Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
+Tags:LiveSepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -437,11 +726,34 @@ Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
 
+Servis Tipi Seçimi - Adrese Teslim
+-----------------------------------------------
+Tags:LiveServisTipiSecimiAdreseTeslim
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçili olduğundan emin olunur
+
+
+Servis Tipi Seçimi - Gel Al
+-----------------------------------------------
+Tags:LiveServisTipiSecimiGelAl
+
+* Dominos - Live ortamına gidilir
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Gel Al servis tipi seçili olduğundan emin olunur
+
+
 Servis Tipi Seçimi - Adrese Teslimden Gel Al Geçişi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
+Tags:LiveServisTipiSecimiAdreseTeslimdenGelAlGecisi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -452,9 +764,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimdenGelAlGecisi
 
 Servis Tipi Seçimi - Gel Aldan Adrese Teslim Geçişi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAldanAdreseTeslimGecisi
+Tags:LiveServisTipiSecimiGelAldanAdreseTeslimGecisi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -466,9 +778,9 @@ Tags:regressionPreprod_ServisTipiSecimiGelAldanAdreseTeslimGecisi
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
+Tags:LiveServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -483,9 +795,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipinin
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
+Tags:LiveServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -501,9 +813,9 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegisti
 
 Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegistirilememesi
+Tags:LiveServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -520,9 +832,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDe
 
 Servis Tipi Seçimi - Gel Al - Var Olan - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
+Tags:LiveServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -540,9 +852,9 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistiri
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
+Tags:LiveServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -560,9 +872,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDe
 
 Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
+Tags:LiveServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilememesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -581,9 +893,9 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistiri
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:LiveServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -602,9 +914,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenSer
 
 Servis Tipi Seçimi - Gel Al - Üyeliksiz - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:LiveServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -624,9 +936,9 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipi
 
 Servis Tipi Seçimi - Adrese Teslim - Var Olan Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:LiveServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -647,9 +959,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenSe
 
 Servis Tipi Seçimi - Gel Al - Var Olan Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:LiveServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -671,9 +983,9 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTi
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:LiveServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -695,9 +1007,9 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServi
 
 Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
-Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
+Tags:LiveServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -718,11 +1030,29 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipini
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 
 
+Adres Seçimi - Var Olan Üye - Adrese Teslim - Manuel Adres Seçimi
+-----------------------------------------------
+Tags:LiveAdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçili olduğundan emin olunur
+* Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
+* Kalem ikonuna tıklanır
+* İl, İlçe, Mahalle Düzenle butonuna tıklanır
+* İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
+* Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
+
+
 Adres Seçimi - Var Olan Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
+Tags:LiveAdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -740,9 +1070,9 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
 Adres Seçimi - Yeni Üye - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
+Tags:LiveAdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -759,9 +1089,9 @@ Tags:regressionPreprod_AdresSecimiYeniUyeAdresTeslimManuelAdresSecimi
 
 Adres Seçimi - Yeni Üye - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiYeniUyeGelAlManuelAdresSecimi
+Tags:LiveAdresSecimiYeniUyeGelAlManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -780,9 +1110,9 @@ Tags:regressionPreprod_AdresSecimiYeniUyeGelAlManuelAdresSecimi
 
 Adres Seçimi - Üyeliksiz - Adrese Teslim - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
+Tags:LiveAdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -796,9 +1126,9 @@ Tags:regressionPreprod_AdresSecimiUyeliksizAdresTeslimManuelAdresSecimi
 
 Adres Seçimi - Üyeliksiz - Gel Al - Manuel Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiUyeliksizGelAlManuelAdresSecimi
+Tags:LiveAdresSecimiUyeliksizGelAlManuelAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -817,9 +1147,9 @@ Tags:regressionPreprod_AdresSecimiUyeliksizGelAlManuelAdresSecimi
 
 Adres Seçimi - Var Olan Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
+Tags:LiveAdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -835,9 +1165,9 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
 Adres Seçimi - Var Olan Üye - Gel Al - Adreslerim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
+Tags:LiveAdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -855,9 +1185,9 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 Adres Seçimi - Yeni Üye - Adrese Teslim - Adreslerim - Adres Seçimi
 -----------------------------------------------
-Tags:regressionPreprod_AdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
+Tags:LiveAdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -877,11 +1207,57 @@ Tags:regressionPreprod_AdresSecimiYeniUyeAdreseTeslimAdreslerimAdresSecimi
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 
 
+Adres Seçimi - Yeni Üye - Gel Al - Adreslerim - Adres Seçimi
+-----------------------------------------------
+Tags:LiveAdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Gel Al servis tipi seçili olduğundan emin olunur
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+* Hamburger menüye tıklanır
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Yeni Adres Ekle butonuna tıklanır
+* Kadıköy adresi eklenir
+* Listelenen adreslerden Kadıköy adresi seçilir
+* Anasayfadaki adresin Kadıköy olduğu kontrol edilir
+* Adrese Teslim servis tipi seçili olduğundan emin olunur
+
+
+Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Nakit
+----------------------------------------
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimNakit
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
+
+
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlNakit
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -901,9 +1277,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlNakit
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -924,9 +1300,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlNakit
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -945,9 +1321,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -968,9 +1344,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Nakit
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlNakit
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlNakit
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -990,9 +1366,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlNakit
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1011,11 +1387,33 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
+Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Kredi Karti
+----------------------------------------
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlKrediKarti
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
+
+
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1036,9 +1434,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1057,9 +1455,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1080,9 +1478,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Kredi Kartı
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlKrediKarti
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlKrediKarti
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1102,9 +1500,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1125,9 +1523,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1147,9 +1545,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1170,9 +1568,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1191,9 +1589,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1214,9 +1612,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Smart Sodexo Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1236,9 +1634,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1259,9 +1657,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1281,9 +1679,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1304,9 +1702,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1325,9 +1723,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1348,9 +1746,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1370,9 +1768,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SmartTicket Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1393,9 +1791,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - SmartTicket Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketKart
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlSmartTicketKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1413,11 +1811,34 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketKart
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
 
 
+Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - SmartTicket Kart
+----------------------------------------
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
+* Test içerisinde eklenen adres silinir
+
+
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1436,9 +1857,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - SmartTicket Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1459,9 +1880,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - SmartTicket Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlSmartTicketKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1481,9 +1902,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1504,9 +1925,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1526,9 +1947,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1549,9 +1970,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1570,9 +1991,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1593,9 +2014,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - SmartTicket Yemek Çeki
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1615,9 +2036,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1638,9 +2059,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlMultinet
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1660,9 +2081,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlMultinet
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1681,11 +2102,32 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Test içerisinde eklenen adres silinir
 
 
+Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
+----------------------------------------
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlMultinet
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
+* Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
+
+
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1706,9 +2148,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Multinet
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlMultinet
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlMultinet
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1728,9 +2170,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlMultinet
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1751,9 +2193,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSetCard
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1773,9 +2215,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlSetCard
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1796,9 +2238,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSetCard
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1815,11 +2257,34 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
+Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - SetCard
+----------------------------------------
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimSetCard
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
+
+
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - SetCard
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSetCard
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlSetCard
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1839,9 +2304,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSetCard
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Paye Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1862,9 +2327,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Paye Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlPayeKart
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlPayeKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1884,9 +2349,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlPayeKart
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Paye Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -1907,9 +2372,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Paye Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlPayeKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -1928,9 +2393,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Paye Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -1951,9 +2416,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Paye Kart
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlPayeKart
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlPayeKart
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1973,9 +2438,9 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlPayeKart
 
 Ödeme Tipi Seçimi - Yeni Üye - Adrese Teslim - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
+Tags:LiveOdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -1996,9 +2461,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
+Tags:LiveOdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2018,9 +2483,9 @@ Tags:regressionPreprod_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
+Tags:LiveOdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2041,9 +2506,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
+Tags:LiveOdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2062,9 +2527,9 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Online Ödeme
 ----------------------------------------
-Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
+Tags:LiveOdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2084,11 +2549,34 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
 
 
+Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Online Ödeme
+----------------------------------------
+Tags:LiveOdemeTipiSecimiUyeliksizGelAlOnlineOdeme
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Üye Olmadan Devam Et butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
+* Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
+* Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
+
+
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
+Tags:LiveSiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2113,9 +2601,9 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 
 Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
+Tags:LiveSiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2141,9 +2629,9 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
+Tags:LiveSiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2169,9 +2657,9 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasmayin
+Tags:LiveSiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasmayin
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2196,9 +2684,9 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBa
 
 Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
+Tags:LiveSiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2224,9 +2712,9 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
+Tags:LiveSiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2252,9 +2740,9 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
+Tags:LiveSiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2279,9 +2767,9 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlNotEkleme
+Tags:LiveSiparisNotuEklemeYeniUyeGelAlNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2305,9 +2793,9 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 
 Sipariş Notu Ekleme - Varolan Üye - Adrese Teslim - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
+Tags:LiveSiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2331,11 +2819,36 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Test içerisinde eklenen adres silinir
 
 
+Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
+-----------------------------------------------
+Tags:LiveSiparisNotuEklemeVarOlanUyeGelAlNotEkleme
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Sipariş notu yazılır
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+* Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
+
+
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
+Tags:LiveSiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
@@ -2361,9 +2874,9 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 
 Sipariş Notu Ekleme - Üyeliksiz - Gel Al - Not Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeUyeliksizGelAlNotEkleme
+Tags:LiveSiparisNotuEklemeUyeliksizGelAlNotEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -2388,9 +2901,9 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 
 Sipariş Notu Ekleme - Yeni Üye - Adrese Teslim - Var Olan Notu Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
+Tags:LiveSiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2420,9 +2933,9 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 
 Sipariş Notu Ekleme - Yeni Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
+Tags:LiveSiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2449,11 +2962,43 @@ Tags:regressionPreprod_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
 
 
+Sipariş Notu Ekleme - Var Olan Üye - Adrese Teslim - Var Olan Notu Ekleme
+-----------------------------------------------
+Tags:LiveSiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Notlarım butonuna basılır
+* Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
+* Yeni not eklenir ve eklendiği kontrol edilir
+* Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
+* Tüm Pizzalar butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Sepete Ekle butonuna tıklanır
+* Sepetim butonuna tıklanır
+* Sepette bir ürün olduğu kontrol edilir
+* Sipariş Ver butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Sipariş notu seçilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+* Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
+* Test içerisinde eklenen adres ve eklenen not silinir
+
+
 Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
 -----------------------------------------------
-Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
+Tags:LiveSiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2481,11 +3026,76 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Test içerisinde eklenen not silinir
 
 
+Sipariş Verme - Kapı No Manuel
+----------------------------------------
+Tags:LiveSiparisVermeKapiNoManuel
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+
+
+Sipariş Verme - Kapı No Dropdown
+----------------------------------------
+Tags:LiveSiparisVermeKapiNoDropdown
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Adrese Teslim servis tipi seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Çerez Politikası kapatılır
+* Ekstralar ve İçecekler butonuna tıklanır
+* İçecekler sayfasına gidilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* İçecekler kategorisinden Coca-Cola seçilir
+* Sepetim butonuna tıklanır
+* Sipariş Ver butonuna tıklanır
+* Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Siparişin alındığından emin olunur
+
+
+Şube Atama - Var Olan Üye - Adrese Teslim - Yalnızca İl
+-----------------------------------------------
+Tags:regressionLiveSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
+* İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
+* Çerez Politikası kapatılır
+* Anasayfadaki adresin Adıyaman olduğu kontrol edilir
+
+
 Şube Atama - Var Olan Üye - Gel Al - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlYalnizcaIl
+Tags:LiveSubeAtamaVarOlanUyeGelAlYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2497,9 +3107,9 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
 Şube Atama - Yeni Üye - Adrese Teslim - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
+Tags:LiveSubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2511,9 +3121,9 @@ Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimYalnizcaIl
 
 Şube Atama - Yeni Üye - Gel Al - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeGelAlYalnizcaIl
+Tags:LiveSubeAtamaYeniUyeGelAlYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2526,9 +3136,9 @@ Tags:regressionPreprod_SubeAtamaYeniUyeGelAlYalnizcaIl
 
 Şube Atama - Üyeliksiz - Adrese Teslim - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
+Tags:LiveSubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -2537,9 +3147,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimYalnizcaIl
 
 Şube Atama - Üyeliksiz - Gel Al - Yalnızca İl
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizGelAlYalnizcaIl
+Tags:LiveSubeAtamaUyeliksizGelAlYalnizcaIl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2549,9 +3159,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizGelAlYalnizcaIl
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlce
+Tags:LiveSubeAtamaVarOlanUyeAdreseTeslimIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2560,11 +3170,25 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlce
 * Anasayfadaki adresin Düzce - Akçakoca olduğu kontrol edilir
 
 
+Şube Atama - Var Olan Üye - Gel Al - İlçe
+-----------------------------------------------
+Tags:LiveSubeAtamaVarOlanUyeGelAlIlce
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Gel Al için il, ilçe Düzce - Akçakoca seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Anasayfadaki Şubenin Akçakoca Şubesi olduğu kontrol edilir
+
+
 Şube Atama - Yeni Üye - Adrese Teslim - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlce
+Tags:LiveSubeAtamaYeniUyeAdreseTeslimIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2576,9 +3200,9 @@ Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlce
 
 Şube Atama - Yeni Üye - Gel Al - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeGelAlIlce
+Tags:LiveSubeAtamaYeniUyeGelAlIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2591,9 +3215,9 @@ Tags:regressionPreprod_SubeAtamaYeniUyeGelAlIlce
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlce
+Tags:LiveSubeAtamaUyeliksizAdreseTeslimIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -2602,9 +3226,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlce
 
 Şube Atama - Üyeliksiz - Gel Al - İlçe
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizGelAlIlce
+Tags:LiveSubeAtamaUyeliksizGelAlIlce
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al için il, ilçe Düzce - Akçakoca seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2614,9 +3238,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizGelAlIlce
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
+Tags:LiveSubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2627,9 +3251,9 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
 Şube Atama - Var Olan Üye - Gel Al - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
+Tags:LiveSubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
@@ -2641,9 +3265,9 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
+Tags:LiveSubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2653,11 +3277,26 @@ Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalle
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 
 
+Şube Atama - Yeni Üye - Gel Al - İl İlçe Mahalle
+-----------------------------------------------
+Tags:LiveSubeAtamaYeniUyeGelAlIlIlceMahalle
+
+* Dominos - Live ortamına gidilir
+* Üye Ol butonuna tıklanır
+* Random mail ve telefon ile üye olunur
+* Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
+
+
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
+Tags:LiveSubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2666,9 +3305,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalle
 
 Şube Atama - Üyeliksiz - Gel Al - İl İlçe Mahalle
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizGelAlIlIlceMahalle
+Tags:LiveSubeAtamaUyeliksizGelAlIlIlceMahalle
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2678,9 +3317,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizGelAlIlIlceMahalle
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
+Tags:LiveSubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2691,9 +3330,9 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
+Tags:LiveSubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2703,11 +3342,22 @@ Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokak
 * Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
 
 
+Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak
+-----------------------------------------------
+Tags:LiveSubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokak
+
+* Dominos - Live ortamına gidilir
+* Adrese Teslim servis tipi seçilir
+* İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
+* Çerez Politikası kapatılır
+* Anasayfadaki adresin İstanbul Beşiktaş Etiler Mh. olduğu kontrol edilir
+
+
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+Tags:LiveSubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2719,9 +3369,9 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
+Tags:LiveSubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2734,9 +3384,9 @@ Tags:regressionPreprod_SubeAtamaYeniUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak Kapı No
 -----------------------------------------------
-Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
+Tags:LiveSubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2749,9 +3399,9 @@ Tags:regressionPreprod_SubeAtamaUyeliksizAdreseTeslimIlIlceMahalleSokakKapiNo
 
 Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
+Tags:LiveUyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2766,9 +3416,9 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
+Tags:LiveUyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2784,9 +3434,9 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgec
 
 Üye KVKK İzni Güncelleme - Var Olan Üye - Ayrılmayı Onayla
 -----------------------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
+Tags:LiveUyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2800,9 +3450,9 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla
 -----------------------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
+Tags:LiveUyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2817,9 +3467,9 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnayla
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
+Tags:LiveUyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -2835,9 +3485,9 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmaktanVazgecGiris
 
 Üye KVKK İzni Güncelleme - Yeni Üye - Ayrılmayi Onayla - Giriş
 -----------------------------------------------
-Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
+Tags:LiveUyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * KVKK onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -2852,9 +3502,9 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeYeniUyeAyrilmayiOnaylaGiris
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
+Tags:LiveUyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2882,9 +3532,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2913,9 +3563,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecUyelikBil
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmayı Onayla - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
+Tags:LiveUyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2937,9 +3587,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBi
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -2962,9 +3612,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaUyelikBilgi
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmaktan Vazgeç - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
+Tags:LiveUyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -2984,9 +3634,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKaza
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3007,9 +3657,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecYeKazan
 
 Üye Ye Kazan İzni Güncelleme - Var Olan Üye - Ayrılmayı Onayla - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
+Tags:LiveUyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
@@ -3026,9 +3676,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -3046,9 +3696,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaYeKazan
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3075,9 +3725,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisUyel
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş - Üyelik Bilgilerim
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelikBilgilerim
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3098,9 +3748,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisUyelik
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmaktan Vazgeç - Giriş - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
@@ -3121,9 +3771,9 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmaktanVazgecGirisYeKa
 
 Üye Ye Kazan İzni Güncelleme - Yeni Üye - Ayrılmayı Onayla - Giriş - Ye Kazan
 -----------------------------------------------
-Tags:regressionPreprod_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
+Tags:LiveUyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Ye-Kazan onaylanır ve E-Posta, Sms, Telefon seçilir
