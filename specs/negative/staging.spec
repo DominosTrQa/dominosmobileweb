@@ -2,10 +2,9 @@ Negative Staging
 =====================
 
 
-     
 Üye Girişi - Başarısız - E-posta Yanlış
 ----------------
-Tags:regressionStaging_UyeGirisiBasarisizEpostaYanlis
+Tags:negativeStaging_UyeGirisiBasarisizEpostaYanlis
 
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
@@ -15,7 +14,7 @@ Tags:regressionStaging_UyeGirisiBasarisizEpostaYanlis
 
 Üye Girişi - Başarısız - Şifre Yanlış
 ----------------
-Tags:regressionStaging_UyeGirisiBasarisizSifreYanlis
+Tags:negativeStaging_UyeGirisiBasarisizSifreYanlis
 
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
@@ -25,7 +24,7 @@ Tags:regressionStaging_UyeGirisiBasarisizSifreYanlis
 
 Servis Tipi Seçimi - Adrese Teslim - Üyeliksiz - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionStaging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
+Tags:negativeStaging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDegistirilememesi
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
@@ -42,7 +41,7 @@ Tags:regressionStaging_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipinin
 
 Servis Tipi Seçimi - Gel Al - Var Olan - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionStaging_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
+Tags:negativeStaging_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilememesi
 
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
@@ -62,7 +61,7 @@ Tags:regressionStaging_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistiri
 
 Servis Tipi Seçimi - Adrese Teslim - Yeni Üye - Sepette Servis Tipinin Değiştirilememesi
 -----------------------------------------------
-Tags:regressionStaging_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
+Tags:negativeStaging_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegistirilememesi
 
 * Dominos - Staging ortamına gidilir
 * Üye Ol butonuna tıklanır
