@@ -63,8 +63,8 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Listelenen adreslerden test adresi seçilir
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
@@ -135,8 +135,8 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Listelenen adreslerden test adresi seçilir
 * Teslimat tipi tabına tıklanır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -166,7 +166,8 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Servis tipi Adrese Teslim olarak değiştirilir
+* Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
 * Listelenen adreslerden test adresi seçilir
@@ -192,7 +193,7 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
-* Servis tipi Gel Al olarak değiştirilir
+* Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
