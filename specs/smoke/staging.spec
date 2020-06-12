@@ -63,8 +63,8 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Listelenen adreslerden test adresi seçilir
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
@@ -135,8 +135,8 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Listelenen adreslerden test adresi seçilir
 * Teslimat tipi tabına tıklanır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -167,7 +167,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
 * Listelenen adreslerden test adresi seçilir
