@@ -45,10 +45,10 @@ public class BaseTest {
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.CHROME);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM, Platform.ANDROID);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
-                capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Galaxy A30");
+                capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "G5");
                 //capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 //capabilities.setCapability(MobileCapabilityType.UDID, "R58M40CLP8A");
-                capabilities.setCapability(MobileCapabilityType.VERSION, "9.0");
+                capabilities.setCapability(MobileCapabilityType.VERSION, "7.0");
 
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
