@@ -45,6 +45,36 @@
     "type": "xpath"
   },
   {
+    "key": "kampanyalarSecinizBirinciDropdown",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSecinizIkinciDropdown",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSecinizUcuncuDropdown",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarIlkUrunIlkPizza",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_M_ITEM4']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarIkıncıUrunIlkPizza",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_M_ITEM4']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarUcuncuUrunIlkPizza",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2_M_ITEM4']",
+    "type": "xpath"
+  },
+  {
     "key": "sepetBuyukBoyPizzalarGelAlKontrolText",
     "value":"(//*[contains(text(),'Büyük Boy Pizzalar - Gel Al')])[1]",
     "type": "xpath"
