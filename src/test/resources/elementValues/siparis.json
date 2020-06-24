@@ -20,6 +20,11 @@
     "type": "xpath"
   },
   {
+    "key": "odemeSekliButonYeniNakit",
+    "value":"//*[@id='DPE_TR_PAYMENT_3_BUTTON']",
+    "type": "xpath"
+  },
+  {
     "key": "odemeSekliNakitButon",
     "value":"(//div[contains(text(),'Nakit')])[1]",
     "type": "xpath"

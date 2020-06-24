@@ -43,13 +43,13 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
+* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -84,7 +84,7 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -115,13 +115,13 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
+* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -143,13 +143,13 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
+* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -179,7 +179,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -198,14 +198,14 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
+* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
@@ -236,7 +236,7 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir

@@ -11,7 +11,7 @@
   },
   {
     "key": "kampanyalarDilediginOrtaboyGelAlButon",
-    "value":"(//div[contains(text(),'Dilediğin Orta Boy')])[1]",
+    "value":"(//div[contains(text(),'Orta Boy Pizzalar - Gel Al')])[1]",
     "type": "xpath"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "key": "sepetdilediginOrtaBoyPizzaGelAlKontrolText",
-    "value":"(//*[contains(text(),'Dilediğin Orta Boy Pizza - Gel Al')])[1]",
+    "value":"(//*[contains(text(),'Orta Boy Pizzalar - Gel Al')])[1]",
     "type": "xpath"
   },
   {
