@@ -15,6 +15,11 @@
     "type": "xpath"
   },
   {
+    "key": "odemeSekliButonYeniKrediKarti",
+    "value":"//*[@id='DPE_TR_PAYMENT_2_BUTTON']",
+    "type": "xpath"
+  },
+  {
     "key": "odemeSekliNakitButon",
     "value":"(//div[contains(text(),'Nakit')])[1]",
     "type": "xpath"
@@ -72,6 +77,11 @@
   {
     "key": "odemeSekliDevamButon",
     "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-M']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliDevamYeniButon",
+    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-D']",
     "type": "xpath"
   },
   {

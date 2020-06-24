@@ -23,7 +23,7 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
