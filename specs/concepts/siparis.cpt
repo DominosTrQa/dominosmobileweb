@@ -13,10 +13,15 @@
 * Elementi bekle ve sonra tıkla "odemeSekliButon1"
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
+# Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliButonYeniNakit"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
 # Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliButonYeniKrediKarti"
-* Elementi bekle ve sonra tıkla "odemeSekliDevamYeniButon"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
 # Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * "siparisMesafeliSatisSozlesmesi" alanına js ile kaydır
