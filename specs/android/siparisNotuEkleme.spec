@@ -75,7 +75,7 @@ Tags:siparisNotuEkleme_UyeliksizAdreseTeslimTemassizTeslimat
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
@@ -157,7 +157,7 @@ Tags:siparisNotuEkleme_UyeliksizAdreseTeslimLutfenZileBasmayin
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
@@ -292,7 +292,7 @@ Tags:siparisNotuEkleme_UyeliksizAdreseTeslimNotEkleme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
@@ -318,7 +318,7 @@ Tags:siparisNotuEkleme_UyeliksizGelAlNotEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir

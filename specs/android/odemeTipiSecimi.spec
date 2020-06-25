@@ -104,7 +104,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimNakit
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 
 
@@ -125,7 +125,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlNakit
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 
 
@@ -231,7 +231,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimKrediKarti
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
@@ -252,7 +252,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlKrediKarti
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
@@ -358,7 +358,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSmartSodexoKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -379,7 +379,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSmartSodexoKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -485,7 +485,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSodexoYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -506,7 +506,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSodexoYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -612,7 +612,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSmartTicketKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -633,7 +633,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSmartTicketKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -739,7 +739,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSmartTicketYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -760,7 +760,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSmartTicketYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -866,7 +866,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimMultinet
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 
 
@@ -887,7 +887,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlMultinet
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 
 
@@ -993,7 +993,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimSetCard
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
@@ -1014,7 +1014,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlSetCard
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
@@ -1120,7 +1120,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimPayeKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
+* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1141,7 +1141,7 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlPayeKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
+* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1247,7 +1247,7 @@ Tags:odemeTipiSecimi_ÜyeliksizAdreseTeslimOnlineOdeme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Ödeme şekli olarak Online Ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
 
@@ -1269,6 +1269,6 @@ Tags:odemeTipiSecimi_ÜyeliksizGelAlOnlineOdeme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Ödeme şekli olarak Online Ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır

@@ -10,58 +10,48 @@
     "type": "xpath"
   },
   {
-    "key": "odemeSekliButon1",
-    "value":"//*[@id='DPE_TR_PAYMENTTYPE_BUTTON_TYPE1']",
-    "type": "xpath"
-  },
-  {
-    "key": "odemeSekliButonYeniKrediKarti",
-    "value":"//*[@id='DPE_TR_PAYMENT_2_BUTTON']",
-    "type": "xpath"
-  },
-  {
-    "key": "odemeSekliButonYeniNakit",
-    "value":"//*[@id='DPE_TR_PAYMENT_3_BUTTON']",
-    "type": "xpath"
-  },
-  {
     "key": "odemeSekliNakitButon",
-    "value":"(//div[contains(text(),'Nakit')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_3_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliKrediKartiButon",
-    "value":"(//div[contains(text(),'Kredi Kartı')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_2_BUTTON']",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliYemekCekleriveKartlari",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSmartSodexoKartButon",
-    "value":"(//div[contains(text(),'Smart Sodexho Kart')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_3_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSodexoYemekCekiButon",
-    "value":"(//div[contains(text(),'Sodexho Yemek Çeki')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_4_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSmartTicketKartButon",
-    "value":"(//*[contains(text(),'SmartTicket Kart')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_5_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSmartTicketYemekCekiButon",
-    "value":"(//*[contains(text(),'SmartTicket Yemek Çeki')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_6_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliMultinetButon",
-    "value":"(//div[contains(text(),'Multinet')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_7_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliSetCardButon",
-    "value":"(//div[contains(text(),'SetCard')])[1]",
+    "value":".//*[@id='DPE_TR_PAYMENT_4_8_BUTTON']",
     "type": "xpath"
   },
   {
@@ -71,22 +61,12 @@
   },
   {
     "key": "odemeSekliOnlineOdemeButon",
-    "value":"(//*[contains(text(),'Kredi Kartı ve Banka Kartı')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "odemeSekliMisafirOnlineOdemeButon",
-    "value":"(.//*[@class='styled__PaymentCardTitle-sc-19fuf41-7 gCtXaA'])[2]",
+    "value":".//*[@id='DPE_TR_PAYMENT_1_BUTTON']",
     "type": "xpath"
   },
   {
     "key": "odemeSekliDevamButon",
-    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-M']",
-    "type": "xpath"
-  },
-  {
-    "key": "odemeSekliDevamYeniButon",
-    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-D']",
+    "value":".//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUE-M']",
     "type": "xpath"
   },
   {

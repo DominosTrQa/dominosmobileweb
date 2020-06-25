@@ -344,7 +344,7 @@ Tags:regressionStaging_SepeteUpcellEklemeGelAlUyeOlmadan
 * Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
 
 
@@ -887,7 +887,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 
 
@@ -909,7 +909,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlNakit
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 
 
@@ -999,7 +999,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
@@ -1021,7 +1021,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
@@ -1133,7 +1133,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1155,7 +1155,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1267,7 +1267,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1289,7 +1289,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1378,7 +1378,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1400,7 +1400,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1491,7 +1491,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 
 
@@ -1513,7 +1513,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlMultinet
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 
 
@@ -1624,7 +1624,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSetCard
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
@@ -1648,7 +1648,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
-* Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Online Ödeme için Kart Numarası textbox alanı açıldımı kontrol edilir
 
 
 Ödeme Tipi Seçimi - Yeni Üye - Gel Al - Online Ödeme
@@ -1670,7 +1670,7 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
-* Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Online Ödeme için Kart Numarası textbox alanı açıldımı kontrol edilir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Online Ödeme
@@ -1692,7 +1692,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
-* Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Online Ödeme için Kart Numarası textbox alanı açıldımı kontrol edilir
 * Test içerisinde eklenen adres silinir
 
 
@@ -1705,8 +1705,8 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Sepete Ekle butonuna tıklanır
@@ -1714,7 +1714,7 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
-* Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
+* Online Ödeme için Kart Numarası textbox alanı açıldımı kontrol edilir
 
 
 Ödeme Tipi Seçimi - Üyeliksiz - Adrese Teslim - Online Ödeme
@@ -1736,7 +1736,7 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Ödeme şekli olarak Online Ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
 
@@ -1815,7 +1815,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
@@ -1898,7 +1898,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
@@ -2007,7 +2007,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
 * Şubenin Test Pulse olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
@@ -2034,7 +2034,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
 * Şubenin Test Pulse olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
