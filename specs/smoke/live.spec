@@ -23,7 +23,7 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -49,7 +49,7 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorGelAl
 * Sepetim butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -84,7 +84,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -121,7 +121,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sepetim butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -149,7 +149,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sepetim butonuna tıklanır
 * Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -179,7 +179,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -205,7 +205,7 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda kredi kartı ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
@@ -236,7 +236,7 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Yeni Ödeme şekli olarak kapıda nakit ile ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir

@@ -363,7 +363,7 @@ Tags:regressionPreprod_SepeteUpcellEklemeGelAlUyeOlmadan
 * Sepete Çikolatalı Sufle eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
 
@@ -962,7 +962,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 
 
@@ -984,7 +984,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlNakit
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 
 
@@ -1074,7 +1074,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
@@ -1096,7 +1096,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
 
@@ -1208,7 +1208,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1230,7 +1230,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
+* Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1342,7 +1342,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1364,7 +1364,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1453,7 +1453,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1475,7 +1475,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1587,7 +1587,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1609,7 +1609,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
+* Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
 
@@ -1700,7 +1700,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 
 
@@ -1722,7 +1722,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlMultinet
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Multinet ödeme tipi seçilir
+* Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
 
 
@@ -1833,7 +1833,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlSetCard
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak SetCard ödeme tipi seçilir
+* Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
 
 
@@ -1945,7 +1945,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
+* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -1967,7 +1967,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizGelAlPayeKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Paye Kart ödeme tipi seçilir
+* Ödeme şekli olarak Paye Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
 
 
@@ -2079,7 +2079,7 @@ Tags:regressionPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Ödeme şekli olarak Online Ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
 
@@ -2158,7 +2158,7 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
@@ -2241,7 +2241,7 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
@@ -2350,7 +2350,7 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
@@ -2377,7 +2377,7 @@ Tags:regressionPreprod_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir

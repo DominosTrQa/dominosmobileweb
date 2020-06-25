@@ -51,7 +51,7 @@ Tags:sepeteUpcellEkle_GelAlUyeOlmadan_Ios
 * Sepete Çikolatalı Sufle eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Üye olmayan kullanıcı için ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
 
