@@ -445,3 +445,7 @@
 # Dominos - Preprod ortamına gidilir
 * "5" saniye bekle
 * "https://dpe-preprod.dominos.com.tr/" adresine git
+
+# Dominos - K8s dev ortamına gidilir
+* "5" saniye bekle
+* "https://k8s-dev-ui.dominos.com.tr/" adresine git
