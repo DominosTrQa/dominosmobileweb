@@ -122,9 +122,10 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceAdalar"
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "secinizDropdown"
-* Elementi bekle ve sonra tıkla "mahalleBurgazada"
+* "6" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown" try
+* Elementi bekle ve sonra tıkla "mahalleBurgazada" try
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
 # Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir

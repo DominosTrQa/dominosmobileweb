@@ -142,6 +142,9 @@
 
 # Adalar - Burgazada için adres bilgileri tamamlanır
 * "3" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleMahalleDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleMahalleBurgazAda"
+* "6" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
@@ -192,6 +195,9 @@
 
 # Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * "4" saniye bekle
+* Elementi bekle ve sonra tıkla "menuAdresEkleMahalleDropdown"
+* Elementi bekle ve sonra tıkla "menuAdresEkleMahalleBurgazAda"
+* "6" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
