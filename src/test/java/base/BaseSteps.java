@@ -756,6 +756,17 @@ public class BaseSteps extends BaseTest{
         return null;
     }
 
+    @Step({"Wait for element then click <key> try",
+            "Elementi bekle ve sonra tıkla <key> try"})
+    public void checkElementExistsThenClickTryCatch(String key){
+        try {
+            clickElement(key);
+        } catch (Exception e){
+            logger.info("Tek test şubesi var");
+        }
+
+    }
+
     int waitVar = 0;
     @Step("<key> li elementi bulana kadar bekle ve <text> değerini yazdır")
     public void waitUntilFindElementAndSendKeysWithkey(String key, String text) throws InterruptedException {
