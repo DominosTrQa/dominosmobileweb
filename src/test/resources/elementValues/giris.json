@@ -6,7 +6,7 @@
   },
   {
     "key": "adreseTeslimButon",
-    "value": ".//div[@class='styled__Image-sc-1akju1v-6 eJZSvx']",
+    "value": "//div[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_DELIVERY']",
     "type": "xpath"
   },
   {
