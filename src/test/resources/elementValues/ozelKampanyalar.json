@@ -61,18 +61,18 @@
   },
   {
     "key": "kampanyalarIlkUrunIlkPizza",
-    "value":"//*[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0']",
-    "type": "xpath"
+    "value":"#DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_ITEM0",
+    "type": "css"
   },
   {
     "key": "kampanyalarIkıncıUrunIlkPizza",
-    "value":"//*[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_ITEM1']",
-    "type": "xpath"
+    "value":"#DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_ITEM1",
+    "type": "css"
   },
   {
     "key": "kampanyalarUcuncuUrunIlkPizza",
-    "value":"//*[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2_ITEM2']",
-    "type": "xpath"
+    "value":"#DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2_ITEM2",
+    "type": "css"
   },
   {
     "key": "sepetBuyukBoyPizzalarGelAlKontrolText",
