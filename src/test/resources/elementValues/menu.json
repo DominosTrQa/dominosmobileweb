@@ -262,8 +262,8 @@
   },
   {
     "key": "menuAdresEkleMahalleBurgazAda",
-    "value": "div.masterContainer__Container-sc-1yzbkqj-0.bGJLxJ div.styled__AppBeginModalContainer-sc-16426l7-1.dILYYA:nth-child(1) div.styled__MainPopupContainer-sc-16426l7-2.bEsoDE div.styled__MainPopupBody-sc-16426l7-4.fLTkPc div.styled__BodyContent-swz70u-1.jcjPnA div.styled__ShadowBox-swz70u-0.GRBVX div.styled__InputContainer-swz70u-2.fFhOBm:nth-child(2) div.dropdown__Contianer-wa0gtc-28.bdblGk:nth-child(1) div.dropdown__MenuWrapper-wa0gtc-12.gaNPcZ:nth-child(2) div.dropdown__MenuInner-wa0gtc-13.ktTqjD div.dropdown__Menu-wa0gtc-14.bOKzwU > div.menuItem.dropdown__MenuItem-wa0gtc-15.jfECxv:nth-child(1)",
-    "type": "css"
+    "value": "//*[@id='DPE_TR_ADDRESSADDMODAL_DROPDOWN_COUNTIES']/div[1]/div/div/div[1]",
+    "type": "xpath"
   },
   {
     "key": "menuAdresEkleCaddeAyisigiSokak",
