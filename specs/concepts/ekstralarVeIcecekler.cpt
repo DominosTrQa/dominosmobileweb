@@ -37,6 +37,7 @@
 * Elementi bekle ve sonra tıkla "tabDurumler"
 
 # İçecekler sayfasına gidilir
+* "2" saniye bekle
 * Element var mı kontrol et "tabIcecekler"
 * "2" saniye bekle
 * Elementine tıkla "tabIcecekler"

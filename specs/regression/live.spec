@@ -494,9 +494,9 @@ Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
