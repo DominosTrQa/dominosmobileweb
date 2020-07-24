@@ -17,7 +17,7 @@
   },
   {
     "key": "ekstralarVeIceceklerButon",
-    "value": "(//span[contains(text(),'Ekstralar ve İçecekler')])[1]",
+    "value": "//a[@id='DPE_TR_HOME_BUTTON_EXTRAFLAVORS']",
     "type": "xpath"
   },
   {
