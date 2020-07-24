@@ -34,6 +34,8 @@
 * "dominostest4@hotmail.com" textini "epostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
 * "a1w2d3r4D" textini "sifreTextbox" elemente yaz
+* "2" saniye bekle
+* Klavyeyi kapat
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
 * "3" saniye bekle
 
@@ -69,6 +71,8 @@
 * Element var mı kontrol et "epostaTextbox"
 * "test@hotmail.com" textini "epostaTextbox" elemente yaz
 * "Test123" textini "sifreTextbox" elemente yaz
+* Klavyeyi kapat
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
 
 # Yanlış şifre ile giriş yapmaya çalışılır
@@ -222,6 +226,9 @@
 * "Test1234" textini "uyeOlSifreTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeOlSifreTekrarTextbox"
 * "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
+* Klavyeyi kapat
+* "2" saniye bekle
+
 
 # Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
