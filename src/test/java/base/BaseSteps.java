@@ -1029,6 +1029,11 @@ public class BaseSteps extends BaseTest{
         }
     }
 
+    @Step({"Hide keyboard",
+           "Klavyeyi kapat"})
+    public static void HideKeyboard(){
+        webDriver.hideKeyboard();
+    }
 
 
 }
