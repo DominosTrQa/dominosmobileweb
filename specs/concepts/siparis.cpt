@@ -169,6 +169,8 @@
 * Elementi bekle ve sonra tıkla "siparisSayfasiOnlineOdemeDevamAcilanPopupTamamButon"
 
 # Temassız Teslimat checkbox seçilir
+* "2" saniye bekle
+* "siparisSayfasiTemassizTeslimatCheckbox" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "siparisSayfasiTemassizTeslimatCheckbox"
 
 # Lütfen zile basmayınız checkbox seçilir
