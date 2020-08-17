@@ -211,12 +211,12 @@
   },
   {
     "key": "siparisSayfasiTemassizTeslimatCheckbox",
-    "value":".//*[@id='contactlessDelivery']",
+    "value":".//*[@id='DPE_TR_ORDERCONFIRM_CHECKBOX_CONTACTLESSDELIVERY']",
     "type": "xpath"
   },
   {
     "key": "siparisSayfasiZileBasmayinCheckbox",
-    "value":"(//*[@id='isdonotpressthebell'])",
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_CHECKBOX_ISDONOTPRESSTHEBELL'])",
     "type": "xpath"
   },
   {
