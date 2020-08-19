@@ -2,7 +2,7 @@
 
   {
     "key": "hamburgerMenuProfilimbuton",
-    "value": "(.//*[@class='mobile__UserButton-sc-1egphac-13 fAuxPs'])[1]",
+    "value": "//a[contains(text(),'Profilim')]",
     "type": "xpath"
   },
   {

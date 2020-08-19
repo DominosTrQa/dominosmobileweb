@@ -384,5 +384,15 @@
     "key": "ilceErenlerStg",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[71]",
     "type": "xpath"
+  },
+  {
+    "key": "kayitliAdresleriniz",
+    "value": "//*[contains(text(),'KAYITLI ADRES')]",
+    "type": "xpath"
+  },
+  {
+    "key": "adreseTeslimGeriButonu",
+    "value": "//*[@id='DPE_TR_SERVICETYPEHEADER_BUTTON_BACK']/span",
+    "type": "xpath"
   }
 ]

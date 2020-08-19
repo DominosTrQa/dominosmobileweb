@@ -443,6 +443,7 @@
 * Elementi bekle ve sonra tıkla "profilimYeKazanSmsCheckbox"
 * Elementi bekle ve sonra tıkla "profilimYeKazanEpostaCheckbox"
 * Elementi bekle ve sonra tıkla "profilimYeKazanTelefonCheckbox"
+* "profilimDegisiklikleriKaydetButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "profilimDegisiklikleriKaydetButon"
 
 # KVKK üyeliği Ayrılmaktan Vazgeç butonunun çalıştığı kontrol edilir

@@ -3404,9 +3404,9 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* "2" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Hamburger menüye tıklanır
 * Profilim butonuna tıklanır
 * Profilim kısmından KVKK checkbox seçilir, Sms Eposta Telefon işaretlenir

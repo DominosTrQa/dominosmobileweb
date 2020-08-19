@@ -863,13 +863,7 @@ public class BaseSteps extends BaseTest{
                 waitBySeconds(3);
             }
             //Adrese Teslim
-            else if(findElements("sadeceAcikSubeleriGosterCheckbox").size()<=0){
-                getElementWithKeyIfExists("anasayfaServisTipiSecimiButon");
-                clickElement("anasayfaServisTipiSecimiButon");
-                waitBySeconds(4);
-                getElementWithKeyIfExists("adreseTeslimButon");
-                clickElement("adreseTeslimButon");
-                waitBySeconds(4);
+            else if(findElements("adreseTeslimGeriButonu").size()>0){
                 getElementWithKeyIfExists("secinizDropdown");
                 clickElement("secinizDropdown");
                 waitBySeconds(4);
@@ -890,6 +884,14 @@ public class BaseSteps extends BaseTest{
                 waitBySeconds(4);
                 getElementWithKeyIfExists("seciliAdresIleDevamEtbuton");
                 clickElement("seciliAdresIleDevamEtbuton");
+            }
+            else if(findElements("kayitliAdresleriniz").size() > 0) {
+                getElementWithKeyIfExists("menuAdreslerimListeIlkAdres");
+                clickElement("menuAdreslerimListeIlkAdres");
+                waitBySeconds(4);
+                getElementWithKeyIfExists("kayıtlıAdreslerSeciliAdresIleDevamEtButon");
+                clickElement("kayıtlıAdreslerSeciliAdresIleDevamEtButon");
+                waitBySeconds(4);
             }
             else {
             }
