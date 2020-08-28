@@ -684,9 +684,9 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* "2" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Sepete Ekle butonuna tıklanır
