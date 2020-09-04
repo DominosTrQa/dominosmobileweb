@@ -20,6 +20,9 @@
 * Element var mı kontrol et "sepetimPromosyonKoduYanlışKodPopup"
 
 # Sepette bulunan ürünlerden sufle eklenir
+* "2" saniye bekle
+* "sepetteUrunEklemeSufle" alanına js ile kaydır
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "sepetteUrunEklemeSufle"
 
 # Sepete Çikolatalı Sufle eklendiği kontrol edilir

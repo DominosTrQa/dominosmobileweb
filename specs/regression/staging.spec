@@ -94,8 +94,7 @@ Tags:regressionStaging_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar kategorisinin ilk pizzası seçilir

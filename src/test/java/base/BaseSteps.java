@@ -882,6 +882,14 @@ public class BaseSteps extends BaseTest{
                 getElementWithKeyIfExists("mahalleBurgazada");
                 clickElement("mahalleBurgazada");
                 waitBySeconds(4);
+                if(findElements("secinizDropdown").size()>0){
+                    getElementWithKeyIfExists("secinizDropdown");
+                    clickElement("secinizDropdown");
+                    waitBySeconds(4);
+                    getElementWithKeyIfExists("adreseTeslimAyisigiSokak");
+                    clickElement("adreseTeslimAyisigiSokak");
+                }
+                waitBySeconds(4);
                 getElementWithKeyIfExists("seciliAdresIleDevamEtbuton");
                 clickElement("seciliAdresIleDevamEtbuton");
             }

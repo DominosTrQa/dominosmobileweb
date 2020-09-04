@@ -394,5 +394,10 @@
     "key": "adreseTeslimGeriButonu",
     "value": "//*[@id='DPE_TR_SERVICETYPEHEADER_BUTTON_BACK']/span",
     "type": "xpath"
+  },
+  {
+    "key": "adreseTeslimAyisigiSokak",
+    "value": "//*[@id='DPE_TR_STOREFILTERFORMDELIVERY_DROPDOWN_STREET']/div[1]/div/div/div[1]",
+    "type": "xpath"
   }
 ]

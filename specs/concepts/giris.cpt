@@ -133,7 +133,7 @@
 # Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilIstanbul"
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceAdalarStg"
 * "3" saniye bekle
