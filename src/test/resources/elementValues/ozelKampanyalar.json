@@ -121,7 +121,7 @@
   },
   {
     "key": "pizzaBoyutuBuyuk",
-    "value":"(//*[contains(text(),'Büyük')])[1]",
+    "value":"//div[contains(text(),'Küçük')] | //div[contains(text(),'Tek Kişilik')]",
     "type": "xpath"
   },
   {

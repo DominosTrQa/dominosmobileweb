@@ -108,6 +108,7 @@
 * Elementi bekle ve sonra tıkla "dortPeynirliPizza"
 
 # Pizza boyutu Büyük seçilir
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "pizzaBoyutuBuyuk"
 
 # Kenar tipi Bol Sosis Klasik Kenar seçilir
@@ -128,7 +129,6 @@
 
 # Pizzadan Domates çıkarılır
 * "3" saniye bekle
-* "domatesCikarButon" alanına js ile kaydır
 * Element var mı kontrol et "domatesCikarButon"
 * Elementine tıkla "domatesCikarButon"
 
