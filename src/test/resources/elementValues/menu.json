@@ -272,7 +272,7 @@
   },
   {
     "key": "menuAdresEkleCaddeAyisigiSokakStg",
-    "value": "(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[107]",
+    "value": "//*[@id='DPE_TR_ADDRESSADDMODAL_DROPDOWN_STREETS']/div[1]/div/div/div[1]",
     "type": "xpath"
   },
   {
