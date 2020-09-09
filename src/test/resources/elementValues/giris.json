@@ -122,7 +122,7 @@
   },
   {
     "key": "ilceSarıyerStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[97]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[102]",
     "type": "xpath"
   },
   {
@@ -147,7 +147,7 @@
   },
   {
     "key": "mahallePinarStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[126]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[131]",
     "type": "xpath"
   },
   {

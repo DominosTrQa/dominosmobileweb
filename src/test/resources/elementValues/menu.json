@@ -387,7 +387,7 @@
   },
   {
     "key": "menuAdreslerimListeKadıköyAdresi",
-    "value": "(//*[contains(text(),'KADIKÖY')])[1]",
+    "value": "(//*[contains(text(),'Kadıköy')])[1]",
     "type": "xpath"
   },
   {
@@ -452,7 +452,7 @@
   },
   {
     "key": "ilceAdreslerimKadiköyStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[89]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[94]",
     "type": "xpath"
   },
   {
@@ -462,7 +462,7 @@
   },
   {
     "key": "mahalleAdreslerimAcıbademStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[106]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"
   },
   {
@@ -472,7 +472,7 @@
   },
   {
     "key": "caddeAdreslerimAcıbademStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[125]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[130]",
     "type": "xpath"
   },
   {

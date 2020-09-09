@@ -36,7 +36,13 @@
 * Elementi bekle ve sonra tıkla "cazipPizzalarButon1"
 
 # Sepete Ekle butonuna tıklanır
+* "5" saniye bekle
+* "kampanyaliUruneUrunlereGitButon" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "sepeteEkleButon"
 
 # İlk kategorinin ilk pizzası seçilir
 * Elementi bekle ve sonra tıkla "pizzalarIlkTabIlkPizza"
+
+# İlk kategorinin ikinci pizzası seçilir
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "pizzalarIlkTabIkinciPizza"
