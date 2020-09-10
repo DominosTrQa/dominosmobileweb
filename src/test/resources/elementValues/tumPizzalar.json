@@ -61,7 +61,7 @@
   },
   {
     "key": "sepeteEkleButon",
-    "value": "//div[contains(text(),'Sepete Ekle')]",
+    "value": "//a[@id='DPE_TR_PIZZADETAIL_BUTTON_ADDTOBASKET_STICKY']",
     "type": "xpath"
   }
 

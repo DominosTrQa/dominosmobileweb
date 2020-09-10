@@ -37,7 +37,7 @@
 
 # Sepete Ekle butonuna tıklanır
 * "5" saniye bekle
-* "kampanyaliUruneUrunlereGitButon" li elementi bul ve varsa dokun
+* "kampanyaliUruneUrunlereGitButon" li buton varsa tıkla
 * Elementi bekle ve sonra tıkla "sepeteEkleButon"
 
 # İlk kategorinin ilk pizzası seçilir

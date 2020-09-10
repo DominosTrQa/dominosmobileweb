@@ -845,6 +845,16 @@ public class BaseSteps extends BaseTest{
         }
     }
 
+    @Step("<key> li buton varsa tıkla")
+    public void existButtonClick(String key){
+        try {
+            waitBySeconds(2);
+            clickElement(key);
+        }catch (Exception e){
+            logger.info("Buton yok veya aktif değil!!");
+        }
+    }
+
     @Step("<key> li adres tipi seçilir")
     public void firstServiceTypeChange(String key){
         if(findElements(key).size()>0){

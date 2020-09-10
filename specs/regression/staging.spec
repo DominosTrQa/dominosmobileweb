@@ -815,11 +815,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -838,12 +838,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlNakit
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -859,11 +858,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -882,12 +881,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlNakit
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -905,11 +903,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -927,11 +925,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -950,12 +948,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -971,11 +968,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -994,12 +991,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1017,11 +1013,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1040,12 +1036,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1061,11 +1056,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1084,12 +1079,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1105,11 +1099,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartSodexoKart
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1128,12 +1122,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1151,11 +1144,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSodexoYemekCeki
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1174,12 +1167,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSodexoYemekCeki
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1195,11 +1187,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1218,12 +1210,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1239,11 +1230,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1262,12 +1253,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1285,11 +1275,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1308,12 +1298,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1329,12 +1318,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1350,11 +1338,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1373,12 +1361,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1396,11 +1383,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1419,12 +1406,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlMultinet
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1440,11 +1426,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1463,11 +1449,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1486,12 +1472,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlMultinet
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1509,11 +1494,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1532,12 +1517,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlSetCard
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1553,11 +1537,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1576,12 +1560,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1597,12 +1580,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizGelAlSetCard
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1620,11 +1602,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1643,12 +1625,11 @@ Tags:regressionStaging_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1664,11 +1645,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1687,12 +1668,11 @@ Tags:regressionStaging_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "gelAlButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1708,11 +1688,11 @@ Tags:regressionStaging_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1733,11 +1713,11 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1759,11 +1739,11 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1787,11 +1767,11 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1816,11 +1796,11 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBa
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1842,11 +1822,11 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1870,11 +1850,11 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1899,11 +1879,11 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1926,12 +1906,11 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1951,11 +1930,11 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1979,11 +1958,11 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -2007,12 +1986,11 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -2035,8 +2013,8 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "4" saniye bekle
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
@@ -2044,7 +2022,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 * Yeni not eklenir ve eklendiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -2067,9 +2045,8 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
+* "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
@@ -2077,7 +2054,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 * Yeni not eklenir ve eklendiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -2097,17 +2074,16 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "4" saniye bekle
 * Çerez Politikası kapatılır
+* "gelAlButon" li adres tipi seçilir
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
 * Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
 * Yeni not eklenir ve eklendiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
+* İlk kategorinin ikinci pizzası seçilir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
