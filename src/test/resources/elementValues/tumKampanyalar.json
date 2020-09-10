@@ -73,6 +73,11 @@
     "key": "kampanyalarSepeteEkleButon",
     "value": "(//*[@id='dpeFooterStickyContainer'])",
     "type": "xpath"
+  },
+  {
+    "key": "kampanyaliUruneUrunlereGitButon",
+    "value": "//a[@id='DPE_TR_PIZZADETAILV2_BUTTON_ADDTOBASKET_STICKY']",
+    "type": "xpath"
   }
 
 ]

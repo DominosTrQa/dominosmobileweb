@@ -30,6 +30,11 @@
     "type": "xpath"
   },
   {
+    "key": "pizzalarIlkTabIkinciPizza",
+    "value": ".//*[@id='DPE_TR_PIZZAS_TAB0_CARD1']",
+    "type": "xpath"
+  },
+  {
     "key": "cazipPizzalarButon1",
     "value": ".//*[@id='DPE_TR_PIZZAS_TAB0_CARD0']",
     "type": "xpath"
@@ -56,7 +61,7 @@
   },
   {
     "key": "sepeteEkleButon",
-    "value": ".//*[@id='DPE_TR_PIZZADETAIL_BUTTON_ADDTOBASKET_STICKY']",
+    "value": "//div[contains(text(),'Sepete Ekle')]",
     "type": "xpath"
   }
 
