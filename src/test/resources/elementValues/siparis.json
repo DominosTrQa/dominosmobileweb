@@ -141,12 +141,12 @@
   },
   {
     "key": "siparisOnaySayfasiSmartSodexoKartKontrol",
-    "value":"(//h3[contains(text(),'Smart Sodexho Kart')])[1]",
+    "value":"(//h3[contains(text(),'Smart Sodexo Kart')])[1]",
     "type": "xpath"
   },
   {
     "key": "siparisOnaySayfasiSodexoYemekCekiKontrol",
-    "value":"(//h3[contains(text(),'Sodexho Yemek Çeki')])[1]",
+    "value":"(//h3[contains(text(),'Sodexo Yemek Çeki')])[1]",
     "type": "xpath"
   },
   {
