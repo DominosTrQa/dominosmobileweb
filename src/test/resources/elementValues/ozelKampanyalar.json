@@ -76,7 +76,7 @@
   },
   {
     "key": "sepetBuyukBoyPizzalarGelAlKontrolText",
-    "value":"(//*[contains(text(),'Gel Al - Büyük Boy Pizzalar')])[2]",
+    "value":"//h2[contains(text(),'Gel Al - Büyük Boy Pizzalar')]",
     "type": "xpath"
   },
   {
