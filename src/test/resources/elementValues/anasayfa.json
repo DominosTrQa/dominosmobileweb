@@ -177,7 +177,7 @@
   },
   {
     "key": "anasayfaSubeSipariseKapali",
-    "value":"(//*[contains(text(),'Siparişe Kapalı')])[2]",
+    "value":"(//*[contains(text(),'Siparişe Kapali Şubesi')])",
     "type": "xpath"
   },
   {
