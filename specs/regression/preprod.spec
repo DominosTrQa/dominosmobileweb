@@ -114,8 +114,7 @@ Tags:regressionPreprod_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Üye Olmadan Devam Et butonuna tıklanır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "adreseTeslimButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * Cazip Pizzalar kategorisinin ilk pizzası seçilir
@@ -2457,9 +2456,9 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
+* Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
 * Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
@@ -2489,9 +2488,9 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
+* Çerez Politikası kapatılır
 * Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
 * Anasayfadaki Şubenin Adıyaman Şubesi olduğu kontrol edilir
 
 
