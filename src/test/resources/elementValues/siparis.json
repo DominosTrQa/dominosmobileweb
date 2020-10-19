@@ -251,22 +251,22 @@
   },
   {
     "key": "siparisUyeDegilkenBilgilerAdTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[1]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[1]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenBilgilerSoyadTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[2]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[2]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenBilgilerEpostaTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[3]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[3]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenBilgilerTelefonTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-2 iQtoeP'])[4]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[4]",
     "type": "xpath"
   },
   {
