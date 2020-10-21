@@ -128,7 +128,7 @@
 
 # Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 * "3" saniye bekle
-* "anasayfaKalemButon" elementi "Adalar Burgazada" değerini içeriyor mu kontrol et
+* "anasayfaKalemButon" elementi "İstanbul Adalar" değerini içeriyor mu kontrol et
 
 # Anasayfadaki adresin Sarıyer - Pınar olduğu kontrol edilir
 * "3" saniye bekle

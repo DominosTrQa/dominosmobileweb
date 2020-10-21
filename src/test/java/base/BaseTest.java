@@ -29,7 +29,7 @@ public class BaseTest {
     @BeforeScenario
     public static void setUp() throws MalformedURLException, Exception {
         System.out.println("*****************Test*****************");
-        String selectPlatform = "android";
+        String selectPlatform = "ios";
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
 
@@ -45,10 +45,10 @@ public class BaseTest {
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.CHROME);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM, Platform.ANDROID);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
-                capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Test");
+                capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Galaxy A71");
                 //capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 //capabilities.setCapability(MobileCapabilityType.UDID, "52108da8eab3c393");
-                capabilities.setCapability(MobileCapabilityType.VERSION, "7.0");
+                capabilities.setCapability(MobileCapabilityType.VERSION, "10");
 
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
@@ -62,7 +62,7 @@ public class BaseTest {
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
                 capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone");
                 capabilities.setCapability("automationName", "XCUITest");
-                capabilities.setCapability(MobileCapabilityType.UDID, "f4fb7209f0f4c3b314a99fc2f6e2ab2690b46fbd");
+                capabilities.setCapability(MobileCapabilityType.UDID, "7513a1c1a9f5a4ab95773bdc26cd62120daf89c7");
                 DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
                 desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
 
