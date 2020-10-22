@@ -440,7 +440,7 @@
 
 # Dominos - Staging ortamına gidilir
 * "5" saniye bekle
-* "https://dpe-staging.dominos.com.tr/" adresine git
+* "http://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
 
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
@@ -448,7 +448,7 @@
 
 # Dominos - Preprod ortamına gidilir
 * "5" saniye bekle
-* "https://dpe-preprod.dominos.com.tr/" adresine git
+* "https://k8s-tr-we-ui-preprod.dominos.com.tr/" adresine git
 
 # Dominos - K8s dev ortamına gidilir
 * "5" saniye bekle
