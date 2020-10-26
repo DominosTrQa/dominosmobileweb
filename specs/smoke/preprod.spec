@@ -16,7 +16,7 @@ Tags:smokePreprod_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
