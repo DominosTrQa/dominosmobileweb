@@ -23,3 +23,10 @@ Safari Deneme
 * "5439879898" textini "denemePhone" elemente yaz
 * "2222" textini "denemeClock" elemente yaz
 * "22221994" textini "denemeBirthday" elemente yaz
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "denemeDpInput"
+* "DenemeText" textini "denemeDpInput" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "denemeEposta"
+* "deneme@gmail.com" textini "denemeEposta" elemente yaz
+* "10" saniye bekle

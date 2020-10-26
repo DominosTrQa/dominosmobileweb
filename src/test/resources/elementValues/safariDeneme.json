@@ -46,6 +46,16 @@
   "key": "denemeBirthday",
   "value": "birthday",
   "type": "id"
+  },
+  {
+  "key": "denemeEposta",
+  "value": "DPE_TR_SIGNIN_INPUT_EMAIL",
+  "type": "id"
+  },
+  {
+  "key": "denemeDpInput",
+  "value": "(//input[@class='input__Control-wbeopl-3 dPotfb'])[1]",
+  "type": "xpath"
   }
 
 ]
