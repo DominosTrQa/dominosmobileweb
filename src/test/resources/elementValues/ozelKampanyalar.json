@@ -60,6 +60,16 @@
     "type": "xpath"
   },
   {
+    "key": "kampanyalarSecinizDorduncuDropdown",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST3']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarSecinizBesinciDropdown",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST4']",
+    "type": "xpath"
+  },
+  {
     "key": "kampanyalarIlkUrunIlkPizza",
     "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_M_ITEM0']",
     "type": "xpath"
@@ -72,6 +82,16 @@
   {
     "key": "kampanyalarUcuncuUrunIlkPizza",
     "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST2_M_ITEM0']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarDorduncuUrunIlkPizza",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST3_M_ITEM0']",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyalarBesinciUrunIlkPizza",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST4_M_ITEM0']",
     "type": "xpath"
   },
   {
