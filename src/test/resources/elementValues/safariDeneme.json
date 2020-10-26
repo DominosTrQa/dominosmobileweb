@@ -1,0 +1,51 @@
+[
+
+    {
+    "key": "denemeName",
+    "value": "fname",
+    "type": "id"
+    },
+
+    {
+  "key": "denemeLName",
+  "value": "lname",
+  "type": "id"
+
+    },
+    {
+  "key": "denemePwd",
+  "value": "pwd",
+  "type": "id"
+    },
+    {
+  "key": "denemeCheckbox",
+  "value": "vehicle1",
+  "type": "id"
+    },
+    {
+  "key": "denemeEmail",
+  "value": "email",
+  "type": "id"
+  },
+  {
+  "key": "denemeQuentity",
+  "value": "quantity",
+  "type": "id"
+  },
+  {
+  "key": "denemePhone",
+  "value": "phone",
+  "type": "id"
+  },
+  {
+  "key": "denemeClock",
+  "value": "appt",
+  "type": "id"
+  },
+  {
+  "key": "denemeBirthday",
+  "value": "birthday",
+  "type": "id"
+  }
+
+]
