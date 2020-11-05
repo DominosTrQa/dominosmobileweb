@@ -78,6 +78,11 @@
     "key": "kampanyaliUruneUrunlereGitButon",
     "value": "//a[@id='DPE_TR_PIZZADETAILV2_BUTTON_ADDTOBASKET_STICKY']",
     "type": "xpath"
+  },
+  {
+    "key": "ilkKampanyaSec",
+    "value":"(//div[.='Sipariş Ver'])[1]",
+    "type": "xpath"
   }
 
 ]

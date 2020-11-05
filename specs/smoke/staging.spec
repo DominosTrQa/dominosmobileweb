@@ -11,17 +11,17 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
+* Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
@@ -38,16 +38,15 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorGelAl
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
@@ -78,8 +77,8 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
@@ -98,9 +97,9 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Giriş Yap butonuna tıklanır
 * İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
@@ -110,16 +109,15 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
 * Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
@@ -143,11 +141,10 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
@@ -161,11 +158,11 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
 * Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
@@ -173,11 +170,10 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Listelenen adreslerden test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir
@@ -191,18 +187,17 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel Al kampanyası seçilir
-* Dilediğin Orta Boy Pizza - Gel Alkampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
@@ -218,23 +213,23 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Teslimat tipi tabına tıklanır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
+* Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Test Pulse olduğu kontrol edilir

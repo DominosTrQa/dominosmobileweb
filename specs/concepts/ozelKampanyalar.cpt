@@ -3,6 +3,9 @@
 * Elementi bekle ve sonra tıkla "kampanyalarGelAlHaftaninKampanyalari"
 * "2" saniye bekle
 
+# Kampanya sayfasındaki ilk kampanya secilir
+* Elementi bekle ve sonra tıkla "ilkKampanyaSec"
+
 # Büyük Boy Pizzalar - Gel Al kampanyası seçilir
 * Element var mı kontrol et "kampanyalarBuyukBoyPizzalarGelAlButon"
 * Elementine tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"
