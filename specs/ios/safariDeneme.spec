@@ -10,8 +10,10 @@ Safari Deneme
  tags:safariDeneme
 
 * "http://k8s-tr-we-ui-stage.dominos.com.tr/test-page" adresine git
+* "3" saniye bekle
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* "3" saniye bekle
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * "emre" textini "denemeName" elemente yaz
@@ -23,10 +25,13 @@ Safari Deneme
 * "5439879898" textini "denemePhone" elemente yaz
 * "2222" textini "denemeClock" elemente yaz
 * "22221994" textini "denemeBirthday" elemente yaz
-* "5" saniye bekle
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "denemeDpInput"
 * "DenemeText" textini "denemeDpInput" elemente yaz
+* "input1deneme" textini "input1" elemente yaz
+* "input2deneme" textini "input2" elemente yaz
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "denemeEposta"
 * "deneme@gmail.com" textini "denemeEposta" elemente yaz
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "denemeDpInput"
 * "10" saniye bekle

@@ -2419,7 +2419,7 @@ Tags:regressionK8s_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Ödeme şekli olarak Online Ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
 
@@ -2441,7 +2441,7 @@ Tags:regressionK8s_OdemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Ödeme şekli olarak Online Ödeme ödeme tipi seçilir
+* Ödeme şekli olarak Online Ödeme tipi seçilir
 * Online Ödeme için telefon numarası isteyen pop up geldi mi kontrol edilir
 * Geçerli bir telefon numarası giriniz uyarısının geldiği kontrol edilir ve pop up kapatılır
 
@@ -2903,7 +2903,7 @@ Tags:regressionK8s_SiparisVermeKapiNoManuel
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2928,7 +2928,7 @@ Tags:regressionK8s_SiparisVermeKapiNoDropdown
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
