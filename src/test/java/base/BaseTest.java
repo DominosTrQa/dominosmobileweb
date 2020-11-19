@@ -58,13 +58,15 @@ public class BaseTest {
         }else if ("ios".equalsIgnoreCase(selectPlatform)) {
                 //capabilities = new DesiredCapabilities();
                 capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "iOS");
-                capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "12.1.4");
+                capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "11.1.1");
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
                 capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone");
-                capabilities.setCapability("automationName", "XCUITest");
-                capabilities.setCapability(MobileCapabilityType.UDID, "7513a1c1a9f5a4ab95773bdc26cd62120daf89c7");
+               // capabilities.setCapability("automationName", "XCUITest");
+                capabilities.setCapability(MobileCapabilityType.UDID, "2d328345dcc44fb8a7cd661c4ea06fd9291225a3");
                 DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
-                desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
+               // desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
+                capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.IOS_XCUI_TEST);
+                capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.SAFARI);
 
                 webDriver = new IOSDriver<>(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
                 //webDriver.get("http://dpe-preprod.dominos.com.tr/");

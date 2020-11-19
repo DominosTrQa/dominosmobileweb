@@ -1141,6 +1141,16 @@ public class BaseSteps extends BaseTest{
 
 
     }
+    @Step("<key> key yolla elemente <text>")
+    public void sendKeysWithNumpad(String key, String text){
+        WebElement webElement = findElement(key);
+        char[] textArray = text.toCharArray();
+        for(int i = 0; i < textArray.length; i++){
+            webElement.sendKeys(Keys.valueOf("NUMPAD" + String.valueOf(textArray[i])));
+        }
+        logger.info("Elemente " + text + " texti yazıldı.");
+    }
+
 
 
 }
