@@ -215,9 +215,11 @@
 * Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
 * "Test" textini "uyeOlSoyadTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
-* Rastgele telefon no üret
-* Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
 * "uyeOlTelefonTextbox" li elementine random telefon numarası yaz
+ Rastgele telefon no üret
+ Elementi bekle ve sonra tıkla "uyeOlTelefonTextbox"
+ "uyeOlTelefonTextbox" key yolla elemente "5435345534"
+ "uyeOlTelefonTextbox" li elementine random telefon numarası yaz
 * Elementi bekle ve sonra tıkla "uyeOlEpostaTextbox"
 * "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz, emaili "randomMail" olarak sakla
 * Elementi bekle ve sonra tıkla "uyeOlSifreTextbox"
@@ -446,7 +448,7 @@
 
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
-* "https://dominos.com.tr/" adresine git
+* "https://www.dominos.com.tr/" adresine git
 
 # Dominos - Preprod ortamına gidilir
 * "5" saniye bekle
