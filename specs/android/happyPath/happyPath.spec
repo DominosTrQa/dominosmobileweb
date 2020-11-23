@@ -22,7 +22,7 @@ Tags:happyPath_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -47,7 +47,7 @@ Tags:happyPath_KullaniciIlkKezGeliyorAdreseTeslim
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -83,7 +83,7 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyorAdreseTeslimUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -116,7 +116,7 @@ Tags:happyPath_KullaniciIkinciKezGeliyorAdreseTeslimUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -153,7 +153,7 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -187,7 +187,7 @@ Tags:happyPath_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -210,7 +210,7 @@ Tags:happyPath_YeniKullaniciIlkKezGeliyorGelAl
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -234,7 +234,7 @@ Tags:happyPath_KullaniciIlkKezGeliyorGelAl
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -269,7 +269,7 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -305,7 +305,7 @@ Tags:happyPath_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -341,7 +341,7 @@ Tags:happyPath_YeniKullaniciIkinciKezGeliyoraGelAlYanMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -378,7 +378,7 @@ Tags:happyPath_KullaniciIkinciKezGeliyoraGelAlYanMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -402,7 +402,7 @@ tags:happyPath_ServisTipiDegistirenKullaniciAdreseTeslimGelAlUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -427,7 +427,7 @@ tags:happyPath_ServisTipiDegistirenYeniKullaniciAdreseTeslimGelAlUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -454,7 +454,7 @@ tags:happyPath_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -480,7 +480,7 @@ tags:happyPath_ServisTipiDegistirenYeniKullaniciAdreseTeslimGelAlTab
 * Sepetim butonuna tıklanır
 * Dilediğin Orta Boy Pizza - Gel kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -509,7 +509,7 @@ tags:happyPath_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -537,7 +537,7 @@ tags:happyPath_ServisTipiDegistirenYeniKullaniciGelAlAdreseTeslimUstMenu
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -566,7 +566,7 @@ tags:happyPath_ServisTipiDegistirenKullaniciGelAlAdreseTeslimTab
 * Sepetim butonuna tıklanır
 * Dilediğin Büyük Boy Pizza kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 
 
@@ -595,7 +595,7 @@ tags:happyPath_ServisTipiDegistirenYeniKullaniciGelAlAdreseTeslimTab
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak ilk ödeme tipi seçilir
+* Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
