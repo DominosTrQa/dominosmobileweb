@@ -1111,8 +1111,9 @@ public class BaseSteps extends BaseTest{
             logger.info("Kampanya 1. ürün seçiliyor!!!");
             waitBySeconds(4);
             getElementWithKeyIfExists("kampanyalarSecinizBirinciDropdown");
-            scrollToElementWithJs("kampanyalarSecinizBirinciDropdown");
-            clickToElementWithJs("kampanyalarSecinizBirinciDropdown");
+            clickElement("kampanyalarSecinizBirinciDropdown");
+            //scrollToElementWithJs("kampanyalarSecinizBirinciDropdown");
+            //clickToElementWithJs("kampanyalarSecinizBirinciDropdown");
             waitBySeconds(2);
             getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
             clickElement("kampanyalarIlkUrunIlkPizza");
