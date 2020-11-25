@@ -21,6 +21,7 @@
 * Element var mı kontrol et "subeyeOzelFirsatlarButon1"
 
 # Haftanın Kampanyaları sayfasına gidilir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "haftaninKampanyalariTab"
 * "3" saniye bekle
 

@@ -196,6 +196,7 @@
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
 # İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* "3" saniye bekle
 * Element var mı kontrol et "gelAlListelemeIlkSube"
 * Elementi bekle ve sonra tıkla "gelAlListelemeIlkSube"
 * Elementi bekle ve sonra tıkla "seciliSubeIleDevamEtButon"
