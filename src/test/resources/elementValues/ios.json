@@ -1,0 +1,18 @@
+[
+
+  {
+    "key": "anasayfaTabSepetimButoniOS",
+    "value": "(//*[contains(text(),'Sepete Ekle')])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "kampanyaSepeteEkleButoniOS",
+    "value":"(//*[contains(text(),'Sepete Ekle')])[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "odemeSekliNakitButoniOS",
+    "value":"(//*[contains(text(),'Kapıda Nakit Ödeme Seçeneği')])[1]",
+    "type": "xpath"
+  }
+]

@@ -286,6 +286,7 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 
 # Kullanıcı çıkış yapar
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "menuCikisButon"
 
 # Gece Açık Şubeler butonuna tıklanır

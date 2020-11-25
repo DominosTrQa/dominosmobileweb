@@ -175,6 +175,25 @@ public class BaseSteps extends BaseTest{
         }
     }
 
+    @Step({"Wait for element then click with hover <key>",
+            "Elementi bekle ve sonra hover ile tıkla <key>"})
+    public void checkElementExistsThenClickWithHover(String key){
+        getElementWithKeyIfExists(key);
+        clickWithHoverElement(key);
+    }
+
+    @Step({"Click to element with hover <key>",
+            "Elementine hover ile tıkla <key>"})
+    public void clickWithHoverElement(String key){
+        if (!key.equals("")) {
+            WebElement element = findElement(key);
+              hoverElement(element);
+            // waitByMilliSeconds(500);
+            clickElement(element);
+            logger.info(key + " elementine tıklandı.");
+        }
+    }
+
     @Step({"Click to element <key> with focus",
             "<key> elementine focus ile tıkla"})
     public void clickElementWithFocus(String key){
@@ -584,6 +603,14 @@ public class BaseSteps extends BaseTest{
         ElementInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
         WebElement element = webDriver.findElement(ElementHelper.getElementInfoToBy(elementInfo));
         ((JavascriptExecutor) webDriver).executeScript("arguments[0].scrollIntoView(true);", element);
+    }
+
+    @Step({"<key> alanına js ile tıkla"})
+    public void clickToElementWithJs(String key) {
+        ElementInfo elementInfo = StoreHelper.INSTANCE.findElementInfoByKey(key);
+        WebElement element = webDriver.findElement(ElementHelper.getElementInfoToBy(elementInfo));
+        ((JavascriptExecutor) webDriver).executeScript("arguments[0].click();", element);
+        logger.info(key + " elementine tıklandı.");
     }
 
 
@@ -1085,6 +1112,8 @@ public class BaseSteps extends BaseTest{
             waitBySeconds(4);
             getElementWithKeyIfExists("kampanyalarSecinizBirinciDropdown");
             clickElement("kampanyalarSecinizBirinciDropdown");
+            //scrollToElementWithJs("kampanyalarSecinizBirinciDropdown");
+            //clickToElementWithJs("kampanyalarSecinizBirinciDropdown");
             waitBySeconds(2);
             getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
             clickElement("kampanyalarIlkUrunIlkPizza");

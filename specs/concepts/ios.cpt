@@ -1,0 +1,21 @@
+
+# 3 urunlu kampanya için siparis secilir iOS
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarIlkUrunIlkPizza"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarIkıncıUrunIlkPizza"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "kampanyalarUcuncuUrunIlkPizza"
+
+# Sepetim butonuna tıklanır iOS
+* Elementi bekle ve sonra tıkla "anasayfaTabSepetimButoniOS"
+
+# Kampanya sepete eklenir iOS
+* "10" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButoniOS"
+
+# Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliNakitButoniOS"
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"

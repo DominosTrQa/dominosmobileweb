@@ -49,6 +49,7 @@
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
 # Teslimat tipi tabına tıklanır
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon"
 
 # Anasayfadaki Adrese Teslim butonuna tıklanır
