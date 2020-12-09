@@ -252,12 +252,12 @@
   },
   {
     "key": "menuAdresEkleCaddeDropdown",
-    "value": "(.//div[@class='placeholderText dropdown__ButtonText-wa0gtc-3 cuiAQE dropdown__ButtonInnerItems-wa0gtc-2 hOPRSO'])[4]",
+    "value": "(.//div[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR'])[4]",
     "type": "xpath"
   },
   {
     "key": "menuAdresEkleMahalleDropdown",
-    "value": "(.//div[@class='placeholderText dropdown__ButtonText-wa0gtc-3 cuiAQE dropdown__ButtonInnerItems-wa0gtc-2 hOPRSO'])[3]",
+    "value": "(.//div[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR'])[3]",
     "type": "xpath"
   },
   {
