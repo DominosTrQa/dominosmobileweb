@@ -19,3 +19,18 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliNakitButoniOS"
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+
+# Random mail ve telefon ile üye olunur iOS
+* Elementi bekle ve sonra tıkla "uyeOlAdTextbox"
+* "uyeOlAdTextbox" li elementi bul ve "Test" değerini tek tek yaz
+* Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
+* "Test" textini "uyeOlSoyadTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"
+* "uyeOlTelefonTextbox" li elementine random telefon numarası yaz
+* Elementi bekle ve sonra tıkla "uyeOlEpostaTextbox"
+* "uyeOlEpostaTextbox" li elementi bul, temizle ve rasgele  email değerini yaz, emaili "randomMail" olarak sakla
+* Elementi bekle ve sonra tıkla "uyeOlSifreTextbox"
+* "Test1234" textini "uyeOlSifreTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "uyeOlSifreTekrarTextbox"
+* "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
+* "2" saniye bekle
