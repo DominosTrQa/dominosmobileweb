@@ -241,6 +241,11 @@
     "type": "xpath"
   },
   {
+    "key": "menuProfilimButon",
+    "value": "(//*[contains(text(),'Profilim')])[2]",
+    "type": "xpath"
+  },
+  {
     "key": "menuAdreslerimSeçiliAdresIleDevamEtButon",
     "value": ".//*[@id='DPE_TR_ADDRESSLISTDELIVERY_BUTTON_SELECTADDRESS']",
     "type": "xpath"
