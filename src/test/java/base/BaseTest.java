@@ -29,7 +29,7 @@ public class BaseTest {
     @BeforeScenario
     public static void setUp() throws MalformedURLException, Exception {
         System.out.println("*****************Test*****************");
-        String selectPlatform = "ios";
+        String selectPlatform = "android";
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
 

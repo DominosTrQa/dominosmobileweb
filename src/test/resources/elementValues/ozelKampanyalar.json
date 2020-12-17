@@ -198,5 +198,10 @@
     "key": "klasikHamur",
     "value": "(//*[contains(text(),'Klasik Hamur')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "digitalOfferIstemiyorum",
+    "value": "//a[@class='styled__Button-sc-11eu9u6-17 jNCAKb sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gHgUPZ']",
+    "type": "xpath"
   }
 ]
