@@ -70,6 +70,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
 * Listelenen adreslerden test adresi seçilir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
@@ -106,7 +107,10 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
+ Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
 * Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
