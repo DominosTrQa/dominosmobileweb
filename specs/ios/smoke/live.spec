@@ -22,13 +22,13 @@ Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
+* Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
 
-Yeni Kullanıcı İlk Kez Geliyor - Gel Al BİTTİ
+Yeni Kullanıcı İlk Kez Geliyor - Gel Al
 -----------------------------------------------
 Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorGelAl
 
@@ -54,7 +54,7 @@ Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorGelAl
 * Siparişin alındığından emin olunur
 
 
-Kullanıcı İkinci Kez Geliyor - Adrese Teslim - Adresi var (Yan Menü) BİTTİ
+Kullanıcı İkinci Kez Geliyor - Adrese Teslim - Adresi var (Yan Menü)
 -----------------------------------------------
 Tags:smokeLiveiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 
@@ -87,7 +87,7 @@ Tags:smokeLiveiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Siparişin alındığından emin olunur
 
 
-Kullanıcı İkinci Kez Geliyor - Gel Al (Üst Menü) BİTTİ
+Kullanıcı İkinci Kez Geliyor - Gel Al (Üst Menü)
 --------------------------------------
 Tags:smokeLiveiOS_KullaniciIkinciKezGeliyoraGelAlUstMenu
 
@@ -124,7 +124,7 @@ Tags:smokeLiveiOS_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Siparişin alındığından emin olunur
 
 
-Servis Tipi Değiştiren Kullanıcı - Adrese Teslim > Gel Al (Tab) BİTTİ
+Servis Tipi Değiştiren Kullanıcı - Adrese Teslim > Gel Al (Tab)
 ----------------------------------------------------------------------
 tags:smokeLiveiOS_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 
@@ -182,7 +182,7 @@ tags:smokeLiveiOS_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Siparişin alındığından emin olunur
 
 
-Servis Tipi Değiştiren Üyeliksiz Kullanıcı - Adrese Teslim > Gel Al (Üst Menü) BİTTİ
+Servis Tipi Değiştiren Üyeliksiz Kullanıcı - Adrese Teslim > Gel Al (Üst Menü)
 ----------------------------------------------------------------------
 tags:smokeLiveiOS_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 
@@ -209,7 +209,7 @@ tags:smokeLiveiOS_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Siparişin alındığından emin olunur
 
 
-Servis Tipi Değiştiren Üyeliksiz Kullanıcı -  Gel Al > Adrese Teslim (Tab) BİTTİ
+Servis Tipi Değiştiren Üyeliksiz Kullanıcı -  Gel Al > Adrese Teslim (Tab)
 ----------------------------------------------------------------------
 tags:smokeLiveiOS_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 
