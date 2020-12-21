@@ -34,3 +34,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlSifreTekrarTextbox"
 * "Test1234" textini "uyeOlSifreTekrarTextbox" elemente yaz
 * "2" saniye bekle
+
+# Kampanya sayfasındaki ilk kampanya secilir iOS
+* "1" saniye bekle
+* Elementi bekle ve sonra tıkla "ilkKampanyaSeciOS"
