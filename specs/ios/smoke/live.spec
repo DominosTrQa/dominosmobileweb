@@ -14,7 +14,7 @@ Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
- Haftanın Kampanyaları sayfasına gidilir
+* Haftanın Kampanyaları sayfasına gidilir iOS
 * Kampanya sayfasındaki ilk kampanya secilir iOS
 * 3 urunlu kampanya için siparis secilir iOS
 * Kampanya sepete eklenir iOS

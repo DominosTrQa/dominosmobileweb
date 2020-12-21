@@ -15,6 +15,11 @@
     "type": "xpath"
   },
   {
+    "key": "haftaninKampanyalariTabiOS",
+    "value": "DPE_TR_CAMPAIGNS_TAB0",
+    "type": "id"
+  },
+  {
     "key": "haftaninKampanyalariTabSeciliHali",
     "value": "(//*[contains(text(),'Haftanın Kampanyaları')])[2]",
     "type": "xpath"
