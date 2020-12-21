@@ -38,3 +38,8 @@
 # Kampanya sayfasındaki ilk kampanya secilir iOS
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "ilkKampanyaSeciOS"
+
+# Haftanın Kampanyaları sayfasına gidilir iOS
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "haftaninKampanyalariTabiOS"
+* "3" saniye bekle
