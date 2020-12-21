@@ -15,7 +15,7 @@ Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
  Haftanın Kampanyaları sayfasına gidilir
-* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya sayfasındaki ilk kampanya secilir iOS
 * 3 urunlu kampanya için siparis secilir iOS
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
