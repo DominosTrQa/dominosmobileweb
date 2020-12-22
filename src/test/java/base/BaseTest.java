@@ -117,6 +117,7 @@ public class BaseTest {
                 capabilities.setCapability(CapabilityType.PLATFORM, Platform.MAC);
                 capabilities.setCapability("xcodeOrgId", "PMLH8MF4G9");
                 capabilities.setCapability("xcodeSigningId", "iPhone Developer");
+                capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
                 capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.IOS_XCUI_TEST);
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.SAFARI);
                 capabilities.setCapability("cleanSession", true);
