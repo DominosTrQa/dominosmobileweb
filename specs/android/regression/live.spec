@@ -355,10 +355,11 @@ Tags:regressionLive_SepeteKampanyaEklemeGelAlKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
@@ -457,9 +458,9 @@ Tags:regressionLive_SepetePizzaEklemePizzaOpsiyonelSecimler
 * Tüm Pizzalar butonuna tıklanır
 * Gurme Pizzalar butonuna tıklanır
 * Tüm Pizzalar sayfasından Dört Peynirli seçilir
-* Pizza boyutu Büyük seçilir
-* Kenar tipi Bol Sosis Klasik Kenar seçilir
-* Ekstra malzemelerden Küp Sucuk eklenir
+ Pizza boyutu Büyük seçilir
+ Kenar tipi Bol Sosis Klasik Kenar seçilir
+ Ekstra malzemelerden Küp Sucuk eklenir
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
