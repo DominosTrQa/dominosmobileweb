@@ -37,7 +37,8 @@
 
 # Kampanya sayfasındaki ilk kampanya secilir iOS
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "ilkKampanyaSeciOS"
+ Elementi bekle ve sonra tıkla "ilkKampanyaSeciOS"
+* Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
 
 # Haftanın Kampanyaları sayfasına gidilir iOS
 * "3" saniye bekle
