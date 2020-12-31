@@ -117,7 +117,7 @@
   },
   {
     "key": "ilceSarıyer",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[102]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[103]",
     "type": "xpath"
   },
   {
@@ -127,7 +127,7 @@
   },
   {
     "key": "ilceAdalar",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[73]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[74]",
     "type": "xpath"
   },
   {
@@ -162,12 +162,12 @@
   },
   {
     "key": "mahalleGelAlAyazaga",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[113]",
     "type": "xpath"
   },
   {
     "key": "mahalleBurgazada",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
     "type": "xpath"
   },
   {
@@ -177,7 +177,7 @@
   },
   {
     "key": "mahalleGelAlBurgazada",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[113]",
     "type": "xpath"
   },
   {
