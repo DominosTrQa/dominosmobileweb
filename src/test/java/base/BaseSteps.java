@@ -1107,11 +1107,11 @@ public class BaseSteps extends BaseTest{
     @Step("Kampanya urun secimi yapılır")
     public void kampanyaSec(){
         waitBySeconds(10);
-        if(findElements("kampanyalarSecinizBirinciDropdown").size() > 0){
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 1. ürün seçiliyor!!!");
             waitBySeconds(4);
-            getElementWithKeyIfExists("kampanyalarSecinizBirinciDropdown");
-            clickElement("kampanyalarSecinizBirinciDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizDropdown");
+            clickElement("kampanyalarSecinizDropdown");
             //scrollToElementWithJs("kampanyalarSecinizBirinciDropdown");
             //clickToElementWithJs("kampanyalarSecinizBirinciDropdown");
             waitBySeconds(2);
@@ -1120,50 +1120,50 @@ public class BaseSteps extends BaseTest{
             waitBySeconds(2);
 
         }
-        if(findElements("kampanyalarSecinizIkinciDropdown").size() > 0){
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 2. ürün seçiliyor!!!");
             waitBySeconds(4);
-            getElementWithKeyIfExists("kampanyalarSecinizIkinciDropdown");
-            clickElement("kampanyalarSecinizIkinciDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizDropdown");
+            clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarIkıncıUrunIlkPizza");
-            clickElement("kampanyalarIkıncıUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
+            clickElement("kampanyalarIlkUrunIlkPizza");
             waitBySeconds(2);
 
         }
-        if(findElements("kampanyalarSecinizUcuncuDropdown").size() > 0){
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 3. ürün seçiliyor!!!");
             waitBySeconds(4);
-            scrollToElementWithJs("kampanyalarSecinizUcuncuDropdown");
-            getElementWithKeyIfExists("kampanyalarSecinizUcuncuDropdown");
-            clickElement("kampanyalarSecinizUcuncuDropdown");
+            scrollToElementWithJs("kampanyalarSecinizDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizDropdown");
+            clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarUcuncuUrunIlkPizza");
-            clickElement("kampanyalarUcuncuUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
+            clickElement("kampanyalarIlkUrunIlkPizza");
             waitBySeconds(2);
 
         }
-        if(findElements("kampanyalarSecinizDorduncuDropdown").size() > 0){
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 4. ürün seçiliyor!!!");
             waitBySeconds(4);
-            scrollToElementWithJs("kampanyalarSecinizDorduncuDropdown");
-            getElementWithKeyIfExists("kampanyalarSecinizDorduncuDropdown");
-            clickElement("kampanyalarSecinizDorduncuDropdown");
+            scrollToElementWithJs("kampanyalarSecinizDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizDropdown");
+            clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarDorduncuUrunIlkPizza");
-            clickElement("kampanyalarDorduncuUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
+            clickElement("kampanyalarIlkUrunIlkPizza");
             waitBySeconds(2);
 
         }
-        if(findElements("kampanyalarSecinizBesinciDropdown").size() > 0){
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 5. ürün seçiliyor!!!");
             waitBySeconds(4);
-            scrollToElementWithJs("kampanyalarSecinizBesinciDropdown");
-            getElementWithKeyIfExists("kampanyalarSecinizBesinciDropdown");
-            clickElement("kampanyalarSecinizBesinciDropdown");
+            scrollToElementWithJs("kampanyalarSecinizDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizDropdown");
+            clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarBesinciUrunIlkPizza");
-            clickElement("kampanyalarBesinciUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
+            clickElement("kampanyalarIlkUrunIlkPizza");
             waitBySeconds(2);
 
         }
