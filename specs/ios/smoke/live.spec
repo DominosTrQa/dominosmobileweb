@@ -69,7 +69,7 @@ Tags:smokeLiveiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır iOS
 * Adrese Teslim servis tipi seçilir
- Listelenen adreslerden test adresi seçilir
+* Listelenen adreslerden test adresi seçilir
  Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
