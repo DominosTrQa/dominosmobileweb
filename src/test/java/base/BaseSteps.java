@@ -24,7 +24,7 @@ import java.util.Vector;
 
 public class BaseSteps extends BaseTest{
 
-    public static int DEFAULT_MAX_ITERATION_COUNT = 150;
+    public static int DEFAULT_MAX_ITERATION_COUNT = 10;
     public static int DEFAULT_MILLISECOND_WAIT_AMOUNT = 100;
 
     private static Log4jLoggerAdapter logger = (Log4jLoggerAdapter) LoggerFactory
