@@ -132,7 +132,7 @@
   },
   {
     "key": "ilceAdalarStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[68]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[73]",
     "type": "xpath"
   },
   {
@@ -172,7 +172,7 @@
   },
   {
     "key": "mahalleBurgazadaStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[106]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"
   },
   {
@@ -182,7 +182,7 @@
   },
   {
     "key": "mahalleGelAlBurgazadaStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[107]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
     "type": "xpath"
   },
   {
