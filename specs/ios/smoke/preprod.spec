@@ -32,7 +32,7 @@ Yeni Kullanıcı İlk Kez Geliyor - Gel Al
 -----------------------------------------------
 Tags:smokePreprodiOS_YeniKullaniciIlkKezGeliyorGelAl
 
-* Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
@@ -42,11 +42,10 @@ Tags:smokePreprodiOS_YeniKullaniciIlkKezGeliyorGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -60,7 +59,7 @@ Tags:smokePreprodiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır iOS (Pre)
 * Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
 * Listelenen adreslerden test adresi seçilir
@@ -68,16 +67,17 @@ Tags:smokePreprodiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır iOS (Pre)
+* Adrese Teslim servis tipi seçilir
 * Listelenen adreslerden test adresi seçilir
-* Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
+ Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
-* Kampanya sayfasındaki ilk kampanya secilir
- Kampanya urun secimi yapılır
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
@@ -93,7 +93,7 @@ Tags:smokePreprodiOS_KullaniciIkinciKezGeliyoraGelAlUstMenu
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır iOS (Pre)
 * Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
@@ -102,21 +102,22 @@ Tags:smokePreprodiOS_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
-* Gel Al servis tipi seçili olduğundan emin olunur
-* Kalem ikonuna tıklanır
-* Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır iOS (Pre)
+ Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
+* Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Gel Al servis tipi seçili olduğundan emin olunur
+ Kalem ikonuna tıklanır
+ Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
+ Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -130,7 +131,7 @@ tags:smokePreprodiOS_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Kullanıcı e-posta ve şifresi ile giriş yapılır iOS (Pre)
 * Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
 * Listelenen adreslerden test adresi seçilir
@@ -140,11 +141,10 @@ tags:smokePreprodiOS_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -157,12 +157,15 @@ Servis Tipi Değiştiren Kullanıcı - Gel Al > Adrese Teslim (Üst Menü) KAMPA
 tags:smokePreprodiOS_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 
 * Dominos - Preprod ortamına gidilir
+* Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* İkinci kullanıcı e-posta ve şifresi ile giriş yapılır iOS (Pre)
 * Gel Al servis tipi seçilir
-* Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+ Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+ İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
 * Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
@@ -170,11 +173,10 @@ tags:smokePreprodiOS_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Listelenen adreslerden test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 urunlu kampanya için siparis secilir
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -195,11 +197,10 @@ tags:smokePreprodiOS_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstM
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir iOS
@@ -224,8 +225,8 @@ tags:smokePreprodiOS_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Kampanya sayfasındaki ilk kampanya secilir
-* 3 urunlu kampanya için siparis secilir iOS
+* Kampanya sayfasındaki ilk kampanya secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
