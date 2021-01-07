@@ -4,8 +4,9 @@
 * "2" saniye bekle
 
 # Kampanya sayfasındaki ilk kampanya secilir
-* "1" saniye bekle
-* Elementi bekle ve sonra tıkla "ilkKampanyaSec"
+* "5" saniye bekle
+ Elementi bekle ve sonra tıkla "ilkKampanyaSec"
+* Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
 
 # Büyük Boy Pizzalar - Gel Al kampanyası seçilir
 * Element var mı kontrol et "kampanyalarBuyukBoyPizzalarGelAlButon"
