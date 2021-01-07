@@ -16,7 +16,6 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
- 3 urunlu kampanya için siparis secilir
 * Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
@@ -43,11 +42,12 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorGelAl
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+ Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -79,11 +79,12 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Listelenen adreslerden ikinci test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 urunlu kampanya için siparis secilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ 3 Al 1 Öde kampanyası seçilir
+ 3 urunlu kampanya için siparis secilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -119,11 +120,13 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+ Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+ Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -147,11 +150,13 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+ Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+ Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -177,11 +182,13 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Listelenen adreslerden test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 urunlu kampanya için siparis secilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ 3 Al 1 Öde kampanyası seçilir
+ 3 urunlu kampanya için siparis secilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+ 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -202,11 +209,13 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ Büyük Boy Pizzalar - Gel Al kampanyası seçilir
+ Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+ Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
@@ -231,11 +240,13 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 urunlu kampanya için siparis secilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+ 3 Al 1 Öde kampanyası seçilir
+ 3 urunlu kampanya için siparis secilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+ 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
