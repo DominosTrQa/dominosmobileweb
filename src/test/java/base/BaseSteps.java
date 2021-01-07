@@ -24,7 +24,7 @@ import java.util.Vector;
 
 public class BaseSteps extends BaseTest{
 
-    public static int DEFAULT_MAX_ITERATION_COUNT = 5;
+    public static int DEFAULT_MAX_ITERATION_COUNT = 10;
     public static int DEFAULT_MILLISECOND_WAIT_AMOUNT = 100;
 
     private static Log4jLoggerAdapter logger = (Log4jLoggerAdapter) LoggerFactory
@@ -1170,6 +1170,74 @@ public class BaseSteps extends BaseTest{
 
 
     }
+
+    @Step("Kampanya urun secimi yapılır Android")
+    public void kampanyaSecAndroid(){
+        waitBySeconds(10);
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
+            logger.info("Kampanya 1. ürün seçiliyor!!!");
+            waitBySeconds(4);
+            getElementWithKeyIfExists("kampanyalarSecinizBirinciDropdown");
+            clickElement("kampanyalarSecinizBirinciDropdown");
+            //scrollToElementWithJs("kampanyalarSecinizBirinciDropdown");
+            //clickToElementWithJs("kampanyalarSecinizBirinciDropdown");
+            waitBySeconds(2);
+            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
+            clickElement("kampanyalarIlkUrunIlkPizza");
+            waitBySeconds(2);
+
+        }
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
+            logger.info("Kampanya 2. ürün seçiliyor!!!");
+            waitBySeconds(4);
+            getElementWithKeyIfExists("kampanyalarSecinizIkinciDropdown");
+            clickElement("kampanyalarSecinizIkinciDropdown");
+            waitBySeconds(2);
+            getElementWithKeyIfExists("kampanyalarIkıncıUrunIlkPizza");
+            clickElement("kampanyalarIkıncıUrunIlkPizza");
+            waitBySeconds(2);
+
+        }
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
+            logger.info("Kampanya 3. ürün seçiliyor!!!");
+            waitBySeconds(4);
+            //scrollToElementWithJs("kampanyalarSecinizUcuncuDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizUcuncuDropdown");
+            clickElement("kampanyalarSecinizUcuncuDropdown");
+            waitBySeconds(2);
+            getElementWithKeyIfExists("kampanyalarUcuncuUrunIlkPizza");
+            clickElement("kampanyalarUcuncuUrunIlkPizza");
+            waitBySeconds(2);
+
+        }
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
+            logger.info("Kampanya 4. ürün seçiliyor!!!");
+            waitBySeconds(4);
+            scrollToElementWithJs("kampanyalarSecinizDorduncuDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizDorduncuDropdown");
+            clickElement("kampanyalarSecinizDorduncuDropdown");
+            waitBySeconds(2);
+            getElementWithKeyIfExists("kampanyalarDorduncuUrunIlkPizza");
+            clickElement("kampanyalarDorduncuUrunIlkPizza");
+            waitBySeconds(2);
+
+        }
+        if(findElements("kampanyalarSecinizDropdown").size() > 0){
+            logger.info("Kampanya 5. ürün seçiliyor!!!");
+            waitBySeconds(4);
+            scrollToElementWithJs("kampanyalarSecinizBesinciDropdown");
+            getElementWithKeyIfExists("kampanyalarSecinizBesinciDropdown");
+            clickElement("kampanyalarSecinizBesinciDropdown");
+            waitBySeconds(2);
+            getElementWithKeyIfExists("kampanyalarBesinciUrunIlkPizza");
+            clickElement("kampanyalarBesinciUrunIlkPizza");
+            waitBySeconds(2);
+
+        }
+
+
+    }
+
     @Step("<key> key yolla elemente <text>")
     public void sendKeysWithNumpad(String key, String text){
         WebElement webElement = findElement(key);
