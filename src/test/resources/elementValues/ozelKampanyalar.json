@@ -1,7 +1,7 @@
 [
   {
     "key": "kampanyalarGelAlHaftaninKampanyalari",
-    "value":"(//span[contains(text(),'Gel Al Haftanın Kampanyaları')])[1]",
+    "value":"(//span[contains(text(),'Haftanın Kampanyaları')])[1]",
     "type": "xpath"
   },
   {
