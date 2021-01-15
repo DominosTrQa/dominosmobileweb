@@ -20,7 +20,7 @@
 
 # Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * "siparisGelAlMesafeliSatisSozlesmesi" alanına js ile kaydır
-* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
+ Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
@@ -202,6 +202,8 @@
 * "testotomasyon@hotmail.com" textini "siparisUyeDegilkenBilgilerEpostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenBilgilerTelefonTextbox"
 * "123456789" textini "siparisUyeDegilkenBilgilerTelefonTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Sipariş notu yazılır
