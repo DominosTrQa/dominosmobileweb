@@ -7,7 +7,7 @@
   },
   {
     "key": "tabIcecekler",
-    "value": "//div[@id='DPE_TR_SIDEPRODUCT_TAB2']",
+    "value": "//div[@id='DPE_TR_SIDEPRODUCT_TAB1']",
     "type": "xpath"
   },
   {

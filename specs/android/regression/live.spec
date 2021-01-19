@@ -355,11 +355,10 @@ Tags:regressionLive_SepeteKampanyaEklemeGelAlKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
@@ -545,10 +544,10 @@ Tags:regressionLive_SepeteYanUrunEklemeGelAlVarOlanUye
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir

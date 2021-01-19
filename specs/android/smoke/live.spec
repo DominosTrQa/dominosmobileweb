@@ -44,8 +44,6 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorGelAl
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- Büyük Boy Pizzalar - Gel Al kampanyası seçilir
- Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
@@ -81,8 +79,6 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- 3 Al 1 Öde kampanyası seçilir
- 3 urunlu kampanya için siparis secilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
@@ -122,11 +118,8 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- Büyük Boy Pizzalar - Gel Al kampanyası seçilir
- Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
- Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -152,11 +145,8 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- Büyük Boy Pizzalar - Gel Al kampanyası seçilir
- Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
- Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -184,11 +174,8 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- 3 Al 1 Öde kampanyası seçilir
- 3 urunlu kampanya için siparis secilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
- 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -211,11 +198,8 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- Büyük Boy Pizzalar - Gel Al kampanyası seçilir
- Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
- Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
@@ -242,11 +226,8 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
- 3 Al 1 Öde kampanyası seçilir
- 3 urunlu kampanya için siparis secilir
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
- 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
