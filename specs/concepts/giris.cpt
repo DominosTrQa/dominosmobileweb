@@ -232,7 +232,7 @@
 
 
 # Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
-* Hide keyboard
+ Hide keyboard
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
 * Element var mı kontrol et "uyeOlUyelikSatisSozlesmesiCheckbox"
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
