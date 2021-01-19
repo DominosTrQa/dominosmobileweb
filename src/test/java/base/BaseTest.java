@@ -40,6 +40,7 @@ public class BaseTest {
             System.out.println("LOCAL");
             if ("android".equalsIgnoreCase(selectPlatform)) {
                 System.out.println("android");
+                ChromeOptions options = new ChromeOptions();
                 Map<String, Object> prefs = new HashMap<String, Object>();
                 prefs.put("profile.default_content_setting_values.notifications", 2);
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.CHROME);
@@ -49,6 +50,8 @@ public class BaseTest {
                 //capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 //capabilities.setCapability(MobileCapabilityType.UDID, "52108da8eab3c393");
                 capabilities.setCapability(MobileCapabilityType.VERSION, "10");
+                options.addArguments("--disable-notifications");
+                capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
