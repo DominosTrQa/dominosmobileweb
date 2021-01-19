@@ -19,8 +19,8 @@
 * Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
 
 # Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
-* "siparisGelAlMesafeliSatisSozlesmesi" alanına js ile kaydır
-* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
+ "siparisGelAlMesafeliSatisSozlesmesi" alanına js ile kaydır
+ Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
@@ -44,8 +44,8 @@
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
-* "siparisMesafeliSatisSozlesmesi" alanına js ile kaydır
-* Elementi bekle ve sonra tıkla "siparisMesafeliSatisSozlesmesi"
+ "siparisMesafeliSatisSozlesmesi" alanına js ile kaydır
+ Elementi bekle ve sonra tıkla "siparisMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Siparişin alındığından emin olunur
@@ -202,6 +202,8 @@
 * "testotomasyon@hotmail.com" textini "siparisUyeDegilkenBilgilerEpostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenBilgilerTelefonTextbox"
 * "123456789" textini "siparisUyeDegilkenBilgilerTelefonTextbox" elemente yaz
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Sipariş notu yazılır
