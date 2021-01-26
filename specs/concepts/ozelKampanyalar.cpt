@@ -8,6 +8,20 @@
  Elementi bekle ve sonra tıkla "ilkKampanyaSec"
 * Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
 
+# Pizza sayfasindaki ilk pizza secilir
+* "5" saniye bekle
+ Elementi bekle ve sonra tıkla "ilkKampanyaSec"
+* Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
+
+# Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
+* "5" saniye bekle
+* Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "kampanyaliUruneUrunlereGitButon"
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
+* Kampanya sepete eklenir
+
 # Büyük Boy Pizzalar - Gel Al kampanyası seçilir
 * Element var mı kontrol et "kampanyalarBuyukBoyPizzalarGelAlButon"
 * Elementine tıkla "kampanyalarBuyukBoyPizzalarGelAlButon"

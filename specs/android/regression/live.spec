@@ -419,8 +419,7 @@ Tags:regressionLive_SepetePizzaEklemeGelAl
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 

@@ -612,7 +612,12 @@ public class BaseSteps extends BaseTest{
         ((JavascriptExecutor) webDriver).executeScript("arguments[0].click();", element);
         logger.info(key + " elementine tıklandı.");
     }
-
+    @Step({"Asagıya js ile kaydir"})
+    public void scrollWithJs(){
+        ((JavascriptExecutor) webDriver).executeScript("window.scrollBy(0,250)");
+        //((JavascriptExecutor) webDriver).executeScript("arguments[0].window.scrollBy(0,250);");
+        logger.info(" aşağı doğru kaydırıldı.");
+    }
 
     @Step({"<length> uzunlugunda random bir kelime üret ve <saveKey> olarak sakla"})
     public void createRandomString(int length, String saveKey) {
@@ -1201,7 +1206,6 @@ public class BaseSteps extends BaseTest{
         if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 3. ürün seçiliyor!!!");
             waitBySeconds(4);
-            //scrollToElementWithJs("kampanyalarSecinizUcuncuDropdown");
             getElementWithKeyIfExists("kampanyalarSecinizUcuncuDropdown");
             clickElement("kampanyalarSecinizUcuncuDropdown");
             waitBySeconds(2);
