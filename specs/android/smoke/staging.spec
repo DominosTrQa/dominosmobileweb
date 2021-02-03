@@ -11,20 +11,19 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Sipariş ver butonuna tıklanır (Stg)
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -38,18 +37,18 @@ Tags:smokeStaging_YeniKullaniciIlkKezGeliyorGelAl
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş ver butonuna tıklanır (Stg)
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -69,8 +68,8 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Adrese Teslim servis tipi seçilir
 * Listelenen adreslerden test adresi seçilir
-* Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
@@ -78,13 +77,12 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş ver butonuna tıklanır (Stg)
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -98,29 +96,31 @@ Tags:smokeStaging_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir (Stg)
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir (Stg)
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Kalem ikonuna tıklanır
 * Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş ver butonuna tıklanır (Stg)
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -142,12 +142,12 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş ver butonuna tıklanır (Stg)
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -161,7 +161,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
 * Listelenen adreslerden test adresi seçilir
@@ -171,12 +171,12 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Sipariş ver butonuna tıklanır (Stg)
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -187,21 +187,21 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 
 * Dominos - Staging ortamına gidilir
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+ Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Sipariş Ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -213,7 +213,7 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 
 * Dominos - Staging ortamına gidilir
 * Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Teslimat tipi tabına tıklanır
@@ -223,16 +223,15 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
-* Kampanya urun secimi yapılır
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
-* Sipariş Ver butonuna tıklanır
+* Sipariş ver butonuna tıklanır (Stg)
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
 * Seçili Adres ile Devam Et butonuna tıklanır
-* Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur

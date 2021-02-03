@@ -298,6 +298,11 @@
     "key": "siparisPuanlamaPopupKapatButon",
     "value":"(.//*[@id='close-button-1502352480979'])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "cuzdanIndirimiSilinecekEvetButton",
+    "value":"//a[@id='DPE_TR_ALERT_BUTTON_LEFT']",
+    "type": "xpath"
   }
 ]
 

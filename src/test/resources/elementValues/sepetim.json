@@ -68,6 +68,11 @@
     "key": "sepetteDurumVarMiKontrol",
     "value": "(//h2[contains(text(),'Dürüm')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "cuzdanPopupClose",
+    "value":"//i[@class='icon-times-dp alert__CloseButton-v13nzi-10 dmIfpJ']",
+    "type": "xpath"
   }
 
 ]
