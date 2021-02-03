@@ -4,6 +4,15 @@
 * Element var mı kontrol et "sepetimSayfasiSiparisVerButon"
 * Elementine tıkla "sepetimSayfasiSiparisVerButon"
 
+# Sipariş ver butonuna tıklanır (Stg)
+* "3" saniye bekle
+* "sepetimSayfasiSiparisVerButon" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "sepetimSayfasiSiparisVerButon"
+* "5" saniye bekle
+* "cuzdanPopupClose" li elementi bul ve varsa dokun
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "sepetimSayfasiSiparisVerButon" try
+
 # Sepette bir ürün olduğu kontrol edilir
 * Element var mı kontrol et "sepetim1UrunKontrol"
 

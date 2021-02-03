@@ -57,6 +57,16 @@
 * Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
+# Kapida odeme Nakit secenegi ile devam edilir (Stg)
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
+* "3" saniye bekle
+ "odemeSekliDevamButon" alanına kaydır
+* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+* "3" saniye bekle
+* "cuzdanIndirimiSilinecekEvetButton" li elementi bul ve varsa dokun
+* "3" saniye bekle
+
 # Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliKrediKartiButon"

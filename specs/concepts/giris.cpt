@@ -141,8 +141,10 @@
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceAdalarStg"
 * "3" saniye bekle
-* Elementi bekle ve sonra tıkla "secinizDropdown"
-* Elementi bekle ve sonra tıkla "mahalleBurgazadaStg"
+* Elementi bekle ve sonra tıkla "secinizDropdown" try
+* "3" saniye bekle
+* Elementi bekle ve sonra tıkla "mahalleBurgazadaStg" try
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
 
 # Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
@@ -197,6 +199,17 @@
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahalleGelAlAyazaga"
+* Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
+
+# Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir (Stg)
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilIstanbul"
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "ilceSarıyerStg"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "secinizDropdown"
+* Elementi bekle ve sonra tıkla "mahalleGelAlAyazagaStg"
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
 # İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
