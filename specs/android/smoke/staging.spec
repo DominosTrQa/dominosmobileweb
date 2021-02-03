@@ -138,7 +138,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Teslimat tipi tabına tıklanır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+ Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
