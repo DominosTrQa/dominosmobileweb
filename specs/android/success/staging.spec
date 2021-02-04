@@ -38,8 +38,8 @@ Tags:successStagingUyeAdresEklemeUye
 * İl, ilçe, mahalle Düzenle butonuna tıklanır
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sayfasindaki ilk pizza secilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
@@ -57,8 +57,8 @@ Tags:successStagingUyeAdresEklemeUyeliksiz
 * Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sayfasindaki ilk pizza secilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
@@ -98,11 +98,11 @@ Tags:successStagingSepeteKampanyaEklemeGelAlKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyası seçilir
-* Büyük Boy Pizzalar - Gel Al kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
@@ -118,11 +118,11 @@ Tags:successStagingSepeteKampanyaEklemeAdreseTeslimKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* 3 Al 1 Öde kampanyası seçilir
-* 3 Al 1 Öde kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* 3 Al 1 Öde kampanyasının sepete eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Pizza Ekleme - Gel Al
@@ -139,9 +139,9 @@ Tags:successStagingSepetePizzaEklemeGelAl
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Pizza Ekleme - Adrese Teslim
@@ -157,9 +157,9 @@ Tags:successStagingSepetePizzaEklemeAdreseTeslim
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Var Olan Üye
@@ -169,14 +169,14 @@ Tags:successStagingSepeteYanUrunEklemeAdreseTeslimVarOlanUye
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçilir
+* Listelenen adreslerden test adresi seçilir
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
@@ -194,7 +194,7 @@ Tags:successStagingSepeteYanUrunEklemeAdreseTeslimYeniUye
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
@@ -209,7 +209,7 @@ Tags:successStagingSepeteYanUrunEklemeAdreseTeslimUyeliksiz
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
@@ -219,15 +219,15 @@ Tags:successStagingSepeteYanUrunEklemeGelAlVarOlanUye
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
@@ -246,7 +246,7 @@ Tags:successStagingSepeteYanUrunEklemeGelAlYeniUye
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
@@ -262,7 +262,7 @@ Tags:successStagingSepeteYanUrunEklemeGelAlUyeliksiz
 * İçecekler sayfasına gidilir
 * İçecekler kategorisinden Coca-Cola seçilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Yeni Üye
@@ -276,9 +276,9 @@ Tags:successStagingSepeteUpcellEklemeGelAlYeniUye
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sepette bulunan ürünlerden Dürüm eklenir
 * Sepete Dürüm eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -320,9 +320,9 @@ Tags:successStagingAdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçilir
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 * Kalem ikonuna tıklanır
@@ -344,7 +344,7 @@ Tags:successStagingAdresSecimiYeniUyeGelAlAdreslerimAdresSecimi
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Yeni Adres Ekle butonuna tıklanır
@@ -367,9 +367,9 @@ Tags:successStagingOdemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
@@ -391,9 +391,9 @@ Tags:successStagingOdemeTipiSecimiYeniUyeGelAlKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
@@ -411,15 +411,14 @@ Tags:successStagingOdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
@@ -435,9 +434,9 @@ Tags:successStagingOdemeTipiSecimiVarOlanUyeGelAlMultinet
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
@@ -455,9 +454,9 @@ Tags:successStagingOdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
@@ -479,9 +478,9 @@ Tags:successStagingOdemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
@@ -502,12 +501,12 @@ Tags:successStagingSiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu yazılır
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -531,14 +530,14 @@ Tags:successStagingSiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu seçilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -567,7 +566,7 @@ Tags:successStagingSiparisVermeKapiNoManuel
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 
@@ -593,7 +592,7 @@ Tags:successStagingSiparisVermeKapiNoDropdown
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 

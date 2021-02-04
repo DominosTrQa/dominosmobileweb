@@ -1,7 +1,7 @@
 [
   {
     "key": "girisYapButon",
-    "value":"//a[@class=\"sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO bvaIHo\"]",
+    "value":".//a[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNIN']",
     "type": "xpath"
   },
   {
@@ -137,7 +137,7 @@
   },
   {
     "key": "mahalleAyazaga",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[112]",
     "type": "xpath"
   },
   {
@@ -147,7 +147,7 @@
   },
   {
     "key": "mahallePinarStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[131]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[133]",
     "type": "xpath"
   },
   {
