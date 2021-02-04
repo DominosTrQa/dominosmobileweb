@@ -1252,6 +1252,35 @@ public class BaseSteps extends BaseTest{
         logger.info("Elemente " + text + " texti yazıldı.");
     }
 
+    @Step("Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android")
+    public void pizzaAndCampaignSelection() {
+        waitBySeconds(5);
+        if (findElements("kampanyaliUrunlereGitButton").size() > 0) {
+            logger.info("Kampanyalı ürünlere gidiliyor");
+            waitBySeconds(4);
+            getElementWithKeyIfExists("kampanyaliUrunlereGitButton");
+            clickElement("kampanyaliUrunlereGitButton");
+            waitBySeconds(2);
+            getElementWithKeyIfExists("ilkKampanyaSec");
+            clickElement("ilkKampanyaSec");
+            waitBySeconds(2);
+            kampanyaSecAndroid();
+            waitBySeconds(2);
+            getElementWithKeyIfExists("kampanyaSepeteEkleButon");
+            clickElement("kampanyaSepeteEkleButon");
+            waitBySeconds(10);
+            existTapByKey("digitalOfferIstemiyorum");
 
+        }
+        if (findElements("sepeteEkleButon").size() > 0) {
+            logger.info("Pizza sepete ekleniyor");
+            waitBySeconds(4);
+            getElementWithKeyIfExists("sepeteEkleButon");
+            clickElement("sepeteEkleButon");
+            waitBySeconds(10);
+            existTapByKey("digitalOfferIstemiyorum");
+
+        }
+    }
 
 }

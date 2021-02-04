@@ -33,9 +33,9 @@ Tags:negativePreprod_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDe
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepette bir ürün olduğu kontrol edilir
+* Sepetim butonuna tıklanır
 * Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 
 
@@ -46,16 +46,16 @@ Tags:negativePreprod_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirile
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepette bir ürün olduğu kontrol edilir
+* Sepetim butonuna tıklanır
 * Gel Al seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 
 
@@ -73,7 +73,7 @@ Tags:negativePreprod_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegi
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır

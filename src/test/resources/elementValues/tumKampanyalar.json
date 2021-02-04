@@ -93,6 +93,11 @@
     "key": "ilkKampanyaSeciOS",
     "value":"DPE_TR_CAMPAIGNS_TAB0_CARD0",
     "type": "id"
+  },
+  {
+    "key": "kampanyaliUrunlereGitButton",
+    "value":"//a[@id='DPE_TR_PIZZADETAILV2_BUTTON_GOTOCAMPAIGN_STICKY']",
+    "type": "xpath"
   }
 
 ]
