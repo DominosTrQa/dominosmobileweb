@@ -38,7 +38,7 @@
 * "2" saniye bekle
  Hide keyboard
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
-* "3" saniye bekle
+* "5" saniye bekle
 
 # İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
