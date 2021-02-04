@@ -10,6 +10,11 @@
     "type": "xpath"
   },
   {
+    "key": "sepetimdeUrunVarMiKontrol",
+    "value": "(//*[@class='counter__Display-uj55e1-3 iqbEZ'])",
+    "type": "xpath"
+  },
+  {
     "key": "sepetimPromosyonKodu",
     "value": ".//*[@id='DPE_TR_BASKET_DROPDOWN']",
     "type": "xpath"

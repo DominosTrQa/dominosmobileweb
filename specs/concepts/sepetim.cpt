@@ -16,6 +16,9 @@
 # Sepette bir ürün olduğu kontrol edilir
 * Element var mı kontrol et "sepetim1UrunKontrol"
 
+# Sepetime gittikten sonra bir ürün olduğu kontrol edilir
+* Element var mı kontrol et "sepetimdeUrunVarMiKontrol"
+
 # Sepette üzeri çizili malzemesi olan bir ürün olduğu kontrol edilir
 * Elementi bekle ve sonra tıkla "sepetim1UrunKontrol"
 * Elementi bekle ve sonra tıkla "sepetUzeriCiziliUrun"

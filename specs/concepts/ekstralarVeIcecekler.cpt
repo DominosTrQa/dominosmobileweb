@@ -40,7 +40,7 @@
 * "2" saniye bekle
 * Element var mı kontrol et "tabIcecekler"
 * "2" saniye bekle
-* Elementine tıkla "tabIcecekler"
+* Elementi bekle ve sonra tıkla "tabIcecekler"
 
 # Ekmek Arası sayfasına gidilir
 * Elementi bekle ve sonra tıkla "tabEkmekArasi"

@@ -242,7 +242,7 @@
   },
   {
     "key": "menuProfilimButon",
-    "value": "(//*[contains(text(),'Profilim')])[2]",
+    "value": "(//i[@class='icon-chevron-right'])[3]",
     "type": "xpath"
   },
   {

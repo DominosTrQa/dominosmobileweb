@@ -38,8 +38,8 @@ Tags:successPreprod_UyeAdresEklemeUye
 * İl, ilçe, mahalle Düzenle butonuna tıklanır
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sayfasindaki ilk pizza secilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
@@ -57,8 +57,8 @@ Tags:successPreprod_UyeAdresEklemeUyeliksiz
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sayfasindaki ilk pizza secilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
