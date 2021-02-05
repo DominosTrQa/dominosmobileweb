@@ -261,7 +261,10 @@
 
 # Stg - Eklenen adres düzenlenir ve değişikliğin yansıdığı kontrol edilir
 * Hamburger menüye tıklanır
-* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+ Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Element var mı kontrol et "menuAdreslerimButon"
+* Elementine tıkla "menuAdreslerimButon"
+* Element var mı kontrol et "menuAdreslerimSeçiliAdresIleDevamEtButon"
 * "menuAdreslerimIlkAdresBasligi" li elementi bul ve değerini "ilkAdresBasligi" olarak sakla
 * Elementi bekle ve sonra tıkla "menuAdreslerimIlkAdresBasligi"
 * Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
