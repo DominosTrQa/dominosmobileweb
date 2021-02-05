@@ -1,8 +1,10 @@
 
 # Adrese Teslim servis tipi seçilir
+* Çerez Politikası kapatılır
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
 # Gel Al servis tipi seçilir
+* Çerez Politikası kapatılır
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Giriş Yap butonuna tıklanır
@@ -231,7 +233,9 @@
 * Elementi bekle ve sonra tıkla "mevcutKonumunuzButon"
 
 # Çerez Politikası kapatılır
-* Elementi bekle ve sonra tıkla "cerezPolitikasıKapatButon"
+* "5" saniye bekle
+* "cerezPolitikasıKapatButon" li buton varsa tıkla
+ Elementi bekle ve sonra tıkla "cerezPolitikasıKapatButon"
 
 # Random mail ve telefon ile üye olunur
 * Elementi bekle ve sonra tıkla "uyeOlAdTextbox"
