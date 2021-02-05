@@ -2,7 +2,7 @@ Smoke Live iOS
 =====================
 
 
-Yeni Kullanıcı İlk Kez Geliyor - Adrese Teslim KAMPANYA HATALI
+Yeni Kullanıcı İlk Kez Geliyor - Adrese Teslim
 -----------------------------------------------
 Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorAdreseTeslim
 
@@ -16,7 +16,7 @@ Tags:smokeLiveiOS_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir iOS
 * Kampanya sayfasındaki ilk kampanya secilir iOS
-* 3 urunlu kampanya için siparis secilir iOS
+* Kampanya urun secimi yapılır
 * Kampanya sepete eklenir iOS
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
