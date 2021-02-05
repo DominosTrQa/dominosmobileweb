@@ -5,6 +5,11 @@
     "type": "xpath"
   },
   {
+    "key": "girisYapButonNew",
+    "value":".//button[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNIN']",
+    "type": "xpath"
+  },
+  {
     "key": "adreseTeslimButon",
     "value": "//div[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_DELIVERY']",
     "type": "xpath"
@@ -37,6 +42,11 @@
   {
     "key": "uyeOlButon",
     "value": ".//a[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
+    "type": "xpath"
+  },
+  {
+    "key": "uyeOlButonNew",
+    "value": ".//button[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
     "type": "xpath"
   },
   {

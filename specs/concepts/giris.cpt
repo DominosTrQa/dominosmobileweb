@@ -6,8 +6,11 @@
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Giriş Yap butonuna tıklanır
-* "3" saniye bekle
-* Elementi bekle ve sonra tıkla "girisYapButon"
+* "5" saniye bekle
+ Elementi bekle ve sonra tıkla "girisYapButon"
+* "girisYapButon" li buton varsa tıkla
+* "5" saniye bekle
+* "girisYapButonNew" li buton varsa tıkla
 
 # Facebook ile Giriş Yap butonuna tıklanır
 * Elementi bekle ve sonra tıkla "facebookileGirisYapButon"
@@ -28,7 +31,10 @@
 
 # Üye Ol butonuna tıklanır
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "uyeOlButon"
+ Elementi bekle ve sonra tıkla "uyeOlButon"
+* "uyeOlButon" li buton varsa tıkla
+* "5" saniye bekle
+* "uyeOlButonNew" li buton varsa tıkla
 
 # Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
