@@ -51,8 +51,15 @@
 * Element var mı kontrol et "sepetteUrunEklemeDurum"
 * Elementine tıkla "sepetteUrunEklemeDurum"
 
+# Sepete ilk upsell eklenir
+* Element var mı kontrol et "ilkUpsellEkleButton"
+* Elementine tıkla "ilkUpsellEkleButton"
+
 # Sepete Dürüm eklendiği kontrol edilir
 * Element var mı kontrol et "sepetteDurumVarMiKontrol"
+
+# Sepete Coca-Cola eklendigi kontrol edilir
+* Element var mı kontrol et "sepetteCocaColaVarMiKontrol"
 
 # Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 * Element yok mu kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"

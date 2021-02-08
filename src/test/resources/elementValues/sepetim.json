@@ -75,8 +75,18 @@
     "type": "xpath"
   },
   {
+    "key": "sepetteCocaColaVarMiKontrol",
+    "value": "(//h2[contains(text(),'Coca')])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "cuzdanPopupClose",
     "value":"//i[@class='icon-times-dp alert__CloseButton-v13nzi-10 dmIfpJ']",
+    "type": "xpath"
+  },
+  {
+    "key": "ilkUpsellEkleButton",
+    "value":"//a[@id='DPE_TR_BASKET_BUTTON_SIDE_PRODUCT0']",
     "type": "xpath"
   }
 

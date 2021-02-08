@@ -174,7 +174,7 @@ Tags:successStagingSepeteYanUrunEklemeAdreseTeslimVarOlanUye
 * Listelenen adreslerden test adresi seçilir
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
@@ -192,7 +192,7 @@ Tags:successStagingSepeteYanUrunEklemeAdreseTeslimYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
@@ -225,7 +225,7 @@ Tags:successStagingSepeteYanUrunEklemeGelAlVarOlanUye
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
@@ -244,7 +244,7 @@ Tags:successStagingSepeteYanUrunEklemeGelAlYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
@@ -260,7 +260,7 @@ Tags:successStagingSepeteYanUrunEklemeGelAlUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
@@ -279,15 +279,15 @@ Tags:successStagingSepeteUpcellEklemeGelAlYeniUye
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden Dürüm eklenir
-* Sepete Dürüm eklendiği kontrol edilir
+* Sepete ilk upsell eklenir
+* Sepete Coca-Cola eklendigi kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Dürüm olduğu kontrol edilir
+ Siparis Onay sayfasinda Coca-Cola oldugu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim
@@ -406,8 +406,9 @@ Tags:successStagingOdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -415,8 +416,6 @@ Tags:successStagingOdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
 
@@ -428,6 +427,7 @@ Tags:successStagingOdemeTipiSecimiVarOlanUyeGelAlMultinet
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -495,6 +495,7 @@ Tags:successStagingSiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -520,8 +521,9 @@ Tags:successStagingSiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
-* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
@@ -558,9 +560,9 @@ Tags:successStagingSiparisVermeKapiNoManuel
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
@@ -584,9 +586,9 @@ Tags:successStagingSiparisVermeKapiNoDropdown
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
