@@ -218,7 +218,7 @@ tags:smokeStaging_ServisTipiDegistirenUyeliksizKullaniciGelAlAdreseTeslimTab
 * Çerez Politikası kapatılır
 * Teslimat tipi tabına tıklanır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Stg - İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
