@@ -207,7 +207,7 @@ Tags:successStagingSepeteYanUrunEklemeAdreseTeslimUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
@@ -605,7 +605,7 @@ Tags:successStagingSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+ Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -618,7 +618,7 @@ Tags:successStagingSubeAtamaVarOlanUyeGelAlIlce
 
 * Dominos - Staging ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+ Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -638,7 +638,7 @@ Tags:successStagingSubeAtamaYeniUyeGelAlIlIlceMahalle
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Şube Atama - Üyeliksiz - Adrese Teslim - İl İlçe Mahalle Sokak

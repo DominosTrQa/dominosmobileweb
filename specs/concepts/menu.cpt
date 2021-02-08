@@ -187,7 +187,7 @@
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokakStg"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "burgazadaDropdownBinaNo"
+ Elementi bekle ve sonra tıkla "burgazadaDropdownBinaNo"
 * "1" textini "menuAdresEkleDaireTextbox" elemente yaz
 * "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"
