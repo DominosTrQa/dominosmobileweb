@@ -53,6 +53,16 @@ public class BaseTest {
                 options.addArguments("--disable-notifications");
                 capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 
+                capabilities.setCapability("rotatable", true);
+                options.addArguments("test-type");
+                options.addArguments("ignore-certificate-errors");
+                options.addArguments("disable-translate");
+                options.addArguments("--dns-prefetch-disable");
+                options.addArguments("--disable-notifications");
+                capabilities.setCapability("unicodeKeyboard", true);
+                capabilities.setCapability("resetKeyboard", true);
+                capabilities.setCapability("noReset", true);
+
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
             //    webDriver.get("http://dpe-preprod.dominos.com.tr/");

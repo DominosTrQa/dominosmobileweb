@@ -64,6 +64,12 @@
 * Elementi bekle ve sonra tıkla "iceceklerButon1"
 * "2" saniye bekle
 
+# Icecekler kategorisininde ilk urun secilir
+* "5" saniye bekle
+ Elementi bekle ve sonra tıkla "ilkKampanyaSec"
+* Javascript ile xpath tıkla "(//div[.='SEPETE EKLE'])[1]"
+
 # İçecekler kategorisinden Coca-Cola seçilir
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "iceceklerCocaCola"
 * "2" saniye bekle
