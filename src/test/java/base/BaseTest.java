@@ -139,7 +139,7 @@ public class BaseTest {
                 webDriver = new IOSDriver<WebElement>(new URL("http://hub.testinium.io/wd/hub"), capabilities);
               //  webDriver.get("http://dpe-preprod.dominos.com.tr/");
                 try {
-                    Thread.sleep(20000);
+                    Thread.sleep(5000);
                 } catch (InterruptedException e) {
                 }
 
