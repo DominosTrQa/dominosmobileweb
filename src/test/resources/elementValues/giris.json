@@ -342,7 +342,7 @@
   },
   {
     "key": "ilceBesiktasStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[77]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[83]",
     "type": "xpath"
   },
   {
@@ -352,7 +352,7 @@
   },
   {
     "key": "mahalleEtilerStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[113]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[119]",
     "type": "xpath"
   },
   {
@@ -362,7 +362,7 @@
   },
   {
     "key": "sokakAhularStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[129]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[135]",
     "type": "xpath"
   },
   {
