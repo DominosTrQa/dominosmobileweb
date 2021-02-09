@@ -50,7 +50,7 @@
 
 # Teslimat tipi tabına tıklanır
 * "5" saniye bekle
-* Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon"
+* Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon2"
 
 # Anasayfadaki Adrese Teslim butonuna tıklanır
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiAdreseTeslim"

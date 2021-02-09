@@ -86,6 +86,11 @@
     "type": "xpath"
   },
   {
+    "key": "anasayfaTabTeslimatTipiButon2",
+    "value": "//div[@id='DPE_TR_TOPBAR_BUTTON_SERVICETYPESELECT']",
+    "type": "xpath"
+  },
+  {
     "key": "anasayfaAltBarSiparisHattiText",
     "value": "(.//*[@class='styled__SubTitle-sc-2i2f7q-13 dNEBIg'])[1]",
     "type": "xpath"
