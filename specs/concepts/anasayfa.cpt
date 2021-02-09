@@ -182,7 +182,7 @@
 
 # Anasayfadaki şubenin Adapazarı Şubesi olduğu kontrol edilir
 * "3" saniye bekle
-* "anasayfaKalemButon" elementi "Adapazarı Şubesi" değerini içeriyor mu kontrol et
+* "anasayfaKalemButon" elementi "Sakarya Şirinevler Şubesi" değerini içeriyor mu kontrol et
 
 # Servis tipi Adrese Teslim olarak değiştirilir
 * Seçimi "AdreseTeslim" olarak değiştir

@@ -604,7 +604,7 @@ Tags:successStagingSiparisVermeKapiNoDropdown
 Tags:successStagingSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Staging ortamına gidilir
-* Giriş Yap butonuna tıklanır
+ Giriş Yap butonuna tıklanır
  Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * Stg - İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
@@ -617,7 +617,7 @@ Tags:successStagingSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 Tags:successStagingSubeAtamaVarOlanUyeGelAlIlce
 
 * Dominos - Staging ortamına gidilir
-* Giriş Yap butonuna tıklanır
+ Giriş Yap butonuna tıklanır
  Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Stg - Gel Al için il, ilçe Sakarya - Erenler seçilir
