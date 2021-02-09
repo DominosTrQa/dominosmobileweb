@@ -276,7 +276,7 @@
 * "1" textini "menuAdresEkleDaireTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleKaydetButon"
 * "3" saniye bekle
-* Element var mı kontrol et "menuAdresEkleDegistirilmisAdres"
+ Element var mı kontrol et "menuAdresEkleDegistirilmisAdres"
 
 # Eklenen adres silinir ve silindiği kontrol edilir
 * Hamburger menüye tıklanır

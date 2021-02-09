@@ -312,7 +312,7 @@
   },
   {
     "key": "ilAdiyamanStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[4]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[5]",
     "type": "xpath"
   },
   {
@@ -337,32 +337,32 @@
   },
   {
     "key": "ilceBesiktas",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[82]",
-    "type": "xpath"
-  },
-  {
-    "key": "ilceBesiktasStg",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[83]",
     "type": "xpath"
   },
   {
-    "key": "mahalleEtiler",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[118]",
+    "key": "ilceBesiktasStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[82]",
     "type": "xpath"
   },
   {
-    "key": "mahalleEtilerStg",
+    "key": "mahalleEtiler",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[119]",
     "type": "xpath"
   },
   {
+    "key": "mahalleEtilerStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[118]",
+    "type": "xpath"
+  },
+  {
     "key": "sokakAhular",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[134]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[135]",
     "type": "xpath"
   },
   {
     "key": "sokakAhularStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[135]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[134]",
     "type": "xpath"
   },
   {
@@ -397,7 +397,12 @@
   },
   {
     "key": "ilceErenlerStg",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[71]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[76]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleBaglarStg",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[82]",
     "type": "xpath"
   },
   {
