@@ -327,12 +327,17 @@
   },
   {
     "key": "ilDuzce",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[23]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[24]",
     "type": "xpath"
   },
   {
     "key": "ilceAkcakoca",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[73]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[74]",
+    "type": "xpath"
+  },
+  {
+    "key": "mahalleAyazli",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[76]",
     "type": "xpath"
   },
   {
