@@ -98,10 +98,11 @@ Tags:successPreprod_SepeteKampanyaEklemeGelAlKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyası seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Orta Boy Domisos Soslu Bol Malzemos - Gel Al kampanyasının sepete eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya
@@ -117,11 +118,11 @@ Tags:successPreprod_SepeteKampanyaEklemeAdreseTeslimKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 
@@ -139,9 +140,9 @@ Tags:successPreprod_SepetePizzaEklemeGelAl
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Pizza Ekleme - Adrese Teslim
@@ -157,9 +158,9 @@ Tags:successPreprod_SepetePizzaEklemeAdreseTeslim
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Var Olan Üye
@@ -169,14 +170,14 @@ Tags:successPreprod_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçilir
+* Listelenen adreslerden test adresi seçilir
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
@@ -192,9 +193,9 @@ Tags:successPreprod_SepeteYanUrunEklemeAdreseTeslimYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
@@ -207,9 +208,9 @@ Tags:successPreprod_SepeteYanUrunEklemeAdreseTeslimUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
@@ -219,15 +220,15 @@ Tags:successPreprod_SepeteYanUrunEklemeGelAlVarOlanUye
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Yeni Üye
@@ -244,9 +245,9 @@ Tags:successPreprod_SepeteYanUrunEklemeGelAlYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Üyeliksiz
@@ -260,9 +261,9 @@ Tags:successPreprod_SepeteYanUrunEklemeGelAlUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Yeni Üye
@@ -276,18 +277,18 @@ Tags:successPreprod_SepeteUpcellEklemeGelAlYeniUye
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
+* Sepete ilk upsell eklenir
+* Sepete Coca-Cola eklendigi kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+ Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
 
 Servis Tipi Seçimi - Adrese Teslim
@@ -320,9 +321,9 @@ Tags:successPreprod_AdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Adrese Teslim servis tipi seçilir
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 * Kalem ikonuna tıklanır
@@ -367,9 +368,9 @@ Tags:successPreprod_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
@@ -391,9 +392,9 @@ Tags:successPreprod_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
@@ -411,15 +412,14 @@ Tags:successPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
@@ -429,15 +429,16 @@ Tags:successPreprod_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
@@ -455,9 +456,9 @@ Tags:successPreprod_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri üye olmayan kullanıcı için tamamlanır ve adres eklenmiş mi kontrol edilir
@@ -479,9 +480,9 @@ Tags:successPreprod_OdemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
@@ -496,13 +497,14 @@ Tags:successPreprod_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -521,8 +523,9 @@ Tags:successPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
@@ -531,9 +534,9 @@ Tags:successPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
@@ -559,12 +562,12 @@ Tags:successPreprod_SiparisVermeKapiNoManuel
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+* Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -585,9 +588,9 @@ Tags:successPreprod_SiparisVermeKapiNoDropdown
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır (Kapı no dropdown)
@@ -603,8 +606,8 @@ Tags:successPreprod_SiparisVermeKapiNoDropdown
 Tags:successPreprod_SubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+ Giriş Yap butonuna tıklanır
+ Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -616,8 +619,8 @@ Tags:successPreprod_SubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 Tags:successPreprod_SubeAtamaVarOlanUyeGelAlIlce
 
 * Dominos - Preprod ortamına gidilir
-* Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+ Giriş Yap butonuna tıklanır
+ Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al için il, ilçe Düzce - Akçakoca seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
