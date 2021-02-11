@@ -40,7 +40,7 @@
 
 # Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
-* "dominostest4@hotmail.com" textini "epostaTextbox" elemente yaz
+* "dominostest24@hotmail.com" textini "epostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
 * "a1w2d3r4D" textini "sifreTextbox" elemente yaz
 * "2" saniye bekle
@@ -49,6 +49,25 @@
 * "5" saniye bekle
 
 # İkinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Elementi bekle ve sonra tıkla "epostaTextbox"
+* "dominostest25@hotmail.com" textini "epostaTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifreTextbox"
+* "a1w2d3r4D" textini "sifreTextbox" elemente yaz
+ Hide keyboard
+* Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
+* "3" saniye bekle
+
+# Ucuncu kullanıcı e-posta ve şifresi ile giriş yapılır
+* Elementi bekle ve sonra tıkla "epostaTextbox"
+* "dominostest4@hotmail.com" textini "epostaTextbox" elemente yaz
+* Elementi bekle ve sonra tıkla "sifreTextbox"
+* "a1w2d3r4D" textini "sifreTextbox" elemente yaz
+* "2" saniye bekle
+ Hide keyboard
+* Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
+* "5" saniye bekle
+
+# Dorduncu kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
 * "dominostest10@hotmail.com" textini "epostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
