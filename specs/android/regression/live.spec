@@ -139,8 +139,8 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKveYeKazanKabulEdilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
@@ -164,8 +164,8 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilmezveYeKazanKabulEdilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
@@ -189,8 +189,8 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaBasarili
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
@@ -212,8 +212,8 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Üye Ol butonuna tıklanır
@@ -226,7 +226,7 @@ Tags:regressionLive_UyeOlmaSepetimEkranindaKVKKKabulEdilirveYeKazanKabulEdilmez
 * Eklenen adres seçilir ve anasayfaya yönlendirdiği kontrol edilir
 
 
-Üye Adres Ekleme - Üye
+Üye Adres Ekleme - Yeni Üye
 -----------------------
 Tags:regressionLive_UyeAdresEklemeUye
 
@@ -241,8 +241,8 @@ Tags:regressionLive_UyeAdresEklemeUye
 * İl, ilçe, mahalle Düzenle butonuna tıklanır
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
@@ -260,8 +260,8 @@ Tags:regressionLive_UyeAdresEklemeUyeliksiz
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Cazip Pizzalar kategorisinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
@@ -374,11 +374,11 @@ Tags:regressionLive_SepeteKampanyaEklemeAdreseTeslimKampanya
 * Çerez Politikası kapatılır
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
-* Büyük Boy Pizzalar kampanyası seçilir
-* Büyük Boy Pizzalar kampanyası için sipariş seçilir
+* Kampanya sayfasındaki ilk kampanya secilir
+* Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
 * Sepetim butonuna tıklanır
-* Büyük Boy Pizzalar kampanyasının sepete eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Kampanya Ekleme - Adrese Teslim - Kampanya - Pizza Düzenle
@@ -437,9 +437,9 @@ Tags:regressionLive_SepetePizzaEklemeAdreseTeslim
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Pizza Ekleme - Pizza Opsiyonel Seçimler
@@ -454,14 +454,13 @@ Tags:regressionLive_SepetePizzaEklemePizzaOpsiyonelSecimler
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
-* Gurme Pizzalar butonuna tıklanır
-* Tüm Pizzalar sayfasından Dört Peynirli seçilir
+* İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
  Pizza boyutu Büyük seçilir
  Kenar tipi Bol Sosis Klasik Kenar seçilir
  Ekstra malzemelerden Küp Sucuk eklenir
-* Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Pizza Ekleme - Pizza Opsiyonel - Malzeme Çıkarma
@@ -495,12 +494,12 @@ Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 * Kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Yeni Üye
@@ -516,9 +515,9 @@ Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimYeniUye
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Adrese Teslim - Üyeliksiz
@@ -531,9 +530,9 @@ Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimUyeliksiz
 * Çerez Politikası kapatılır
 * Ekstralar ve İçecekler butonuna tıklanır
 * İçecekler sayfasına gidilir
-* İçecekler kategorisinden Coca-Cola seçilir
+* Icecekler kategorisininde ilk urun secilir
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
 
 Sepete Yan Ürün Ekleme - Gel Al - Var Olan Üye
@@ -599,11 +598,11 @@ Tags:regressionLive_SepeteUpcellEklemeAdreseTeslimAdresSecimi
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepete ilk upsell eklenir
+* Sepete Coca-Cola eklendigi kontrol edilir
 
 
 Sepete Upcell Ekleme - Gel Al - Üye Olmadan
@@ -688,20 +687,20 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * "adreseTeslimButon" li adres tipi seçilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
-* Sepette bulunan ürünlerden sufle eklenir
-* Sepete Çikolatalı Sufle eklendiği kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
+* Sepete ilk upsell eklenir
+* Sepete Coca-Cola eklendigi kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 * Ye-Kazan pop up kapatılır
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
-
+ //////En son burada KALDIK
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl

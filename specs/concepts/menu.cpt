@@ -133,6 +133,14 @@
 * Elementine tıkla "menuAdreslerimButon"
 * Element var mı kontrol et "menuAdreslerimSeçiliAdresIleDevamEtButon"
 
+# Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir 2
+* "2" saniye bekle
+ Element var mı kontrol et "menuProfilimButon"
+ Elementi bekle ve sonra tıkla "menuProfilimButon"
+* Element var mı kontrol et "menuAdreslerimButon"
+* Elementine tıkla "menuAdreslerimButon"
+* Element var mı kontrol et "menuAdreslerimSeçiliAdresIleDevamEtButon"
+
 # Yeni Adres Ekle butonuna tıklanır
 * "menuAdreslerimYeniAdresEkleButon" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "menuAdreslerimYeniAdresEkleButon"
@@ -280,7 +288,7 @@
 
 # Eklenen adres silinir ve silindiği kontrol edilir
 * Hamburger menüye tıklanır
-* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
+* Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir 2
 * Elementi bekle ve sonra tıkla "menuAdreslerimAdresiDuzenleButon"
 * Elementi bekle ve sonra tıkla "menuAdreslerimDuzenleSilButon"
 * "3" saniye bekle

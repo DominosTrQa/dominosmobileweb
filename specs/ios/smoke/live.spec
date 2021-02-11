@@ -136,7 +136,7 @@ tags:smokeLiveiOS_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Çerez Politikası kapatılır
 * Listelenen adreslerden test adresi seçilir
 * Teslimat tipi tabına tıklanır
-* Gel Al servis tipi seçilir
+* Elementi bekle ve sonra tıkla "gelAlButon"
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
