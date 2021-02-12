@@ -50,9 +50,6 @@ public class BaseTest {
                 //capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 //capabilities.setCapability(MobileCapabilityType.UDID, "52108da8eab3c393");
                 capabilities.setCapability(MobileCapabilityType.VERSION, "10");
-                options.addArguments("--disable-notifications");
-                capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-
                 capabilities.setCapability("rotatable", true);
                 options.addArguments("test-type");
                 options.addArguments("ignore-certificate-errors");
@@ -62,7 +59,7 @@ public class BaseTest {
                 capabilities.setCapability("unicodeKeyboard", true);
                 capabilities.setCapability("resetKeyboard", true);
                 capabilities.setCapability("noReset", true);
-
+                capabilities.setCapability(ChromeOptions.CAPABILITY, options);
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
             //    webDriver.get("http://dpe-preprod.dominos.com.tr/");

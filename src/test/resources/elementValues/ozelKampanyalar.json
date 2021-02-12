@@ -71,7 +71,7 @@
   },
   {
     "key": "kampanyalarIlkUrunIlkPizza",
-    "value":"(//div[@class='styled__OptionProduct-kipobh-4 eVDVGy'])[1]",
+    "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST0_M_ITEM0']",
     "type": "xpath"
   },
   {
