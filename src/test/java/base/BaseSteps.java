@@ -1120,8 +1120,8 @@ public class BaseSteps extends BaseTest{
             //scrollToElementWithJs("kampanyalarSecinizBirinciDropdown");
             //clickToElementWithJs("kampanyalarSecinizBirinciDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
-            clickElement("kampanyalarIlkUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizzaiOS");
+            clickElement("kampanyalarIlkUrunIlkPizzaiOS");
             waitBySeconds(2);
 
         }
@@ -1131,8 +1131,8 @@ public class BaseSteps extends BaseTest{
             getElementWithKeyIfExists("kampanyalarSecinizDropdown");
             clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
-            clickElement("kampanyalarIlkUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarIkıncıUrunIlkPizza");
+            clickElement("kampanyalarIkıncıUrunIlkPizza");
             waitBySeconds(2);
 
         }
@@ -1143,8 +1143,8 @@ public class BaseSteps extends BaseTest{
             getElementWithKeyIfExists("kampanyalarSecinizDropdown");
             clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
-            clickElement("kampanyalarIlkUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarUcuncuUrunIlkPizza");
+            clickElement("kampanyalarUcuncuUrunIlkPizza");
             waitBySeconds(2);
 
         }
@@ -1155,8 +1155,8 @@ public class BaseSteps extends BaseTest{
             getElementWithKeyIfExists("kampanyalarSecinizDropdown");
             clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
-            clickElement("kampanyalarIlkUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarDorduncuUrunIlkPizza");
+            clickElement("kampanyalarDorduncuUrunIlkPizza");
             waitBySeconds(2);
 
         }
@@ -1167,8 +1167,8 @@ public class BaseSteps extends BaseTest{
             getElementWithKeyIfExists("kampanyalarSecinizDropdown");
             clickElement("kampanyalarSecinizDropdown");
             waitBySeconds(2);
-            getElementWithKeyIfExists("kampanyalarIlkUrunIlkPizza");
-            clickElement("kampanyalarIlkUrunIlkPizza");
+            getElementWithKeyIfExists("kampanyalarBesinciUrunIlkPizza");
+            clickElement("kampanyalarBesinciUrunIlkPizza");
             waitBySeconds(2);
 
         }

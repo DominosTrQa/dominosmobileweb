@@ -75,6 +75,11 @@
     "type": "xpath"
   },
   {
+    "key": "kampanyalarIlkUrunIlkPizzaiOS",
+    "value":"(//div[@class='styled__OptionProduct-kipobh-4 eVDVGy'])[1]",
+    "type": "xpath"
+  },
+  {
     "key": "kampanyalarIkıncıUrunIlkPizza",
     "value":"//div[@id='DPE_TR_COUPONDETAIL_DROPDOWN_PRODUCTLIST1_M_ITEM0']",
     "type": "xpath"
