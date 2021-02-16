@@ -643,12 +643,12 @@ Tags:regressionStaging_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 * Çerez Politikası kapatılır
 * "gelAlButon" li adres tipi seçilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 
 
 Adres Seçimi - Yeni Üye - Adrese Teslim - Manuel Adres Seçimi
@@ -682,12 +682,12 @@ Tags:regressionStaging_AdresSecimiYeniUyeGelAlManuelAdresSecimi
 * "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 
 
 Adres Seçimi - Üyeliksiz - Adrese Teslim - Manuel Adres Seçimi
@@ -718,12 +718,12 @@ Tags:regressionStaging_AdresSecimiUyeliksizGelAlManuelAdresSecimi
 * "gelAlButon" li adres tipi seçilir
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Kalem ikonuna tıklanır
 * İl, İlçe, Mahalle Düzenle butonuna tıklanır
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Pınar) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
-* Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 
 
 Adres Seçimi - Var Olan Üye - Adrese Teslim - Adreslerim - Adres Seçimi
@@ -755,7 +755,7 @@ Tags:regressionStaging_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 * Çerez Politikası kapatılır
 * "gelAlButon" li adres tipi seçilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
 * Listelenen adreslerden Kadıköy adresi seçilir
@@ -1726,7 +1726,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
@@ -1752,7 +1752,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Ye-Kazan pop up kapatılır
@@ -1781,7 +1781,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Temassız sözleşme seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -1809,7 +1809,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBa
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
@@ -1835,7 +1835,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
@@ -1864,7 +1864,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Zile basmayınız seçili olduğunda Mesafeli Satış Sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -1891,7 +1891,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu yazılır
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -1916,7 +1916,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu yazılır
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -1942,7 +1942,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu yazılır
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -1972,7 +1972,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Üye olmayan kullanıcı için Mesafeli Satış Sözleşmesi kabul edilir ve sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -1998,7 +1998,7 @@ Tags:regressionStaging_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Üye olmayan kullanıcı için Sipariş Notu yazılır
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
 * Üye olmayan kullanıcının sipariş kısmında bilgileri girilir
 * Siparişin alındığından emin olunur
@@ -2030,7 +2030,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 * Stg - Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu seçilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2060,7 +2060,7 @@ Tags:regressionStaging_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu seçilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2089,7 +2089,7 @@ Tags:regressionStaging_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Şubenin Test Pulse olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu seçilir
 * Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
@@ -2253,7 +2253,7 @@ Tags:regressionStaging_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Şube Atama - Yeni Üye - Adrese Teslim - İl İlçe Mahalle
@@ -2290,7 +2290,7 @@ Tags:regressionStaging_SubeAtamaUyeliksizGelAlIlIlceMahalle
 * Stg - Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Çerez Politikası kapatılır
-* Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+* Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 
 
 Şube Atama - Var Olan Üye - Adrese Teslim - İl İlçe Mahalle Sokak

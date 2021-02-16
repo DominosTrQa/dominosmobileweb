@@ -138,7 +138,7 @@ tags:smokeStaging_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Teslimat tipi tabına tıklanır
 * Elementi bekle ve sonra tıkla "gelAlButon"
 * Gel Al servis tipi seçili olduğundan emin olunur
- Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
+ Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olduğu kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir

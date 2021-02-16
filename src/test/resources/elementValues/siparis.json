@@ -110,11 +110,6 @@
     "type": "xpath"
   },
   {
-    "key": "siparisSubeTestPulse",
-    "value":"(//h3[contains(text(),'Test Pulse')])[1]",
-    "type": "xpath"
-  },
-  {
     "key": "siparisOnaySayfasiCikolataliSufleKontrol",
     "value":"(//div[contains(text(),'Çikolatalı Sufle')])[1]",
     "type": "xpath"
