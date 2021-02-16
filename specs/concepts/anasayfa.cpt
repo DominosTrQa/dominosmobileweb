@@ -143,18 +143,9 @@
 * "3" saniye bekle
 * "anasayfaKalemButon" elementi "99362 - Siparişe Kapali Şubesi" değerini içeriyor mu kontrol et
 
-# Anasayfadaki şubenin Test Pulse olduğu kontrol edilir
-* "5" saniye bekle
-* Element var mı kontrol et "anasayfaKalemButon"
-* "anasayfaKalemButon" elementi "Test" değerini içeriyor mu kontrol et
-
 # Anasayfadaki şubenin 99362 - Siparişe Kapalı Şube olmadığı kontrol edilir
 * "3" saniye bekle
 * Element yok mu kontrol et "anasayfaSipariseKapalıSubeKontrol"
-
-# Anasayfadaki şubenin Test Pulse olmadığı kontrol edilir
-* "3" saniye bekle
-* Element yok mu kontrol et "anasayfaTestPulseKontrol"
 
 # Anasayfadaki adresin Adıyaman olduğu kontrol edilir
 * "3" saniye bekle

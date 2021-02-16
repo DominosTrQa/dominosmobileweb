@@ -1,5 +1,4 @@
 [
-
   {
     "key": "hamburgerMenuProfilimbuton",
     "value": "//a[contains(text(),'Profilim')]",

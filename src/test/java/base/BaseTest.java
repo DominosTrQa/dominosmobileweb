@@ -62,7 +62,7 @@ public class BaseTest {
                 capabilities.setCapability(ChromeOptions.CAPABILITY, options);
                 URL url = new URL("http://127.0.0.1:4723/wd/hub");
                 webDriver = new AndroidDriver(url,capabilities);
-            //    webDriver.get("http://dpe-preprod.dominos.com.tr/");
+                //webDriver.get("http://dpe-preprod.dominos.com.tr/");
                 Thread.sleep(5000);
 
         }else if ("ios".equalsIgnoreCase(selectPlatform)) {
@@ -71,10 +71,10 @@ public class BaseTest {
                 capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "11.1.1");
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
                 capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone");
-               // capabilities.setCapability("automationName", "XCUITest");
+                //capabilities.setCapability("automationName", "XCUITest");
                 capabilities.setCapability(MobileCapabilityType.UDID, "2d328345dcc44fb8a7cd661c4ea06fd9291225a3");
                 DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
-               // desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
+                //desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
                 capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.IOS_XCUI_TEST);
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.SAFARI);
 
@@ -109,16 +109,16 @@ public class BaseTest {
                 options.addArguments("--disable-notifications");
                 options.addArguments("--host-resolver-rules=MAP *.useinsider.* 127.0.0.1");
                 capabilities.setCapability(ChromeOptions.CAPABILITY, options);
-                //    capabilities.setCapability("appPackage", "com.android.chrome");
-                //  capabilities.setCapability("appActivity", "com.google.android.apps.chrome.Main");
+                //capabilities.setCapability("appPackage", "com.android.chrome");
+                //capabilities.setCapability("appActivity", "com.google.android.apps.chrome.Main");
                 capabilities.setCapability("unicodeKeyboard", true);
                 capabilities.setCapability("resetKeyboard", true);
                 capabilities.setCapability("noReset", true);
                 webDriver = new AndroidDriver<>(new URL("http://hub.testinium.io/wd/hub"), capabilities);
-             //   webDriver.get("http://dpe-preprod.dominos.com.tr/");
+                //webDriver.get("http://dpe-preprod.dominos.com.tr/");
                 String versionOfDevice = System.getenv("version");
                 System.out.println("Version of running device is " + versionOfDevice);
-                // driver.manage().deleteAllCookies();
+                //driver.manage().deleteAllCookies();
 
                 }
              else {
@@ -134,23 +134,22 @@ public class BaseTest {
                 capabilities.setCapability("ensureCleanSession", true);
                 capabilities.setCapability("technologyPreview", true);
                 webDriver = new IOSDriver<WebElement>(new URL("http://hub.testinium.io/wd/hub"), capabilities);
-              //  webDriver.get("http://dpe-preprod.dominos.com.tr/");
+                //webDriver.get("http://dpe-preprod.dominos.com.tr/");
                 try {
                     Thread.sleep(5000);
                 } catch (InterruptedException e) {
                 }
 
 
-                // driver.manage().addCookie(new Cookie("mcgk", "QWYT"));
+                //driver.manage().addCookie(new Cookie("mcgk", "QWYT"));
 
 
                 for (Cookie cookie : webDriver.manage().getCookies()) {
                     System.out.println("Cookie name : " + cookie.getName() + " value : " + cookie.getValue());
                 }
 
-            webDriver.navigate().refresh();
-
-            webDriver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+                webDriver.navigate().refresh();
+                webDriver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 
 
                    }

@@ -1,5 +1,4 @@
 [
-
   {
     "key": "anasayfaTabSepetimButoniOS",
     "value": "(//*[contains(text(),'Sepete Ekle')])[3]",

@@ -35,9 +35,7 @@ public class BaseSteps extends BaseTest{
     private Actions actions = new Actions(webDriver);
 
     public static final int DEFAULT_WAIT = 10;
-
     public static final int MIN_WAIT = 5;
-
     public static final int MAX_WAIT = 20;
 
     private WebElement findElement(String key){
@@ -1172,8 +1170,6 @@ public class BaseSteps extends BaseTest{
             waitBySeconds(2);
 
         }
-
-
     }
 
     @Step("Kampanya urun secimi yapılır Android")
@@ -1279,8 +1275,6 @@ public class BaseSteps extends BaseTest{
             clickElement("sepeteEkleButon");
             waitBySeconds(10);
             existTapByKey("digitalOfferIstemiyorum");
-
         }
     }
-
 }

@@ -1,5 +1,4 @@
 [
-
   {
     "key": "dominosLogo",
     "value": "//div[@class='mobile__Logo-sc-1egphac-4 jWOqjO']",
@@ -213,11 +212,6 @@
   {
     "key": "anasayfaSipariseKapalıSubeKontrol",
     "value":"(//span[contains(text(),'Siparişe Kapalı Şube')])[1]",
-    "type": "xpath"
-  },
-  {
-    "key": "anasayfaTestPulseKontrol",
-    "value":"(//span[contains(text(),'Test Pulse')])[1]",
     "type": "xpath"
   }
 ]
