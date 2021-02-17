@@ -384,7 +384,7 @@ Tags:regressionPreprod_SepeteUpcellEklemeGelAlVarOlanUye
 * Sepete Çikolatalı Sufle eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
@@ -395,7 +395,7 @@ Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -419,7 +419,7 @@ Tags:regressionPreprod_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -504,7 +504,7 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDe
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -523,7 +523,7 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistiri
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -627,7 +627,7 @@ Tags:regressionPreprod_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenSe
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -650,7 +650,7 @@ Tags:regressionPreprod_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTi
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -723,7 +723,7 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -820,7 +820,7 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -838,7 +838,7 @@ Tags:regressionPreprod_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -904,7 +904,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -927,7 +927,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1016,7 +1016,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1039,7 +1039,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1150,7 +1150,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1173,7 +1173,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1284,7 +1284,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1307,7 +1307,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1418,7 +1418,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1529,7 +1529,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1552,7 +1552,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1663,7 +1663,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1776,7 +1776,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1799,7 +1799,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1887,7 +1887,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1910,7 +1910,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2021,7 +2021,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2044,7 +2044,7 @@ Tags:regressionPreprod_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2116,7 +2116,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2199,7 +2199,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2308,7 +2308,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2454,7 +2454,7 @@ Tags:regressionPreprod_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
@@ -2486,7 +2486,7 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
 * Gel Al için il Adıyaman seçilir
@@ -2552,7 +2552,7 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlce
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -2617,7 +2617,7 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2630,7 +2630,7 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2681,7 +2681,7 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
@@ -2708,7 +2708,7 @@ Tags:regressionPreprod_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
 * Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
@@ -2752,7 +2752,7 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2787,7 +2787,7 @@ Tags:regressionPreprod_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2855,7 +2855,7 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelik
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2916,7 +2916,7 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBi
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2965,7 +2965,7 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKaza
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -3010,7 +3010,7 @@ Tags:regressionPreprod_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır

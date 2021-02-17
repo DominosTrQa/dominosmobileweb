@@ -8,7 +8,7 @@ Tags:regressionLive_UyeGirisiBasarili
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim ve Gel Al butonları var mı kontrol edilir
 
 
@@ -491,7 +491,7 @@ Tags:regressionLive_SepeteYanUrunEklemeAdreseTeslimVarOlanUye
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
 * Listelenen adreslerden test adresi seçilir
@@ -541,7 +541,7 @@ Tags:regressionLive_SepeteYanUrunEklemeGelAlVarOlanUye
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
@@ -670,7 +670,7 @@ Tags:regressionLive_SepeteUpcellEklemeGelAlVarOlanUye
 * Sepete Çikolatalı Sufle eklendiği kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş adımındaki Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
 
@@ -681,7 +681,7 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * "2" saniye bekle
 * "adreseTeslimButon" li adres tipi seçilir
@@ -707,7 +707,7 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -815,7 +815,7 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegis
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -834,7 +834,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilem
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -938,7 +938,7 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServi
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -961,7 +961,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipin
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1034,7 +1034,7 @@ Tags:regressionLive_AdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1052,7 +1052,7 @@ Tags:regressionLive_AdresSecimiVarOlanUyeGelAlManuelAdresSecimi
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1149,7 +1149,7 @@ Tags:regressionLive_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1167,7 +1167,7 @@ Tags:regressionLive_AdresSecimiVarOlanUyeGelAlAdreslerimAdresSecimi
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1279,7 +1279,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1302,7 +1302,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlNakit
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1413,7 +1413,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1436,7 +1436,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1547,7 +1547,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1570,7 +1570,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1681,7 +1681,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1704,7 +1704,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSodexoYemekCeki
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1815,7 +1815,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1838,7 +1838,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -1949,7 +1949,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -1972,7 +1972,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2083,7 +2083,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2106,7 +2106,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2217,7 +2217,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2240,7 +2240,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2351,7 +2351,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2374,7 +2374,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2485,7 +2485,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2508,7 +2508,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2603,7 +2603,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2686,7 +2686,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2795,7 +2795,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2823,7 +2823,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -2966,7 +2966,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -2998,7 +2998,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3082,7 +3082,7 @@ Tags:regressionLiveSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -3095,7 +3095,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeGelAlYalnizcaIl
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al için il Adıyaman seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3161,7 +3161,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlce
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -3174,7 +3174,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeGelAlIlce
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al için il, ilçe Düzce - Akçakoca seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3240,7 +3240,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -3253,7 +3253,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeGelAlIlIlceMahalle
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -3319,7 +3319,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
@@ -3357,7 +3357,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
 * Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
@@ -3401,7 +3401,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmaktanVazgec
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * "2" saniye bekle
 * "adreseTeslimButon" li adres tipi seçilir
@@ -3436,7 +3436,7 @@ Tags:regressionLive_UyeKVKKIzniGuncellemeVarolanUyeAyrilmayiOnayla
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * "2" saniye bekle
 * "adreseTeslimButon" li adres tipi seçilir
@@ -3504,7 +3504,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecUyelikBil
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -3565,7 +3565,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaUyelikBilgi
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -3614,7 +3614,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmaktanVazgecYeKazan
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -3659,7 +3659,7 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeVarolanUyeAyrilmayiOnaylaYeKazan
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Kullanıcı e-posta ve şifresi ile giriş yapılır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
