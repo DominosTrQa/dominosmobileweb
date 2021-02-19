@@ -78,7 +78,7 @@
 
 # Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
-* "dominostest260@hotmail.com" textini "epostaTextbox" elemente yaz
+* "dominostest26@hotmail.com" textini "epostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
 * "a1w2d3r4D" textini "sifreTextbox" elemente yaz
  Hide keyboard
@@ -87,7 +87,7 @@
 
 # Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
-* "dominostest270@hotmail.com" textini "epostaTextbox" elemente yaz
+* "dominostest27@hotmail.com" textini "epostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
 * "a1w2d3r4D" textini "sifreTextbox" elemente yaz
  Hide keyboard
@@ -96,7 +96,7 @@
 
 # Telefon numarası doğru olan kullanıcı e-posta ve şifresi ile giriş yapılır
 * Elementi bekle ve sonra tıkla "epostaTextbox"
-* "sevgi.alkan@test.com" textini "epostaTextbox" elemente yaz
+* "emre.sonmez@test.com" textini "epostaTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "sifreTextbox"
 * "Test123" textini "sifreTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "uyeGirisiSayfasiGirisYapButon"
@@ -513,7 +513,7 @@
 
 # Dominos - Staging ortamına gidilir
 * "5" saniye bekle
-* "http://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
+* "https://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
 
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
