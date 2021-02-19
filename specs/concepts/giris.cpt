@@ -513,7 +513,7 @@
 
 # Dominos - Staging ortamına gidilir
 * "5" saniye bekle
-* "http://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
+* "https://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
 
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
