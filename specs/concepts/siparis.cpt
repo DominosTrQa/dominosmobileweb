@@ -232,7 +232,7 @@
 * Element var mı kontrol et "siparisNotEkleDropdownTestNotuBasligi"
 * Elementi bekle ve sonra tıkla "siparisNotEkleDropdownTestNotuBasligi"
 * "5" saniye bekle
-* Element var mı kontrol et "siparisNotEkleDropdownTestNotuIcerigi"
+ Element var mı kontrol et "siparisNotEkleDropdownTestNotuIcerigi"
 
 # Ye-Kazan pop up kapatılır
 * "3" saniye bekle

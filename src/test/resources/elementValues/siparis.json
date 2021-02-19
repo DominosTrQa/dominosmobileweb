@@ -221,7 +221,7 @@
   },
   {
     "key": "siparisSayfasiSiparisNotuTextbox",
-    "value":"(//*[@id='deliveryInstructions'])",
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_INPUT_NOTES_GUEST'])",
     "type": "xpath"
   },
   {
