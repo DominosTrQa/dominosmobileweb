@@ -337,7 +337,7 @@
 * "3" saniye bekle
 
 # Seçili Adres ile Devam Et butonuna tıklanır
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "kayıtlıAdreslerSeciliAdresIleDevamEtButon"
 
 # Kaydedilen email ile giriş yapılır
@@ -413,7 +413,7 @@
 * Elementi bekle ve sonra tıkla "ilceAkcakoca"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
-* Elementi bekle ve sonra tıkla "ilceAkcakoca"
+* Elementi bekle ve sonra tıkla "mahalleAyazli"
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 
