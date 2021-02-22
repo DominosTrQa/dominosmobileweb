@@ -88,6 +88,9 @@
 * Element var mı kontrol et "menuPizzaTakipDijitalPizzaTakipSistemiText"
 
 # Notlarım butonuna basılır
+* "2" saniye bekle
+* Element var mı kontrol et "menuProfilimButon"
+* Elementi bekle ve sonra tıkla "menuProfilimButon"
 * Elementi bekle ve sonra tıkla "menuNotlarimButon"
 
 # Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
@@ -182,7 +185,7 @@
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleCaddeAyisigiSokak"
 * "1" textini "menuAdresEkleApartmanNoTextbox" elemente yaz
-* Elementi bekle ve sonra tıkla "burgazadaDropdownBinaNo"
+ Elementi bekle ve sonra tıkla "burgazadaDropdownBinaNo"
 * "1" textini "menuAdresEkleDaireTextbox" elemente yaz
 * "Test" textini "menuAdresEkleAdresAdiTextbox" elemente yaz
 * Elementi bekle ve sonra tıkla "menuAdresEkleTelefonTextbox"

@@ -408,7 +408,7 @@ Tags:successPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 * Giriş Yap butonuna tıklanır
 * Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -416,8 +416,6 @@ Tags:successPreprod_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
 
@@ -529,8 +527,8 @@ Tags:successPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
-* Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
-* Yeni not eklenir ve eklendiği kontrol edilir
+ Yeni Not Ekle butonuna basılır ve popup açıldığı kontrol edilir
+ Yeni not eklenir ve eklendiği kontrol edilir
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
@@ -538,15 +536,15 @@ Tags:successPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu seçilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Test içerisinde eklenen adres ve eklenen not silinir
+ Test içerisinde eklenen adres ve eklenen not silinir
 
 
 Sipariş Verme - Kapı No Manuel
