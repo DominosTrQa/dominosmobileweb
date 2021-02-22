@@ -520,7 +520,6 @@ Tags:successPreprod_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 
 * Dominos - Preprod ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* "20" saniye bekle
 * Altinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçilir
