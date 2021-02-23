@@ -693,14 +693,13 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapAdreseTeslim
 * Sepete ilk upsell eklenir
 * Sepete Coca-Cola eklendigi kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
-* Sipariş Onay sayfasında Çikolatalı Sufle olduğu kontrol edilir
+* Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Ye-Kazan pop up kapatılır
- Test içerisinde eklenen adres silinir
+* Siparişin alındığından emin olunur
 
- //////En son burada KALDIK
+
 Sepete Upcell Ekleme - Var Olan Kullanıcı Giriş Yap - Gel Al
 -----------------------------------------------
 Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
@@ -785,9 +784,9 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimUyeliksizSepetteServisTipininDeg
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 
 
@@ -817,14 +816,14 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimVarOlanSepetteServisTipininDegis
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
+* Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 
 
@@ -862,9 +861,9 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteServisTipininDegis
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Adrese Teslim seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
 
 
@@ -900,9 +899,9 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimUyeliksizSepetteUrunVarkenServis
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
 * Anasayfadaki Adrese Teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -940,17 +939,17 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimVarOlanUyeSepetteUrunVarkenServi
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
 * Anasayfadaki Adrese Teslim butonuna tıklanır
-* Gel Al servis tipi seçilir
+* Gel Al servis tipi secilir (No Cookie)
 * Servis tipi değişikliğinde çıkan pop up kontrol edilir ve Evet butonuna tıklanır
 * Gel Al servis tipi seçili olduğundan emin olunur
 
@@ -993,9 +992,9 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTi
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
-* Sepette bir ürün olduğu kontrol edilir
+* Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
 * Anasayfadaki Adrese Teslim butonuna tıklanır
 * Gel Al servis tipi seçilir
@@ -1003,6 +1002,7 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTi
 * Gel Al servis tipi seçili olduğundan emin olunur
 
 
+ //////En son burada KALDIK
 Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
@@ -1036,7 +1036,7 @@ Tags:regressionLive_AdresSecimiVarOlanUyeAdresTeslimManuelAdresSecimi
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
