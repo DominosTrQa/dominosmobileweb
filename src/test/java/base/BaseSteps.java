@@ -1277,4 +1277,44 @@ public class BaseSteps extends BaseTest{
             existTapByKey("digitalOfferIstemiyorum");
         }
     }
+
+    @Step("<text> Giris dizayn secimi yapilir")
+    public void girisDizaynSecimi(String text) {
+        waitBySeconds(5);
+        if (findElements("girisYapButon").size() > 0 && findElements("uyeOlButon").size() > 0) {
+            logger.info("Eski Dizayna gidiliyor");
+            switch (text) {
+                case "girisYap":
+                    waitBySeconds(2);
+                    getElementWithKeyIfExists("girisYapButon");
+                    clickElement("girisYapButon");
+                    break;
+                case "UyeOl":
+                    waitBySeconds(2);
+                    getElementWithKeyIfExists("uyeOlButon");
+                    clickElement("uyeOlButon");
+                    break;
+            }
+        } else {
+            logger.info("Yeni dizayna gidiliyor");
+            waitBySeconds(4);
+            getElementWithKeyIfExists("girisYapUyeOlButon");
+            clickElement("girisYapUyeOlButon");
+            switch (text) {
+                case "girisYap":
+                    waitBySeconds(2);
+                    getElementWithKeyIfExists("loginTabButon");
+                    clickElement("loginTabButon");
+                    break;
+
+                case "UyeOl":
+                    waitBySeconds(2);
+                    getElementWithKeyIfExists("uyeOlTabButon");
+                    clickElement("uyeOlTabButon");
+                    break;
+
+            }
+        }
+    }
+
 }

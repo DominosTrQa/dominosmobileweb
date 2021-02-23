@@ -5,8 +5,18 @@
     "type": "xpath"
   },
   {
-    "key": "girisYapButonNew",
-    "value":".//button[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNIN']",
+  "key": "girisYapUyeOlButon",
+  "value":"//a[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
+  "type": "xpath"
+  },
+  {
+    "key": "uyeOlTabButon",
+    "value":"//div[@id='DPE_TR_TAB_BUTTON1']",
+    "type": "xpath"
+  },
+  {
+    "key": "loginTabButon",
+    "value":"//div[@id='DPE_TR_TAB_BUTTON0']",
     "type": "xpath"
   },
   {
