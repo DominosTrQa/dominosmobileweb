@@ -149,7 +149,7 @@
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceSarıyer"
-* "3" saniye bekle
+* "5" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "mahallePinar"
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
@@ -274,6 +274,7 @@
  Elementi bekle ve sonra tıkla "cerezPolitikasıKapatButon"
 
 # Random mail ve telefon ile üye olunur
+* "3" saniye bekle
 * Elementi bekle ve sonra tıkla "uyeOlAdTextbox"
 * "uyeOlAdTextbox" li elementi bul ve "Test" değerini tek tek yaz
 * Elementi bekle ve sonra tıkla "uyeOlSoyadTextbox"

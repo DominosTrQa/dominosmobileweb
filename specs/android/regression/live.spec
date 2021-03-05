@@ -997,7 +997,7 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTi
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
 * Anasayfadaki Adrese Teslim butonuna tıklanır
-* Gel Al servis tipi seçilir
+* Gel Al servis tipi secilir (No Cookie)
 * Servis tipi değişikliğinde çıkan pop up kontrol edilir ve Evet butonuna tıklanır
 * Gel Al servis tipi seçili olduğundan emin olunur
 
@@ -1151,7 +1151,7 @@ Tags:regressionLive_AdresSecimiVarOlanUyeAdreseTeslimAdreslerimAdresSecim
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
@@ -1241,7 +1241,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1265,6 +1265,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1285,6 +1286,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1329,6 +1331,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1375,7 +1378,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1419,6 +1422,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1463,6 +1467,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1509,6 +1514,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartSodexoKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
@@ -1553,6 +1559,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
 * Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
