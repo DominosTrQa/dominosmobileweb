@@ -1002,7 +1002,6 @@ Tags:regressionLive_ServisTipiSecimiAdreseTeslimYeniUyeSepetteUrunVarkenServisTi
 * Gel Al servis tipi seçili olduğundan emin olunur
 
 
- //////En son burada KALDIK
 Servis Tipi Seçimi - Gel Al - Yeni Üye - Sepette Ürün Varken Servis Tipinin Değiştirilmesi
 -----------------------------------------------
 Tags:regressionLive_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDegistirilmesi
@@ -1282,17 +1281,14 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
-* Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
 * Test içerisinde eklenen adres silinir
@@ -1332,7 +1328,6 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimNakit
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
-* Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1409,7 +1404,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
-
+/////Buraya kadar yapıldı
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Kredi Kartı
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
