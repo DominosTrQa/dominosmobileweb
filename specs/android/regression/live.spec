@@ -1404,7 +1404,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
 
-/////Buraya kadar yapıldı
+
 Ödeme Tipi Seçimi - Var Olan Üye - Adrese Teslim - Kredi Kartı
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
@@ -1744,7 +1744,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSodexoYemekCeki
 * Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
 
-
+////Buraya Kadar
 Ödeme Tipi Seçimi - Üyeliksiz - Gel Al - Sodexo Yemek Çeki
 ----------------------------------------
 Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSodexoYemekCeki
