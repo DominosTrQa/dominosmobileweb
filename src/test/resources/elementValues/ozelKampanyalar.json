@@ -206,11 +206,6 @@
   },
   {
     "key": "digitalOfferIstemiyorum",
-    "value": "//a[@class='styled__Button-sc-11eu9u6-17 jNCAKb sc-1mahmit-0-a-buttons__ButtonBase-gEUuAO gHgUPZ']",
-    "type": "xpath"
-  },
-  {
-    "key": "buguneOzelKampanyalarIstemiyorum",
     "value": "//div[@class='styled__ModalCloseButton-sc-11eu9u6-19 dczlTE modalDialog__CloseButton-sc-1wmoa97-2 bCJEoT']",
     "type": "xpath"
   }
