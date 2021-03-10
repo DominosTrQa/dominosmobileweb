@@ -141,7 +141,7 @@
   },
   {
     "key": "siparisOnaySayfasiSmartSodexoKartKontrol",
-    "value":"(//h3[contains(text(),'Smart Sodexo Kart')])[1]",
+    "value":"(//h3[contains(text(),'Sodexo')])[1]",
     "type": "xpath"
   },
   {
