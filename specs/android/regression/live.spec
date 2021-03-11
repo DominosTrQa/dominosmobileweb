@@ -1291,7 +1291,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimNakit
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Sipariş Onay sayfasında Nakit ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Nakit
@@ -1560,7 +1560,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Smart Sodexo Kart
@@ -1780,7 +1780,8 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1820,19 +1821,20 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketKart
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Kart ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Kart
@@ -1868,7 +1870,8 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1914,7 +1917,8 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSmartTicketYemekCeki
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1954,19 +1958,21 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartTicketYemekCeki
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SmartTicket Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında SmartTicket Yemek Çeki ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SmartTicket Yemek Çeki
@@ -2002,7 +2008,8 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSmartTicketYemekCeki
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2048,7 +2055,8 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimMultinet
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2088,19 +2096,21 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Multinet
@@ -2136,7 +2146,8 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimMultinet
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2182,7 +2193,8 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2222,19 +2234,21 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSetCard
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak SetCard ödeme tipi seçilir
 * Sipariş Onay sayfasında SetCard ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - SetCard
@@ -2270,7 +2284,8 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2316,7 +2331,8 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimPayeKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2356,19 +2372,21 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimPayeKart
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Paye Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Paye Kart ödeme tipi olduğu kontrol edilir
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Paye Kart
@@ -2404,7 +2422,8 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimPayeKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2450,7 +2469,8 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeAdreseTeslimOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2490,19 +2510,21 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimOnlineOdeme
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Online Ödeme tipi seçilir
 * Gerekli pop up açıldı mı kontrol edilir ve Tamam butonuna tıklanır
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Ödeme Tipi Seçimi - Var Olan Üye - Gel Al - Online Ödeme
@@ -2538,7 +2560,8 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizAdreseTeslimOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2586,7 +2609,8 @@ Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimTemassizTeslimat
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2608,16 +2632,18 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Temassız Teslimat checkbox seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -2625,7 +2651,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimTemassizTeslimat
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Temassız Teslimat olduğu kontrol edilir
 * Ye-Kazan pop up kapatılır
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Temassız Teslimat
@@ -2640,7 +2666,8 @@ Tags:regressionLive_SiparisNotuEklemeUyeliksizAdreseTeslimTemassizTeslimat
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2669,7 +2696,8 @@ Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimTemassızLutfenZileBasma
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2691,16 +2719,18 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Lütfen zile basmayınız checkbox seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
@@ -2708,7 +2738,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimLutfenZileBasmayin
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun Lütfen zile basmayınız olduğu kontrol edilir
 * Ye-Kazan pop up kapatılır
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Üyeliksiz - Adrese Teslim - Lütfen Zile Basmayın
@@ -2723,7 +2753,8 @@ Tags:regressionLive_SiparisNotuEklemeUyeliksizAdreseTeslimLutfenZileBasmayin
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2752,7 +2783,8 @@ Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimNotEkleme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2800,16 +2832,18 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu yazılır
@@ -2817,7 +2851,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimNotEkleme
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında sipariş notunun yazılan text olduğu kontrol edilir
 * Ye-Kazan pop up kapatılır
-* Test içerisinde eklenen adres silinir
+ Test içerisinde eklenen adres silinir
 
 
 Sipariş Notu Ekleme - Varolan Üye - Gel Al - Not Ekleme
@@ -2857,7 +2891,8 @@ Tags:regressionLive_SiparisNotuEklemeUyeliksizAdreseTeslimNotEkleme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2918,7 +2953,8 @@ Tags:regressionLive_SiparisNotuEklemeYeniUyeAdreseTeslimVarOlanNotuEkleme
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2971,7 +3007,8 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Hamburger menüye tıklanır
 * Notlarım butonuna basılır
@@ -2980,19 +3017,20 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeAdreseTeslimVarOlanNotuEkleme
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
+ Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
-* Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Adalar - Burgazada için adres bilgileri tamamlanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
 * Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
 * Sipariş notu seçilir
 * Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
 * Siparişin alındığından emin olunur
 * Sipariş Sonucu sayfasında Test Not İçeriği olduğu kontrol edilir
-* Test içerisinde eklenen adres ve eklenen not silinir
+ Test içerisinde eklenen adres ve eklenen not silinir
 
 
 Sipariş Notu Ekleme - Var Olan Üye - Gel Al - Var Olan Notu Ekleme
@@ -3245,7 +3283,8 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalle
 * Giriş Yap butonuna tıklanır
 * Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
-* İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* Listelenen adreslerden test adresi seçilir
+ İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
 * Anasayfadaki adresin Adalar - Burgazada olduğu kontrol edilir
 
