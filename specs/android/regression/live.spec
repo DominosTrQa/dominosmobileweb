@@ -1423,7 +1423,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimKrediKarti
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
  Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Kredi Kartı ödeme tipi seçilir
 * Sipariş Onay sayfasında Kredi Kartı ödeme tipi olduğu kontrol edilir
  Test içerisinde eklenen adres silinir
@@ -1557,7 +1557,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSmartSodexoKart
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
  Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Smart Sodexo Kart ödeme tipi seçilir
 * Sipariş Onay sayfasında Smart Sodexo Kart ödeme tipi olduğu kontrol edilir
  Test içerisinde eklenen adres silinir
@@ -1694,7 +1694,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimSodexoYemekCeki
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
  Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Sodexo Yemek Çeki ödeme tipi seçilir
 * Sipariş Onay sayfasında Sodexo Yemek Çeki ödeme tipi olduğu kontrol edilir
  Test içerisinde eklenen adres silinir
@@ -2107,7 +2107,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeAdreseTeslimMultinet
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
  Adalar - Burgazada için adres bilgileri tamamlanır
-* Seçili Adres ile Devam Et butonuna tıklanır
+ Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Multinet ödeme tipi seçilir
 * Sipariş Onay sayfasında Multinet ödeme tipi olduğu kontrol edilir
  Test içerisinde eklenen adres silinir
@@ -3123,7 +3123,7 @@ Tags:regressionLiveSubeAtamaVarOlanUyeAdreseTeslimYalnizcaIl
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Yedinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl Adıyaman seçilir, ilçe seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -3202,7 +3202,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlce
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Yedinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe Düzce - Akçakoca seçilir , mahalle seçiminin gelmediği doğrulanır
 * Çerez Politikası kapatılır
@@ -3361,7 +3361,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokak
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Yedinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Ahular) seçilir
 * Çerez Politikası kapatılır
@@ -3399,7 +3399,7 @@ Tags:regressionLive_SubeAtamaVarOlanUyeAdreseTeslimIlIlceMahalleSokakKapiNo
 
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
-* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Yedinci kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese Teslim servis tipi seçilir
 * İl, ilçe, mahalle, sokak (İstanbul, Beşiktaş, Etiler, Bahtiyar) seçilir ve Seçili Adres ile Devam Et butonuna tıklanamadığı görülür
 * Apartman numarası seçilir ve Seçili Adres ile Devam Et butonuna tıklanır
