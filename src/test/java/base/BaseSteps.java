@@ -1295,7 +1295,25 @@ public class BaseSteps extends BaseTest{
                     clickElement("uyeOlButon");
                     break;
             }
-        } else {
+        } else if (findElements("yeniDizaynKontrolAnimation").size() > 0 ) {
+            logger.info("Yeni dizayna gidiliyor 2");
+            waitBySeconds(4);
+            getElementWithKeyIfExists("girisYapUyeOlButon");
+            clickElement("girisYapUyeOlButon");
+            switch (text) {
+                case "girisYap":
+                    waitBySeconds(2);
+                    getElementWithKeyIfExists("loginTabButon");
+                    clickElement("loginTabButon");
+                    break;
+                case "UyeOl":
+                    waitBySeconds(2);
+                    getElementWithKeyIfExists("uyeOlTabButon");
+                    clickElement("uyeOlTabButon");
+                    break;
+            }
+        }
+        else {
             logger.info("Yeni dizayna gidiliyor");
             waitBySeconds(4);
             getElementWithKeyIfExists("girisYapUyeOlButon");

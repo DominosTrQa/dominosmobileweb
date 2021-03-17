@@ -213,5 +213,10 @@
     "key": "anasayfaSipariseKapalıSubeKontrol",
     "value":"(//span[contains(text(),'Siparişe Kapalı Şube')])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "yeniDizaynKontrolAnimation",
+    "value":"//img[@class='styled__Banner-ibejwf-7 hHEBfk']",
+    "type": "xpath"
   }
 ]
