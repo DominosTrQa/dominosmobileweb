@@ -6,7 +6,7 @@
   },
   {
   "key": "girisYapUyeOlButon",
-  "value":"//a[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
+  "value":"//*[@id='DPE_TR_SERVICETYPEMODAL_BUTTON_SIGNUP']",
   "type": "xpath"
   },
   {
