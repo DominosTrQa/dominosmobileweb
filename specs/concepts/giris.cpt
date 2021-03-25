@@ -522,7 +522,8 @@
 
 # Dominos - Staging ortamına gidilir
 * "5" saniye bekle
-* "https://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
+* "https://staging-tr-ui.dominos.com.tr/" adresine git
+"https://k8s-tr-we-ui-stage.dominos.com.tr/" adresine git
 
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
@@ -530,8 +531,10 @@
 
 # Dominos - Preprod ortamına gidilir
 * "5" saniye bekle
-* "https://k8s-tr-we-ui-preprod.dominos.com.tr/" adresine git
+* "https://preprod-tr-ui.dominos.com.tr/" adresine git
+"https://k8s-tr-we-ui-preprod.dominos.com.tr/" adresine git
 
 # Dominos - K8s dev ortamına gidilir
 * "5" saniye bekle
-* "https://k8s-dev-ui.dominos.com.tr/" adresine git
+* "https://dev-tr-ui.dominos.com.tr/" adresine git
+"https://k8s-dev-ui.dominos.com.tr/" adresine git
