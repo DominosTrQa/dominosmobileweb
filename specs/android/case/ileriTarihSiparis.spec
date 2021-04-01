@@ -4,7 +4,7 @@
 
 Yeni Kullanıcı İlk Kez Geliyor - Adrese Teslim
 -----------------------------------------------
-Tags:smokeLive_YeniKullaniciIlkKezGeliyorAdreseTeslim
+Tags:IleriTarihliSiparis_YeniKullaniciIlkKezGeliyorAdreseTeslim
 
 * Dominos - Live ortamına gidilir
 * Üye Ol butonuna tıklanır
