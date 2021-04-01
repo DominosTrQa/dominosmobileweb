@@ -303,6 +303,31 @@
     "key": "cuzdanIndirimiSilinecekEvetButton",
     "value":"//a[@id='DPE_TR_ALERT_BUTTON_LEFT']",
     "type": "xpath"
+  },
+  {
+    "key": "gonderimZamaniButton",
+    "value":"//div[@class='orderConfirm__Column-x0pcid-1 tZydb column__NewColumn-sc-1s5q7bb-0 dahsCk']",
+    "type": "xpath"
+  },
+  {
+    "key": "dahaSonraButton",
+    "value":"//div[@class='orderConfirm__Column-x0pcid-1 tZydb column__NewColumn-sc-1s5q7bb-0 hYTUQQ']",
+    "type": "xpath"
+  },
+  {
+    "key": "tarihSecButton",
+    "value":"//div[@class='react-datepicker__input-container']",
+    "type": "xpath"
+  },
+  {
+    "key": "ileriSaatButton",
+    "value":"//div[@class='dropdown__ButtonIndicator-wa0gtc-4 eBJtnR']",
+    "type": "xpath"
+  },
+  {
+    "key": "ileriSaatSecimButton",
+    "value":"(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[2]",
+    "type": "xpath"
   }
 ]
 

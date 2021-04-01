@@ -60,7 +60,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Ucuncu kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
+* Adrese teslim servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Listelenen adreslerden test adresi seçilir
 * Hamburger menüye tıklanır
@@ -68,7 +68,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Ucuncu kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
+* Adrese teslim servis tipi secilir kayitli kullanici
 * Listelenen adreslerden test adresi seçilir
 * Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
@@ -95,7 +95,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Dorduncu kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
+* Gel Al servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
@@ -105,7 +105,7 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Giriş Yap butonuna tıklanır
 * Dorduncu kullanıcı e-posta ve şifresi ile giriş yapılır
  Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
-* Gel Al servis tipi seçilir
+* Gel Al servis tipi secilir kayitli kullanici
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -134,7 +134,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Ucuncu kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese Teslim servis tipi seçilir
+* Adrese teslim servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Listelenen adreslerden test adresi seçilir
 * Teslimat tipi tabına tıklanır
@@ -161,7 +161,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Dorduncu kullanıcı e-posta ve şifresi ile giriş yapılır
-* Gel Al servis tipi seçilir
+* Gel Al servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
