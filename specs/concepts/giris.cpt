@@ -3,8 +3,20 @@
 * Çerez Politikası kapatılır
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
+# Adrese teslim servis tipi secilir kayitli kullanici
+* Çerez Politikası kapatılır
+* Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon2"
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
+
 # Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
+* Elementi bekle ve sonra tıkla "gelAlButon"
+
+# Gel Al servis tipi secilir kayitli kullanici
+* Çerez Politikası kapatılır
+* Elementi bekle ve sonra tıkla "anasayfaTabTeslimatTipiButon2"
+* "2" saniye bekle
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Gel Al servis tipi secilir (No Cookie)
