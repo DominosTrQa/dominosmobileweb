@@ -616,7 +616,7 @@ Tags:regressionLive_SepeteUpcellEklemeGelAlUyeOlmadan
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sepette bulunan ürünlerden sufle eklenir
@@ -638,7 +638,7 @@ Tags:regressionLive_SepeteUpcellEklemeGelAlYeniUye
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sepette bulunan ürünlerden sufle eklenir
@@ -663,7 +663,7 @@ Tags:regressionLive_SepeteUpcellEklemeGelAlVarOlanUye
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sepette bulunan ürünlerden sufle eklenir
@@ -713,7 +713,7 @@ Tags:regressionLive_SepeteUpcellEklemeVarOlanKullanıcıGirisYapGelAl
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sepette bulunan ürünlerden sufle eklenir
@@ -802,7 +802,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlUyeliksizSepetteServisTipininDegistiril
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Gel Al seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
@@ -841,7 +841,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlVarOlanSepetteServisTipininDegistirilem
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Gel Al seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
@@ -882,7 +882,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlYeniUyeSepetteServisTipininDegistirilem
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Gel Al seçiliyken sol üst köşedeki servis tipi butonuna tıklanamadığı doğrulanır
@@ -921,7 +921,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlUyeliksizSepetteUrunVarkenServisTipinin
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
@@ -968,7 +968,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlVarOlanÜyeSepetteUrunVarkenServisTipin
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
@@ -1017,7 +1017,7 @@ Tags:regressionLive_ServisTipiSecimiGelAlYeniUyeSepetteUrunVarkenServisTipininDe
 * Gel Al servis tipi seçili olduğundan emin olunur
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Dominos logosuna tıklanır
@@ -1265,7 +1265,6 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlNakit
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Pizza sepete eklenir veya kampanyayali ürün sepete eklenir Android
-* Sepete Ekle butonuna tıklanır
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1307,7 +1306,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1351,7 +1350,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlNakit
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1397,7 +1396,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1442,7 +1441,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1486,7 +1485,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlKrediKarti
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1532,7 +1531,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartSodexoKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1576,7 +1575,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartSodexoKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1621,7 +1620,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartSodexoKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1805,7 +1804,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartTicketKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1850,7 +1849,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1896,7 +1895,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartTicketKart
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
 * Sepete Ekle butonuna tıklanır
-* Sepetim butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
 * Sipariş sayfasında Üye Olmadan Devam Et butonuna tıklanır
@@ -1942,7 +1941,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSmartTicketYemekCeki
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -1988,7 +1987,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSmartTicketYemekCeki
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2033,7 +2032,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSmartTicketYemekCeki
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2080,7 +2079,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlMultinet
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2126,7 +2125,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlMultinet
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2171,7 +2170,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlMultinet
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2218,7 +2217,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2264,7 +2263,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2309,7 +2308,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlSetCard
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2356,7 +2355,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlPayeKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2402,7 +2401,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlPayeKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2447,7 +2446,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlPayeKart
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2494,7 +2493,7 @@ Tags:regressionLive_OdemeTipiSecimiYeniUyeGelAlOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2540,7 +2539,7 @@ Tags:regressionLive_OdemeTipiSecimiVarOlanUyeGelAlOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2586,7 +2585,7 @@ Tags:regressionLive_OdemeTipiSecimiUyeliksizGelAlOnlineOdeme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2812,7 +2811,7 @@ Tags:regressionLive_SiparisNotuEklemeYeniUyeGelAlNotEkleme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2867,7 +2866,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeGelAlNotEkleme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2921,7 +2920,7 @@ Tags:regressionLive_SiparisNotuEklemeUyeliksizGelAlNotEkleme
 * Çerez Politikası kapatılır
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -2987,7 +2986,7 @@ Tags:regressionLive_SiparisNotuEklemeYeniUyeGelAlVarOlanNotuEkleme
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
@@ -3051,7 +3050,7 @@ Tags:regressionLive_SiparisNotuEklemeVarOlanUyeGelAlVarOlanNotuEkleme
 * Dominos logosuna tıklanır ve anasayfaya yönlendirildiği kontrol edilir
 * Tüm Pizzalar butonuna tıklanır
 * İlk kategorinin ilk pizzası seçilir
-* Sepete Ekle butonuna tıklanır
+* Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * Sepetim butonuna tıklanır
 * Sepette bir ürün olduğu kontrol edilir
 * Sipariş Ver butonuna tıklanır
