@@ -15,7 +15,7 @@
 
 # Pizza eklerken kampanyali urunlere gidilir ve kampanya sepete eklenir
 * "5" saniye bekle
-    Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
+ Javascript ile xpath tıkla "(//div[.='Sipariş Ver'])[1]"
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "kampanyaliUruneUrunlereGitButon"
 * Kampanya sayfasındaki ilk kampanya secilir
