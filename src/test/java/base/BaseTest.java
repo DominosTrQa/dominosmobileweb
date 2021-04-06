@@ -46,7 +46,7 @@ public class BaseTest {
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.CHROME);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM, Platform.ANDROID);
                 capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
-                capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Galaxy A71");
+                capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "Galaxy A11");
                 //capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "uiautomator2");
                 //capabilities.setCapability(MobileCapabilityType.UDID, "52108da8eab3c393");
                 capabilities.setCapability(MobileCapabilityType.VERSION, "10");
