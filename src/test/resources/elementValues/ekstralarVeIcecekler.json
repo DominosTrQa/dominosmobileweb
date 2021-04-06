@@ -76,7 +76,7 @@
   },
   {
     "key": "iceceklerCocaCola",
-    "value": "(//*[contains(text(),'Coca-Cola')])[1]",
+    "value": "(//*[contains(text(),'Coca-Cola Kutu 330 ml')])[1]",
     "type": "xpath"
   }
 ]

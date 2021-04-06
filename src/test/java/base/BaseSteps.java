@@ -15,11 +15,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.slf4j.LoggerFactory;
 import org.slf4j.impl.Log4jLoggerAdapter;
 
-import java.sql.Timestamp;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
-import java.util.Vector;
+import java.sql.Timestamp;import java.text.SimpleDateFormat;
+import java.util.*;
 
 
 public class BaseSteps extends BaseTest{
@@ -1334,5 +1331,61 @@ public class BaseSteps extends BaseTest{
             }
         }
     }
+
+    @Step("Tarih secimi yapilir")
+    public void tarihSecimi() throws InterruptedException{
+
+        String select_day;
+        String selectDate;
+        webDriver.findElement(By.xpath("//div[@class='react-datepicker-wrapper']")).click();
+
+
+        Date d = new Date(1);
+        SimpleDateFormat formatter = new SimpleDateFormat("dd-MMMM-yyyy");
+        String date = formatter.format(d);
+        String splitter[] = date.split("-");
+        String month_year = splitter[1];
+        String day = splitter[0];
+        System.out.println(month_year);
+        System.out.println(day);
+
+
+        selectDate(month_year, day);
+
+    }
+            public void selectDate (String month_year, String select_day) throws InterruptedException
+            {
+                List<WebElement> elements = webDriver.findElements(By.xpath("//div[@class='react-datepicker__week'][3]"));
+
+                for (int i = 0; i < elements.size(); i++) {
+                    System.out.println(elements.get(i).getText());
+
+//Selecting the month
+                    if (elements.get(i).getText().equals(month_year)) {
+
+//Selecting the date
+                        List<WebElement> days = webDriver.findElements(By.xpath("//div[@role='button']"));
+
+                        for (WebElement d : days) {
+                            System.out.println(d.getText());
+                            if (d.getText().equals(select_day)) {
+                                d.click();
+                                return;
+                            }
+                        }
+
+                    }
+
+                }
+                webDriver.findElement(By.xpath("//div[@role='button']")).click();
+                selectDate(month_year, select_day);
+
+            }
+
+
+
+
+
+
 
 }
