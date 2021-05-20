@@ -240,10 +240,11 @@
 * Elementi bekle ve sonra tıkla "siparisYeKazanPopupKapatButon"
 
 # İleri tarihli siparis icin saat secimi yapılır
-* Tarih secimi yapilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "gonderimZamaniButton"
 * Elementi bekle ve sonra tıkla "dahaSonraButton"
+* "2" saniye bekle
+* Tarih secimi yapilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "ileriSaatButton"
 * "2" saniye bekle

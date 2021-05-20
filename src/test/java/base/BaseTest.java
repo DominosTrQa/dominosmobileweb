@@ -10,6 +10,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.Cookie;
 import org.openqa.selenium.Platform;
+import org.openqa.selenium.Proxy;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.BrowserType;
@@ -96,6 +97,13 @@ public class BaseTest {
             String cookieValue = System.getenv("cookie_value");
             System.out.println("cookie value from testinium is " + cookieValue);
             System.out.println("TESTINIUM");
+            String PROXY = "ec2-54-154-66-64.eu-west-1.compute.amazonaws.com:3128";
+            Proxy proxy = new org.openqa.selenium.Proxy();
+            proxy.setProxyType(Proxy.ProxyType.MANUAL);
+            proxy.setHttpProxy(PROXY);
+            proxy.setFtpProxy(PROXY);
+            proxy.setSslProxy(PROXY);
+            capabilities.setCapability(CapabilityType.PROXY, proxy);
             if ("ANDROID".equals(System.getenv("platform"))) {
                 ChromeOptions options = new ChromeOptions();
                 capabilities.setCapability(CapabilityType.PLATFORM, Platform.ANDROID);
