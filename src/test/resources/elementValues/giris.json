@@ -196,6 +196,16 @@
     "type": "xpath"
   },
   {
+    "key": "caddeAyisigi",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[115]",
+    "type": "xpath"
+  },
+  {
+    "key": "kapiNo1",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[169]",
+    "type": "xpath"
+  },
+  {
     "key": "mahalleBurgazadaStg",
     "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[111]",
     "type": "xpath"

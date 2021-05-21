@@ -30,7 +30,7 @@ public class BaseTest {
     @BeforeScenario
     public static void setUp() throws MalformedURLException, Exception {
         System.out.println("*****************Test*****************");
-        String selectPlatform = "android";
+        String selectPlatform = "ios";
         DesiredCapabilities capabilities = new DesiredCapabilities();
 
 
@@ -75,12 +75,18 @@ public class BaseTest {
                 //capabilities.setCapability("automationName", "XCUITest");
                 capabilities.setCapability(MobileCapabilityType.UDID, "2d328345dcc44fb8a7cd661c4ea06fd9291225a3");
                 DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
-                //desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
+                //capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.IOS_XCUI_TEST);
+                desiredCapabilities.setCapability(MobileCapabilityType.BROWSER_NAME, "Safari");
+                capabilities.setCapability("xcodeOrgId", "PMLH8MF4G9");
+                capabilities.setCapability("xcodeSigningId", "iPhone Developer");
                 capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, AutomationName.IOS_XCUI_TEST);
                 capabilities.setCapability(MobileCapabilityType.BROWSER_NAME, BrowserType.SAFARI);
+                capabilities.setCapability("cleanSession", true);
+                capabilities.setCapability("ensureCleanSession", true);
+                capabilities.setCapability("technologyPreview", true);
 
                 webDriver = new IOSDriver<>(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
-                //webDriver.get("http://dpe-preprod.dominos.com.tr/");
+                //webDriver.get("https://www.dominos.com.tr/");
 
                 for (Cookie cookie : webDriver.manage().getCookies()) {
                     System.out.println("Cooooookie " + cookie);
