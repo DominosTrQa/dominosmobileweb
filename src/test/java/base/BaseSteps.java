@@ -1199,6 +1199,7 @@ public class BaseSteps extends BaseTest{
         if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 3. ürün seçiliyor!!!");
             waitBySeconds(4);
+            //scrollToElementWithJs("kampanyalarSecinizIkinciDropdown");
             getElementWithKeyIfExists("kampanyalarSecinizUcuncuDropdown");
             clickElement("kampanyalarSecinizUcuncuDropdown");
             waitBySeconds(2);

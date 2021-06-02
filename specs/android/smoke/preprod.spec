@@ -164,7 +164,7 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+ İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
 * Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
@@ -175,6 +175,7 @@ tags:smokePreprod_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
+* "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
 * Sepetim butonuna tıklanır
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir

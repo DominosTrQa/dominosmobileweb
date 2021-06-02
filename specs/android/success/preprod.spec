@@ -121,6 +121,7 @@ Tags:successPreprod_SepeteKampanyaEklemeAdreseTeslimKampanya
 * Kampanya sayfasındaki ilk kampanya secilir
 * Kampanya urun secimi yapılır Android
 * Kampanya sepete eklenir
+* "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
 * Sepetim butonuna tıklanır
 * Sepetime gittikten sonra bir ürün olduğu kontrol edilir
 
