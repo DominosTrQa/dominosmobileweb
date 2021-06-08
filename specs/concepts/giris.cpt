@@ -327,6 +327,7 @@
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
 * "uyeOlSayfasiUyeOlButon" alanına js ile kaydır
 * Element var mı kontrol et "uyeOlSayfasiUyeOlButon"
+* "3" saniye bekle
 * Elementine tıkla "uyeOlSayfasiUyeOlButon"
 * "3" saniye bekle
 
