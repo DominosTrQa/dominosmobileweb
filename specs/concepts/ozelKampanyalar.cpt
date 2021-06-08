@@ -64,7 +64,7 @@
 # Kampanya sepete eklenir
 * Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButon"
 * "5" saniye bekle
-* "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
+* Elementi bekle ve sonra tıkla "digitalOfferIstemiyorum"
 
 # 3 Al 1 Öde kampanyası seçilir
 * "3Al1OdeButon" alanına js ile kaydır
