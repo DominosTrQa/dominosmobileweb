@@ -546,7 +546,7 @@
 
 # Dominos - Live ortamına gidilir
 * "5" saniye bekle
-* "https://www.dominos.com.tr/" adresine git
+* "dominos.com.tr" adresine git
 
 # Dominos - Preprod ortamına gidilir
 * "5" saniye bekle
