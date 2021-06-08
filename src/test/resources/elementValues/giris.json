@@ -117,7 +117,7 @@
   },
   {
     "key": "uyeOlSayfasiUyeOlButon",
-    "value": ".//*[@id='DPE_TR_SIGNUP_BUTTON_SIGNUP']",
+    "value": "//button[@id='DPE_TR_SIGNUP_BUTTON_SIGNUP']",
     "type": "xpath"
   },
   {
