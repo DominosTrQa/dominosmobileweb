@@ -329,7 +329,7 @@
 * Element var mı kontrol et "uyeOlSayfasiUyeOlButon"
 * "3" saniye bekle
 * Elementine tıkla "uyeOlSayfasiUyeOlButon"
-* "3" saniye bekle
+* "10" saniye bekle
 
 # Mesafeli satış sözleşmesi onaylanır
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
