@@ -215,8 +215,8 @@
     "type": "xpath"
   },
   {
-    "key": "yeniDizaynKontrolAnimation",
-    "value":"//img[@class='styled__Banner-ibejwf-7 hHEBfk']",
+    "key": "yeniDizaynUyeOlmadanDevamEt",
+    "value":"//span[.='Üye Olmadan Devam Et']",
     "type": "xpath"
   }
 ]
