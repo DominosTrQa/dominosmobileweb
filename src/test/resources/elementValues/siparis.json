@@ -11,7 +11,7 @@
   },
   {
     "key": "odemeSekliNakitButon",
-    "value":".//*[@id='DPE_TR_PAYMENT_3_BUTTON']",
+    "value":"//*[@id='DPE_TR_PAYMENT_3_BUTTON']",
     "type": "xpath"
   },
   {

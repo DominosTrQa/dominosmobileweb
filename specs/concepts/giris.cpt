@@ -1,6 +1,7 @@
 
 # Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
+* "yeniDizaynUyeOlmadanDevamEt" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "adreseTeslimButon"
 
 # Adrese teslim servis tipi secilir kayitli kullanici
@@ -11,6 +12,7 @@
 
 # Gel Al servis tipi seçilir
 * Çerez Politikası kapatılır
+* "yeniDizaynUyeOlmadanDevamEt" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Gel Al servis tipi secilir kayitli kullanici
@@ -200,9 +202,9 @@
 * Elementi bekle ve sonra tıkla "secinizDropdown" try
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "caddeAyisigi" try
-* "2" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "secinizDropdown" try
-* "3" saniye bekle
+* "6" saniye bekle
 * Elementi bekle ve sonra tıkla "kapiNo1" try
 * "5" saniye bekle
 * Elementi bekle ve sonra tıkla "seciliAdresIleDevamEtbuton"
@@ -249,8 +251,9 @@
 * Elementi bekle ve sonra tıkla "secinizDropdown"
 * Elementi bekle ve sonra tıkla "ilceAdalar"
 * Elementi bekle ve sonra tıkla "secinizDropdown"
-* "2" saniye bekle
+* "4" saniye bekle
 * Elementi bekle ve sonra tıkla "mahalleGelAlBurgazada"
+* "4" saniye bekle
 * Sadece Açık Şubeleri Göster butonuna tıklanır
 * Elementi bekle ve sonra tıkla "gelAlSubeleriGosterButon"
 

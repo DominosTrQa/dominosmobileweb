@@ -852,8 +852,8 @@ public class BaseSteps extends BaseTest{
         Long timestamp = getTimestamp();
         WebElement webElement = findElementWithKey(key);
         webElement.clear();
-        webElement.sendKeys("testotomasyon" + timestamp + "@testinium.com");
-        String randomMail= "testotomasyon" + timestamp + "@testinium.com";
+        webElement.sendKeys("otomasyontest" + timestamp + "@testinium.com");
+        String randomMail= "otomasyontest" + timestamp + "@testinium.com";
         StoreHelper.INSTANCE.saveValue(saveKey,randomMail);
 
     }
@@ -1279,7 +1279,7 @@ public class BaseSteps extends BaseTest{
     @Step("<text> Giris dizayn secimi yapilir")
     public void girisDizaynSecimi(String text) {
         waitBySeconds(5);
-        if (findElements("girisYapButon").size() > 0 && findElements("uyeOlButon").size() > 0) {
+        if (findElements("adreseTeslimButon").size() > 0 ){
             logger.info("Eski Dizayna gidiliyor");
             switch (text) {
                 case "girisYap":
@@ -1293,45 +1293,26 @@ public class BaseSteps extends BaseTest{
                     clickElement("uyeOlButon");
                     break;
             }
-        } else if (findElements("yeniDizaynKontrolAnimation").size() > 0 ) {
-            logger.info("Yeni dizayna gidiliyor 2");
-            waitBySeconds(4);
-            getElementWithKeyIfExists("girisYapUyeOlButon");
-            clickElement("girisYapUyeOlButon");
+        } else if (findElements("yeniDizaynUyeOlmadanDevamEt").size() > 0 ) {
+            logger.info("Yeni dizayna gidiliyor ");
+            waitBySeconds(2);
             switch (text) {
                 case "girisYap":
                     waitBySeconds(2);
-                    getElementWithKeyIfExists("loginTabButon");
-                    clickElement("loginTabButon");
+                    getElementWithKeyIfExists("girisYapButon");
+                    clickElement("girisYapButon");
                     break;
                 case "UyeOl":
                     waitBySeconds(2);
-                    getElementWithKeyIfExists("uyeOlTabButon");
-                    clickElement("uyeOlTabButon");
+                    getElementWithKeyIfExists("uyeOlButon");
+                    clickElement("uyeOlButon");
                     break;
             }
         }
-        else {
-            logger.info("Yeni dizayna gidiliyor");
-            waitBySeconds(4);
-            getElementWithKeyIfExists("girisYapUyeOlButon");
-            clickElement("girisYapUyeOlButon");
-            switch (text) {
-                case "girisYap":
-                    waitBySeconds(2);
-                    getElementWithKeyIfExists("loginTabButon");
-                    clickElement("loginTabButon");
-                    break;
 
-                case "UyeOl":
-                    waitBySeconds(2);
-                    getElementWithKeyIfExists("uyeOlTabButon");
-                    clickElement("uyeOlTabButon");
-                    break;
-
-            }
-        }
     }
+
+
 
     @Step("Tarih secimi yapilir")
     public void tarihSecimi() throws InterruptedException{
