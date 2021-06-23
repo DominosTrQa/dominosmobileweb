@@ -62,7 +62,7 @@ Tags:smokeLiveiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Kullanıcı e-posta ve şifresi ile giriş yapılır iOS
 * Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
-* Listelenen adreslerden test adresi seçilir
+ Listelenen adreslerden test adresi seçilir
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
@@ -134,7 +134,7 @@ tags:smokeLiveiOS_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Kullanıcı e-posta ve şifresi ile giriş yapılır iOS
 * Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
-* Listelenen adreslerden test adresi seçilir
+ Listelenen adreslerden test adresi seçilir
 * Teslimat tipi tabına tıklanır
 * Elementi bekle ve sonra tıkla "gelAlButon"
 * Gel Al servis tipi seçili olduğundan emin olunur
