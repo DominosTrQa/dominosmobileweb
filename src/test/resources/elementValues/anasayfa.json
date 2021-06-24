@@ -218,5 +218,10 @@
     "key": "yeniDizaynUyeOlmadanDevamEt",
     "value":"//span[.='Üye Olmadan Devam Et']",
     "type": "xpath"
+  },
+  {
+    "key": "gelAlSubeDegistirDuzenleButton",
+    "value":"//div[@class='styled__EditButton-trnti1-4 ePaPPb']",
+    "type": "xpath"
   }
 ]

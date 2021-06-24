@@ -97,7 +97,8 @@ Tags:smokeLive_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Dorduncu kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
+* Kalem ikonuna tıklanır
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
@@ -163,13 +164,9 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Dorduncu kullanıcı e-posta ve şifresi ile giriş yapılır
 * Gel Al servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
- Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
 * Listelenen adreslerden test adresi seçilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
-* Kalem ikonuna tıklanır
-* Listelenen adreslerden test adresi seçilir
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
 * Kampanya sayfasındaki ilk kampanya secilir
