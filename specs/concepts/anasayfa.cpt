@@ -102,6 +102,8 @@
 # Kalem ikonuna tıklanır
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaKalemButon"
+* "5" saniye bekle
+* Elementi bekle ve sonra tıkla "gelAlSubeDegistirDuzenleButton"
 
 # Anasayfadaki ilk fırsata tıklanır
 * "3" saniye bekle
