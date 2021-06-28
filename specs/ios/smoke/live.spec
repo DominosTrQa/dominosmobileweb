@@ -60,17 +60,14 @@ Tags:smokeLiveiOS_KullaniciIkinciKezGeliyorAdreseTeslimYanMenu
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır iOS
-* Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
- Listelenen adreslerden test adresi seçilir
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır iOS
-* Adrese Teslim servis tipi seçilir
+* Adrese teslim servis tipi secilir kayitli kullanici
 * Listelenen adreslerden test adresi seçilir
- Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Hamburger menüye tıklanır
 * Adreslerim butonuna basılır ve sayfanın geldiği kontrol edilir
@@ -94,23 +91,17 @@ Tags:smokeLiveiOS_KullaniciIkinciKezGeliyoraGelAlUstMenu
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * İkinci kullanıcı e-posta ve şifresi ile giriş yapılır iOS
-* Gel Al servis tipi seçilir
+* Adrese Teslim servis tipi seçilir
 * Çerez Politikası kapatılır
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Sarıyer, Ayazağa) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Hamburger menüye tıklanır
 * Kullanıcı çıkış yapar
 /** KULLANICI İKİNCİ KEZ GELİYOR **/
 * Giriş Yap butonuna tıklanır
 * Kullanıcı e-posta ve şifresi ile giriş yapılır iOS
- Adrese Teslim ve Gel Al butonlarının gelmediği kontrol edilir
-* Gel Al servis tipi seçilir
-* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* Gel Al servis tipi seçili olduğundan emin olunur
- Kalem ikonuna tıklanır
- Gel Al da şube değiştirmek için Düzenle butonuna tıklanır
+* Gel Al servis tipi secilir kayitli kullanici
  Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
-* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Gel Al servis tipi seçili olduğundan emin olunur
+ İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
 * Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
