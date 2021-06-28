@@ -708,7 +708,7 @@ public class BaseSteps extends BaseTest{
     @Step("<key> li elementine random telefon numarası yaz")
     public void randomTel(String key){
 
-        String phoneNum = "95"+randomNum(7);
+        String phoneNum = "96"+randomNum(7);
         findElementWithKey(key).sendKeys(phoneNum);
 
     }
@@ -852,8 +852,8 @@ public class BaseSteps extends BaseTest{
         Long timestamp = getTimestamp();
         WebElement webElement = findElementWithKey(key);
         webElement.clear();
-        webElement.sendKeys("testinium" + timestamp + "@otomasyon.com");
-        String randomMail= "testinium" + timestamp + "@otomasyon.com";
+        webElement.sendKeys("testiniumtest" + timestamp + "@testotomasyon.com");
+        String randomMail= "testiniumtest" + timestamp + "@testotomasyon.com";
         StoreHelper.INSTANCE.saveValue(saveKey,randomMail);
 
     }

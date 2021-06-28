@@ -7,6 +7,9 @@
 * Elementi bekle ve sonra tıkla "menuAdreslerimListeAdalarAdresiIkınci"
 * Seçili Adres ile Devam Et butonuna tıklanır
 
+# Listelenen adreslerden secili adres ile devam edilir
+* Seçili Adres ile Devam Et butonuna tıklanır
+
 # Listelenen adreslerden Kadıköy adresi seçilir
 * "3" saniye bekle
 * Elementi bekle ve sonra tıkla "menuAdreslerimListeKadıköyAdresi"

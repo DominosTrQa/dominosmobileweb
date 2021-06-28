@@ -49,11 +49,11 @@
 * Elementi bekle ve sonra tıkla "siparisUyeDegilkenSiparisverButon"
 
 # Siparişin alındığından emin olunur
-* "5" saniye bekle
+* "10" saniye bekle
 * Element var mı kontrol et "siparisSonucuText"
 
 # Ödeme şekli olarak Nakit ödeme tipi seçilir
-* "5" saniye bekle
+* "10" saniye bekle
 * Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
 * Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
