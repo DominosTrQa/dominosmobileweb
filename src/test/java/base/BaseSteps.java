@@ -852,8 +852,8 @@ public class BaseSteps extends BaseTest{
         Long timestamp = getTimestamp();
         WebElement webElement = findElementWithKey(key);
         webElement.clear();
-        webElement.sendKeys("emretest" + timestamp + "@emre.com");
-        String randomMail= "emretest" + timestamp + "@emre.com";
+        webElement.sendKeys("61emretest1624882534296@emre.com");
+        String randomMail= "61emretest1624882534296@emre.com";
         StoreHelper.INSTANCE.saveValue(saveKey,randomMail);
 
     }
