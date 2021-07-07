@@ -137,7 +137,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Ucuncu kullanıcı e-posta ve şifresi ile giriş yapılır
 * Adrese teslim servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
-* Listelenen adreslerden test adresi seçilir
+* Listelenen adreslerden secili adres ile devam edilir
 * Teslimat tipi tabına tıklanır
 * Elementi bekle ve sonra tıkla "gelAlButon"
 * Gel Al servis tipi seçili olduğundan emin olunur
@@ -165,7 +165,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Gel Al servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
-* Listelenen adreslerden test adresi seçilir
+* Listelenen adreslerden secili adres ile devam edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
