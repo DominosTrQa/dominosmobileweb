@@ -147,7 +147,7 @@
   },
   {
     "key": "ilceAdalar",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[75]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[76]",
     "type": "xpath"
   },
   {
@@ -192,17 +192,17 @@
   },
   {
     "key": "mahalleBurgazada",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[113]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[114]",
     "type": "xpath"
   },
   {
     "key": "caddeAyisigi",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[116]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[117]",
     "type": "xpath"
   },
   {
     "key": "kapiNo1",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[170]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[172]",
     "type": "xpath"
   },
   {
@@ -212,7 +212,7 @@
   },
   {
     "key": "mahalleGelAlBurgazada",
-    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[114]",
+    "value": "(//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[115]",
     "type": "xpath"
   },
   {

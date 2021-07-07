@@ -29,11 +29,11 @@
 
 # Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Element var mı kontrol et "anasayfaServisTipiAdreseTeslim"
-* Element var mı kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
+ Element var mı kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
 
 # Gel Al servis tipi seçili olduğundan emin olunur
 * Element var mı kontrol et "anasayfaServisTipiGelAl"
-* Element var mı kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
+ Element var mı kontrol et "anasayfaServisTipiTıklanabilirlikKontrol"
 
 # Ayazağa şubesi butonuna tıklanır
 * Elementi bekle ve sonra tıkla "menuAyazagaSubesiButon"
