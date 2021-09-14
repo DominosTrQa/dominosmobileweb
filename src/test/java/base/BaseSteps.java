@@ -16,6 +16,8 @@ import org.slf4j.LoggerFactory;
 import org.slf4j.impl.Log4jLoggerAdapter;
 
 import java.sql.Timestamp;import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 
@@ -1199,7 +1201,7 @@ public class BaseSteps extends BaseTest{
         if(findElements("kampanyalarSecinizDropdown").size() > 0){
             logger.info("Kampanya 3. ürün seçiliyor!!!");
             waitBySeconds(4);
-            //scrollToElementWithJs("kampanyalarSecinizIkinciDropdown");
+            scrollToElementWithJs("kampanyalarSecinizIkinciDropdown");
             getElementWithKeyIfExists("kampanyalarSecinizUcuncuDropdown");
             clickElement("kampanyalarSecinizUcuncuDropdown");
             waitBySeconds(2);
@@ -1365,7 +1367,23 @@ public class BaseSteps extends BaseTest{
             }
 
 
-
+    @Step("Telefon dogrulama kodu girilir")
+    public void otpTarihFormati() {
+        LocalDateTime now = LocalDateTime.now();
+        DateTimeFormatter format = DateTimeFormatter.ofPattern("MMddHH");
+        String formatDateTime = now.format(format);
+        int formatDateTimeInt = Integer.parseInt(formatDateTime);
+        int newDateTimeInt = formatDateTimeInt + 0;
+        String newDateTime = String.valueOf("0" + newDateTimeInt);
+        logger.info(formatDateTime);
+        System.out.println(formatDateTimeInt);
+        logger.info(newDateTime);
+        getElementWithKeyIfExists("otpInput1");
+        clickElement("otpInput1");
+        WebElement webElement = findElementWithKey("otpInput1");
+        webElement.clear();
+        webElement.sendKeys(newDateTime);
+    }
 
 
 

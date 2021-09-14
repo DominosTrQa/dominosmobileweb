@@ -271,7 +271,7 @@
   },
   {
     "key": "menuAdresEkleCaddeAyisigiSokak",
-    "value": "(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[114]",
+    "value": "(.//*[@class='menuItem dropdown__MenuItem-wa0gtc-15 jfECxv'])[116]",
     "type": "xpath"
   },
   {

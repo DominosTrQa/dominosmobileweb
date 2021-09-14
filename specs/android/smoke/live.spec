@@ -10,6 +10,7 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Adrese Teslim servis tipi seçilir
 * İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * Çerez Politikası kapatılır
@@ -36,6 +37,7 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorGelAl
 * Üye Ol butonuna tıklanır
 * Random mail ve telefon ile üye olunur
 * Mesafeli satış sözleşmesi onaylanır ve üye ol butonuna tıklanır
+* Telefon dogrulama kodu girilir ve dogrulanir
 * Gel Al servis tipi seçilir
 * Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
 * İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
