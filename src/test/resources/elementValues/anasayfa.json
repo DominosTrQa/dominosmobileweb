@@ -223,5 +223,15 @@
     "key": "gelAlSubeDegistirDuzenleButton",
     "value":"//div[@class='styled__EditButton-trnti1-4 ePaPPb']",
     "type": "xpath"
+  },
+  {
+    "key": "otpInput1",
+    "value":"(//input[@class='digit-input__StyledInput-irrpoh-0 jHJRtS'])[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "otpDogrulaVeGuncelleButon",
+    "value":".//*[@id='DPE_TR_OTP_MODAL_BUTTON_CONFIRM']",
+    "type": "xpath"
   }
 ]

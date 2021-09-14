@@ -335,6 +335,12 @@
 * Elementine tıkla "uyeOlSayfasiUyeOlButon"
 * "10" saniye bekle
 
+# Telefon dogrulama kodu girilir ve dogrulanir
+* "2" saniye bekle
+* Elementi bekle ve sonra tıkla "otpInput1"
+* Telefon dogrulama kodu girilir
+* Elementi bekle ve sonra tıkla "otpDogrulaVeGuncelleButon"
+
 # Mesafeli satış sözleşmesi onaylanır
 * "uyeOlUyelikSatisSozlesmesiCheckbox" alanına js ile kaydır
 * Elementi bekle ve sonra tıkla "uyeOlUyelikSatisSozlesmesiCheckbox"
