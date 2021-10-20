@@ -110,6 +110,11 @@
     "type": "xpath"
   },
   {
+    "key": "siparisSubeSipariseKapalıGelAl",
+    "value":"//h3[contains(text(),'Siparişe Kapalı')]",
+    "type": "xpath"
+  },
+  {
     "key": "siparisOnaySayfasiCikolataliSufleKontrol",
     "value":"(//div[contains(text(),'Çikolatalı Sufle')])[1]",
     "type": "xpath"
