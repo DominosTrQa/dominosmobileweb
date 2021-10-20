@@ -41,6 +41,7 @@
 # Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "anasayfaServisTipiAdreseTeslim"
+* "yeniDizaynUyeOlmadanDevamEt" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "gelAlButon"
 
 # Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
