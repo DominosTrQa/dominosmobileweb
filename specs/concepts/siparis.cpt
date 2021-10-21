@@ -54,8 +54,9 @@
 
 # Ödeme şekli olarak Nakit ödeme tipi seçilir
 * "10" saniye bekle
+* "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "odemeSekliNakitButon"
-* Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
+ Elementi bekle ve sonra tıkla "odemeSekliDevamButon"
 
 # Kapida odeme Nakit secenegi ile devam edilir (Stg)
 * "5" saniye bekle
