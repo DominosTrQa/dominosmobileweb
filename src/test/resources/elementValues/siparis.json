@@ -71,7 +71,7 @@
   },
   {
     "key": "odemeSekliMisafirDevamButon",
-    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_CONTINUEGUEST-M']",
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACT'])[1]",
     "type": "xpath"
   },
   {
@@ -81,7 +81,7 @@
   },
   {
     "key": "siparisGelAlMesafeliSatisSozlesmesi",
-    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[4]",
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACT'])[1]",
     "type": "xpath"
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "key": "siparisSayfasiSiparisVerButon",
-    "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER-M']",
+    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_COMPLETED']",
     "type": "xpath"
   },
   {
