@@ -143,7 +143,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Teslimat tipi tabına tıklanır
 * Elementi bekle ve sonra tıkla "gelAlButon"
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
+ Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
@@ -192,7 +192,7 @@ tags:smokeLive_ServisTipiDegistirenUyeliksizKullaniciAdreseTeslimGelAlUstMenu
 * Çerez Politikası kapatılır
 * Adrese Teslim olan servis tipi Gel Al olarak değiştirilir
 * Gel Al servis tipi seçili olduğundan emin olunur
-* Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
+ Anasayfadaki seçili şubenin Siparişe Kapalı olarak güncellendiği kontrol edilir
 * Tüm Kampanyalar butonuna tıklanır
 * Gel Al Haftanın Kampanyaları butonuna tıklanır
 * Kampanya sayfasındaki ilk kampanya secilir
