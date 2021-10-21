@@ -1373,8 +1373,8 @@ public class BaseSteps extends BaseTest{
         DateTimeFormatter format = DateTimeFormatter.ofPattern("MMddHH");
         String formatDateTime = now.format(format);
         int formatDateTimeInt = Integer.parseInt(formatDateTime);
-        int newDateTimeInt = formatDateTimeInt + 0;
-        String newDateTime = String.valueOf("0" + newDateTimeInt);
+        int newDateTimeInt = formatDateTimeInt + 3;
+        String newDateTime = String.valueOf(newDateTimeInt);
         logger.info(formatDateTime);
         System.out.println(formatDateTimeInt);
         logger.info(newDateTime);

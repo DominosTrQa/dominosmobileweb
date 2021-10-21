@@ -338,6 +338,7 @@
 # Telefon dogrulama kodu girilir ve dogrulanir
 * "2" saniye bekle
 * Elementi bekle ve sonra tıkla "otpInput1"
+* "5" saniye bekle
 * Telefon dogrulama kodu girilir
 * Elementi bekle ve sonra tıkla "otpDogrulaVeGuncelleButon"
 
@@ -378,6 +379,7 @@
 
 # Seçili Adres ile Devam Et butonuna tıklanır
 * "5" saniye bekle
+* "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "kayıtlıAdreslerSeciliAdresIleDevamEtButon"
 
 # Kaydedilen email ile giriş yapılır

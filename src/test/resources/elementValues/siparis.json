@@ -81,7 +81,7 @@
   },
   {
     "key": "siparisGelAlMesafeliSatisSozlesmesi",
-    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[1]",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[4]",
     "type": "xpath"
   },
   {
@@ -256,27 +256,27 @@
   },
   {
     "key": "siparisUyeDegilkenBilgilerAdTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[1]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[6]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenBilgilerSoyadTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[2]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[7]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenBilgilerEpostaTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[3]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[8]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenBilgilerTelefonTextbox",
-    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[4]",
+    "value":"(//*[@class='input__Control-wbeopl-3 dPotfb'])[9]",
     "type": "xpath"
   },
   {
     "key": "siparisUyeDegilkenSiparisverButon",
-    "value":"//*[@id='DPE_TR_ORDERCONFIRM_BUTTON_ORDER_GUEST-M']",
+    "value":"//*[@id='DPE_TR_PAYMENTOPTIONS_BUTTON_COMPLETED']",
     "type": "xpath"
   },
   {
