@@ -154,7 +154,8 @@
 * Element var mı kontrol et "menuAdreslerimBuAlaniBosBirakamazsinizAdresAdiText"
 
 # Adalar - Burgazada için adres bilgileri tamamlanır
-* "3" saniye bekle
+* "7" saniye bekle
+* "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
 * Elementi bekle ve sonra tıkla "menuAdresEkleMahalleDropdown"
 * Elementi bekle ve sonra tıkla "menuAdresEkleMahalleBurgazAda"
 * "6" saniye bekle

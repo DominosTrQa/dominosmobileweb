@@ -63,7 +63,7 @@
 
 # Kampanya sepete eklenir
 * Elementi bekle ve sonra tıkla "kampanyaSepeteEkleButon"
-* "7" saniye bekle
+* "10" saniye bekle
 * "digitalOfferIstemiyorum" li elementi bul ve varsa dokun
 
 # 3 Al 1 Öde kampanyası seçilir
