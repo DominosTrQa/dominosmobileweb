@@ -137,7 +137,8 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Dominos - Live ortamına gidilir
 * Giriş Yap butonuna tıklanır
 * Ucuncu kullanıcı e-posta ve şifresi ile giriş yapılır
-* Adrese teslim servis tipi secilir kayitli kullanici
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
+ Adrese teslim servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Listelenen adreslerden secili adres ile devam edilir
 * Teslimat tipi tabına tıklanır
@@ -167,7 +168,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciGelAlAdreseTeslimUstMenu
 * Gel Al servis tipi secilir kayitli kullanici
 * Çerez Politikası kapatılır
 * Gel Al olan servis tipi Adrese Teslim olarak değiştirilir
-* Listelenen adreslerden secili adres ile devam edilir
+ Listelenen adreslerden secili adres ile devam edilir
 * Adrese Teslim servis tipi seçili olduğundan emin olunur
 * Tüm Kampanyalar butonuna tıklanır
 * Haftanın Kampanyaları sayfasına gidilir
