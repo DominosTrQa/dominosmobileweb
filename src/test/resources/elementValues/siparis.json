@@ -76,7 +76,7 @@
   },
   {
     "key": "siparisMesafeliSatisSozlesmesi",
-    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[3]",
+    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
     "type": "xpath"
   },
   {
