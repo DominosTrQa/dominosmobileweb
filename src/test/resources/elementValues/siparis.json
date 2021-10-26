@@ -86,7 +86,7 @@
   },
   {
     "key": "siparisGelAlMesafeliSatisSozlesmesi",
-    "value":"(//*[@class='checkbox__Uncheck-sc-1lav4ov-7 buiLaI'])[2]",
+    "value":"(//*[@id='DPE_TR_ORDERCONFIRM_CHECKBOX_SALESCONTRACT'])[2]",
     "type": "xpath"
   },
   {
