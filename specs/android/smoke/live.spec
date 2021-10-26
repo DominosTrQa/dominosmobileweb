@@ -25,7 +25,7 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorAdreseTeslim
 * Seçili Adres ile Devam Et butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
  Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir 2
 * Siparişin alındığından emin olunur
 
 
