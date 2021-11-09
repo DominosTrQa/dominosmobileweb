@@ -23,6 +23,11 @@
 * Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
 * Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
 
+# Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir 2
+* "siparisGelAlMesafeliSatisSozlesmesi2" alanına js ile kaydır
+* Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi2"
+* Elementi bekle ve sonra tıkla "siparisSayfasiSiparisVerButon"
+
 # Gel Al için Mesafeli satış sözleşmesi kabul edilir ve üye olmayan kullanıcı için sipariş verilir
  "siparisGelAlMesafeliSatisSozlesmesi" alanına js ile kaydır
  Elementi bekle ve sonra tıkla "siparisGelAlMesafeliSatisSozlesmesi"
