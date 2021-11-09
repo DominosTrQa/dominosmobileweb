@@ -51,7 +51,7 @@ Tags:smokeLive_YeniKullaniciIlkKezGeliyorGelAl
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
  Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir 2
 * Siparişin alındığından emin olunur
 
 
@@ -154,7 +154,7 @@ tags:smokeLive_ServisTipiDegistirenKullaniciAdreseTeslimGelAlTab
 * Sipariş Ver butonuna tıklanır
 * Ödeme şekli olarak Nakit ödeme tipi seçilir
  Şubenin Siparişe Kapalı Şube Olduğu kontrol edilir
-* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir
+* Gel Al için Mesafeli satış sözleşmesi kabul edilir ve sipariş verilir 2
 * Siparişin alındığından emin olunur
 
 
