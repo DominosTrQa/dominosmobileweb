@@ -8,6 +8,9 @@
 # Ye-Kazan butonuna tıklanır
 * Elementi bekle ve sonra tıkla "menuYeKazanButon"
 
+# Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
+* Element var mı kontrol et "hediyePizzaKazanTextKontrol"
+
 # Ye-Kazan hediye pizza kazanma texti kontrol edilir
 * Element var mı kontrol et "menuYeKazanUyeHediyePizzaText"
 

@@ -3826,3 +3826,36 @@ Tags:regressionLive_UyeYeKazanIzniGuncellemeYeniUyeAyrilmayiOnaylaGirisYeKazan
 * Ye-Kazan kısmından Ye-Kazan'dan Ayrıl butonuna tıklanır
 * Ye-Kazan kısmından Ye-Kazan üyeliği iptal edilir
 * Ye-Kazan hediye pizza kazanma textinin gelmediği kontrol edilir
+
+
+Kayitli Üye - Ye Kazan Kontrolü - Adresime Teslim
+--------------------------------------------------
+tags:regressionLive_kullaniciAdresimeTeslimYeKazanKontrol
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Elementi bekle ve sonra tıkla "adreseTeslimButon"
+* Çerez Politikası kapatılır
+* Elementi bekle ve sonra tıkla "menuAdreslerimListeAdalarAdresi"
+* Seçili Adres ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Ye-Kazan butonuna tıklanır
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
+
+
+Kayitli Üye - Ye Kazan Kontrolü - Gel Al
+-----------------------------------------
+tags:regressionLive_kullaniciGelAlYeKazanKontrol
+
+* Dominos - Live ortamına gidilir
+* Giriş Yap butonuna tıklanır
+* Besinci kullanıcı e-posta ve şifresi ile giriş yapılır
+* Gel Al servis tipi seçilir
+* Gel Al servis tipi için İl, İlçe, Mahalle (İstanbul, Adalar, Burgazada) seçilir
+* İlk şube seçilir ve Seçili Şube ile Devam Et butonuna tıklanır
+* Çerez Politikası kapatılır
+* Hamburger menüye tıklanır
+* Ye-Kazan butonuna tıklanır
+* Hediye pizza kazanmana 5 dilim kaldı yazısının olduğu görülür
