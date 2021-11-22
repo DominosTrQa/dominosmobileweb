@@ -588,5 +588,10 @@
     "key": "menuYeKazandanAyrilButon",
     "value": "(//a[contains(text(),\"Ye-Kazan'dan\")])[1]",
     "type": "xpath"
+  },
+  {
+    "key": "hediyePizzaKazanTextKontrol",
+    "value":"//div[contains(text(),'Hediye Pizza kazanmana 5 dilimin kaldı')]",
+    "type": "xpath"
   }
 ]
